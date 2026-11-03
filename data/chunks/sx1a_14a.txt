@@ -1,0 +1,1499 @@
+28
+
+Balance as of December 31, 2024
+
+28
+
+Revenue recognized from deferred revenue at the beginning of the period
+
+(28)
+
+Amounts billed or received in advance and not recognized as revenue and other
+
+269
+
+Balance as of December 31, 2025
+
+269
+
+Revenue recognized from deferred revenue at the beginning of the period (unaudited)
+
+(236)
+
+Amounts billed or received in advance and not recognized as revenue and other (unaudited)
+
+1,938
+
+Balance as of September 30, 2026 (unaudited)
+
+$1,971
+
+Remaining Performance Obligations
+
+Remaining performance obligations represent deferred revenue and amounts that will be recognized as revenue
+
+in future periods for arrangements with non-cancelable commitments. As of September30, 2026 (unaudited),
+
+remaining performance obligations amounted to $13.8 billion. The Company expects to recognize
+
+approximately 75% (unaudited) of this amount as revenue over the next 12 months and the remainder
+
+F-27
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+thereafter. The amount and timing of revenue recognition is driven by customer usage and the Companys
+
+performance in accordance with contractual terms.
+
+3. Investments
+
+Cash Equivalents and Short-Term Investments
+
+The amortized cost, gross unrealized gains and losses, and fair value of the Companys cash equivalents and
+
+short-term investments by major security type as of December31, 2024 and 2025 and September 30, 2026
+
+(unaudited) consisted of the following (in millions)
+
+As of December 31, 2024
+
+Amortized
+
+Cost
+
+Gross
+
+Unrealized
+
+Gains
+
+Gross
+
+Unrealized
+
+Losses
+
+Fair Value
+
+Cash equivalents
+
+Money market funds
+
+$3,029
+
+$
+
+$
+
+$3,029
+
+Total cash equivalents
+
+$3,029
+
+$
+
+$
+
+$3,029
+
+As of December 31, 2025
+
+Amortized
+
+Cost
+
+Gross
+
+Unrealized
+
+Gains
+
+Gross
+
+Unrealized
+
+Losses
+
+Fair Value
+
+Cash equivalents
+
+Money market funds
+
+$16,455
+
+$
+
+$
+
+$16,455
+
+Corporate debt securities
+
+4
+
+4
+
+Total cash equivalents
+
+$16,459
+
+$
+
+$
+
+$16,459
+
+Short-term investments
+
+Commercial paper
+
+$123
+
+$
+
+$
+
+$123
+
+U.S. Treasury and agency securities
+
+2,111
+
+3
+
+2,114
+
+Corporate debt securities
+
+651
+
+1
+
+652
+
+Total short-term investments
+
+$2,885
+
+$4
+
+$
+
+$2,889
+
+As of September 30, 2026
+
+Amortized
+
+Cost
+
+Gross
+
+Unrealized
+
+Gains
+
+Gross
+
+Unrealized
+
+Losses
+
+Fair Value
+
+(unaudited)
+
+Cash equivalents
+
+Money market funds
+
+$87,675
+
+$
+
+$
+
+$87,675
+
+U.S. Treasury and agency securities
+
+2,822
+
+(1)
+
+2,821
+
+Total cash equivalents
+
+$90,497
+
+$
+
+$(1)
+
+$90,496
+
+Short-term investments
+
+Commercial paper
+
+$1,423
+
+$
+
+$(4)
+
+$1,419
+
+U.S. Treasury and agency securities
+
+32,328
+
+1
+
+(121)
+
+32,208
+
+Corporate debt securities
+
+2,681
+
+(25)
+
+2,656
+
+Total short-term investments
+
+$36,432
+
+$1
+
+$(150)
+
+$36,283
+
+Amortized cost and fair value balances exclude accrued interest receivable of $16 million and $222 million as of
+
+December31, 2025 and September 30, 2026 (unaudited), respectively, which was included in prepaid expenses
+
+and other current assets on the consolidated balance sheets. The Company did not have an accrued interest
+
+F-28
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+receivable as of December31, 2024. The Company does not measure an allowance for credit losses on accrued
+
+interest receivable, as any uncollectible accrued interest is written off in a timely manner.
+
+The contractual maturities of cash equivalents and short-term investments are as follows (in millions)
+
+As of December 31, 2025
+
+As of September 30, 2026
+
+Amortized
+
+Cost
+
+Fair Value
+
+Amortized
+
+Cost
+
+Fair Value
+
+(unaudited)
+
+Due within one year
+
+$18,632
+
+$18,634
+
+$115,969
+
+$115,917
+
+Due after one year through five years
+
+712
+
+714
+
+10,960
+
+10,862
+
+Total
+
+$19,344
+
+$19,348
+
+$126,929
+
+$126,779
+
+Actual maturities may differ from contractual maturities because borrowers may have the right to call or prepay
+
+obligations with or without call or prepayment penalties.
+
+As of December31, 2025 and September 30, 2026 (unaudited), the Company did not recognize any allowance
+
+for credit losses or impairment charges on its investments.
+
+The following table summarizes the fair value and gross unrealized losses of cash equivalents and short-term
+
+investments that are in an unrealized loss position aggregated by major security type (in millions)
+
+As of September 30, 2026
+
+Fair Value
+
+Unrealized
+
+Loss(1)
+
+(unaudited)
+
+Commercial paper
+
+$1,293
+
+$(4)
+
+U.S. Treasury and agency securities
+
+31,537
+
+(122)
+
+Corporate debt securities
+
+2,500
+
+(25)
+
+Total
+
+$35,330
+
+$(151)
+
+______________
+
+(1)All cash equivalents and short-term investments in an unrealized loss position have been in a continuous unrealized loss
+
+position for less than 12 months.
+
+The Company does not intend to sell, nor is it more-likely-than-not that the Company will be required to sell,
+
+cash equivalents and short-term investments with unrealized losses prior to the recovery of its amortized cost
+
+bases, which may be at maturity.
+
+As of December 31, 2025, the Company did not have cash equivalents and short-term investments in an
+
+unrealized loss position.
+
+For the year ended December31, 2025 and the nine months ended September 30, 2025 and 2026 (unaudited),
+
+there were no material realized gains or losses from cash equivalents and short-term investments that were
+
+reclassified out of accumulated other comprehensive income (loss).
+
+Equity Method Investments
+
+The Company holds investments accounted for under the equity method of accounting where the Company can
+
+exercise significant influence, but not control, over an investee. Equity method investments are included within
+
+other assets, noncurrent, on the Companys consolidated balance sheets, and the Companys share of the
+
+income or losses of the equity method investees are recognized in other income (expense), net, in the
+
+Companys consolidated statements of operations. As of September30, 2026 (unaudited), the Companys
+
+carrying value of such investments was not material. The Company has made additional funding commitments
+
+of up to $325 million, of which $265 million remained unfunded as of September30, 2026 (unaudited).
+
+F-29
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+4. Fair Value Measurements
+
+The following table presents information about the Companys financial assets and liabilities measured at fair
+
+value on a recurring basis based on the fair value hierarchy as follows (in millions)
+
+As of December 31, 2024
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets
+
+Cash equivalents
+
+Money market funds
+
+$3,029
+
+$
+
+$
+
+$3,029
+
+Total fair value assets
+
+$3,029
+
+$
+
+$
+
+$3,029
+
+Liabilities
+
+Convertible notes(1)
+
+$
+
+$
+
+$14,116
+
+$14,116
+
+Other noncurrent liabilities
+
+Derivative liability
+
+150
+
+150
+
+Total fair value liabilities
+
+$
+
+$
+
+$14,266
+
+$14,266
+
+As of December 31, 2025
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+Assets
+
+Cash equivalents
+
+Money market funds
+
+$16,455
+
+$
+
+$
+
+$16,455
+
+Corporate debt securities
+
+4
+
+4
+
+Short-term investments
+
+Commercial paper
+
+123
+
+123
+
+U.S. Treasury and agency securities
+
+2,114
+
+2,114
+
+Corporate debt securities
+
+652
+
+652
+
+Other assets
+
+Warrant rights
+
+345
+
+345
+
+Total fair value assets
+
+$16,455
+
+$2,893
+
+$345
+
+$19,693
+
+Liabilities
+
+Accounts payable, accrued expenses, and
+
+other current liabilities
+
+Donation matching program liability(2)
+
+$
+
+$
+
+$541
+
+$541
+
+Convertible notes(1)
+
+41,677
+
+41,677
+
+Other noncurrent liabilities
+
+Holdback liability(3)
+
+28
+
+28
+
+Total fair value liabilities
+
+$
+
+$
+
+$42,246
+
+$42,246
+
+F-30
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+As of September 30, 2026
+
+Level 1
+
+Level 2
+
+Level 3
+
+Total
+
+(unaudited)
+
+Assets
+
+Cash equivalents
+
+Money market funds
+
+$87,675
+
+$
+
+$
+
+$87,675
+
+U.S. Treasury and agency securities
+
+2,821
+
+2,821
+
+Short-term investments
+
+Commercial paper
+
+1,419
+
+1,419
+
+U.S. Treasury and agency securities
+
+32,208
+
+32,208
+
+Corporate debt securities
+
+2,656
+
+2,656
+
+Other assets
+
+Warrant rights
+
+1,128
+
+1,128
+
+Partner financing arrangements
+
+894
+
+894
+
+Total fair value assets
+
+$87,675
+
+$39,104
+
+$2,022
+
+$128,801
+
+Liabilities
+
+Accounts payable, accrued expenses, and
+
+other current liabilities
+
+Holdback liability(3)
+
+$
+
+$
+
+$71
+
+$71
+
+Donation matching program liability(2)
+
+1,960
+
+1,960
+
+Convertible notes(1)
+
+130,502
+
+130,502
+
+Total fair value liabilities
+
+$
+
+$
+
+$132,533
+
+$132,533
+
+______________
+
+(1)Recorded at fair value with changes in fair value recorded in earnings due to the election of the fair value option of accounting
+
+for financial instruments. Refer to Note 9 for further information.
+
+(2)Refer to Note 10 for further information.
+
+(3)Refer to Note 15 for further information.
+
+During the years ended December31, 2024 and 2025 and the nine months ended September 30, 2025 and
+
+2026 (unaudited), the Company had no transfers between levels of the fair value hierarchy of its assets
+
+measured at fair value.
+
+The Company measures cash equivalents and short-term investments at fair value. Level 1 instrument
+
+valuations are based on quoted market prices of the identical underlying security. Level 2 instrument valuations
+
+are obtained from readily available pricing sources for comparable instruments, identical instruments in less
+
+active markets, or models using market observable inputs.
+
+Level 3 Assets
+
+During the year ended December31, 2025, the Company entered into a contract to receive warrant rights to
+
+acquire common shares of a privately-held company as consideration under an agreement entered into but not
+
+yet commenced. The warrant rights are freestanding financial instruments that meet the definition of a
+
+derivative as they contain a net settlement feature. The warrants have not been designated as hedging
+
+instruments and will be granted and recognized as lease incentives upon commencement of the related
+
+arrangements and recognized as a reduction of the related ROU assets. The Company estimated the fair value of
+
+the warrant rights using a probability-weighted expected return method. In applying this method, the Company
+
+utilized Level 3 valuation inputs based on information available, including terms and features of the warrant
+
+rights and other outstanding classes of the issuers equity securities, observable transactions in the issuers
+
+securities such as its most recent financing round, estimates of equity volatility, and expected time to a liquidity
+
+event. The initial fair value of the warrant rights was recognized as a derivative asset classified within other
+
+assets on the consolidated balance sheets, with a corresponding deferred liability classified within other
+
+noncurrent liabilities.
+
+F-31
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+In March 2026 (unaudited), the Company entered into a note purchase agreement (the Google 2026 NPA)
+
+with Google LLC (Google), which included a commitment to sell 38.6 million shares of the Companys Series
+
+G-2 redeemable convertible preferred stock at $259.1364 per share. In April 2026 (unaudited), the Company
+
+entered into a note purchase agreement (the Amazon 2026 NPA) with Amazon Web Services, Inc.
+
+(Amazon), which included a commitment to sell 19.3 million shares of the Companys Series G-2 redeemable
+
+convertible preferred stock at $259.1364 per share. Refer to Note 9 and Note 16 for further information. These
+
+agreements are marked-to-market each period. Changes in fair value are recognized in other income (expense),
+
+net on the consolidated statements of operations. Assets under these note purchase agreements are recorded at
+
+fair value within other assets, noncurrent on the consolidated balance sheet.
+
+In July 2026 (unaudited), the Company entered into a hardware supply framework agreement (the Hardware
+
+Supply Agreement) with Advanced Micro Devices, Inc. (AMD) to secure AMD-based compute and
+
+infrastructure capacity. Pursuant to the terms of the Hardware Supply Agreement, AMD committed to
+
+purchase, at the Companys election, up to $5.0 billion of the Companys Class N common stock, if certain
+
+conditions are achieved (the purchased put option). The purchased put option is recorded at fair value within
+
+other assets, noncurrent. Changes in fair value are recognized in other income (expense), net.
+
+The estimated fair value of the note purchase agreements and the purchased put option (collectively, the
+
+partner financing arrangements) was determined by using a probability-weighted expected return method.
+
+The fair value of the underlying equity securities was determined by using a hybrid approach comprising a
+
+contingent claims analysis (CCA) and a common stock equivalent (CSE) method. Assumptions included
+
+assumed future liquidity and financing events, the terms and features of the partner financing arrangements,
+
+weights applied to each scenario, discount rates, applicable risk free rates, the fair value of the underlying
+
+equity securities, and a discount for lack of marketability.
+
+Level 3 Liabilities
+
+Level 3 liabilities consist of the SAFE liabilities (Note 9), convertible notes (Note 9), derivative liabilities (Note
+
+9), donation matching program liability (Note 10), and a holdback liability for a portion of shares issuable in the
+
+acquisition of Codeblog Corp. (Bun) (Note 15). There is no current market for these liabilities such that
+
+determination of fair value requires significant judgment or estimation. Changes in fair value measurements
+
+categorized within Level 3 of the fair value hierarchy are analyzed each period based on changes in estimates or
+
+assumptions and recorded as appropriate. The Company recorded a $3 million change in fair value of the
+
+holdback liability during the year ended December31, 2025 in other income (expense), net in the consolidated
+
+statements of operations.
+
+The SAFE liabilities are recorded at fair value, which is determined based on a third-party valuation utilizing a
+
+scenario-based analysis and a CCA, that considers specific scenarios that factor in timing, probability, and
+
+financing size. This model takes into account the contract terms as well as multiple inputs, such as the
+
+Companys redeemable convertible preferred stock price, risk free interest rates, and expected volatility, some
+
+of which the Company could not corroborate with observable market data. The assumptions used in valuing the
+
+SAFE liability upon conversion on December 31, 2023 and on January 30, 2024, include volatility, risk free
+
+interest rate, and term to liquidity. Changes in the fair value measurement of the SAFE liabilities relate to the
+
+conversion scenarios and are recorded as change in fair value of convertible notes, derivative liabilities, and
+
+SAFEs in the consolidated statements of operations. All SAFEs have been converted as of December31, 2024.
+
+The estimated fair value of the convertible notes is determined by using a hybrid approach comprising a CCA
+
+and a CSE method. The analysis estimates the fair value of the convertible notes based on the probability-
+
+weighted expected future investment returns, considering possible outcomes available to the note holder,
+
+including conversions to redeemable convertible preferred stock, Class N common stock, and maturity.
+
+Assumptions include weight applied to the CCA and CSE methods, assumed volatility, time to a liquidity event,
+
+need for and terms of financings or expected financings, and the risk free interest rate. Changes in fair value of
+
+the convertible notes are recorded as change in fair value of convertible notes, derivative liabilities, and SAFEs
+
+in the consolidated statements of operations.
+
+F-32
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+The following table presents a summary of the changes in the fair value of the Companys Level 3 financial
+
+instruments (in millions)
+
+Warrant
+
+Rights
+
+Partner
+
+Financing
+
+Arrangements
+
+Donation
+
+Matching
+
+Program
+
+Liability
+
+Holdback
+
+Liability
+
+SAFEs
+
+Convertible
+
+Notes
+
+Payable
+
+Derivative
+
+Liability
+
+Balance as of
+
+December 31, 2023
+
+$
+
+$
+
+$
+
+$
+
+$128
+
+$1,678
+
+$1,110
+
+Additions
+
+5,900
+
+150
+
+Conversion
+
+(134)
+
+Change in fair
+
+value and
+
+settlement of
+
+derivative liability
+
+6
+
+6,538
+
+(1,110)
+
+Balance as of
+
+December 31, 2024
+
+14,116
+
+150
+
+Additions
+
+345
+
+541
+
+25
+
+3,450
+
+Conversion
+
+(10,347)
+
+Change in fair
+
+value and
+
+settlement of
+
+derivative liability
+
+3
+
+34,458
+
+(150)
+
+Balance as of
+
+December 31, 2025
+
+345
+
+541
+
+28
+
+41,677
+
+Additions
+
+(unaudited)
+
+2,440
+
+1,808
+
+Conversion
+
+(unaudited)
+
+(5,499)
+
+Change in fair
+
+value (unaudited)
+
+783
+
+(13,356)
+
+278
+
+43
+
+94,324
+
+Settlement
+
+(unaudited)
+
+11,810
+
+(667)
+
+Balances as of
+
+September 30, 2026
+
+(unaudited)
+
+$1,128
+
+$894
+
+$1,960
+
+$71
+
+$
+
+$130,502
+
+$
+
+Fair value measurements categorized within Level 3 are sensitive to changes in the assumptions or
+
+methodology used to determine fair value and such changes could result in a significant increase or decrease in
+
+the fair value.
+
+5. Goodwill and Intangible Assets
+
+Goodwill
+
+The following table presents goodwill activity (in millions)
+
+Total
+
+Balance, as of December 31, 2024
+
+$
+
+Acquisition
+
+154
+
+Balance, as of December 31, 2025
+
+154
+
+Acquisitions and other (unaudited)
+
+441
+
+Balance, as of September 30, 2026 (unaudited)
+
+$595
+
+F-33
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+Intangible Assets
+
+Intangible assets consisted of the following (in millions, except years)
+
+As of December 31, 2024
+
+Gross
+
+Carrying
+
+Amount
+
+Accumulated
+
+Amortization
+
+Net Carrying
+
+Amount
+
+Weighted-
+
+Average
+
+Remaining
+
+Useful
+
+Life (in years)
+
+Technology-related
+
+$3
+
+$
+
+$3
+
+4.5
+
+Contract-related
+
+5
+
+(3)
+
+2
+
+0.5
+
+Total
+
+$8
+
+$(3)
+
+$5
+
+As of December 31, 2025
+
+Gross
+
+Carrying
+
+Amount
+
+Accumulated
+
+Amortization
+
+Net Carrying
+
+Amount
+
+Weighted-
+
+Average
+
+Remaining
+
+Useful
+
+Life (in years)
+
+Technology-related
+
+$7
+
+$(1)
+
+$6
+
+4.7
+
+Contract-related
+
+24
+
+(10)
+
+14
+
+0.6
+
+Total
+
+$31
+
+$(11)
+
+$20
+
+As of September 30, 2026
+
+Gross
+
+Carrying
+
+Amount
+
+Accumulated
+
+Amortization
+
+Net Carrying
+
+Amount
+
+Weighted-
+
+Average
+
+Remaining
+
+Useful
+
+Life (in years)
+
+(unaudited)
+
+Technology-related
+
+$108
+
+$(29)
+
+$79
+
+1.7
+
+Contract-related
+
+31
+
+(16)
+
+15
+
+1.2
+
+Total
+
+$139
+
+$(45)
+
+$94
+
+The Company recognized amortization expense related to intangible assets of $0 million, $3 million, and $13
+
+million for the years ended December31, 2023, 2024, and 2025, respectively, and $8 million and $50 million
+
+for the nine months ended September 30, 2025 and 2026 (unaudited), respectively.
+
+The estimated aggregate future amortization expense for intangible assets subject to amortization as of
+
+December31, 2025, is summarized below (in millions)
+
+Fiscal Year
+
+Estimated
+
+Future
+
+Amortization
+
+Expense
+
+2026
+
+$15
+
+2027
+
+2
+
+2028
+
+1
+
+2029
+
+1
+
+2030
+
+1
+
+Total
+
+$20
+
+F-34
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+6. Property and Equipment, Net
+
+Property and equipment, net consisted of the following (in millions)
+
+As of December 31,
+
+As of
+
+September 30,
+
+2024
+
+2025
+
+2026
+
+(unaudited)
+
+Leasehold improvements
+
+$16
+
+$51
+
+$70
+
+Servers, networking, and infrastructure equipment
+
+34
+
+2,216
+
+Construction in progress
+
+4
+
+63
+
+877
+
+Other assets
+
+3
+
+10
+
+30
+
+Total property and equipment, gross
+
+23
+
+158
+
+3,193
+
+Less Accumulated depreciation
+
+(4)
+
+(12)
+
+(132)
+
+Total property and equipment, net
+
+$19
+
+$146
+
+$3,061
+
+Depreciation expense was $1 million, $3 million, and $10 million for the years ended December31, 2023, 2024,
+
+and 2025, and $6 million and $121 million for the nine months ended September 30, 2025 and 2026
+
+(unaudited), respectively.
+
+7. Leases
+
+The Company has operating and finance leases for corporate offices and infrastructure equipment with various
+
+expiration dates. The leases have non-cancelable remaining terms of less than one year to 20 years, some of
+
+which include options to extend for up to 14 years.
+
+The components of the Companys lease expense were as follows (in millions)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+Operating lease cost
+
+$3
+
+$17
+
+$22
+
+$13
+
+$128
+
+Finance lease cost
+
+Amortization of lease assets
+
+81
+
+Interest on lease liabilities
+
+27
+
+Finance lease cost
+
+108

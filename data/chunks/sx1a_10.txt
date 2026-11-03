@@ -1,0 +1,4183 @@
+Management
+
+Executive Officers and Directors
+
+The following table provides information regarding our executive officers and directors as of October 31, 2026
+
+Name
+
+Age
+
+Position(s)
+
+Electing Class(es) of Stock
+
+Following this Offering*
+
+Executive Officers
+
+Dario Amodei
+
+43
+
+Chief Executive Officer, Co-Founder, and Director
+
+Classes A and F
+
+Daniela Amodei(2)
+
+39
+
+President, Co-Founder, Chairperson, and Director
+
+Classes A and F
+
+Krishna Rao
+
+43
+
+Chief Financial Officer
+
+Non-Employee Directors
+
+Reed Hastings(1)(2)(6)
+
+66
+
+Director
+
+Class T
+
+Christopher Liddell(1)(4)(5)
+
+68
+
+Director
+
+Class T
+
+Vas Narasimhan(3)(4)
+
+50
+
+Director
+
+Class T
+
+Yasmin Razavi(2)(3)
+
+37
+
+Director
+
+Classes A and F
+
+______________
+
+*Upon completion of this offering, the holder of our Class T common stock will generally be entitled to elect a majority of the
+
+authorized members of our board of directors. The holders of our Class A common stock and Class F common stock, voting
+
+together as a single class, will be entitled to elect the remaining members of our board of directors.
+
+(1)Member of our audit committee
+
+(2)Member of our NGC
+
+(3)Member of our compensation committee
+
+(4)Member of our safety and risk committee
+
+(5)Specified Class T Director
+
+(6)Lead independent director
+
+Executive Officers
+
+Dario Amodei. Dr. Amodei has served as our Chief Executive Officer and a member of our board of directors
+
+since co-founding Anthropic in January 2021. Prior to co-founding Anthropic, Dr. Amodei served as Vice
+
+President of Research, among other positions, at OpenAI, an AI research lab, from July 2016 to December
+
+2020. Before joining OpenAI, Dr. Amodei served as a Senior Research Scientist at Google Brain, an AI research
+
+team at Google, from October 2015 to June 2016. Dr. Amodei completed a postdoctoral fellowship at Stanford
+
+University School of Medicine. Dr. Amodei holds a Ph.D. in Biophysics from Princeton University and a B.S. in
+
+Physics from Stanford University. We believe that Dr. Amodei is qualified to serve on our board of directors
+
+because of the perspective and experience he brings from his deep expertise in the AI industry and as our Chief
+
+Executive Officer and as a co-founder.
+
+Daniela Amodei. Ms. Amodei has served as our President and a member of our board of directors since co-
+
+founding Anthropic in January 2021. Ms. Amodei also currently serves as the Chairperson of our board of
+
+directors. Prior to co-founding Anthropic, Ms. Amodei held several positions at OpenAI, an AI research lab,
+
+including Vice President of Safety and Policy, Vice President of People, and Engineering Manager, between
+
+October 2018 and December 2020. Before joining OpenAI, Ms. Amodei was a Risk Manager, among other
+
+positions, at Stripe, a financial technology and payment processing company, from May 2013 to July 2018. Ms.
+
+Amodei holds a B.A. in English Literature from the University of California, Santa Cruz. We believe that Ms.
+
+Amodei is qualified to serve on our board of directors because of the perspective and experience she brings
+
+through her deep expertise in the AI industry and as our President and as a co-founder.
+
+Krishna Rao. Mr. Rao has served as our Chief Financial Officer since April 2024. Prior to joining Anthropic,
+
+Mr. Rao served as Chief Financial Officer at Fanatics Commerce, an online sports merchandise and retail
+
+platform, from May 2023 to April 2024. Before that, he served as the Chief Financial Officer of Cedar, a
+
+healthcare technology company, from July 2021 to May 2023. From October 2015 to July 2021, Mr. Rao held
+
+several key positions at Airbnb, a global vacation rental and hospitality platform, including Global Head of
+
+Corporate Business Development and Director of Financial Planning Analysis. Prior to Airbnb, Mr. Rao
+
+was a Principal in the Private Equity Group at Blackstone, a global investment firm, from September 2011 to
+
+259
+
+Table of Contents
+
+September 2015. Mr. Rao began his career as a strategy consultant at Bain, a global management consulting
+
+firm, from September 2005 to July 2008. Mr. Rao holds a J.D. from Yale Law School and an A.B. in Economics
+
+from Harvard College.
+
+Non-Employee Directors
+
+Reed Hastings. Mr. Hastings has served as a member of our board of directors since May 2025. Mr. Hastings
+
+co-founded Netflix, a global streaming service, and served as Netflixs Chief Executive Officer and President
+
+from 1999 to January 2023, Executive Chairman from January 2023 to April 2025, and Chairman of the board
+
+from April 2025 to June 2026. Prior to Netflix, Mr. Hastings founded Pure Software, a software development
+
+tools company, in 1991 and served as its Chief Executive Officer until its acquisition by Rational Software in
+
+1997. Mr. Hastings currently serves on the board of Bloomberg, a financial data and media company. Mr.
+
+Hastings holds an M.S.C.S. in Artificial Intelligence from Stanford University and a B.A. in Mathematics from
+
+Bowdoin College. We believe that Mr. Hastings is qualified to serve as a member of our board of directors
+
+because of his extensive board experience at major technology companies, his demonstrated commitment to
+
+responsible innovation and its societal impact, his deep understanding of technologys transformative potential,
+
+and his philanthropic focus on education and AIs impact on humanity.
+
+Christopher Liddell. Mr. Liddell has served as a member of our board of directors since February 2026. In
+
+the private sector, Mr. Liddell has served as the Chief Financial Officer of several public companies, including
+
+Microsoft and International Paper, and served as Vice Chairman and Chief Financial Officer at General Motors.
+
+Mr. Liddell has served as a Director of Commonwealth Fusion Systems, a fusion power company, since March
+
+2025, and as a Director of the Council on Foreign Relations, a nonpartisan U.S. think tank focused on foreign
+
+policy and international affairs, since July 2025. He also held positions with the U.S. government from January
+
+2017 to January 2021, including serving at the White House as the Deputy Chief of Staff, Director of Strategic
+
+Initiatives, and as a member of the American Technology Council. Mr. Liddell holds a Master of Philosophy
+
+from the University of Oxford and a Bachelor of Engineering from the University of Auckland. We believe that
+
+Mr. Liddell is qualified to serve as a member of our board of directors because of his wide range of experience
+
+from his corporate and public service career and his deep expertise in the financial management of publicly
+
+listed companies.
+
+Vasant Vas Narasimhan. Dr. Narasimhan has served as a member of our board of directors since April
+
+2026. Dr. Narasimhan has served as the Chief Executive Officer of Novartis AG, a global medicine company,
+
+since February 2018. He joined Novartis in April 2005 and has held numerous leadership roles across the
+
+organization, including Global Head of Drug Development and Chief Medical Officer from February 2016 to
+
+January 2018 and Global Head of Development from September 2014 to February 2016. Dr. Narasimhan holds
+
+an M.D. from Harvard Medical School, an M.P.P. from the Harvard Kennedy School, and a B.A. in Biology from
+
+the University of Chicago. We believe that Dr. Narasimhan is qualified to serve as a member of our board of
+
+directors because of his extensive experience leading a large global public company in a highly regulated
+
+industry and his track record of responsibly stewarding breakthrough science at scale.
+
+Yasmin Razavi. Ms. Razavi has served as a member of our board of directors since March 2023. Ms. Razavi
+
+joined Spark Capital, a venture capital firm, in July 2017 and has served as a General Partner since March
+
+2020. Prior to joining Spark Capital, Ms. Razavi served as an investor at Index Ventures, a venture capital firm,
+
+from August 2014 to August 2015, and as a consultant at McKinsey Company, a business management
+
+consulting firm, from August 2012 to August 2014. Ms. Razavi holds an M.B.A. from Harvard Business School
+
+and a Bachelor of Applied Science and Engineering from the University of Toronto. We believe that Ms. Razavi
+
+is qualified to serve as a member of our board of directors because of her experience in venture capital and
+
+growth-stage investing, her deep expertise in enterprise go-to-market strategies, and her understanding of the
+
+technology sector and scaling high-growth companies.
+
+Family Relationships
+
+Dario Amodei, our Chief Executive Officer and a member of our board of directors, and Daniela Amodei, our
+
+President and Chairperson of our board of directors, are siblings. There are no other family relationships
+
+among any of our executive officers or directors.
+
+260
+
+Table of Contents
+
+Code of Conduct
+
+Our board of directors has adopted a code of conduct that applies to all of our employees, officers, and
+
+directors, including our Chief Executive Officer, President, Chief Financial Officer, and other executive and
+
+senior financial officers. The full text of our code of conduct will be posted on the investor relations page of our
+
+website. We intend to disclose any amendments to our code of conduct, or waivers of its requirements, on our
+
+website or in filings under the Exchange Act.
+
+Board of Directors
+
+Our business and affairs are managed under the direction of our board of directors. Our board of directors
+
+currently consists of six directors. Pursuant to our current certificate of incorporation and amended and
+
+restated voting agreement, our current directors were elected as follows
+
+Dr. Amodei, as our Chief Executive Officer, was elected by holders of our Voting Common Stock (as
+
+defined in our current certificate of incorporation) (excluding shares of Voting Common Stock issued
+
+or issuable upon conversion of the shares of our redeemable convertible preferred stock)
+
+Mr. Liddell was elected as the designee nominated by holders of our Voting Common Stock (excluding
+
+shares of Voting Common Stock issued or issuable upon conversion of the shares of our redeemable
+
+convertible preferred stock)
+
+Ms. Razavi was elected by holders of our Senior Voting Preferred Stock (as defined in our current
+
+certificate of incorporation) and
+
+Ms. Amodei, Mr.Hastings, and Dr. Narasimhan were elected as the designees nominated by the LTBT
+
+as the holder of our Class T common stock.
+
+Our amended and restated voting agreement will terminate and the provisions of our current certificate of
+
+incorporation by which our directors were elected will be amended and restated in connection with this
+
+offering. Each of our current directors will continue to serve as a director until the next annual meeting and
+
+until the election and qualification of their successor, or until their earlier death, resignation, or removal.
+
+Upon the completion of this offering, our board of directors will consist of seven authorized directors, elected as
+
+follows
+
+The holder of our Class T common stock, the LTBT, will generally have the authority to elect and
+
+remove the four Class T directors, subject to the procedures described in the section titled Our
+
+Governance Structure and Its GoalsLong-Term Benefit TrustElection and Removal of Directors.
+
+The initial Class T directors will be Mr. Hastings, Dr. Narasimhan, Mr. Liddell, and one vacancy. Mr.
+
+Liddell will serve as the Specified Class T Director.
+
+The holders of our Class A common stock and Class F common stock, voting together as a single class,
+
+will have the authority to elect and remove the remaining three directors, who will initially be Dr.
+
+Amodei, Ms. Amodei, and Ms. Razavi.
+
+For additional information, see the sections titled Description of Capital Stock and Our Governance
+
+Structure and Its Goals.
+
+Director Terms
+
+Our amended and restated certificate of incorporation that will become effective immediately prior to the
+
+completion of this offering will provide that, prior to the Class F Sunset Time, we will not have a classified board
+
+of directors, and all directors will be elected for annual terms. Each directors term will continue until the next
+
+annual meeting and until the election and qualification of their successor, or their earlier death, resignation, or
+
+removal.
+
+Following the Class F Sunset Time, our board of directors will shift to having a classified board of directors
+
+consisting of three classes of approximately equal size, each serving staggered three-year terms. At such time,
+
+261
+
+Table of Contents
+
+each of our directors would be assigned by the then-current board of directors to a class. If our Class T common
+
+stock remains outstanding, the Class T directors and the remaining directors shall be allocated among the
+
+classes so that each class includes a proportionate number of Class T directors and other directors. Upon
+
+expiration of the term of a class of directors, directors for that class would each be elected for a three-year term
+
+at the annual meeting of stockholders in the year in which that term expires. As a result, only one class of
+
+directors would be elected at each annual meeting of our stockholders, with the other classes continuing for the
+
+remainder of their respective three-year terms. Each directors term would continue until the third annual
+
+meeting of stockholders following their election and until their successor has been elected and qualified, or
+
+until their earlier death, resignation, or removal. Any increase or decrease in the number of directors would be
+
+distributed among the three classes so that, as nearly as practicable, each class would consist of one-third of our
+
+directors.
+
+Regardless of the class or classes of stock by which a director is elected, there is no limit to the number of terms
+
+a director may serve.
+
+Stockholder Meetings and Actions by Written Consent
+
+Our amended and restated certificate of incorporation that will become effective immediately prior to the
+
+completion of this offering will provide that, for so long as our Class F common stock or Class T common stock
+
+remains outstanding, our stockholders may act by written consent with respect to certain actions, including any
+
+action to elect or remove directors. Although stockholders will have the ability to take these actions by written
+
+consent, we value the perspectives of all of our stockholders and, in accordance with the listing standards of the
+
+Nasdaq Global Select Market, we expect to hold an annual meeting of stockholders and to solicit the votes of
+
+holders of our Class A common stock in respect of relevant matters to be considered at such meeting, including
+
+the election of our directors who are not Class T directors.
+
+Board Leadership
+
+Our board of directors has appointed Daniela Amodei to serve as Chairperson of our board of directors. As
+
+Chairperson, Ms. Amodei will preside over meetings of our board of directors and stockholders, advise the Chief
+
+Executive Officer, and perform such other duties as specified in our amended and restated bylaws or as
+
+determined by our board of directors from time to time.
+
+Our board of directors has appointed Reed Hastings to serve as Lead Independent Director. As Lead
+
+Independent Director, Mr. Hastings will, among other things, preside over meetings of our independent
+
+directors, advise the Chairperson on the scheduling and agenda for board meetings and any other matters of
+
+concern to the independent directors, serve as a liaison between the Chairperson and the independent
+
+directors, and perform such other duties as specified in our amended and restated bylaws or as determined by
+
+the independent directors from time to time. Our board of directors believes that having a Lead Independent
+
+Director is an important component of sound corporate governance and provides an effective check and balance
+
+to ensure that our board of directors can operate independently of management where appropriate, including
+
+with respect to performance evaluation and compensation matters.
+
+Director Independence and Controlled Company Exemption
+
+Our board of directors has undertaken a review of the independence of each director. Based on information
+
+provided by each director concerning their background, employment, and affiliations, our board of directors
+
+has determined that Mr. Hastings, Mr. Liddell, Dr. Narasimhan, and Ms. Razavi do not have a relationship that
+
+would interfere with the exercise of independent judgment in carrying out the responsibilities of a director and
+
+that each of these directors is independent as that term is defined under the listing standards of the Nasdaq
+
+Global Select Market. In making these determinations, our board of directors considered the current and prior
+
+relationships that each non-employee director has with our company and all other facts and circumstances our
+
+board of directors deemed relevant in determining their independence, including the beneficial ownership of
+
+our capital stock by each non-employee director, and the transactions involving them described in the section
+
+titled Certain Relationships and Related Person Transactions.
+
+We are considered a controlled company within the meaning of the Nasdaq Global Select Market corporate
+
+governance requirements because the LTBT, as the sole holder of our Class T common stock, generally has the
+
+262
+
+Table of Contents
+
+power to elect a majority of the authorized members of our board of directors. As a result, we may elect not to
+
+comply with certain corporate governance requirements, including
+
+the requirement that a majority of our board of directors consist of independent directors
+
+the requirement that our board of directors have a nominating and corporate governance committee
+
+that is comprised entirely of independent directors with a written charter addressing the committees
+
+purpose and responsibilities and
+
+the requirement that our board of directors have a compensation committee that is comprised entirely
+
+of independent directors with a written charter addressing the committees purpose and
+
+responsibilities.
+
+If we elect not to comply with certain requirements, you will not have the same protections afforded to
+
+stockholders of companies that are subject to all of the Nasdaq Global Select Market corporate governance
+
+requirements. Although we qualify as a controlled company, we do not expect to rely on this exemption except
+
+with respect to our NGC, which will not consist entirely of independent directors. Our board of directors
+
+currently consists of a majority of independent directors and our audit and compensation committees currently
+
+consist entirely of independent directors. In the event that we cease to be a controlled company and our Class
+
+A common stock continues to be listed on the Nasdaq Global Select Market, we will be required to comply with
+
+the provision that our NGC be comprised entirely of independent directors within the applicable transition
+
+period.
+
+Committees of the Board of Directors
+
+Our board of directors has established an audit committee, a compensation committee, an NGC, and a safety
+
+and risk committee. The composition and responsibilities of each of the committees of our board of directors
+
+are described below. Members will serve on these committees until their resignation or as otherwise
+
+determined by our board of directors.
+
+Audit Committee
+
+Our audit committee consists of Mr. Liddell, Mr. Hastings, and one vacancy, with Mr. Liddell serving as
+
+Chairperson. We expect to take advantage of a phase-in period under the Nasdaq Global Select Market
+
+corporate governance requirements that allows us to have at least one member on the audit committee upon
+
+the listing date of our Class A common stock, at least two members within 90 days of the listing date, and at
+
+least three members within one year of the listing date. Our audit committee will consist of three members
+
+within one year of the listing date. In addition, each member of the audit committee will meet the requirements
+
+for independence under the listing standards of the Nasdaq Global Select Market and Rule 10A-3 under the
+
+Exchange Act. Each member of our audit committee will also meet the financial literacy and sophistication
+
+requirements of the listing standards of the Nasdaq Global Select Market. We believe that the composition and
+
+functioning of our audit committee complies with all applicable requirements of the Sarbanes-Oxley Act and all
+
+applicable SEC rules and regulations. Our board of directors has determined that each of Mr. Liddell and Mr.
+
+Hastings meets the requirements for independence under the listing standards of the Nasdaq Global Select
+
+Market and Rule 10A-3 under the Exchange Act, and each is an audit committee financial expert within the
+
+meaning of Item 407(d) of Regulation S-K under the Securities Act. Following the completion of this offering,
+
+our audit committee will, among other things
+
+select a qualified firm to serve as the independent registered public accounting firm to audit our
+
+financial statements
+
+help to ensure the independence and performance of the independent registered public accounting
+
+firm
+
+discuss the scope and results of the audit with the independent registered public accounting firm, and
+
+review, with management and the independent registered public accounting firm, our interim and
+
+year-end results of operations
+
+263
+
+Table of Contents
+
+prepare the report of the audit committee for inclusion in our proxy statements to be filed with the
+
+SEC
+
+develop procedures for employees to submit concerns anonymously about questionable accounting or
+
+audit matters
+
+review our policies on risk assessment and risk management
+
+review related person transactions and
+
+approve or, as required, pre-approve, all audit and all permissible non-audit services, other than de
+
+minimis non-audit services, to be performed by the independent registered public accounting firm.
+
+Our audit committee will operate under a written charter, to be effective prior to the completion of this offering,
+
+that satisfies the applicable rules and regulations of the SEC and the listing standards of the Nasdaq Global
+
+Select Market.
+
+Compensation Committee
+
+Our compensation committee consists of Dr. Narasimhan and Ms. Razavi, with Dr. Narasimhan serving as
+
+Chairperson. Each member of the compensation committee will meet the requirements for independence under
+
+the listing standards of the Nasdaq Global Select Market and will be a non-employee director, as defined
+
+pursuant to Rule 16b-3 promulgated under the Exchange Act. Our board of directors has determined that each
+
+of Dr. Narasimhan and Ms. Razavi meets the requirements for independence under the listing standards of the
+
+Nasdaq Global Select Market and is a non-employee director, as defined pursuant to Rule 16b-3 promulgated
+
+under the Exchange Act. We believe that the composition and functioning of our compensation committee
+
+complies with all applicable requirements of the Sarbanes-Oxley Act and all applicable SEC rules and
+
+regulations. Following the completion of this offering, our compensation committee will, among other things
+
+review, approve, and determine, or make recommendations to our board of directors regarding, the
+
+compensation of our executive officers
+
+review and approve, or make recommendations to our board of directors regarding, our compensation
+
+strategy and practices with respect to our executive officers
+
+administer our equity-based and other compensation plans, except with respect to non-employee
+
+members of our board of directors
+
+review and adopt, or make recommendations to our board of directors regarding, new, or amendments
+
+to existing, compensation plans, including any equity-based plans
+
+review and approve, or make recommendations to our board of directors regarding, any employment
+
+agreements, severance agreements, change in control protections, indemnification agreements, and
+
+other similar arrangements, policies, and plans for any of our executive officers
+
+to the extent it determines it is necessary or appropriate, retain any compensation consultants, outside
+
+legal counsel, or other advisors
+
+review and discuss with management the Compensation Discussion and Analysis required to be
+
+included in our proxy statement and annual report on Form 10-K to be filed with the SEC and
+
+take any action that our compensation committee determines is necessary or appropriate with respect
+
+to our broad-based employee benefit plans, policies, and programs.
+
+Our compensation committee will operate under a written charter, to be effective prior to the completion of this
+
+offering, that satisfies the applicable rules and regulations of the SEC and the listing standards of the Nasdaq
+
+Global Select Market.
+
+264
+
+Table of Contents
+
+Nominating and Corporate Governance Committee
+
+Our NGC consists of Ms. Amodei, Mr. Hastings, and Ms. Razavi, with Ms. Amodei serving as Chairperson. Our
+
+board of directors has determined that each of Mr. Hastings and Ms. Razavi meets the requirements for
+
+independence under the listing standards of the Nasdaq Global Select Market. We will utilize the controlled
+
+company exemption from having an NGC composed entirely of independent directors, and our NGC will be
+
+composed of one Class T director and two directors who are not Class T directors. We believe that the
+
+composition and functioning of our NGC complies with all applicable requirements of the Sarbanes-Oxley Act
+
+and all applicable SEC rules and regulations. Following the completion of this offering, our NGC will, among
+
+other things
+
+assist our board of directors in evaluating individuals to become members of our board of directors,
+
+including through the exercise of governance rights conferred upon our NGC pursuant to our
+
+governing documents
+
+evaluate the performance of our board of directors and its committees
+
+consider and make recommendations to our board of directors regarding the skills, experience,
+
+characteristics, and other criteria for evaluating directors
+
+evaluate the adequacy of our corporate governance practices and
+
+develop and make recommendations to our board of directors regarding corporate governance
+
+guidelines and matters.
+
+In connection with our novel corporate governance structure, our NGC will also have the right to receive 30
+
+days prior written notice of any nomination of persons to serve as a director by the LTBT or the Founder LLC
+
+or the proposed removal of such directors, as well as appointments and removals of the Trustees. Our NGC may
+
+waive such notice periods in its discretion. With respect to the Specified Class T Director, the LTBTs ability to
+
+nominate or remove that director or change the director designated as the Specified Class T Director is subject
+
+to the concurrence of our NGC. These procedural requirements are intended to promote collaboration between
+
+the Trustees and our leadership in identifying and sourcing candidates to serve as Trustees or members of our
+
+board of directors, and do not give our board of directors the substantive ability to limit the LTBTs freedom to
+
+elect directors of its choosing. However, with respect to the Specified Class T Director, if our NGC does not
+
+concur with such nomination, removal, or change within 15 days of receiving notice, the matter may be
+
+submitted to a vote of the holders of our Class E common stock. When voting upon a proposal to nominate,
+
+remove, or change the Specified Class T Director, the requisite approval of our Class E common stock will
+
+require a majority of votes cast by our Class E common stock and quorum will require the presence, in person
+
+or by proxy, of a majority of the outstanding shares of Class E common stock. The LTBT may withdraw any
+
+notice of nomination or removal at any time before the taking of such a vote.
+
+Our NGC will operate under a written charter, to be effective prior to the completion of this offering, that
+
+satisfies the applicable listing standards of the Nasdaq Global Select Market.
+
+Safety and Risk Committee
+
+Our safety and risk committee consists of two independent directors, currently Mr. Liddell and Dr.
+
+Narasimhan, with Dr. Narasimhan serving as Chairperson. Our safety and risk committee assists our board of
+
+directors in overseeing, among other things
+
+the safety and security of our AI models, including the policies, processes, controls, and other measures
+
+we maintain to identify, assess, and manage significant model safety and security risks and
+
+the other material risks we face, including legal, regulatory, cybersecurity, privacy, and compliance
+
+risks.
+
+Our safety and risk committee operates under a written charter approved by our board of directors.
+
+265
+
+Table of Contents
+
+Compensation Committee Interlocks and Insider Participation
+
+None of the members of our compensation committee is or has been an officer or employee of our company.
+
+None of our executive officers currently serves, or in the past year has served, as a member of the board of
+
+directors or compensation committee (or other board committee performing equivalent functions) of any entity
+
+that has one or more of its executive officers serving on our board of directors or compensation committee. See
+
+the section titled Certain Relationships and Related Person Transactions for more information about related
+
+person transactions involving members of our compensation committee or their affiliates.
+
+Non-Employee Director Compensation
+
+Mr. Hastings, Ms. Razavi, and our employee directors, Dr. Amodei and Ms. Amodei, did not receive any
+
+compensation for their services as directors for the year ended December 31, 2025. The compensation received
+
+by Dr. Amodei and Ms. Amodei as employees is set forth in the section titled Executive Compensation
+
+Summary Compensation Table.
+
+The following table provides information regarding the compensation of our non-employee directors for service
+
+as directors for the year ended December 31, 2025
+
+Name(1)
+
+Fees Earned
+
+or Paid in
+
+Cash ($)
+
+Total ($)
+
+Reed Hastings
+
+Jay Kreps(2)
+
+200,000
+
+200,000
+
+Christopher Liddell(3)
+
+Vas Narasimhan(4)
+
+Yasmin Razavi
+
+______________
+
+(1)None of our non-employee directors held any outstanding equity awards as of December 31, 2025.
+
+(2)Mr. Kreps resigned from our board of directors in May 2026.
+
+(3)Mr. Liddell joined our board of directors in February 2026.
+
+(4)Dr. Narasimhan joined our board of directors in April 2026.
+
+Prior to this offering, we did not have a formal policy with respect to compensation payable to our non-
+
+employee directors for service as directors.
+
+Non-EmployeeDirector Compensation Policy
+
+In September 2026, our board of directors adopted, and our stockholders approved, a formal compensation
+
+policy for our non-employee directors (the Director Compensation Policy), which will become effective the
+
+day immediately prior to the date of effectiveness of the registration statement of which this prospectus forms a
+
+part.
+
+Following the effectiveness of our Director Compensation Policy, each non-employee director will receive cash
+
+and equity compensation for board services as described below. We also will reimburse our non-employee
+
+directors for reasonable, customary, and properly documented expenses for travel to board and committee
+
+meetings.
+
+Cash Compensation
+
+Non-employee directors will be entitled to receive the following cash compensation for their services
+
+$100,000 per year for service as a board member
+
+$75,000 per year for service as non-executive chair of the board of directors (if applicable)
+
+$60,000 per year for service as lead independent director (if applicable)
+
+$40,000 per year for service as chair of the audit committee
+
+266
+
+Table of Contents
+
+$20,000 per year for service as a member of the audit committee
+
+$30,000 per year for service as chair of the compensation committee
+
+$15,000 per year for service as a member of the compensation committee
+
+$30,000 per year for service as chair of the NGC and
+
+$15,000 per year for service as a member of the NGC.
+
+Each non-employee director who serves as the chair of a committee will receive only the additional annual fee
+
+as the chair of the committee and not also the additional annual fee as a member of the committee. All cash
+
+payments to non-employee directors will be paid quarterly in arrears on a prorated basis.
+
+Equity Compensation
+
+Annual Award. Each non-employee director automatically will be granted, on the date of each annual meeting
+
+of stockholders beginning in 2027, an award of RSUs (the Annual Award) with a value of $325,000 (the
+
+Annual Award Grant Value), which value will be converted to a number of shares of our Class A common
+
+stock in accordance with then-current standard company practices using the same methodology applied to
+
+employee equity awards pursuant to the companys equity grant policy, as most recently approved by our board
+
+of directors or a board committee that has been designated appropriate authority (the Conversion
+
+Methodology). An Annual Award will vest in four equal quarterly installments on each Quarterly Vesting Date
+
+(as defined below) that occurs following the grant date of the Annual Award, provided that, in any event, the
+
+Annual Award will vest in full on the day immediately before the date of our next annual meeting of
+
+stockholders that follows the grant date of the Annual Award, subject to the non-employee director continuing
+
+to be a service provider to us through the applicable vesting date. Quarterly Vesting Date means February 20,
+
+May 20, August 20, and November 20 of a given year.
+
+Initial Award and Pro-Rated Annual Award. Each person who first becomes a non-employee director
+
+following the effective date of the Director Compensation Policy will be automatically granted
+
+an award of RSUs with a value of $400,000, which value will be converted to a number of shares of our
+
+Class A common stock subject to such award using the Conversion Methodology (an Initial Award)
+
+and
+
+an award of RSUs with a value equal to the Annual Award Grant Value multiplied by the fraction
+
+obtained by dividing (A) the number of full months during the period beginning on the date the
+
+individual first becomes a non-employee director and ending on the one-year anniversary of the date of
+
+our then-most recent annual meeting of stockholders by (B) 12, which will be converted to a number of
+
+shares of our Class A common stock subject to such award using the Conversion Methodology (a Pro-
+
+Rated Annual Award).
+
+The grant of each Initial Award and Pro-Rated Annual Award will be made effective on the first trading date on
+
+or after the date on which such individual first becomes a non-employee director (such date, the Initial Start
+
+Date). If an individual is a member of our board of directors and also an employee, becoming a nonemployee
+
+director due to termination of employment will not entitle the non-employee director to an Initial Award or a
+
+Pro-Rated Annual Award.
+
+The Initial Award will vest as follows 12.5% of the RSUs will vest on the six-month anniversary of the Vesting
+
+Commencement Date (as defined below) and the balance of the RSUs will vest in 14 successive equal quarterly
+
+installments on each Quarterly Vesting Date thereafter, subject to the non-employee director remaining a
+
+service provider to us through the applicable vesting date. Vesting Commencement Date means the first
+
+Quarterly Vesting Date that occurs on or following the Initial Start Date. The Pro-Rated Annual Award will vest
+
+in equal installments on each Quarterly Vesting Date that occurs between the Initial Start Date and the earlier
+
+of (i) our next annual meeting of stockholders that occurs after the Pro-Rated Annual Awards grant date or (ii)
+
+the one-year anniversary of our most recent annual meeting of stockholders, provided that, in any event, the
+
+Pro-Rated Annual Award will vest in full on the day immediately before the date of our next annual meeting of
+
+stockholders that occurs after the Pro-Rated Annual Awards grant date (for purposes of clarity, each such
+
+267
+
+Table of Contents
+
+Quarterly Vesting Date and the final vest date that occurs on the date immediately before our next annual
+
+meeting of stockholders or one-year anniversary of our most recent annual meeting of stockholders, as
+
+applicable, will be counted as one installment such that, if there are two such Quarterly Vesting Dates, the Pro-
+
+Rated Annual Award shall vest in three equal installments), subject to the non-employee director remaining a
+
+service provider to us through the applicable vesting date.
+
+Change in Control
+
+In the event of a change in control (as defined in our 2026 Plan), each non-employee director will fully vest in
+
+their outstanding equity awards granted pursuant to the Director Compensation Policy under our 2026 Plan,
+
+including any Initial Award and Pro-Rated Annual Award or Annual Award, provided that the non-employee
+
+director continues to be a non-employee director through such date.
+
+268
+
+Table of Contents
+
+Executive Compensation
+
+Compensation Discussion and Analysis
+
+The purpose of this Compensation Discussion and Analysis (CDA) section is to discuss our compensation
+
+philosophy, our executive compensation program, and the compensation for our named executive officers
+
+(NEOs).
+
+Our NEOs for the year ended December 31, 2025 were
+
+Dario Amodei, our Chief Executive Officer, Co-Founder, and Director
+
+Daniela Amodei, our President, Co-Founder, and Director and
+
+Krishna Rao, our Chief Financial Officer.
+
+This discussion contains forward-looking statements that are based on our current plans, considerations,
+
+expectations, and determinations regarding future compensation programs. See also the section titled Special
+
+Note Regarding Forward-looking Statements. Actual compensation programs that we adopt in the future may
+
+differ materially from the currently planned programs summarized in this discussion. For additional
+
+information regarding the compensation programs for, and compensation provided to, our NEOs, see the
+
+section titled Post-Fiscal Year End Compensation Changes and Equity Awards.
+
+Executive Summary
+
+At Anthropic, we strive to build a team that is aligned with our mission and values. Executive compensation
+
+reflects our overall compensation philosophy, which prioritizes competitive pay that targets the 90th percentile
+
+of the AI development market, consistent pay for the same role, level, and location, and simplicity of plan
+
+design. In 2025, we offered a competitive mix of base salary, long-term equity incentive awards (including stock
+
+options and RSUs), and other benefits to attract and retain top talent in a competitive market environment.
+
+Compensation Philosophy and Objectives
+
+Our executive compensation philosophy is to provide our executive officers with consistent cash and equity
+
+compensation for the same role, level, and location. When determining executive compensation, we review each
+
+executives current compensation against role- and level-specific market data. We do this bi-annually as part of
+
+our performance and compensation cycle where we review proposed market-based and promotion-based cash
+
+and equity increases for executives. We plan to continue to regularly review, and potentially adjust, our
+
+executive compensation programs to ensure they are consistent with our compensation philosophy as a public
+
+company.
+
+In determining compensation for our senior leaders, we distinguish between our seven co-founders (among
+
+whom only Dr. Amodei and Ms. Amodei are executive officers) and our other senior leaders who are not co-
+
+founders (among whom only Mr. Rao is an executive officer). Each co-founder is paid equal compensation. As a
+
+non-co-founder senior leader, Mr. Rao received base salary and equity compensation based on market data for
+
+his role and level.
+
+Our executive compensation program is structured to achieve the objectives described below. We regularly
+
+review our executive compensation program to assess whether it meets these objectives and adapts to evolving
+
+economic conditions.
+
+Competitive Pay to Attract and Retain Top Talent. We provide our executives with competitive cash
+
+and equity pay for each role, location, and level to attract mission-aligned, top executive talent.
+
+Internal Parity. We take internal parity into account when determining executive compensation. As
+
+co-founders, Dr. Amodei and Ms. Amodei are awarded equal compensation, including any annual cash
+
+or equity increases. As a non-co-founder senior leader, Mr. Rao is compensated based on the market
+
+269
+
+Table of Contents
+
+data from our peer group for his role, level, and location. We review market data twice a year and make
+
+adjustments to our compensation benchmarks as needed.
+
+Aligning Executive Interests with Our Stockholders. We provide incentives that seek to align our
+
+executives interests with those of our stockholders through long-term equity awards, which vest over
+
+time.
+
+Compensation Governance Highlights
+
+What We Do
+
+What We Do Not Do
+
+Maintain a competitive, consistent, and simple
+
+compensation philosophy to attract, retain, and
+
+motivate top executive talent.
+
+Enter into employment agreements that provide
+
+for fixed terms, automatic compensation
+
+increases, or guaranteed equity grants.
+
+Focus our executive compensation program on at-
+
+risk compensation, which aligns stockholder and
+
+executive interests.
+
+Provide single-trigger change of control benefits
+
+or excessive cash severance.
+
+Deliver a majority of our NEOs compensation
+
+opportunities in the form of long-term equity
+
+awards.
+
+Provide our NEOs with golden parachute excise
+
+tax reimbursement or gross-ups.
+
+Conduct regular compensation reviews to ensure
+
+alignment with competitive market practices.
+
+Provide perquisites as a meaningful component of
+
+our executive compensation.
+
+Provide for double-trigger change of control
+
+severance provisions for only our Chief Financial
+
+Officer, and none of our other NEOs.
+
+Maintain any executive pension plans, or any
+
+retirement programs that are not generally
+
+available to all employees.
+
+Award option grants at discounted stock prices.
+
+Executive Compensation Process
+
+Role of the Board of Directors and Compensation Committee
+
+Our executive compensation program has historically been overseen by the non-employee members of our
+
+board of directors, which, as a group, has made decisions regarding the compensation for our NEOs after
+
+considering recommendations from management, as further discussed below.
+
+Following the completion of this offering, the compensation committee of our board of directors will oversee
+
+our executive compensation program and provide recommendations to our board of directors on compensation
+
+decisions for our executive officers. The compensation committee will work closely with its independent
+
+compensation consultant (engaged in connection with this offering, as described below) and meet regularly to
+
+make decisions on our executive compensation program. We expect that our compensation committee will
+
+review a variety of market data and information, including survey data, and consider the recommendations of
+
+its independent compensation consultant when making compensation decisions. Following the completion of
+
+this offering, the compensation committees responsibilities will include, among other things, reviewing and
+
+approving (or making recommendations to our board of directors, as applicable) overall compensation
+
+strategy amounts and form of executive compensation goals and objectives to be considered in determining
+
+the compensation of our Chief Executive Officer and other executive officers annual and long-term incentive
+
+plans and benefit plans board of directors compensation whether such compensation policies and practices
+
+create risks that are reasonably likely to have a material adverse effect on the company annual say-on-pay vote
+
+results annual proxy and CDA disclosure and compensation peer group.
+
+Role of Management
+
+Our Chief Executive Officer and our other executive officers do not set their own compensation, nor are they
+
+present when our board of directors sets their individual compensation. Our President reviews and advises on
+
+compensation for the seven co-founders but does not make specific recommendations on or participate in
+
+decisions related to her compensation or our Chief Executive Officers compensation. Our President also
+
+provides her evaluation and makes recommendations with respect to base salary and equity awards for each
+
+270
+
+Table of Contents
+
+other executive officer, which are considered by our board of directors as it ultimately makes its determinations.
+
+Our people team provides further analysis and feedback as requested by our board of directors with regard to
+
+the compensation of our executives.
+
+Role of Independent Compensation Consultant
+
+In connection with this offering, we have engaged Semler Brossy Consulting Group LLC as an independent
+
+compensation consultant to formalize our post-offering compensation programs and implement compensation
+
+arrangements that reflect our compensation philosophy described above.
+
+Elements of Executive Compensation
+
+The key elements of our 2025 executive compensation program are summarized in the table below.
+
+Compensation
+
+Element
+
+Form of
+
+Compensation
+
+Guaranteed vs.
+
+At-Risk
+
+Philosophy
+
+Base Salary
+
+Cash
+
+Guaranteed
+
+Provide market-competitive fixed compensation to
+
+attract and retain key executives.
+
+Long-Term
+
+Equity Incentive
+
+Program
+
+Service-Based
+
+Options RSUs
+
+with Service-
+
+Based and
+
+Performance-
+
+Based Vesting
+
+Conditions
+
+At-Risk
+
+The value of option and RSU awards is correlated to
+
+our stock price, promoting sustainable long-term
+
+value creation.
+
+Multi-year service vesting schedule promotes
+
+retention, long-term ownership, and continuity of
+
+leadership.
+
+Other Benefits
+
+Other
+
+NA
+
+Aligned with market practices and serve to attract,
+
+motivate, and retain key talent. Intended to ensure the
+
+safety of our NEOs, enhance productivity, and
+
+minimize distractions.
+
+271
+
+Table of Contents
+
+Base Salary
+
+Our board of directors generally reviews the base salaries of our NEOs twice a year. The factors used to
+
+determine base salary for our executives include market data for the role, level, and location, as well as internal
+
+parity (which, for our co-founder NEOs, includes considerations related to parity with our technical leadership).
+
+From January 1, 2025 to June 15, 2025, the annual base salary for each of Dr. Amodei and Ms. Amodei was
+
+$600,000. Effective June 16, 2025, the annual base salary for each of Dr. Amodei and Ms. Amodei was
+
+increased to $700,000. The increase in the executives cash compensation was intended to ensure competitive
+
+and equitable compensation for our leaders. In particular, the salary increases recognized their ongoing
+
+leadership roles, while considering relative parity across executives, including our technical leadership.
+
+From January 1, 2025 to December 15, 2025, the annual base salary for Mr. Rao was $700,000, which was
+
+increased to $850,000 effective December 16, 2025. The salary increase was based on market data for Mr.
+
+Raos role and level, as well as internal parity for non-co-founder senior leaders who are not executive officers.
+
+Long-Term Equity Incentive Program
+
+Each year, our NEOs are eligible to receive equity awards under our 2021 Plan. By structuring the majority of
+
+our NEOs target total direct compensation payable in the form of equity that vests over a number of years, we
+
+create incentives for our NEOs to remain employed with Anthropic and pursue actions that will benefit our
+
+company and stockholders over the long term.
+
+On June 12, 2025, our board of directors granted 992,500 options (2025 Options) and 1,717,000 RSUs (2025
+
+RSUs) to each of Dr. Amodei and Ms. Amodei, after carefully considering several factors, including each
+
+executives experience, skills, responsibilities, and impact to the company individual and company
+
+performance and internal parity.
+
+The 2025 Options vested in equal monthly installments over a one-year period beginning on January 1, 2025,
+
+subject to the executives continuous service with the company through each vest date. The 2025 Options were
+
+granted with an exercise price equal to $2.38 per share. The 2025 RSUs vest on the first date upon which both a
+
+service-based condition and a performance-based condition are satisfied. The service-based condition is
+
+satisfied as to 112th of the total 2025 RSUs on February 20, 2026, and on each quarterly anniversary thereafter,
+
+subject to the executives continuous service with the company through each vest date. The performance-based
+
+vesting condition of the 2025 RSUs will be satisfied upon the effectiveness of the registration statement of
+
+which this prospectus forms a part.
+
+Perquisites and Other Executive Benefits
+
+We generally provide the same benefits to all of our employees, including our NEOs, and generally do not
+
+maintain benefit plans that cover only executive officers or provide perquisites or personal benefits to our
+
+NEOs. However, we do provide certain travel and security benefits to some of our NEOs. These benefits are
+
+described in more detail below. Our board of directors believes these benefits are reasonable and necessary, and
+
+for the benefit of our company. These benefits are intended to promote the productivity of our executives, in
+
+addition to ensuring their personal health, safety, and security. The aggregate incremental cost of providing
+
+these benefits to our NEOs is disclosed in the All Other Compensation column of the Summary Compensation
+
+Table.
+
+Travel
+
+We maintain a Travel and Expense Policy (the Travel Policy), which outlines guidelines and allowances for
+
+executive travel and expenses, recognizing the needs and responsibilities of our senior leadership team. The
+
+Travel Policy governs all business-related travel and expenses for our executives, except to the extent benefits
+
+are provided through a security program authorized andor approved by our board of directors. Dr. Amodei
+
+and Ms. Amodei are entitled to certain enhanced travel benefits recommended by the security studies on which
+
+their security program is based (discussed in the section below titled Security Services). The Travel Policy is
+
+reviewed annually by our management team to ensure it remains appropriate and aligned with company
+
+objectives and industry standards. To the extent required by the relevant tax laws, the value of any personal use,
+
+including any personal elements of business trips, will be treated as taxable compensation to the executive, and
+
+272
+
+Table of Contents
+
+we do not cover, reimburse, or otherwise gross-up any income tax due from any applicable executive on such
+
+compensation.
+
+Except as noted in the subsection below titled Security Services, none of our NEOs were provided with private
+
+aviation services for personal travel in 2025.
+
+Security Services
+
+The protection of our senior leadership is a critical priority for our company and our stockholders. In
+
+connection with our security program and our evaluation of security threats, we offer security services to certain
+
+of our NEOs and may provide security services to other NEOs in the future. Such security services may include
+
+(i) individual protection services (including the protection of family members) and home security systems and
+
+monitoring, (ii) private aviation, and (iii) private car and driver services. These safeguards are implemented due
+
+to the variety of business-related security concerns faced by our senior leaders, and they are comparable to
+
+those provided to senior leaders of comparable high-profile companies in the technology industry.
+
+In 2025, a leading security consulting firm conducted independent, third-party security studies regarding the
+
+personal and security risks of our Chief Executive Officer and our President. Based on these security studies,
+
+increased media attention for Anthropic, and the identification of bona fide business-related, heightened
+
+security concerns arising as a result of the respective positions of Dr. Amodei and Ms. Amodei within the
+
+company, our board of directors determined that enhanced personal security services were necessary to
+
+increase the safety and protection of Dr. Amodei and Ms. Amodei, and to avoid an impact to our business
+
+continuity if a security incident occurred. Our board of directors regularly assesses security concerns and
+
+reviews the security services provided to Dr. Amodei and Ms. Amodei and the cost of such services in light of
+
+such concerns, and other benefits to our company. The security measures for Dr. Amodei and Ms. Amodei in
+
+2025 included (i) individual protection services (including during personal travel), which included the
+
+protection of family members, as well as enhanced home security systems and surveillance, (ii) private car and
+
+driver services for ground transportation, and (iii) in the case of Dr. Amodei, the use of private aircraft for both
+
+business and personal travel.
+
+Given the importance of the roles of Dr. Amodei and Ms. Amodei at Anthropic, our board of directors required
+
+the security measures described above for the benefit of our company, and we view the costs of these services as
+
+necessary and appropriate. In the All Other Compensation column of the Summary Compensation Table, we
+
+have disclosed the aggregate incremental cost of the security benefits that may be deemed to be perquisites
+
+under current relevant disclosure rules. We did not pay expenses for personal security for any other NEOs in
+
+2025, except in connection with business-related travel.
+
+Health and Welfare Benefits
+
+During 2025, we provided the following benefits to our NEOs on the same basis as our other eligible employees
+
+medical dental vision flexible spending account health savings account life insurance short-term and long-
+
+term disability insurance fertility benefits mental well-being benefits health and wellness timesaver stipend
+
+work from home stipend education assistance program commuting allowance and a 401(k) retirement plan
+
+with employer match.
+
+Executive Employment Agreements
+
+We entered into an offer letter with Mr. Rao dated March 2, 2024 (Rao Offer Letter), which offer letter was in
+
+effect during 2025 and was terminated in October 2026. The Rao Offer Letter provided for at-will
+
+employment and set forth Mr. Raos initial annual base salary, his eligibility to participate in our benefit plans
+
+generally, and a new hire stock option grant to purchase 14,000,000 shares of our Class A common stock under
+
+our 2021 Plan (Rao Options). The Rao Options vested with respect to 14th of the shares on the 12-month
+
+anniversary of Mr. Raos first day of employment with the company and 148th of the shares in equal monthly
+
+installments thereafter, subject to Mr. Raos continuous service with the company through each vest date. The
+
+Rao Offer Letter also provided for certain severance and change of control benefits. For information regarding
+
+the severance and change of control benefits for Mr. Rao during 2025, please refer to the sections below titled
+
+Termination and Change of Control Benefits and Potential Payments upon Termination or Change of
+
+273
+
+Table of Contents
+
+Control. Upon the termination of the Rao Offer Letter, we entered into a letter agreement with Mr. Rao as
+
+described below.
+
+In addition, each NEO is subject to our standard confidential information and invention assignment agreement
+
+which provides for restrictions on employee non-solicitation (during employment and for 12 months post-
+
+termination), customer non-solicitation (during employment), confidentiality (perpetual), and assignment of
+
+intellectual property rights.
+
+Termination and Change of Control Benefits
+
+The employment of our NEOs is at-will, meaning we can terminate them at any time, and they can terminate
+
+their employment with us at any time. Other than Mr. Rao, our NEOs were not entitled to any severance or
+
+change of control benefits during 2025.
+
+During 2025, the Rao Offer Letter provided that if, at any time, his employment was terminated by the
+
+company without cause or he resigned for good reason (as such terms were defined in the Rao Offer Letter),
+
+then, subject to his execution of a release of claims in favor of the company and other conditions, he would be
+
+entitled to the following severance payments and benefits (i) an amount equal to six months of his then-current
+
+base salary, (ii) payment of monthly premiums for coverage under the Consolidated Omnibus Budget
+
+Reconciliation Act (COBRA) for up to six months, and (iii) accelerated vesting as to 18th of the Rao Options.
+
+The Rao Offer Letter further provided that if, within 30 days prior to, upon, or at any time following a change
+
+of control (as defined in our 2021 Plan), his employment was terminated by the company without cause or he
+
+resigned for good reason, then, subject to his execution of a release of claims in favor of the company and other
+
+conditions, 100% of any then unvested shares subject to his then-outstanding equity awards, including the Rao
+
+Options, would accelerate and vest. If, in the change of control, his then-outstanding equity awards would
+
+otherwise have been terminated for no consideration at the closing of the change of control event, then those
+
+awards would instead have become fully vested as of immediately prior to such closing. Upon the termination of
+
+the Rao Offer Letter in October 2026, we entered into a letter agreement with Mr. Rao continuing the change of
+
+control vesting acceleration benefit described herein on the same terms, without alteration.
+
+For additional information regarding the severance and change of control benefits for our NEOs, see the
+
+sections titled Post-Fiscal Year End Compensation Changes and Equity Awards and Potential Payments
+
+upon Termination or Change of Control.
+
+Other Compensation Governance Practices
+
+Compensation Recovery Policy
+
+We have adopted an executive compensation recoupment policy intended to comply with the requirements of
+
+Rule 10D-1 under the Exchange Act and the rules of the stock exchange on which our securities are listed
+
+(Clawback Policy) that will be effective upon the effectiveness of the registration statement of which this
+
+prospectus forms a part. The Clawback Policy will generally require us to recover erroneously awarded
+
+incentive-based compensation that was received by covered executive officers in the event we are required to
+
+prepare an accounting restatement due to any material non-compliance with any financial reporting
+
+requirement under the securities laws (including any required accounting restatement to correct an error in
+
+previously issued financial statements that is material to the previously issued financial statements), or that
+
+would result in a material misstatement if the error were corrected in the current period or left uncorrected in
+
+the current period. The Clawback Policy generally covers incentive-based compensation received on or after the
+
+effective date of the Clawback Policy and during the three-year period prior to the date we are required to
+
+prepare the financial restatement. The amount required to be recovered is the excess of the amount of
+
+incentive-based compensation received over the amount that otherwise would have been received based on the
+
+restated financial measure.
+
+Hedging, Pledging, and Insider Trading
+
+We are dedicated to fostering high standards of ethical business conduct and adherence to applicable laws,
+
+rules, and regulations. Accordingly, we maintain our Insider Trading Policy, which we believe is appropriately
+
+274
+
+Table of Contents
+
+designed to foster compliance with insider trading laws, rules, and regulations, and the listing standards of the
+
+Nasdaq Global Select Market that will be applicable to us. Our Insider Trading Policy applies to all of our
+
+officers, directors, and employees, as well as designated consultants, and specifically prohibits ownership of
+
+financial instruments or participation in investment strategies that hedge the economic risk of owning our
+
+equity securities, such as prepaid variable forwards, equity swaps, and collars. Directors, officers, and other
+
+employees are prohibited from maintaining company securities in a margin account or otherwise pledging
+
+company securities as collateral for a loan, provided that certain limited exceptions may be permitted. In
+
+addition, we prohibit our executive officers, directors, and employees from purchasing or selling our securities
+
+while in possession of material, non-public information or otherwise utilizing such information for their
+
+personal benefit. We maintain a quarterly blackout window where applicable individuals may not trade.
+
+Policies and Practices Related to the Grant of Certain Equity Awards Close in Time to the
+
+Release of Material Nonpublic Information
+
+We periodically grant stock options to our NEOs, employees, and other service providers. We have historically
+
+granted options on or shortly after a newly hired employees start date. We have historically granted refresh,
+
+promotion, or market adjustment options when and as determined by our board of directors. We have no
+
+specific policy or practice regarding the timing of options or other equity grants in relation to the public
+
+disclosure of material nonpublic information by the company.
+
+Tax and Accounting Considerations
+
+Tax Considerations
+
+Section 162(m) of the Code imposes a $1 million limit on the amount of compensation that we may deduct as a
+
+business expense in any year with regard to certain of our most highly paid executive officers. While our board
+
+of directors considers the deductibility of compensation as one factor in determining executive compensation,
+
+our board of directors retains the discretion to award compensation that is not deductible as it believes that it is
+
+in our best interests to maintain flexibility in our approach to executive compensation in order to design a
+
+program that we deem to be the most effective in attracting, motivating, and retaining key executives and
+
+aligning pay with performance.
+
+Accounting Considerations
+
+Our board of directors takes accounting considerations into account in designing compensation plans and
+
+arrangements for our NEOs and other employees. We follow the Financial Accounting Standards Boards
+
+Accounting Standards Codification Topic 718 (FASB ASC Topic 718) for our stock-based compensation
+
+awards. FASB ASC Topic 718 requires us to measure the compensation expense for all share-based payment
+
+awards based on the grant date fair value of these awards.
+
+Summary Compensation Table
+
+The following table shows the compensation awarded, paid to, or earned by each of our NEOs for the year
+
+ended December 31, 2025
+
+Name and Principal Position
+
+Year
+
+Salary ($)
+
+Stock Awards
+
+($)(1)(2)
+
+Option Awards
+
+($)(1)
+
+All Other
+
+Compensation($)
+
+Total ($)
+
+Dario Amodei
+
+Chief Executive Officer, Co-
+
+Founder, and Director
+
+2025
+
+654,167
+
+9,264,932
+
+4,028,558
+
+4,010,641
+
+(3)
+
+17,958,298
+
+Daniela Amodei
+
+President, Co-Founder, and
+
+Director
+
+2025
+
+654,167
+
+9,264,932
+
+4,028,558
+
+2,461,341
+
+(4)
+
+16,408,998
+
+Krishna Rao
+
+Chief Financial Officer
+
+2025
+
+706,250
+
+14,000
+
+(5)
+
+720,250
+
+______________
+
+(1)The amounts reported represent the aggregate grant-date fair value of the RSUs or options awarded to the NEOs calculated in
+
+accordance with FASB ASC Topic 718. These amounts do not reflect the actual economic value that may be realized by each
+
+275
+
+Table of Contents
+
+NEO. The assumptions used in determining the grant-date fair value of the RSUs or options, as applicable, reported in this
+
+column are set forth in Note 10 to our consolidated financial statements included elsewhere in this prospectus.
+
+(2)These awards reflect the grant of RSUs subject to both a service-based vesting condition and a performance-based vesting
+
+condition, each of which must be satisfied in order for an RSU to vest, as described above in the section titled Elements of
+
+Executive CompensationLong-Term Equity Incentive Program. The amount disclosed represents the aggregate grant-date
+
+fair value of such RSU award, computed in accordance with FASB ASC Topic 718, based on the probable outcome of the
+
+performance-based condition as of the grant date.
+
+(3)Amounts reported include (i) $14,000 in connection with 401(k) company matching contributions (ii) $2,745,874 in
+
+connection with personal security services that we view as an integral part of our risk management program but may be deemed
+
+to be perquisites under current relevant disclosure rules (iii) $97,055 in costs related to Dr. Amodeis privateair travelfor
+
+personal use as required by Dr. Amodeis overall security program, including the minimal incremental costsfor Dr. Amodeis
+
+personal guests who accompanied him on certain trips as approved in advance by our board of directors (iv) $1,153,087,
+
+representing the spread between theaggregate purchaseprice and the fair market value of shares repurchased from Dr. Amodei
+
+in our June 2025 tender offer and (v) $625 representing a pro rata portion of the cost of a valuation report paid for and
+
+obtained by us from an appraisal firm (Valuation Report). The Valuation Report was prepared for the benefit of all employees
+
+who participated in our donation matching program, and, although Dr. Amodei did not participate in that program, he used the
+
+Valuation Report for tax reporting related to his separate charitable giving.
+
+(4)Amounts reported include (i) $14,000 in connection with 401(k) company matching contributions (ii) $1,293,629 in
+
+connection with company-paid personal protection, home security, and transportation services that we view as an integral part
+
+of our risk management program but are considered to convey a personal benefit to Ms. Amodei under the relevant disclosure
+
+rules (iii) $1,153,087, representing the spread between theaggregate purchaseprice and the fair market value of shares
+
+repurchased from Ms. Amodei in our June 2025 tender offer and (iv) $625 representing a pro rata portion of the cost of the
+
+Valuation Report. Although Ms. Amodei did not participate in our donation matching program, she used the Valuation Report
+
+for tax reporting related to her separate charitable giving.
+
+(5)Amounts reported reflect 401(k) company matching contributions.
+
+Post-Fiscal Year End Compensation Changes and Equity Awards
+
+Subsequent to the year ended December 31, 2025, we approved an adjustment to the base salaries of, granted
+
+new RSUs to, and entered into agreements providing certain severance benefits for, Dr. Amodei, Ms. Amodei,
+
+and Mr. Rao. We also paid the HSR Filing Fees (as defined below) for Dr. Amodei and Ms. Amodei. In addition,
+
+we began offering certain security services to Mr. Rao. These adjustments, awards, and benefits were made in
+
+consideration of the ongoing leadership roles of each of our NEOs and internal parity.
+
+Base Salary
+
+Effective January 16, 2026, the annual base salary for each of Dr. Amodei and Ms. Amodei was increased to
+
+$915,000. Effective February 1, 2026, the annual base salary for Mr. Rao was increased to $1,250,000. Effective
+
+July 1, 2026, the annual base salary for each of Dr. Amodei and Ms. Amodei was further increased to
+
+$1,380,000.
+
+Long-Term Equity Incentive Program
+
+On February 20, 2026, our board of directors granted 1,431,490 options to each of Dr. Amodei and Ms. Amodei
+
+and 1,122,840 options to Mr. Rao (together, the 2026 NEO Options) and 2,374,010 RSUs to each of Dr.
+
+Amodei and Ms. Amodei and 1,862,140 RSUs to Mr. Rao (together, the 2026 NEO RSUs). The 2026 NEO
+
+Options vest in equal monthly installments over a one-year period beginning on January 16, 2026 for each of
+
+Dr. Amodei and Ms. Amodei and on January 30, 2026 for Mr. Rao, subject to the executives continuous service
+
+with the company through each vest date. The 2026 NEO Options were granted with an exercise price equal to
+
+$17.66 per share. The 2026 NEO RSUs vest on the first date upon which both a service-based condition and a
+
+performance-based condition are satisfied. The service-based condition is satisfied as to 112th of the total 2026
+
+NEO RSUs on May 20, 2027, and on each quarterly anniversary thereafter, subject to the executives
+
+continuous service with the company through each vest date. The performance-based vesting condition of the
+
+2026 NEO RSUs will be satisfied upon the effectiveness of the registration statement of which this prospectus
+
+forms a part.
+
+On July 15, 2026, our board of directors granted 537,430 RSUs (2026 Co-Founder RSUs) to each of Dr.
+
+Amodei and Ms. Amodei. The 2026 Co-Founder RSUs vest on the first date upon which both a service-based
+
+condition and a performance-based condition are satisfied. The service-based condition is satisfied as to 116th
+
+of the total 2026 Co-Founder RSUs on August 20, 2026, and on each quarterly anniversary thereafter, subject
+
+to the executives continuous service with the company through each vest date. The performance-based vesting
+
+276
+
+Table of Contents
+
+condition of the 2026 Co-Founder RSUs will be satisfied upon the effectiveness of the registration statement of
+
+which this prospectus forms a part.
+
+Severance Benefits
+
+In October 2026, we entered into an Executive Severance Agreement (Executive Severance Agreement) with
+
+each of our NEOs that provides that, if the NEOs employment is terminated by the company without cause or
+
+the NEO resigns for good reason (as such terms are defined in the form of Executive Severance Agreement),
+
+then, subject to their execution of a release of claims in favor of the company and other conditions, they will be
+
+entitled to the following severance payments and benefits (i) an amount equal to 24 months of their then-
+
+current base salary for Dr. Amodei and Ms. Amodei and 12 months of his then-current base salary for Mr. Rao,
+
+(ii) an amount equal to 12 months of COBRA premium payments, and (iii) acceleration of 12 months of equity
+
+vesting for all outstanding equity awards subject to time-based vesting. We also entered into a letter agreement
+
+with Mr. Rao continuing the change of control vesting acceleration benefit previously included in the Rao Offer
+
+Letter on the same terms, without alteration.
+
+The changes described above will be reflected in our executive compensation disclosure for the year ending
+
+December 31, 2026.
+
+Perquisites and Other Executive Benefits
+
+HSR Filing Fees
+
+In October 2026, we paid directly to the FTC, on behalf of Dr. Amodei and Ms. Amodei, the filing fees that they
+
+were required to pay in connection with the filing of a notice under the Hart-Scott-Rodino Antitrust
+
+Improvements Act of 1976, as amended, each in the amount of $2.5 million (the HSR Filing Fees). The HSR
+
+Filing Fees were required in connection with the NEOs acquisition and holding of our securities. Our board of
+
+directors determined that paying the HSR Filing Fees served the best interest of us and our stockholders by
+
+ensuring compliance with antitrust regulations and promoting each NEOs retention and long-term stockholder
+
+value alignment by providing incentives for each NEO to participate in our long-term equity incentive program
+
+and work to increase the value of our securities.
+
+Security Services
+
+In 2026, we began offering certain security services to Mr. Rao and engaged a leading security consulting firm
+
+to conduct an independent, third-party security study regarding the personal and security risks of Mr. Rao.
+
+Given the importance of the role of Mr. Rao at Anthropic, we view the cost of these services as necessary and
+
+appropriate.
+
+Grants of Plan-Based Awards in 2025
+
+The following table sets forth information regarding grants of awards made to our NEOs during 2025
+
+Estimated Future
+
+Payouts Under
+
+Equity Incentive
+
+Plan Awards
+
+Name
+
+Grant
+
+Date(1)
+
+Target (#)(2)
+
+All Other Option
+
+Awards
+
+Number of
+
+Securities
+
+Underlying
+
+Options (#)
+
+Exercise or Base
+
+Price of
+
+Option
+
+Awards ($sh)
+
+Grant Date
+
+Fair Value of
+
+Stock and
+
+Option
+
+Awards ($)(3)
+
+Dario Amodei
+
+6122025
+
+992,500
+
+2.38
+
+4,028,558
+
+6122025
+
+1,717,000
+
+9,264,932
+
+Daniela Amodei
+
+6122025
+
+992,500
+
+2.38
+
+4,028,558
+
+6122025
+
+1,717,000
+
+9,264,932
+
+Krishna Rao
+
+______________
+
+(1)All awards were granted pursuant to our 2021 Plan, the terms of which are described below under the section titled Equity
+
+PlansAmended Restated 2021 Stock Plan.
+
+277
+
+Table of Contents
+
+(2)These awards reflect the grant of RSUs subject to both a service-based vesting condition and a performance-based vesting
+
+condition, each of which must be satisfied for the RSU to vest, as described above in the section titled Elements of Executive
+
+CompensationLong-Term Equity Incentive Program. The RSUs do not have threshold or maximum achievement levels,
+
+so the corresponding columns have been omitted.
+
+(3)The amounts reported represent the aggregate grant-date fair value of the RSUs or options awarded to the NEOs calculated in
+
+accordance with FASB ASC Topic 718. These amounts do not reflect the actual economic value that may be realized by each
+
+NEO. The assumptions used in determining the grant-date fair value of the RSUs or options, as applicable, reported in this
+
+column are set forth in Note 10 to our consolidated financial statements included elsewhere in this prospectus.
+
+Outstanding Equity Awards at 2025 Year-End
+
+The following table sets forth information regarding outstanding equity awards held by our NEOs as of
+
+December 31, 2025
+
+Option Awards(1)
+
+Stock Awards(1)
+
+Name
+
+Grant
+
+Date
+
+Number of
+
+Securities
+
+Underlying
+
+Unexercised
+
+Options (#)
+
+Exercisable
+
+Number of
+
+Securities
+
+Underlying
+
+Unexercised
+
+Options (#)
+
+Unexercisable
+
+Option
+
+Exercise
+
+Price($)
+
+Option
+
+Expiration
+
+Date
+
+Equity
+
+Incentive Plan
+
+Awards
+
+Numberof
+
+Unearned
+
+Shares,
+
+Unitsor Other
+
+Rights
+
+ThatHaveNot
+
+Vested (#)
+
+Equity
+
+Incentive Plan
+
+Awards
+
+Market
+
+orPayout
+
+Value of
+
+Unearned
+
+Shares, Units
+
+or
+
+Other Rights
+
+ThatHaveNot
+
+Vested ($)(2)
+
+Dario Amodei
+
+6122025
+
+909,790(3)
+
+82,710
+
+2.38
+
+6112035
+
+1,717,000(5)
+
+6122025
+
+30,317,069
+
+Daniela Amodei
+
+6122025
+
+909,790(3)
+
+82,710
+
+2.38
+
+6112035
+
+1,717,000(5)
+
+6122025
+
+30,317,069
+
+Krishna Rao
+
+5312024
+
+5,756,350(4)
+
+8,166,670
+
+1.30
+
+5302034
+
+______________
+
+(1)All awards were granted pursuant to our 2021 Plan, the terms of which are described below under the section titled Equity
+
+PlansAmended Restated 2021 Stock Plan.
+
+(2)Amounts reported represent the fair market value of our Class A common stock of $17.66 per share as of December 31, 2025.
+
+(3)112th of the total shares subject to the option vested on the one-month anniversary of the vesting commencement date
+
+(January 1, 2025), and 112th of the total shares vested in equal monthly installments thereafter, subject to the NEOs continued
+
+service with the company through each applicable vest date.
+
+(4)14th of the total shares subject to the option vested on the first anniversary of the vesting commencement date (April 18, 2024),
+
+and 148th of the total shares will vest in equal monthly installments thereafter, subject to the NEOs continued service with the
+
+company through each applicable vest date.
+
+(5)The RSUs vest on the first date upon which both aservice-basedcondition and a performance-based condition are satisfied.
+
+The service-based condition is satisfied as to 112th of the RSUs on the 15-month anniversary of the vesting commencement date
+
+(November 20, 2024) and on each three-month anniversary thereafter, subject to the NEOs continued service with the
+
+company through each applicable service-based vest date. The performance-based condition will be satisfied upon the
+
+effectiveness of the registration statement of which this prospectus forms a part.
+
+Option Exercises and Stock Vested in 2025
+
+The following table sets forth the number of shares of Class A common stock acquired during 2025 by our
+
+NEOs upon the exercise of stock options and the vesting of stock awards and the value realized upon such
+
+exercise or vesting
+
+Option Awards
+
+Stock Awards
+
+Name
+
+Number of
+
+Securities
+
+Acquired on
+
+Exercise (#)
+
+Value Realized
+
+on Exercise
+
+($)(1)
+
+Number of
+
+Securities
+
+Acquired on
+
+Vesting (#)
+
+Value Realized
+
+on Vesting
+
+($)(2)
+
+Dario Amodei
+
+5,058,340
+
+12,013,558
+
+Daniela Amodei
+
+5,058,340
+
+12,013,558
+
+Krishna Rao
+
+76,980
+
+385,285
+
+______________
+
+(1)Based on the fair market value of our Class A common stock on the date of exercise, less the option exercise price paid for those
+
+shares, multiplied by the number of shares for which the option was exercised.
+
+278
+
+Table of Contents
+
+(2)Based on the fair market value of our Class A common stock on the vesting date, multiplied by the number of shares that vested.
+
+Employment, Severance, and Change of Control Arrangements with Our
+
+NEOs
+
+We entered into an offer letter with Mr. Rao dated March 2, 2024, which provided for at-will employment and
+
+included his initial base salary, a new hire stock option grant, and severance and change of control benefits. The
+
+Rao Offer Letter was in effect during 2025 and was terminated in October 2026.
+
+Specifically, the Rao Offer Letter provided that if, at any time, his employment was terminated by the company
+
+without cause or he resigned for good reason (as such terms are defined in the Rao Offer Letter), then,
+
+subject to his execution of a release of claims in favor of the company, his compliance with his confidential
+
+information and invention assignment agreement and all material company policies, and his return of company
+
+property, he would be eligible to receive the following severance payments and benefits (i) an amount equal to
+
+six months of his then-current base salary, (ii) payment of monthly premiums for coverage under COBRA for
+
+up to six months, and (iii) accelerated vesting as to 18th of the Rao Options.
+
+The Rao Offer Letter further provided that if, within 30 days prior to, upon or at any time following a change of
+
+control (as defined in our 2021 Plan), his employment was terminated by the company without cause or he
+
+resigns for good reason, then, subject to his execution of a release of claims in favor of the company and his
+
+return of company property, 100% of any then-unvested shares subject to his then-outstanding equity awards,
+
+including the Rao Options, would accelerate and vest. If, in the change of control, his then-outstanding equity
+
+awards would otherwise have been terminated for no consideration at the closing of the change of control event,
+
+then those awards would instead become fully vested as of immediately prior to such closing. Upon the
+
+termination of the Rao Offer Letter in October 2026, we entered into a letter agreement with Mr. Rao
+
+continuing the change of control vesting acceleration benefit described herein on the same terms, without
+
+alteration.
+
+For additional information regarding the terms of the Rao Offer Letter, see the section titled Executive
+
+Employment Agreements. For additional information regarding severance benefits for our NEOs, see the
+
+section titled Post-Fiscal Year End Compensation Changes and Equity Awards.
+
+Potential Payments upon Termination or Change of Control
+
+During 2025, Mr. Rao was eligible to receive severance benefits under the terms of the Rao Offer Letter, as
+
+discussed in the section titled Termination and Change of Control Benefits. None of our other NEOs was
+
+eligible to receive severance benefits during 2025. For additional information regarding severance benefits for
+
+our NEOs, see the section titled Post-Fiscal Year End Compensation Changes and Equity Awards.
+
+Potential Payments upon Termination Apart from a Change of Control
+
+The following table sets forth quantitative estimates of the benefits that would have accrued to each of our
+
+NEOs if any of their employment had been terminated by the NEO for good reason or by us for a reason other
+
+than cause (and not due to death or disability) (a Qualifying Termination), the NEO executed a release of
+
+claims in favor of the company and complied with the other conditions described above, and such Qualifying
+
+Termination had occurred on December 31, 2025
+
+Cash
+
+Severance
+
+($)
+
+Value of
+
+Accelerated
+
+Equity Awards
+
+($)
+
+Continuing
+
+Health
+
+Coverage
+
+($)
+
+Total
+
+($)
+
+Dario Amodei
+
+Daniela Amodei
+
+Krishna Rao(1)
+
+425,000
+
+(2)
+
+28,626,500
+
+(3)
+
+16,079
+
+(4)
+
+29,067,579
+
+______________
+
+(1)Good reason, cause, and disability are defined in the Rao Offer Letter.
+
+(2)This amount is equal to six months of Mr. Raos annual base salary, to be paid in a lump sum.
+
+279
+
+Table of Contents
+
+(3)This amount represents the value of acceleration of 18th of the total number of shares subject to the Rao Options (1,750,000
+
+shares). This amount is based on the fair market value of our Class A common stock of $17.66 per share as of December 31,
+
+2025, minus the option exercise price of $1.30 per share, multiplied by the number of shares subject to acceleration.
+
+(4)Amount is based on a payment equal to the premium cost of continued health coverage under COBRA for a period of six
+
+months.
+
+Potential Payments upon Termination in Connection with a Change of Control
+
+The following table sets forth quantitative estimates of the benefits that would have accrued to each of our
+
+NEOs if any of their employment had been terminated by the NEO in a Qualifying Termination in connection
+
+with a change of control (as defined in our 2021 Plan), the NEO executed a release of claims in favor of the
+
+company and complied with the other conditions described above, and such Qualifying Termination had
+
+occurred on December 31, 2025
+
+Cash
+
+Severance
+
+($)
+
+Value of
+
+Accelerated
+
+Equity Awards
+
+($)
+
+Continuing
+
+Health
+
+Coverage
+
+($)
+
+Total
+
+($)
+
+Dario Amodei
+
+Daniela Amodei
+
+Krishna Rao(1)
+
+425,000
+
+(2)
+
+133,590,388
+
+(3)
+
+16,079
+
+(4)
+
+134,031,467
+
+______________
+
+(1)Good reason, cause and disability are defined in the Rao Offer Letter.
+
+(2)This amount is equal to six months of Mr. Raos annual base salary, to be paid in a lump sum.
+
+(3)This amount represents the value of acceleration of 100% of the total number of unvested shares subject to the Rao Options
+
+(8,166,670 shares), which right to acceleration is triggered (i) upon Mr. Raos Qualifying Termination within 30 days prior to,
+
+on, or following a change of control or (ii) if Mr. Raos equity awards otherwise would terminate for no consideration in a
+
+change of control (without the requirement of a Qualifying Termination). This amount is based on the fair market value of our
+
+Class A common stock of $17.66 per share as of December 31, 2025, as determined by our board of directors in good faith,
+
+minus the option exercise price of $1.30 per share, multiplied by the number of shares subject to acceleration.
+
+(4)Amount is based on a payment equal to the premium cost of continued health coverage under COBRA for a period of six
+
+months.
+
+Equity Plans
+
+2026 Equity Incentive Plan
+
+General. Our 2026 Plan was adopted by our board of directors on September 1, 2026, and approved by our
+
+stockholders on October 22, 2026. Our 2026 Plan will become effective as of the day immediately prior to the
+
+day the registration statement of which this prospectus forms a part is effective.
+
+Share Reserve. The maximum aggregate number of shares that may be issued under our 2026 Plan is
+
+(i)shares of our Class A common stock plus (ii) the number of shares of our Class A common stock equal
+
+to the total shares of Voting Common Stock available for issuance pursuant to our 2021 Plan immediately prior
+
+to the termination of our 2021 Plan on the effective date of our 2026 Plan plus (iii) the number of shares of our
+
+Class A common stock equal to the total shares of Voting Common Stock subject to awards previously granted
+
+under our 2021 Plan that, after the effective date of our 2026 Plan, would have returned to our 2021 Plan and
+
+become available for issuance pursuant to future awards under our 2021 Plan had our 2021 Plan not terminated
+
+on the effective date of our 2026 Plan (provided that the maximum number of shares pursuant to (ii) plus (iii)
+
+isshares).
+
+In addition, the number of shares that may be issued under our 2026 Plan will be increased on the first day of
+
+each fiscal year beginning with our 2027 fiscal year and ending on (and including) the first day of our 2036
+
+fiscal year, in an amount equal to the lesser of (i) 5% of the total number of shares of our common stock
+
+(including only all classes of common stock issued by the company that carry economic rights) outstanding on
+
+the last day of the calendar month prior to the date of such automatic increase (calculated on an as-converted
+
+basis) and (ii) such number of shares determined by our board of directors.
+
+To the extent an award should expire or be forfeited or become unexercisable for any reason without having
+
+been exercised in full, or is surrendered pursuant to an exchange program, the unissued shares that were
+
+subject thereto shall continue to be available under our 2026 Plan for issuance pursuant to future awards. In
+
+280
+
+Table of Contents
+
+addition, any shares which are retained by us to satisfy exercise or purchase price or any withholding taxes shall
+
+be treated as not issued and shall continue to be available under our 2026 Plan for issuance pursuant to future
+
+awards. Shares issued under our 2026 Plan and later forfeited to us due to the failure to vest or repurchased by
+
+us at a price no greater than the original purchase price paid to us for the shares shall again be available for
+
+future grant under our 2026 Plan. To the extent an award under our 2026 Plan is paid out in cash rather than
+
+shares, such cash payment will not reduce the number of shares available for issuance under our 2026 Plan.
+
+Plan Administration. Our board of directors has delegated its authority to administer our 2026 Plan to our
+
+compensation committee. Subject to the provisions of our 2026 Plan, the administrator has the power to
+
+determine the terms of awards, including the recipients, the exercise price, if any, the number of shares subject
+
+to each award, the fair market value of a share of our Class A common stock, the vesting schedule applicable to
+
+the awards, together with any vesting acceleration, the form of consideration, if any, payable upon exercise of
+
+the award and the terms of the award agreement for use under our 2026 Plan. The administrator also has the
+
+authority, subject to the terms of our 2026 Plan, to amend existing awards, to prescribe rules and to construe
+
+and interpret our 2026 Plan and awards granted thereunder and to institute an exchange program by which
+
+outstanding awards are amended to provide for a lower exercise price or surrendered or cancelled in exchange
+
+for awards with a lower exercise price, a different type of award under our 2026 Plan or a different equity
+
+incentive plan, cash, or a combination thereof.
+
+Eligibility. Employees, members of our board of directors who are not employees, and consultants (including,
+
+without limitation, employees of a staffing agency, professional employer organization, employer of record, and
+
+similar workers) are eligible to participate in our 2026 Plan.
+
+Types of Awards. Our 2026 Plan provides for the grant of stock options, stock appreciation rights, restricted
+
+stock, RSUs, and stock bonus awards to our employees, directors, and consultants and the employees and
+
+consultants of our subsidiaries.
+
+Stock Options. The administrator may grant incentive stock options (within the meaning of Section 422 of the
+
+Code) andor nonstatutory stock options under our 2026 Plan, provided that incentive stock options may only
+
+be granted to our employees and the employees of our subsidiaries. The exercise price applicable to such
+
+options must generally be equal to at least the fair market value of our Class A common stock on the date of
+
+grant. The term of an incentive stock option may not exceed 10 years provided, however, that an incentive
+
+stock option held by a participant who owns more than 10% of the total combined voting power of all classes of
+
+our stock, or of certain of our subsidiary corporations, may not have a term in excess of five years and must
+
+have an exercise price equal to at least 110% of the fair market value of our Class A common stock on the grant
+
+date.
+
+The administrator will determine the methods of payment of the exercise price applicable to an option, which
+
+may include cash, shares, or other property acceptable to the administrator. Subject to the provisions of our
+
+2026 Plan, the administrator determines the remaining terms of the options. Such terms may include, among
+
+other things, vesting upon the achievement of specific performance goals determined by the administrator and
+
+or continued service. After the termination of service, the participant may exercise their option, to the extent
+
+vested, for the period of time stated in their option agreement. Except in the event of a termination for cause,
+
+options generally remain outstanding to the extent exercisable for the full term of the options. In no event may
+
+an option be exercised later than the expiration of its term. The specific terms will be set forth in an award
+
+agreement.
+
+Stock Appreciation Rights. Stock appreciation rights may be granted under our 2026 Plan. Stock appreciation
+
+rights allow the recipient to receive the appreciation in the fair market value of our Class A common stock
+
+between the date of grant and the exercise date. Subject to the provisions of our 2026 Plan, the administrator
+
+determines the terms of stock appreciation rights, including when such rights vest and become exercisable and
+
+whether to settle such awards in cash or with shares of our Class A common stock, or a combination thereof,
+
+except that the per share exercise price for the shares to be issued pursuant to the exercise of a stock
+
+appreciation right will be no less than 100% of the fair market value per share on the date of grant. The specific
+
+terms will be set forth in an award agreement.
+
+Restricted Stock. Restricted stock may be granted under our 2026 Plan. RSAs are grants of shares of our Class
+
+A common stock that are subject to various restrictions, including restrictions on transferability and forfeiture
+
+281
+
+Table of Contents
+
+provisions. Shares of restricted stock will vest and the restrictions on such shares will lapse, in accordance with
+
+terms and conditions established by the administrator. Such terms may include, among other things, vesting
+
+upon the achievement of specific performance goals determined by the administrator andor continued service.
+
+The administrator, in its sole discretion, may accelerate the time at which any restrictions will lapse or be
+
+removed. Recipients of RSAs generally will have voting and dividend rights with respect to such shares upon
+
+grant without regard to vesting, unless the administrator provides otherwise. Shares of restricted stock that do
+
+not vest for any reason will be subject to our right of repurchase or forfeited by the recipient. The specific terms
+
+will be set forth in an award agreement.
+
+Restricted Stock Units. RSUs may be granted under our 2026 Plan and may include the right to dividend
+
+equivalents, as determined in the discretion of the administrator. Each RSU granted is a bookkeeping entry
+
+representing an amount equal to the fair market value of one share of our Class A common stock. The
+
+administrator determines the terms and conditions of RSUs, including the vesting criteria, which may include
+
+achievement of specified performance criteria andor continued service. The administrator, in its sole
+
+discretion, may accelerate the time at which any restrictions will lapse or be removed. The administrator
+
+determines, in its sole discretion, the timing of payment and whether an award will be settled in stock, cash, or
+
+a combination thereof. The specific terms will be set forth in an award agreement.
+
+Stock Bonus Awards. Stock bonus awards may be granted under our 2026 Plan. The administrator may grant
+
+stock bonus awards in such amounts, and subject to such terms, as the administrator, in its sole discretion, will
+
+determine. A stock bonus award is an award of shares of our Class A common stock without a purchase price.
+
+All stock bonus awards may be made, but are not required to be made, pursuant to an award agreement.
+
+Payment of a stock bonus award may be made in the form of cash, shares, or a combination thereof, based on
+
+the fair market value of the shares subject to the stock bonus award on the date of payment, as determined in
+
+the sole discretion of the administrator.
+
+Outside Director Limitations. Stock awards granted during a single fiscal year under our 2026 Plan or
+
+otherwise, taken together with any cash fees paid during such fiscal year for services on our board of directors,
+
+shall not exceed $1,000,000 in total value for any non-employee director, except with respect to the first year of
+
+service in which case any stock awards granted and cash fees paid will not exceed $2,000,000 in total value
+
+(calculating the value of any such stock awards, in each case, based on the grant-date fair value of such stock
+
+awards for financial reporting purposes). Such applicable limit includes the value of any stock awards that are
+
+granted in lieu of all or a portion of any annual committee cash retainers or other similar cash-based payments.
+
+Stock awards granted to an individual while they were serving in the capacity as an employee or while they were
+
+an independent contractor but not a non-employee director will not count for purposes of the limitations
+
+described above.
+
+Non-Transferability of Awards. Unless the administrator provides otherwise, our 2026 Plan generally does not
+
+allow for the transfer of awards other than by will or the laws of descent and distribution and only the recipient
+
+of an option or stock appreciation right may exercise such an award during their lifetime.
+
+Certain Adjustments. In the event of a stock split, reverse stock split, stock dividend, combination,
+
+consolidation, recapitalization (including a recapitalization through a large nonrecurring cash dividend or
+
+distribution of property, including shares of a subsidiary), or reclassification of the shares, subdivision of the
+
+shares, a rights offering, a reorganization, merger, spin-off, split-up, repurchase, or exchange of common stock
+
+or other securities of the company or other significant corporate transaction, or other change affecting the
+
+common stock, the administrator, in order to prevent dilution, diminution, or enlargement of the benefits or
+
+potential benefits intended to be made available under our 2026 Plan, will, in such manner as it may deem
+
+equitable, adjust the number, kind, and class of securities that may be delivered under our 2026 Plan andor
+
+the number, class, kind, and price of securities covered by each outstanding award, and the terms and
+
+conditions of any outstanding award (including, without limitation, any applicable performance targets or
+
+criteria with respect thereto).
+
+Dissolution or Liquidation. In the event of a proposed winding up, dissolution, or liquidation of the company,
+
+the administrator will notify participants as soon as practicable prior to the effective date of such proposed
+
+transaction and all awards will terminate immediately prior to the consummation of such proposed transaction,
+
+to the extent not previously exercised or settled.
+
+282
+
+Table of Contents
+
+Corporate Transaction. Our 2026 Plan provides that, in the event of certain significant corporate transactions,
+
+including (1) a transfer of all or substantially all of our assets (2) a merger, consolidation, or other capital
+
+reorganization or business combination transaction of the company with or into another corporation, entity, or
+
+person or (3) the consummation of a transaction, or series of related transactions, in which any person
+
+becomes the beneficial owner, directly or indirectly, of more than 50% of the companys then-outstanding
+
+capital stock, each outstanding award will be treated as the administrator determines. Such determination,
+
+without the consent of any participant, may provide that such awards will be (i) continued if we are the
+
+surviving corporation (ii) assumed by the surviving corporation or its parent (iii) substituted by the surviving
+
+corporation or its parent for a new award (iv) cancelled in exchange for a payment equal to the excess of the
+
+fair market value of our shares subject to such award over the exercise price or purchase price paid for such
+
+shares (v) subject to full or partial acceleration of vesting, settlement, payment, andor expiration as of
+
+immediately prior to the corporate transaction (vi) subject to full or partial lapse of forfeiture, repurchase, or
+
+reacquisition rights with respect to shares previously acquired pursuant to any awards as of immediately prior
+
+to the corporate transaction (vii) in the case of outstanding options andor stock appreciation rights, allowed to
+
+be exercised prior to the occurrence of the corporate transaction and terminated (for no consideration) upon
+
+the consummation of such corporate transaction if not exercised prior thereto or (viii) cancelled in exchange
+
+for no consideration.
+
+Change in Control. The administrator may provide, in an individual award agreement or in any other written
+
+agreement between a participant and us, that the stock award will be subject to additional acceleration of
+
+vesting, settlement, payment, andor expiration in the event of a change in control.
+
+Under our 2026 Plan, a change in control is generally (1) a merger, consolidation, or any other corporate
+
+reorganization in which the shares of capital stock of the company immediately before the transaction cease to
+
+represent immediately after such transaction at least a majority of the voting power of the continuing or
+
+surviving entity in substantially the same proportions immediately after such transaction as in effect before
+
+such transaction (2) with certain limited exceptions, the consummation of the sale, transfer, or other
+
+disposition of all or substantially all of our assets (3) a change in the effective control of the company which
+
+occurs on the date that a majority of our board members are replaced during any 12-month period by directors
+
+whose appointment or election is not endorsed by a majority of the members of our board of directors prior to
+
+the date of the appointment or election or (4) the consummation of any transaction as a result of which any
+
+person or company becomes the beneficial owner, directly or indirectly, of at least 50% of the total voting power
+
+represented by our then-outstanding voting securities. No transaction shall constitute a change in control (i) as
+
+the result of the initial effectiveness of the companys amended and restated certificate of incorporation that
+
+will become effective immediately prior to the effectiveness of the registration statement of which this
+
+prospectus forms a part, (ii) pursuant to Section (3) above until after the time at which both the Class F Sunset
+
+Time and the Class T Sunset Time have occurred, as such terms are defined in the companys amended and
+
+restated certificate of incorporation that will become effective immediately prior to the effectiveness of the
+
+registration statement of which this prospectus forms a part, (iii) if its primary purpose is to change the
+
+jurisdiction of the companys incorporation or to create a holding company owned in substantially the same
+
+proportions by the persons who held company securities immediately before such transactions, or (iv) if
+
+required for compliance with Section 409A of the Code, a transaction will not be a change in control unless it is
+
+also a change in the ownership or effective control of the company or a change in the ownership of a
+
+substantial portion of the assets of the company as determined under applicable Treasury regulations.
+
+Compensation Recovery Policy. Awards granted under our 2026 Plan will be subject to reduction, cancellation,
+
+forfeiture, andor recoupment in accordance with any compensation recovery policy as may be in effect as of
+
+the date of grant of such award, or as such policy is amended or another policy is adopted to comply with
+
+applicable laws. In addition, the administrator may impose such other compensation recovery or recoupment
+
+provisions in any award agreement as it determines necessary or appropriate.
+
+Amendment or Termination. Our administrator has the authority to amend, alter, suspend, or terminate our
+
+2026 Plan, provided such action does not materially impair the existing rights of any participant unless
+
+otherwise provided in our 2026 Plan or mutually agreed otherwise. Our 2026 Plan will continue in effect until
+
+terminated by the administrator, but no options that qualify as incentive stock options may be granted after 10
+
+years from the earlier of the board or stockholder approval of our 2026 Plan. We will obtain stockholder
+
+approval of any amendment to our 2026 Plan as required by applicable law or listing requirements.
+
+283
+
+Table of Contents
+
+Amended Restated 2021 Stock Plan
+
+General. Our board of directors adopted our 2021 Plan on January 28, 2021 and last amended our 2021 Plan
+
+effective as of May 28, 2026. Our 2021 Plan will be terminated effective as of the day immediately prior to the
+
+day the registration statement of which this prospectus forms a part becomes effective, and no new awards will
+
+be granted under our 2021 Plan following this offering, but previously granted awards will continue to be
+
+subject to the terms and conditions of our 2021 Plan and the award agreements evidencing such awards.
+
+Share Reserve. We have reserved for issuance pursuant to our 2021 Plan an aggregate of 3,864,826,090 shares
+
+of our Class A common stock. In general, if an award granted under our 2021 Plan (i) expires or is terminated,
+
+cancelled, or otherwise forfeited by a participant, (ii) a share subject to an award is withheld in satisfaction of
+
+the exercise price andor tax withholding due in connection with such award, or (iii) a share previously issued
+
+pursuant to an award is forfeited or repurchased at the original purchase price paid for the share, then the
+
+number of unissued shares subject to any such award, and any such withheld, forfeited, or repurchased shares,
+
+will again become available for awards under our 2021 Plan. Following the effectiveness of our 2026 Plan, such
+
+shares will again become available for awards under our 2026 Plan.
+
+Plan Administration. Our board of directors has administered our 2021 Plan before this offering. Our board of
+
+directors has delegated its authority to administer our 2021 Plan to our compensation committee following this
+
+offering.
+
+Types of Awards. Our 2021 Plan provides for incentive and non-statutory stock options to purchase shares of
+
+our Class A common stock, RSAs, and RSUs. As of the date of this prospectus, we have issued stock options,
+
+restricted stock, and RSUs pursuant to our 2021 Plan.
+
+Non-transferability of Awards. Unless the administrator provides otherwise, our 2021 Plan generally does not
+
+allow for the transfer of awards other than by will or the laws of descent and distribution and only the recipient
+
+of an option right may exercise such an award during their lifetime.
+
+Certain Adjustments. In the event of certain corporate events or changes in our capitalization, to prevent
+
+diminution or enlargement of the benefits or potential benefits available under our 2021 Plan, the
+
+administrator will make adjustments to one or more of the number, kind, and class of securities that may be
+
+delivered under our 2021 Plan andor the number, kind, class, and price of securities covered by each
+
+outstanding award.
+
+Corporate Transaction. Our 2021 Plan provides that in the event of (i) a transfer of all or substantially all of our
+
+assets, (ii) a merger, consolidation, or other capital reorganization or business combination transaction of us
+
+with or into another corporation, entity, or person, or (iii) the consummation of a transaction, or series of
+
+related transactions, in which any person becomes the beneficial owner, directly or indirectly, of more than
+
+50% of our then-outstanding capital stock (each, a Corporate Transaction), the administrator may, in its sole
+
+and absolute discretion and without the need for the consent of any participant, take one or more of the
+
+following actions contingent upon the occurrence of that Corporate Transaction with respect to outstanding
+
+awards granted under our 2021 Plan which provide for (A) the continuation of such awards by us (if we are the
+
+surviving corporation) (B) the assumption of such awards by the surviving corporation or its parent (C) the
+
+substitution by the surviving corporation or its parent of new options or equity awards for such awards (D) the
+
+cancellation of such awards in exchange for a payment to the participants equal to the excess of (1) the fair
+
+market value of the shares or units subject to such awards as of the closing date of such Corporate Transaction
+
+over (2) the exercise price or purchase price paid or to be paid for the shares or units representing shares
+
+subject to the awards, as applicable or (E) the cancellation of any outstanding awards or an outstanding right
+
+to purchase restricted stock, in either case, for no consideration.
+
+Amendment or Termination. Our board of directors may amend or terminate our 2021 Plan at any time. If our
+
+board of directors amends our 2021 Plan, we will ask our stockholders to approve the amendment if such
+
+approval is necessary or desirable to comply with applicable law. No further awards will be made under our
+
+2021 Plan after this offering.
+
+284
+
+Table of Contents
+
+2026 Employee Stock Purchase Plan
+
+General. Our ESPP was adopted by our board of directors on September 1, 2026, and approved by our
+
+stockholders on October 22, 2026. Our ESPP will become effective as of the day immediately prior to the day
+
+the registration statement of which this prospectus forms a part is effective.
+
+Our ESPP includes two components a 423 component and a non423 component. We intend the 423
+
+component to qualify as an employee stock purchase plan within the meaning of Section 423 of the Code. The
+
+non-423 component authorizes grants of purchase rights that do not comply with Section 423 of the Code.
+
+Share Reserve. The maximum aggregate number of shares that may be issued under our ESPP is shares
+
+of our Class A common stock.
+
+In addition, the number of shares that may be issued under our ESPP will be increased on the first day of each
+
+fiscal year beginning with our 2027 fiscal year and ending on (and including) the first day of our 2036 fiscal
+
+year, in an amount equal to the lesser of (i) 1% of the total number of shares of our common stock (including
+
+only all classes of common stock issued by the company that carry economic rights) outstanding on the last day
+
+of the calendar month prior to the date of such automatic increase (calculated on an as-converted basis) and
+
+(ii) such number of shares determined by our board of directors.
+
+Plan Administration. Our ESPP is administered by our board of directors or a committee designated by our
+
+board of directors. Our board of directors has delegated its authority to administer our ESPP to our
+
+compensation committee.
+
+Eligibility. Generally, all regular employees, including executive officers, employed by us or by any of our
+
+designated affiliates and specified service providers (including non-U.S. service providers) or our designated
+
+affiliates may participate in our ESPP.
+
+Employees may have to satisfy one or more of the following service requirements before participating in the 423
+
+components of our ESPP, as determined by the administrator, including (1) continuous service with us or one
+
+of our affiliates for at least two years (or such lesser period of time as may be determined by our board of
+
+directors), (2) being customarily employed for more than 20 hours per week (or such lesser period of time as
+
+may be determined by our board of directors), (3) being customarily employed for more than five months per
+
+calendar year (or such lesser period of time as may be determined by our board of directors), (4) is not a highly
+
+compensated employee within the meaning of Section 423(b)(4)(D) of the Code, or (5) such other criteria as our
+
+board of directors may determine to be consistent with Section 423 of the Code. No employee may purchase
+
+shares under the 423 component of our ESPP at a rate in excess of $25,000 worth of our Class A common stock
+
+based on the fair market value per share of our Class A common stock at the beginning of an offering for each
+
+year such a purchase right is outstanding. Finally, no employee will be eligible for the grant of any purchase
+
+rights under the 423 component of our ESPP if immediately after such rights are granted, such employee has
+
+voting power over 5% or more of our outstanding capital stock measured by vote or value under Section 424(d)
+
+of the Code.
+
+Offerings. Our ESPP is implemented through offerings pursuant to which participants are granted rights to
+
+purchase shares of our Class A common stock on specified dates during such offerings. Under our ESPP, we
+
+may specify offerings with durations of not more than 27 months and may specify shorter purchase periods
+
+within each offering. Each offering will have one or more purchase dates on which shares of our Class A
+
+common stock will be purchased by participants in the offering. An offering under our ESPP may be terminated
+
+under certain circumstances. The administrator will have the discretion to structure an offering so that if the
+
+fair market value of a share of our Class A common stock on the first trading day of a new purchase period
+
+within that offering is less than or equal to the fair market value of a share of our Class A common stock on the
+
+offering date for that offering, then that offering will terminate immediately as of that first trading day, and the
+
+participants in such terminated offering will be automatically enrolled in a new offering beginning on the first
+
+trading day of such new offering.
+
+Payroll Deductions. Participants who are employees may generally make contributions through payroll
+
+deductions (unless otherwise required by law or provided for in an offering). In the case of an offering under the
+
+423 component, such percentage or maximum dollar amount of contributions may not exceed 15% of their
+
+285
+
+Table of Contents
+
+earnings for the applicable offering. Contributions pursuant to the non-423 component will generally be made
+
+on an after-tax basis in a manner determined by the administrator.
+
+Shares of our Class A common stock will be purchased for the accounts of participants in our ESPP at a price
+
+per share that is not less than the lesser of (1) 85% of the fair market value of a share of our Class A common
+
+stock on the first date of an offering, or (2) 85% of the fair market value of a share of our Class A common stock
+
+on the date of purchase.
+
+Certain Adjustments. In the event of any change that is made in, or other events that occur with respect to, our
+
+Class A common stock subject to our ESPP or subject to any purchase right without the receipt of consideration
+
+by the company through merger, consolidation, reorganization, recapitalization, reincorporation, stock
+
+dividend, dividend in property other than cash, large nonrecurring cash dividend, stock split, liquidating
+
+dividend, combination of shares, exchange of shares, change in corporate structure, or other similar equity
+
+restructuring transaction, our board of directors will make appropriate and proportionate adjustments to (1)
+
+the class(es) and maximum number of shares reserved under our ESPP, (2) the class(es) and maximum number
+
+of shares by which the share reserve may increase automatically each year, (3) the class(es) and number of
+
+shares subject to, and purchase price applicable to, all outstanding offerings and purchase rights, and (4) the
+
+class(es) and number of shares that are subject to purchase limits under ongoing offerings.
+
+Dissolution or Liquidation. In the event of a dissolution or liquidation of the company, any offering then in
+
+progress will be shortened by setting a new purchase date prior to the consummation of such proposed
+
+dissolution or liquidation. Our board of directors will notify each participant that the purchase date has been
+
+changed and that the participants purchase right will be exercised automatically on the new purchase date
+
+unless prior to such date the participant has withdrawn from the offering.
+
+Corporate Transactions. Our ESPP provides that in the event of certain significant corporate transactions,
+
+including (1) a transfer of all or substantially all of our assets (2) a merger, consolidation, or other capital,
+
+reorganization or business combination transaction of the company with or into another corporation, entity, or
+
+person or (3) the consummation of a transaction, or series of related transactions, in which any person
+
+becomes the beneficial owner, directly or indirectly, of more than 50% of our then-outstanding capital stock, a
+
+successor corporation may assume, continue, or substitute each outstanding purchase right. If the successor
+
+corporation does not assume, continue, or substitute the purchase right, the participants accumulated
+
+contributions will be used to purchase shares prior to the corporate transaction and the purchase rights will
+
+terminate immediately after such purchase. The administrator will notify each participant that the purchase
+
+date has been changed and that the participants purchase right will be exercised automatically on the new
+
+purchase date unless prior to such date the participant has withdrawn from the offering.
+
+Spin-Off. In the event of a spin-off or similar transaction, our board of directors may take actions deemed
+
+necessary or appropriate in connection with any ongoing offering, subject to compliance with applicable laws.
+
+In the absence of any such action, if an entity ceases to qualify as a related company under our ESPP, any
+
+participant in an ongoing offering employed by, or providing services to, such entity will be treated in the same
+
+manner as if the participant had terminated employment or service.
+
+Amendment or Termination. Our board of directors has the authority to amend, suspend, or terminate our
+
+ESPP at any time, except that, subject to certain exceptions described in our ESPP, no such action may
+
+materially impair outstanding rights under our ESPP. We will obtain stockholder approval of any amendment
+
+to our ESPP as required by applicable law or listing requirements.
+
+286
+
+Table of Contents
+
+Certain Relationships and Related Person
+
+Transactions
+
+In addition to the compensation arrangements, including employment, termination of employment, and change
+
+in control arrangements, discussed in the sections titled Management and Executive Compensation, the
+
+following is a description of each transaction since January1, 2023 and each currently proposed transaction in
+
+which
+
+we have been or are to be a participant
+
+the amount involved exceeded or exceeds $120,000 and
+
+any of our directors, executive officers, or holders of more than 5% of any class of our outstanding
+
+voting securities, or any immediate family member of, or person sharing the household with, any of
+
+these individuals or entities, had or will have a direct or indirect material interest.
+
+Equity Financings
+
+Series H Redeemable Convertible Preferred Stock Financing
+
+From May 2026 to June 2026, we sold an aggregate of 77,637,878 shares of our Series H-1 redeemable
+
+convertible preferred stock at a purchase price of $589.0095 per share, for an aggregate purchase price of
+
+$45,729,447,703. The following table summarizes purchases of our Series H-1 redeemable convertible preferred
+
+stock by related persons
+
+Stockholder
+
+Shares of
+
+Series H-1
+
+Redeemable
+
+Convertible
+
+Preferred
+
+Stock
+
+Total
+
+Purchase
+
+Price
+
+Spark Capital (1)
+
+747,016
+
+$439,999,521
+
+Bodhi LLC (2)
+
+16,977
+
+$9,999,614
+
+______________
+
+(1)Shares purchased by Spark Capital Growth Fund VI, L.P. and Spark Capital Growth Fund Holdings 2026, LLC. Yasmin Razavi,
+
+a member of our board of directors, is a managing member of the General Partner of each of Spark Capital Growth Fund VI,
+
+L.P. and Spark Capital Growth Fund Holdings 2026, LLC.
+
+(2)Bodhi LLC is wholly owned by Vas Narasimhan, a member of our board of directors, and his wife.
+
+Series G Redeemable Convertible Preferred Stock Financing
+
+From January 2026 to February 2026, we sold an aggregate of 90,510,425 shares of our Series G-1 redeemable
+
+convertible preferred stock at a purchase price of $259.1364 per share, for an aggregate purchase price of
+
+$23,454,545,698. The following table summarizes purchases of our Series G-1 redeemable convertible preferred
+
+stock by related persons
+
+Stockholder
+
+Shares of
+
+Series G-1
+
+Redeemable
+
+Convertible
+
+Preferred
+
+Stock
+
+Total
+
+Purchase
+
+Price
+
+Spark Capital (1)
+
+96,474
+
+$24,999,925
+
+______________
+
+(1)Shares purchased by Spark Capital Growth Founders Fund V, L.P. and Spark Capital Growth Fund V, L.P. (each, a Spark V
+
+entity, and collectively, Spark V entities), which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of
+
+directors, is a managing member of the General Partner of each Spark V entity.
+
+287
+
+Table of Contents
+
+Series F Redeemable Convertible Preferred Stock Financing
+
+From August 2025 to September 2025, we sold an aggregate of 92,219,720 shares of our Series F-1 redeemable
+
+convertible preferred stock at a purchase price of $140.9676 per share, for an aggregate purchase price of
+
+$12,999,992,602. The following table summarizes purchases of our Series F-1 redeemable convertible preferred
+
+stock by related persons
+
+Stockholder
+
+Shares of
+
+Series F-1
+
+Redeemable
+
+Convertible
+
+Preferred
+
+Stock
+
+Total
+
+Purchase
+
+Price
+
+Spark Capital (1)
+
+439,817
+
+$61,999,947
+
+______________
+
+(1)Shares purchased by the Spark V entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of
+
+directors, is a managing member of the General Partner of each Spark V entity.
+
+Series E Redeemable Convertible Preferred Stock Financing
+
+From January 2025 to March 2025, we sold an aggregate of 63,610,106 shares of our Series E-1 redeemable
+
+convertible preferred stock at a purchase price of $56.0865 per share, for an aggregate purchase price of
+
+$3,567,668,210. The following table summarizes purchases of our Series E-1 redeemable convertible preferred
+
+stock by related persons
+
+Stockholder
+
+Shares of
+
+Series E-1
+
+Redeemable
+
+Convertible
+
+Preferred
+
+Stock
+
+Total
+
+Purchase
+
+Price
+
+Spark Capital (1)
+
+1,782,959
+
+$99,999,930
+
+______________
+
+(1)Shares purchased by the Spark V entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of
+
+directors, is a managing member of the General Partner of each Spark V entity.
+
+Series D Redeemable Convertible Preferred Stock Financing
+
+From January 2024 to May 2024, we sold an aggregate of 39,978,675 shares of our Series D-1 and D-3
+
+redeemable convertible preferred stock at a purchase price of $30.0045 per share, for an aggregate purchase
+
+price of $1,199,540,154. In January 2024, we issued 33,328 shares of our Series D-1 redeemable convertible
+
+preferred stock upon conversion of a SAFE with a principal amount of $1,000,000 at a purchase price of
+
+$30.0045 per share. The following table summarizes purchases of our Series D-1 redeemable convertible
+
+preferred stock by related persons
+
+Stockholder
+
+Shares of
+
+Series D-1
+
+Redeemable
+
+Convertible
+
+Preferred
+
+Stock
+
+Total
+
+Purchase
+
+Price
+
+Spark Capital (1)
+
+2,499,624
+
+$74,999,968
+
+______________
+
+(1)Shares purchased by Spark Capital Growth Founders Fund IV, L.P. and Spark Capital Growth Fund IV, L.P. (each, a Spark IV
+
+entity, and collectively, Spark IV entities), which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of
+
+directors, is a managing member of the General Partner of each Spark IV entity.
+
+Series C Redeemable Convertible Preferred Stock Financing
+
+From March 2023 to June 2023, we sold an aggregate of 39,669,823 shares of our Series C-1 and C-2
+
+redeemable convertible preferred stock at a purchase price of $11.2261 per share, for an aggregate purchase
+
+price of $445,337,400. In March 2023, we issued 89,078 shares of our Series C-1 redeemable convertible
+
+preferred stock upon conversion of a SAFE with a principal amount of $1,000,000 at a purchase price of
+
+288
+
+Table of Contents
+
+$11.2261 per share. The following table summarizes purchases of our Series C-1 redeemable convertible
+
+preferred stock by related persons
+
+Stockholder
+
+Shares of
+
+Series C-1
+
+Redeemable
+
+Convertible
+
+Preferred
+
+Stock
+
+Total
+
+Purchase
+
+Price
+
+Spark Capital (1)
+
+6,680,859
+
+$74,999,991
+
+______________
+
+(1)Shares purchased by the Spark IV entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of
+
+directors, is a managing member of the General Partner of each Spark IV entity.
+
+Right of First Refusal
+
+Pursuant to certain of our equity compensation plans and certain agreements with our stockholders, including
+
+our amended and restated right of first refusal and co-sale agreement, dated as of May 28, 2026, we or our
+
+assignees have a right to purchase shares of our capital stock which stockholders propose to sell to other
+
+parties. This right will terminate upon completion of this offering. Dario Amodei and Daniela Amodei, who are
+
+both executive officers and members of our board of directors, and entities affiliated with Spark Capital, are
+
+party to the right of first refusal and co-sale agreement. Yasmin Razavi, a member of our board of directors, is a
+
+managing member of the General Partner of entities affiliated with Spark Capital.
+
+Voting Agreement
+
+We are party to an amended and restated voting agreement, dated as of May 28, 2026, under which certain
+
+holders of our capital stock, including entities affiliated with Spark Capital, have agreed to vote their shares of
+
+our capital stock on certain matters, including with respect to the election of directors. Upon completion of this
+
+offering, the voting agreement will terminate and none of our Class A common stock or Class N common stock
+
+stockholders will have any special rights under our amended and restated voting agreement regarding the
+
+election or designation of members of our board of directors. Dario Amodei and Daniela Amodei, who are both
+
+executive officers and members of our board of directors, are party to the voting agreement. Yasmin Razavi, a
+
+member of our board of directors, is a managing member of the General Partner of entities affiliated with Spark
+
+Capital.
+
+Tender Offers
+
+In April 2026, we facilitated a tender offer whereby a syndicate of stockholders commenced a tender offer to
+
+purchase shares of our Class A common stock from certain of our securityholders for $25.9136 per share in
+
+cash. Dario Amodei and Daniela Amodei, who are both executive officers and members of our board of
+
+directors, Krishna Rao, one of our executive officers, and Holden Karnofsky, the spouse of Daniela Amodei, sold
+
+shares of our Class A common stock in thetender offer. An aggregate of 179,883,540 shares of our Class A
+
+common stock were tendered in total pursuant to the tender offer for an aggregate purchase price of
+
+$4,661,437,298.
+
+In June 2025, we commenced a tender offer to purchase shares of our Class A common stock from certain of
+
+our securityholders for $5.61 per share in cash. Dario Amodei and Daniela Amodei, who are both executive
+
+officers and members of our board of directors, sold shares of our Class A common stock in thetender offer. An
+
+aggregate of 27,942,000 shares of our Class A common stock were tendered in total pursuant to the tender offer
+
+for an aggregate purchase price of $156,716,898.
+
+Irrevocable Proxy Agreements
+
+We are party to certain irrevocable proxy agreements with Daffy Charitable Fund and Dechomai Asset Trust
+
+(such entities, DAFs), dated as of October 6, 2025 and December 20, 2024, respectively (together, Voting
+
+Proxy Agreements). Each of the DAFs has entered into a master donation agreement with us pursuant to which
+
+the DAFs may from time to time receive donations of shares directly from us or from one or more of our
+
+289
+
+Table of Contents
+
+stockholders. Neither of the DAFs holds 5% or more of the outstanding shares of any class of our voting
+
+securities.
+
+Dario Amodei, our Chief Executive Officer and a member of our board of directors, is party to the Voting Proxy
+
+Agreements as the proxyholder thereunder, pursuant to which he has the right to vote shares of our voting
+
+securities currently owned or subsequently acquired by the DAFs (any such votable securities, Voting Shares)
+
+in his sole and absolute discretion provided, however, that any shares of our voting securities held by the DAFs
+
+as a result of a stock transfer or donation by our Chief Executive Officer or any of such officers family members
+
+or affiliates will not be considered Voting Shares for purposes of the Voting Proxy Agreements. Our board of
+
+directors may, from time to time, designate certain other individuals as the proxyholder subject to the terms set
+
+forth in the Voting Proxy Agreements.
+
+Employment Arrangements with Immediate Family Members of Our
+
+Executive Officers
+
+Holden Karnofsky, the spouse of Daniela Amodei, our executive officer and Chairperson of our board of
+
+directors, has been employed by us since January 2025. During 2025 and 2026 to date, Mr. Karnofsky received
+
+total cash compensation, including base salary, bonus, and other compensation, of $430,213 and $,
+
+respectively. During this time, Mr. Karnofsky received options to purchase 179,500 shares of our Class A
+
+common stock and RSUs covering 761,700 shares of our Class A common stock. Mr.Karnofskys total
+
+compensation and benefits were in line with employees of comparable experience who held similar roles.
+
+Stockholders Agreement
+
+Immediately prior to the completion of this offering, we will enter into the Stockholders Agreement with the
+
+LTBT and the Founder LLC. The Stockholders Agreement contains provisions relating to the composition of
+
+our board of directors, which are discussed under the sections titled ManagementBoard of Directors,
+
+ManagementCommittees of the Board of DirectorsNominating and Corporate Governance Committee,
+
+and Our Governance Structure and Its GoalsLong-Term Benefit TrustElection and Removal of Directors.
+
+Voting Agreement
+
+Under the Stockholders Agreement, the Founder LLC and the LTBT will agree to vote their shares and take
+
+other actions to give effect to the board composition, director nomination, and director removal provisions
+
+described under the sections titled ManagementBoard of Directors, ManagementCommittees of the
+
+Board of DirectorsNominating and Corporate Governance Committee, and Our Governance Structure and
+
+Its GoalsLong-Term Benefit TrustElection and Removal of Directors.
+
+Notice Rights
+
+Under the Stockholders Agreement, for so long as our Class T common stock remains outstanding, we have
+
+agreed not to take specified actions, including a liquidation event, a transfer of control of an AI model exceeding
+
+capabilities thresholds established by our board of directors, a sale of 50% or more of our outstanding voting
+
+power or economic interests represented by our capital stock, or the commencement of a bankruptcy,
+
+insolvency, or similar proceeding with respect to the company, without providing advance written notice to the
+
+LTBT, which notice period may be waived.
+
+Expense Reimbursement and Indemnification
+
+We have agreed to reimburse or advance to the Founder LLC and the LTBT their reasonable and documented
+
+out-of-pocket expenses, including legal fees, incurred in connection with specified matters relating to, among
+
+other things, their ownership of our capital stock and the exercise of their rights and obligations under our
+
+governance documents. We have also agreed to enter into indemnification agreements with the Founder LLC
+
+and the LTBT providing for indemnification, to the fullest extent permitted by law, of those entities and their
+
+related persons in connection with those same matters, without limitation of other indemnification agreements
+
+to which we may be a party.
+
+290
+
+Table of Contents
+
+Reimbursement of Legal Fees
+
+In connection with the structuring and negotiation of our governance structure prior to this offering, we have
+
+paid or reimbursed, or will pay or reimburse, legal fees incurred by the Founder LLC, which we expect to be
+
+approximately $.
+
+Transactions with the LTBT
+
+We provide funding to the LTBT, which holds all of our Class T common stock, to support its operations and the
+
+compensation of its Trustees. In the years ended December 31, 2023, 2024, and 2025, we paid $2,716,750, $0,
+
+and $906,089 to the LTBT, respectively. During the nine months ended September 30, 2026, we paid
+
+$8,425,213 to the LTBT. The LTBT is accounted for as a consolidated VIE on our balance sheet (see Note 1 to
+
+our consolidated financial statements included elsewhere in this prospectus).
+
+Other Transactions
+
+We have granted stock options and RSUs to our executive officers and certain of our directors. See the section
+
+titled Executive CompensationOutstanding Equity Awards at 2025 Year-End for a description of these stock
+
+options and RSUs.
+
+Other than as described above under this section titled Certain Relationships and Related Person
+
+Transactions, since January1, 2023, we have not entered into any transactions, nor are there any currently
+
+proposed transactions, between us and a related person where the amount involved exceeds, or would exceed,
+
+$120,000, and in which any related person had or will have a direct or indirect material interest. We believe the
+
+terms of the transactions described above were comparable to terms we could have obtained in arms-length
+
+dealings with unrelated third parties.
+
+Limitation of Liability and Indemnification of Officers and Directors
+
+We expect to adopt an amended and restated certificate of incorporation, which will become effective
+
+immediately prior to the completion of this offering, and which will contain provisions that limit the liability of
+
+our directors and certain officers for monetary damages to the fullest extent permitted by the DGCL.
+
+Consequently, our directors and certain officers will not be personally liable to us or our stockholders for
+
+monetary damages for any breach of fiduciary duties as directors and officers, except liability for the following
+
+any breach of the directors or officers duty of loyalty to our company or our stockholders
+
+any act or omission not in good faith or that involves intentional misconduct or a knowing violation of
+
+law
+
+for our directors, unlawful payments of dividends or unlawful stock repurchases or redemptions as
+
+provided in Section174 of the DGCL
+
+any transaction from which the director or officer derived an improper personal benefit or
+
+for our officers, any action by or in the right of the corporation.
+
+Any amendment to, or repeal of, these provisions will not eliminate or reduce the effect of these provisions in
+
+respect of any act, omission, or claim that occurred or arose prior to that amendment or repeal. If the DGCL is
+
+amended to provide for further limitations on the personal liability of directors and officers of corporations,
+
+then the personal liability of our directors and officers will be further limited to the greatest extent permitted by
+
+the DGCL.
+
+In addition, we expect to adopt amended and restated bylaws, which will become effective immediately prior to
+
+the completion of this offering, and which will provide that we will indemnify, to the fullest extent permitted by
+
+law, any person who is or was a party or is threatened to be made a party to any action, suit, or proceeding by
+
+reason of the fact that they are or were one of our directors or officers or are or were serving at our request as a
+
+director or officer of another corporation, partnership, joint venture, trust, or other enterprise. Our amended
+
+and restated bylaws are expected to provide that we may indemnify to the fullest extent permitted by law any
+
+291
+
+Table of Contents
+
+person who is or was a party or is threatened to be made a party to any action, suit, or proceeding by reason of
+
+the fact that they are or were one of our employees or agents or are or were serving at our request as an
+
+employee or agent of another corporation, partnership, joint venture, trust, or other enterprise. Our amended
+
+and restated bylaws will also provide that we must advance expenses incurred by or on behalf of a director or
+
+officer in advance of the final disposition of any action or proceeding, subject to limited exceptions.
+
+Further, we have entered into or will enter into indemnification agreements with each of our directors and
+
+executive officers that may be broader than the specific indemnification provisions contained in the DGCL.
+
+These indemnification agreements require us, among other things, to indemnify our directors and executive
+
+officers against liabilities that may arise by reason of their status or service. These indemnification agreements
+
+also require us to advance all expenses incurred by the directors and executive officers in investigating or
+
+defending any such action, suit, or proceeding. We believe that these agreements are necessary to attract and
+
+retain qualified individuals to serve as directors and executive officers.
+
+The limitation of liability and indemnification provisions that are expected to be included in our amended and
+
+restated certificate of incorporation, amended and restated bylaws, and indemnification agreements that we
+
+have entered into or will enter into with our directors and executive officers may discourage stockholders from
+
+bringing a lawsuit against our directors and executive officers for breach of their fiduciary duties. They may also
+
+reduce the likelihood of derivative litigation against our directors and executive officers, even though an action,
+
+if successful, might benefit us and other stockholders. Further, a stockholders investment may be adversely
+
+affected to the extent that we pay the costs of settlement and damage awards against directors and executive
+
+officers as required by these indemnification provisions. We cannot predict whether, when, or the amount of
+
+any future claims for indemnification in connection with any settlement or judgment. Under Delaware law and
+
+our amended and restated certificate of incorporation, in the absence of a conflict of interest, no failure to
+
+satisfy the balancing obligations associated with our status as a PBC shall, for purposes of the exculpation,
+
+advancement, and indemnification rights of our directors and officers, constitute an act or omission not in good
+
+faith, or a breach of the duty of loyalty.
+
+We have obtained insurance policies under which, subject to the limitations of the policies, coverage is provided
+
+to our directors and executive officers against loss arising from claims made by reason of breach of fiduciary
+
+duty or other wrongful acts as a director or executive officer, including claims relating to public company
+
+securities matters, and to us with respect to payments that may be made by us to these directors and executive
+
+officers pursuant to our indemnification obligations or otherwise as a matter of law.
+
+Certain of our non-employee directors may, through their relationships with their employers, be insured or
+
+indemnified against certain liabilities incurred in their capacity as members of our board of directors.
+
+The underwriting agreement will provide for indemnification by the underwriters of us and our officers and
+
+directors for certain liabilities.
+
+Insofar as indemnification for liabilities arising under the Securities Act may be permitted to directors, officers,
+
+or persons controlling our company pursuant to the foregoing provisions, we have been informed that, in the
+
+opinion of the SEC, such indemnification is against public policy as expressed in the Securities Act and is
+
+therefore unenforceable.
+
+Policies and Procedures for Related Person Transactions
+
+Following the completion of this offering, our audit committee will have the primary responsibility for
+
+reviewing and approving or disapproving related person transactions, which are transactions between us and
+
+related persons in which the aggregate amount involved exceeds or may be expected to exceed $120,000 and in
+
+which a related person has or will have a direct or indirect material interest. Upon completion of this offering,
+
+our policy regarding transactions between us and related persons will provide that a related person is defined as
+
+a director, executive officer, nominee for director, or greater than 5% beneficial owner of any class of our
+
+outstanding voting securities, in each case since the beginning of the most recently completed year, and any of
+
+their immediate family members. Our audit committee charter that will be in effect upon completion of this
+
+offering will provide that our audit committee shall review and approve or disapprove any related person
+
+transactions.
+
+292
+
+Table of Contents
+
+Principal and Selling Stockholders
+
+The following table sets forth certain information with respect to the beneficial ownership of our capital stock as
+
+of September 30, 2026 and as adjusted to reflect the sale of our Class A common stock offered by us and the
+
+selling stockholders in this offering assuming no exercise of the underwriters option to purchase additional
+
+shares of our Class A common stock, for
+
+each of our NEOs
+
+each of our directors
+
+all of our current directors and executive officers as a group
+
+each person, or group of persons, known by us to be the beneficial owner of more than 5% of the
+
+outstanding shares of any class of our voting securities and
+
+each selling stockholder.
+
+We have determined beneficial ownership in accordance with the rules of the SEC, and thus it represents sole or
+
+shared voting or investment power with respect to our securities. Unless otherwise indicated below, to our
+
+knowledge, the persons and entities named in the table have sole voting and sole investment power with respect
+
+to all shares that they beneficially owned, subject to community property laws where applicable. The
+
+information does not necessarily indicate beneficial ownership for any other purpose, including for purposes of
+
+Sections 13(d) and 13(g) of the Exchange Act.
+
+We have based our calculation of the percentage of beneficial ownership prior to this offering on shares of
+
+our Class A common stock, shares of our Class N common stock, and one share of our Class T common
+
+stock outstanding as of September 30, 2026 (after giving effect to the Preferred Stock Conversion, Convertible
+
+Notes Conversion, the Initial Public Benefit Issuance, and the RSU Settlement).
+
+We have based our calculation of the percentage of beneficial ownership after this offering on shares of
+
+our Class A common stock issued by us in such offering and one share of our Class F common stock issued to
+
+the Founder LLC in connection with this offering, and shares of our Class A common stock, shares
+
+of our Class N common stock, and one share of our Class T common stock, outstanding immediately after the
+
+completion of this offering, assuming no exercise of the underwriters option to purchase up to an additional
+
+shares of our Class A common stock from us. We have deemed shares of our Class A common stock
+
+subject to stock options that are currently exercisable or exercisable within 60 days of September 30, 2026 or
+
+issuable pursuant to RSUs which are subject to vesting and settlement conditions expected to occur within
+
+60days of September 30, 2026(assuming the satisfaction of the performance-based and service-based vesting
+
+conditions) to be outstanding and to be beneficially owned by the person holding such stock option or RSU, as
+
+applicable, for the purpose of computing the percentage ownership of that person. We did not deem these
+
+shares outstanding, however, for the purpose of computing the percentage ownership of any other person.
+
+293
+
+Table of Contents
+
+Unless otherwise indicated, the address of each beneficial owner listed in the table below is co Anthropic, PBC, 548 Market Street, PMB 90375, San
+
+Francisco, California 94104.
+
+Shares Beneficially Owned Before the Offering
+
+Shares Beneficially Owned After the Offering
+
+Class A
+
+Class F
+
+Class T
+
+% of
+
+Total
+
+Voting
+
+Power
+
+Before
+
+the
+
+Offering
+
+Shares
+
+of Class
+
+A Being
+
+Offered
+
+Class A
+
+Class F
+
+Class T
+
+% of
+
+Total
+
+Voting
+
+Power
+
+After
+
+the
+
+Offering
+
+Name of Beneficial Owner
+
+#
+
+%
+
+#
+
+%
+
+#
+
+%
+
+#
+
+%
+
+#
+
+%
+
+#
+
+%
+
+Named Executive Officers and
+
+Directors
+
+Dario Amodei(1)
+
+240,637,980
+
+Shares subject to voting proxies(2)
+
+4,621,120
+
+Total
+
+245,259,100
+
+Daniela Amodei(3)
+
+241,408,940
+
+Krishna Rao(4)
+
+9,497,900
+
+Reed Hastings(5)
+
+9,410
+
+Christopher Liddell(6)
+
+9,410
+
+Vas Narasimhan(7)
+
+176,050
+
+Yasmin Razavi(8)
+
+All executive officers and directors as a
+
+group (7 persons)(9)
+
+496,360,810
+
+Greater than 5% Stockholders
+
+Long-Term Benefit Trust(10)
+
+1
+
+100%
+
+1
+
+100%
+
+Founder LLC(11)
+
+1
+
+100%
+
+50.1%
+
+Other Selling Stockholders
+
+Tom Brown(12)
+
+244,173,040
+
+Jack Clark(13)
+
+242,271,840
+
+Jared Kaplan(14)
+
+242,351,170
+
+Sam McCandlish(15)
+
+243,383,850
+
+Christopher Olah(16)
+
+242,882,420
+
+______________
+
+*Represents beneficial ownership of less than 1%.
+
+Represents the percentage of the total votes attributable to all outstanding shares of our Class A common stock and Class F common stock. Does not include (i) our Class T
+
+common stock, which is held by the LTBT, and which generally has the authority to elect and remove the Class T directors, who together will constitute a majority of the
+
+authorized members of our board of directors, and is generally not entitled to vote with respect to matters submitted to a vote of stockholders, (ii) our Class N common stock,
+
+which is not entitled to vote on any matter that is submitted to a vote of stockholders, except as otherwise required by law, or (iii) our Class E common stock, which is not entitled
+
+to vote for the election of directors.
+
+Holders of our Class A common stock are entitled to one vote per share on all matters submitted to stockholders generally. Our Class F common stock is entitled to a fixed 50.1% of
+
+the voting power of our outstanding capital stock as of the applicable record date on matters submitted to stockholders generally. As a result, the voting power of the holders of
+
+Class A common stock is limited to an aggregate of 49.9% of the total outstanding voting power as of the applicable record date. Accordingly, the voting power of each holder of
+
+Class A common stock has been reduced to 49.9% of the percentage shown before the offering (taking into account the reduction of voting power due to shares sold in the
+
+offering).
+
+294
+
+Table of Contents
+
+We expect that our seven co-founders, including Dr. Amodei and Ms. Amodei, will enter into the Founder LLC Agreement shortly before the effectiveness of the registration
+
+statement of which this prospectus forms a part. The Founder LLC Agreement will provide that the share of Class F common stock will be voted, consented, or not consented, in
+
+the manner determined by a vote of the Continuing Founders as prescribed by the Founder LLC Agreement, with each Continuing Founder entitled to one vote. With respect to
+
+each of our co-founders, the voting power percentage provided does not include the voting power of our Class F common stock held by the Founder LLC. The Founder LLC
+
+Agreement will not govern the voting of any shares of our Class A common stock held by the co-founders or their related holders. Each co-founder (or their related holders) will be
+
+able to vote shares of our Class A common stock held by them in their discretion, regardless of the manner in which the Founder LLC will vote our Class F common stock. For
+
+more information, please see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure, Our Co-Founders, and Description of Capital Stock
+
+Common StockVoting Rights.
+
+(1)Consists of (i) 237,813,080 shares of Class A common stock held of record by Dr. Amodei or by trusts over which Dr. Amodei exercises investment or voting control, (ii) 2,185,400
+
+shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon
+
+settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Dr. Amodei is also a member of the Founder LLC. For
+
+more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.
+
+(2)Dr. Amodei has entered into the Voting Proxy Agreements with the DAFs (as further described elsewhere in this prospectus), pursuant to which Dr. Amodei has the authority (and
+
+irrevocable proxy) to direct the vote and vote certain shares of Class A common stock held by the DAFs, at his discretion on all matters to be voted upon by stockholders.
+
+(3)Consists of (i) 238,319,540 shares of Class A common stock held of record by Ms. Amodei or by trusts over which Ms. Amodei exercises investment or voting control, (ii) 2,185,400
+
+shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, (iii) 130,550 shares of Class A common stock subject to stock options
+
+exercisable within 60 days of September 30, 2026 held by Ms. Amodeis spouse, (iv) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the
+
+service-based vesting condition will be satisfied within 60 days of September 30, 2026, and (v) 133,950 shares of Class A common stock issuable upon settlement of RSUs for
+
+which the service-based vesting condition will be satisfied within 60 days of September 30, 2026 held by Ms. Amodeis spouse. Ms. Amodei is also a member of the Founder LLC.
+
+For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.
+
+(4)Consists of (i) 153,960 shares of Class A common stock held of record by Mr. Rao, (ii) 7,843,940 shares of Class A common stock subject to stock options exercisable within 60
+
+days of September 30, 2026, and (iii) 1,500,000 shares of Class A common stock subject to stock options exercisable by a trust over which Mr. Rao exercises investment or voting
+
+control within 60 days of September 30, 2026.
+
+(5)Consists of 9,410 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30,
+
+2026.
+
+(6)Consists of 9,410 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30,
+
+2026.
+
+(7)Consists of (i) 169,770 shares of Class A common stock held of record by Bodhi LLC over which Dr. Narasimhan exercises sole investment and voting control and (ii) 6,280 shares
+
+of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026.
+
+(8)Excludes shares of Class A common stock held by any affiliates of Spark Capital (each, a Spark Capital Entity). Spark Capital Growth Fund IV, L.P. and Spark Capital Growth
+
+Founders Fund IV, L.P. are controlled by their general partner, Spark Growth Management Partners IV, LLC, which is governed by five managing members including Yasmin
+
+Razavi, who is one of our directors. Spark Capital Growth Fund V, L.P. and Spark Capital Growth Founders Fund V, L.P. are controlled by their general partner, Spark Growth
+
+Management Partners V, LLC, which is governed by its five managing members, including Ms. Razavi, who is one of our directors. Spark Capital Growth Fund VI, L.P. is
+
+controlled by its general partner, Spark Growth Management Partners VI, LLC, which is governed by its six managing members, including Ms. Razavi, who is one of our directors.
+
+The members of Spark Capital Growth Fund Holdings 2026, LLC are Spark Capital Growth Fund IV, L.P., Spark Capital Growth Founders Fund IV, L.P., Spark Capital Growth
+
+Fund V, L.P., Spark Capital Growth Founders Fund V, L.P. and Spark Capital Growth Fund VI, L.P. The managing members of each general partner make investment and voting
+
+decisions based on a majority vote. To the extent Ms. Razavi may be deemed to have beneficial ownership over the shares beneficially owned by any Spark Capital Entity, she
+
+expressly disclaims such beneficial ownership. The business address of each of the foregoing persons is 200 Clarendon Street, Floor 59, Boston, Massachusetts 02116.
+
+(9)Consists of (i) 481,077,470 shares of Class A common stock beneficially owned by our executive officers and directors, (ii) 13,845,290 shares of Class A common stock subject to
+
+stock options exercisable within 60 days of September 30, 2026, and (iii) 1,438,050 shares of Class A common stock issuable upon settlement of RSUs for which the service-based
+
+vesting condition will be satisfied within 60 days of September 30, 2026.
+
+(10)Consists of one share of Class T common stock held of record by the LTBT.
+
+(11)Consists of one share of Class F common stock held of record by the Founder LLC.
+
+(12)Consists of (i) 241,348,140 shares of Class A common stock held of record by Mr. Brown or by trusts over which Mr. Brown exercises investment or voting control, (ii) 2,185,400
+
+shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon
+
+settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Mr. Brown co-founded Anthropic in January 2021 and
+
+serves as our Chief Compute Officer. Mr. Brown is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its Goals
+
+Founder Voting Structure and Our Co-Founders.
+
+295
+
+Table of Contents
+
+(13)Consists of (i) 239,446,940 shares of Class A common stock held of record by Mr. Clark or by a trust over which Mr. Clark exercises sole voting control, (ii) 2,185,400 shares of
+
+Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of
+
+RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Mr. Clark co-founded Anthropic in January 2021 and leads the
+
+Anthropic Institute. Mr. Clark is also a member of the Founder LLC and is expected to serve as one of the initial managers of the Anthropic Public Benefit Fund. For more
+
+information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure, Our Co-Founders, and BusinessOur Commitment to Public
+
+Benefit.
+
+(14)Consists of (i) 239,526,270 shares of Class A common stock held of record by Dr. Kaplan or by trusts over which Dr. Kaplan exercises shared investment or voting control, (ii)
+
+2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable
+
+upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Dr. Kaplan co-founded Anthropic in January 2021
+
+and serves as our Chief Science Officer. Dr. Kaplan is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its Goals
+
+Founder Voting Structure and Our Co-Founders.
+
+(15)Consists of (i) 240,558,950 shares of Class A common stock held of record by trusts over which Dr. McCandlish exercises shared investment or voting control, (ii) 2,185,400 shares
+
+of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of
+
+RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Dr. McCandlish co-founded Anthropic in January 2021 and serves as
+
+our Chief Architect. Dr. McCandlish is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting
+
+Structure and Our Co-Founders.
+
+(16)Consists of (i) 240,057,520 shares of Class A common stock held of record by Mr. Olah, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within
+
+60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied
+
+within 60 days of September 30, 2026. Mr. Olah co-founded Anthropic in January 2021 and leads our interpretability research efforts. Mr. Olah is also a member of the Founder
+
+LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.
+
+296
+
+Table of Contents

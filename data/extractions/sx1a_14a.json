@@ -1,0 +1,1722 @@
+{
+ "chunk": "sx1a_14a",
+ "section": "financial-statements-2-notes-A",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 5647,
+  "completion_tokens": 9904,
+  "total_tokens": 15551,
+  "cost": 0.002285738,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.002285738,
+   "upstream_inference_prompt_cost": 0.000304938,
+   "upstream_inference_completions_cost": 0.0019808
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 15,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 140,
+ "records": [
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Balance as of December 31, 2024",
+    "Revenue recognized from deferred revenue",
+    "Amounts billed or received in advance",
+    "Balance"
+   ],
+   "period": "FY2024-FY2026",
+   "category": "financials",
+   "quote": "Balance as of December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Deferred revenue rollforward",
+   "values": [
+    "28",
+    "28"
+   ],
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Balance as of December 31, 2024 28 Revenue recognized from deferred revenue at the beginning of the period (28)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Deferred revenue rollforward 2025",
+   "values": [
+    "(28)",
+    "269",
+    "269"
+   ],
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Amounts billed or received in advance and not recognized as revenue and other 269 Balance as of December 31, 2025 269"
+  },
+  {
+   "kind": "table_row",
+   "label": "Deferred revenue rollforward 9M 2026",
+   "values": [
+    "(236)",
+    "1,938",
+    "$1,971"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Revenue recognized from deferred revenue at the beginning of the period (unaudited) (236) Amounts billed or received in advance and not recognized as revenue and other (unaudited) 1,938 Balance as of September 30, 2026 (unaudited) $1,971"
+  },
+  {
+   "kind": "inline",
+   "label": "Remaining performance obligations",
+   "values": [
+    "$13.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "remaining performance obligations amounted to $13.8 billion. The Company expects to recognize"
+  },
+  {
+   "kind": "inline",
+   "label": "RPO recognized next 12 months",
+   "values": [
+    "approximately 75%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "approximately 75% (unaudited) of this amount as revenue over the next 12 months"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Amortized Cost",
+    "Gross Unrealized Gains",
+    "Gross Unrealized Losses",
+    "Fair Value"
+   ],
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "As of December 31, 2024 Amortized Cost Gross Unrealized Gains"
+  },
+  {
+   "kind": "table_row",
+   "label": "Money market funds",
+   "values": [
+    "$3,029",
+    "$3,029"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Money market funds $3,029 $ $ $3,029 Total cash equivalents $3,029"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total cash equivalents",
+   "values": [
+    "$3,029",
+    "$3,029"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Total cash equivalents $3,029 $ $ $3,029"
+  },
+  {
+   "kind": "table_row",
+   "label": "Money market funds",
+   "values": [
+    "$16,455",
+    "$16,455"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Money market funds $16,455 $ $ $16,455 Corporate debt securities 4 4"
+  },
+  {
+   "kind": "table_row",
+   "label": "Corporate debt securities (cash equivalents)",
+   "values": [
+    "4",
+    "4"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Corporate debt securities 4 4 Total cash equivalents $16,459"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total cash equivalents",
+   "values": [
+    "$16,459",
+    "$16,459"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Total cash equivalents $16,459 $ $ $16,459 Short-term investments"
+  },
+  {
+   "kind": "table_row",
+   "label": "Commercial paper",
+   "values": [
+    "$123",
+    "$123"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Commercial paper $123 $ $ $123 U.S. Treasury and agency securities 2,111 3 2,114"
+  },
+  {
+   "kind": "table_row",
+   "label": "U.S. Treasury and agency securities (ST investments)",
+   "values": [
+    "2,111",
+    "3",
+    "2,114"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "U.S. Treasury and agency securities 2,111 3 2,114 Corporate debt securities 651 1 652"
+  },
+  {
+   "kind": "table_row",
+   "label": "Corporate debt securities (ST investments)",
+   "values": [
+    "651",
+    "1",
+    "652"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Corporate debt securities 651 1 652 Total short-term investments $2,885 $4 $ $2,889"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total short-term investments",
+   "values": [
+    "$2,885",
+    "$4",
+    "$2,889"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Total short-term investments $2,885 $4 $ $2,889"
+  },
+  {
+   "kind": "table_row",
+   "label": "Money market funds",
+   "values": [
+    "$87,675",
+    "$87,675"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Money market funds $87,675 $ $ $87,675 U.S. Treasury and agency securities 2,822 (1) 2,821"
+  },
+  {
+   "kind": "table_row",
+   "label": "U.S. Treasury and agency securities (cash equivalents)",
+   "values": [
+    "2,822",
+    "(1)",
+    "2,821"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "U.S. Treasury and agency securities 2,822 (1) 2,821 Total cash equivalents $90,497"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total cash equivalents",
+   "values": [
+    "$90,497",
+    "$(1)",
+    "$90,496"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total cash equivalents $90,497 $ $(1) $90,496 Short-term investments"
+  },
+  {
+   "kind": "table_row",
+   "label": "Commercial paper",
+   "values": [
+    "$1,423",
+    "$(4)",
+    "$1,419"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Commercial paper $1,423 $ $(4) $1,419 U.S. Treasury and agency securities 32,328 1 (121) 32,208"
+  },
+  {
+   "kind": "table_row",
+   "label": "U.S. Treasury and agency securities (ST investments)",
+   "values": [
+    "32,328",
+    "1",
+    "(121)",
+    "32,208"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "U.S. Treasury and agency securities 32,328 1 (121) 32,208 Corporate debt securities 2,681 (25) 2,656"
+  },
+  {
+   "kind": "table_row",
+   "label": "Corporate debt securities (ST investments)",
+   "values": [
+    "2,681",
+    "(25)",
+    "2,656"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Corporate debt securities 2,681 (25) 2,656 Total short-term investments $36,432 $1 $(150) $36,283"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total short-term investments",
+   "values": [
+    "$36,432",
+    "$1",
+    "$(150)",
+    "$36,283"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total short-term investments $36,432 $1 $(150) $36,283"
+  },
+  {
+   "kind": "inline",
+   "label": "Accrued interest receivable 2025",
+   "values": [
+    "$16 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "accrued interest receivable of $16 million and $222 million as of December31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Accrued interest receivable 2026",
+   "values": [
+    "$222 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "and $222 million as of September 30, 2026 (unaudited), respectively"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "As of December 31, 2025 Amortized Cost",
+    "Fair Value",
+    "As of September 30, 2026 Amortized Cost",
+    "Fair Value"
+   ],
+   "period": "2025/2026",
+   "category": "financials",
+   "quote": "As of December 31, 2025 As of September 30, 2026 Amortized Cost Fair Value Amortized Cost"
+  },
+  {
+   "kind": "table_row",
+   "label": "Due within one year",
+   "values": [
+    "$18,632",
+    "$18,634",
+    "$115,969",
+    "$115,917"
+   ],
+   "unit": "$M",
+   "period": "2025/2026",
+   "category": "financials",
+   "quote": "Due within one year $18,632 $18,634 $115,969 $115,917"
+  },
+  {
+   "kind": "table_row",
+   "label": "Due after one year through five years",
+   "values": [
+    "712",
+    "714",
+    "10,960",
+    "10,862"
+   ],
+   "unit": "$M",
+   "period": "2025/2026",
+   "category": "financials",
+   "quote": "Due after one year through five years 712 714 10,960 10,862 Total $19,344 $19,348 $126,929 $126,779"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total contractual maturities",
+   "values": [
+    "$19,344",
+    "$19,348",
+    "$126,929",
+    "$126,779"
+   ],
+   "unit": "$M",
+   "period": "2025/2026",
+   "category": "financials",
+   "quote": "Total $19,344 $19,348 $126,929 $126,779"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Fair Value",
+    "Unrealized Loss"
+   ],
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "As of September 30, 2026 Fair Value Unrealized Loss(1) (unaudited)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Commercial paper unrealized loss position",
+   "values": [
+    "$1,293",
+    "$(4)"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Commercial paper $1,293 $(4) U.S. Treasury and agency securities 31,537 (122)"
+  },
+  {
+   "kind": "table_row",
+   "label": "U.S. Treasury and agency securities unrealized loss position",
+   "values": [
+    "31,537",
+    "(122)"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "U.S. Treasury and agency securities 31,537 (122) Corporate debt securities 2,500 (25)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Corporate debt securities unrealized loss position",
+   "values": [
+    "2,500",
+    "(25)"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Corporate debt securities 2,500 (25) Total $35,330 $(151)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total unrealized loss position",
+   "values": [
+    "$35,330",
+    "$(151)"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total $35,330 $(151)"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrealized loss duration",
+   "values": [
+    "less than 12 months"
+   ],
+   "unit": "years",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "continuous unrealized loss position for less than 12 months."
+  },
+  {
+   "kind": "inline",
+   "label": "Equity method funding commitments",
+   "values": [
+    "up to $325 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "additional funding commitments of up to $325 million, of which $265 million remained unfunded"
+  },
+  {
+   "kind": "inline",
+   "label": "Equity method unfunded commitments",
+   "values": [
+    "$265 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "of which $265 million remained unfunded as of September30, 2026 (unaudited)"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Level 1",
+    "Level 2",
+    "Level 3",
+    "Total"
+   ],
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "As of December 31, 2024 Level 1 Level 2 Level 3 Total"
+  },
+  {
+   "kind": "table_row",
+   "label": "Money market funds fair value",
+   "values": [
+    "$3,029",
+    "$3,029"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Money market funds $3,029 $ $ $3,029 Total fair value assets $3,029"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total fair value assets",
+   "values": [
+    "$3,029",
+    "$3,029"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Total fair value assets $3,029 $ $ $3,029 Liabilities"
+  },
+  {
+   "kind": "table_row",
+   "label": "Convertible notes fair value",
+   "values": [
+    "$14,116",
+    "$14,116"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Convertible notes(1) $ $ $14,116 $14,116"
+  },
+  {
+   "kind": "table_row",
+   "label": "Derivative liability",
+   "values": [
+    "150",
+    "150"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Derivative liability 150 150 Total fair value liabilities $ $ $14,266 $14,266"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total fair value liabilities",
+   "values": [
+    "$14,266",
+    "$14,266"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Total fair value liabilities $ $ $14,266 $14,266"
+  },
+  {
+   "kind": "table_row",
+   "label": "Money market funds fair value",
+   "values": [
+    "$16,455",
+    "$16,455"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Money market funds $16,455 $ $ $16,455 Corporate debt securities 4 4"
+  },
+  {
+   "kind": "table_row",
+   "label": "Corporate debt securities (cash equivalents) fair value",
+   "values": [
+    "4",
+    "4"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Corporate debt securities 4 4 Short-term investments Commercial paper 123 123"
+  },
+  {
+   "kind": "table_row",
+   "label": "Commercial paper fair value",
+   "values": [
+    "123",
+    "123"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Commercial paper 123 123 U.S. Treasury and agency securities 2,114 2,114"
+  },
+  {
+   "kind": "table_row",
+   "label": "U.S. Treasury and agency securities fair value",
+   "values": [
+    "2,114",
+    "2,114"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "U.S. Treasury and agency securities 2,114 2,114 Corporate debt securities 652 652"
+  },
+  {
+   "kind": "table_row",
+   "label": "Corporate debt securities (ST investments) fair value",
+   "values": [
+    "652",
+    "652"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Corporate debt securities 652 652 Other assets Warrant rights 345 345"
+  },
+  {
+   "kind": "table_row",
+   "label": "Warrant rights fair value",
+   "values": [
+    "345",
+    "345"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Warrant rights 345 345 Total fair value assets $16,455 $2,893 $345 $19,693"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total fair value assets",
+   "values": [
+    "$16,455",
+    "$2,893",
+    "$345",
+    "$19,693"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Total fair value assets $16,455 $2,893 $345 $19,693"
+  },
+  {
+   "kind": "table_row",
+   "label": "Donation matching program liability",
+   "values": [
+    "$541",
+    "$541"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Donation matching program liability(2) $ $ $541 $541"
+  },
+  {
+   "kind": "table_row",
+   "label": "Convertible notes fair value",
+   "values": [
+    "41,677",
+    "41,677"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Convertible notes(1) 41,677 41,677 Other noncurrent liabilities Holdback liability(3) 28 28"
+  },
+  {
+   "kind": "table_row",
+   "label": "Holdback liability",
+   "values": [
+    "28",
+    "28"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Holdback liability(3) 28 28 Total fair value liabilities $ $ $42,246 $42,246"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total fair value liabilities",
+   "values": [
+    "$42,246",
+    "$42,246"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Total fair value liabilities $ $ $42,246 $42,246"
+  },
+  {
+   "kind": "table_row",
+   "label": "Money market funds fair value",
+   "values": [
+    "$87,675",
+    "$87,675"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Money market funds $87,675 $ $ $87,675 U.S. Treasury and agency securities 2,821 2,821"
+  },
+  {
+   "kind": "table_row",
+   "label": "U.S. Treasury and agency securities fair value",
+   "values": [
+    "2,821",
+    "2,821"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "U.S. Treasury and agency securities 2,821 2,821 Short-term investments Commercial paper 1,419 1,419"
+  },
+  {
+   "kind": "table_row",
+   "label": "Commercial paper fair value",
+   "values": [
+    "1,419",
+    "1,419"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Commercial paper 1,419 1,419 U.S. Treasury and agency securities 32,208 32,208"
+  },
+  {
+   "kind": "table_row",
+   "label": "U.S. Treasury and agency securities (ST) fair value",
+   "values": [
+    "32,208",
+    "32,208"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "U.S. Treasury and agency securities 32,208 32,208 Corporate debt securities 2,656 2,656"
+  },
+  {
+   "kind": "table_row",
+   "label": "Corporate debt securities fair value",
+   "values": [
+    "2,656",
+    "2,656"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Corporate debt securities 2,656 2,656 Other assets Warrant rights 1,128 1,128"
+  },
+  {
+   "kind": "table_row",
+   "label": "Warrant rights fair value",
+   "values": [
+    "1,128",
+    "1,128"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Warrant rights 1,128 1,128 Partner financing arrangements 894 894"
+  },
+  {
+   "kind": "table_row",
+   "label": "Partner financing arrangements fair value",
+   "values": [
+    "894",
+    "894"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Partner financing arrangements 894 894 Total fair value assets $87,675 $39,104 $2,022 $128,801"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total fair value assets",
+   "values": [
+    "$87,675",
+    "$39,104",
+    "$2,022",
+    "$128,801"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total fair value assets $87,675 $39,104 $2,022 $128,801"
+  },
+  {
+   "kind": "table_row",
+   "label": "Holdback liability",
+   "values": [
+    "$71",
+    "$71"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Holdback liability(3) $ $ $71 $71 Donation matching program liability(2) 1,960 1,960"
+  },
+  {
+   "kind": "table_row",
+   "label": "Donation matching program liability",
+   "values": [
+    "1,960",
+    "1,960"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Donation matching program liability(2) 1,960 1,960 Convertible notes(1) 130,502 130,502"
+  },
+  {
+   "kind": "table_row",
+   "label": "Convertible notes fair value",
+   "values": [
+    "130,502",
+    "130,502"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Convertible notes(1) 130,502 130,502 Total fair value liabilities $ $ $132,533 $132,533"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total fair value liabilities",
+   "values": [
+    "$132,533",
+    "$132,533"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total fair value liabilities $ $ $132,533 $132,533"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Warrant Rights",
+    "Partner Financing Arrangements",
+    "Donation Matching Program Liability",
+    "Holdback Liability",
+    "SAFEs",
+    "Convertible Notes Payable",
+    "Derivative Liability"
+   ],
+   "period": "2023-2026",
+   "category": "financials",
+   "quote": "Warrant Rights Partner Financing Arrangements Donation Matching Program Liability Holdback Liability"
+  },
+  {
+   "kind": "table_row",
+   "label": "SAFEs balance 2023",
+   "values": [
+    "$128"
+   ],
+   "unit": "$M",
+   "period": "as of 2023-12-31",
+   "category": "financials",
+   "quote": "Balance as of December 31, 2023 $ $ $ $ $128 $1,678 $1,110"
+  },
+  {
+   "kind": "table_row",
+   "label": "Convertible notes payable balance 2023",
+   "values": [
+    "$1,678"
+   ],
+   "unit": "$M",
+   "period": "as of 2023-12-31",
+   "category": "financials",
+   "quote": "$128 $1,678 $1,110 Additions"
+  },
+  {
+   "kind": "table_row",
+   "label": "Derivative liability balance 2023",
+   "values": [
+    "$1,110"
+   ],
+   "unit": "$M",
+   "period": "as of 2023-12-31",
+   "category": "financials",
+   "quote": "$1,678 $1,110 Additions 5,900 150 Conversion (134)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additions to partner financing arrangements",
+   "values": [
+    "5,900"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Additions 5,900 150 Conversion (134) Change in fair value"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additions to derivative liability",
+   "values": [
+    "150"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "5,900 150 Conversion (134)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Conversion derivative liability",
+   "values": [
+    "(134)"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Conversion (134) Change in fair value and settlement of derivative liability 6 6,538 (1,110)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value derivative liability",
+   "values": [
+    "6"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Change in fair value and settlement of derivative liability 6 6,538 (1,110)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value convertible notes 2024",
+   "values": [
+    "6,538"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "6 6,538 (1,110) Balance as of December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Settlement derivative liability 2024",
+   "values": [
+    "(1,110)"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "6,538 (1,110) Balance as of December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Convertible notes balance 2024",
+   "values": [
+    "14,116"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Balance as of December 31, 2024 14,116 150"
+  },
+  {
+   "kind": "table_row",
+   "label": "Derivative liability balance 2024",
+   "values": [
+    "150"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Balance as of December 31, 2024 14,116 150 Additions 345 541 25 3,450"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additions warrant rights",
+   "values": [
+    "345"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Additions 345 541 25 3,450 Conversion (10,347)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additions donation matching",
+   "values": [
+    "541"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "345 541 25 3,450 Conversion (10,347)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additions holdback liability",
+   "values": [
+    "25"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "541 25 3,450 Conversion (10,347)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additions convertible notes 2025",
+   "values": [
+    "3,450"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "25 3,450 Conversion (10,347)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Conversion SAFEs 2025",
+   "values": [
+    "(10,347)"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Conversion (10,347) Change in fair value and settlement of derivative liability 3 34,458 (150)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value derivative liability 2025",
+   "values": [
+    "3"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Change in fair value and settlement of derivative liability 3 34,458 (150)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value convertible notes 2025",
+   "values": [
+    "34,458"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "3 34,458 (150) Balance as of December 31, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Settlement derivative liability 2025",
+   "values": [
+    "(150)"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "34,458 (150) Balance as of December 31, 2025 345 541 28 41,677"
+  },
+  {
+   "kind": "table_row",
+   "label": "Balances as of December 31, 2025",
+   "values": [
+    "345",
+    "541",
+    "28",
+    "41,677"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Balance as of December 31, 2025 345 541 28 41,677"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additions 9M 2026",
+   "values": [
+    "2,440",
+    "1,808"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Additions (unaudited) 2,440 1,808 Conversion (unaudited) (5,499)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Conversion 9M 2026",
+   "values": [
+    "(5,499)"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Conversion (unaudited) (5,499) Change in fair value (unaudited) 783 (13,356) 278 43 94,324"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value 9M 2026",
+   "values": [
+    "783",
+    "(13,356)",
+    "278",
+    "43",
+    "94,324"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Change in fair value (unaudited) 783 (13,356) 278 43 94,324"
+  },
+  {
+   "kind": "table_row",
+   "label": "Settlement 9M 2026",
+   "values": [
+    "11,810",
+    "(667)"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Settlement (unaudited) 11,810 (667) Balances as of September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Balances as of September 30, 2026",
+   "values": [
+    "$1,128",
+    "$894",
+    "$1,960",
+    "$71",
+    "$130,502"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Balances as of September 30, 2026 (unaudited) $1,128 $894 $1,960 $71 $ $130,502"
+  },
+  {
+   "kind": "table_row",
+   "label": "Goodwill activity",
+   "values": [
+    "154",
+    "154",
+    "441",
+    "$595"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Acquisition 154 Balance, as of December 31, 2025 154 Acquisitions and other (unaudited) 441 Balance, as of September 30, 2026 (unaudited) $595"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Gross Carrying Amount",
+    "Accumulated Amortization",
+    "Net Carrying Amount",
+    "Weighted-Average Remaining Useful Life (in years)"
+   ],
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Gross Carrying Amount Accumulated Amortization Net Carrying Amount Weighted-Average Remaining Useful Life (in years)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Technology-related intangibles 2024",
+   "values": [
+    "$3",
+    "$3",
+    "4.5"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Technology-related $3 $ $3 4.5 Contract-related 5 (3) 2 0.5"
+  },
+  {
+   "kind": "table_row",
+   "label": "Contract-related intangibles 2024",
+   "values": [
+    "5",
+    "(3)",
+    "2",
+    "0.5"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Contract-related 5 (3) 2 0.5 Total $8 $(3) $5"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total intangibles 2024",
+   "values": [
+    "$8",
+    "$(3)",
+    "$5"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31",
+   "category": "financials",
+   "quote": "Total $8 $(3) $5"
+  },
+  {
+   "kind": "table_row",
+   "label": "Technology-related intangibles 2025",
+   "values": [
+    "$7",
+    "$(1)",
+    "$6",
+    "4.7"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Technology-related $7 $(1) $6 4.7 Contract-related 24 (10) 14 0.6"
+  },
+  {
+   "kind": "table_row",
+   "label": "Contract-related intangibles 2025",
+   "values": [
+    "24",
+    "(10)",
+    "14",
+    "0.6"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Contract-related 24 (10) 14 0.6 Total $31 $(11) $20"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total intangibles 2025",
+   "values": [
+    "$31",
+    "$(11)",
+    "$20"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Total $31 $(11) $20"
+  },
+  {
+   "kind": "table_row",
+   "label": "Technology-related intangibles 2026",
+   "values": [
+    "$108",
+    "$(29)",
+    "$79",
+    "1.7"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Technology-related $108 $(29) $79 1.7 Contract-related 31 (16) 15 1.2"
+  },
+  {
+   "kind": "table_row",
+   "label": "Contract-related intangibles 2026",
+   "values": [
+    "31",
+    "(16)",
+    "15",
+    "1.2"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Contract-related 31 (16) 15 1.2 Total $139 $(45) $94"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total intangibles 2026",
+   "values": [
+    "$139",
+    "$(45)",
+    "$94"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total $139 $(45) $94"
+  },
+  {
+   "kind": "inline",
+   "label": "Amortization expense FY2023",
+   "values": [
+    "$0 million"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "amortization expense related to intangible assets of $0 million, $3 million, and $13 million"
+  },
+  {
+   "kind": "inline",
+   "label": "Amortization expense FY2024",
+   "values": [
+    "$3 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "of $0 million, $3 million, and $13 million for the years ended December31, 2023, 2024, and 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Amortization expense FY2025",
+   "values": [
+    "$13 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "and $13 million for the years ended December31, 2023, 2024, and 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Amortization expense 9M 2025",
+   "values": [
+    "$8 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "and $8 million and $50 million for the nine months ended September 30, 2025 and 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Amortization expense 9M 2026",
+   "values": [
+    "$50 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "$8 million and $50 million for the nine months ended September 30, 2025 and 2026 (unaudited), respectively"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Fiscal Year",
+    "Estimated Future Amortization Expense"
+   ],
+   "period": "2026-2030",
+   "category": "financials",
+   "quote": "Fiscal Year Estimated Future Amortization Expense 2026 $15 2027 2"
+  },
+  {
+   "kind": "table_row",
+   "label": "Future amortization 2026",
+   "values": [
+    "$15"
+   ],
+   "unit": "$M",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "2026 $15 2027 2 2028 1 2029 1 2030 1"
+  },
+  {
+   "kind": "table_row",
+   "label": "Future amortization 2027",
+   "values": [
+    "2"
+   ],
+   "unit": "$M",
+   "period": "FY2027",
+   "category": "financials",
+   "quote": "2026 $15 2027 2 2028 1"
+  },
+  {
+   "kind": "table_row",
+   "label": "Future amortization 2028",
+   "values": [
+    "1"
+   ],
+   "unit": "$M",
+   "period": "FY2028",
+   "category": "financials",
+   "quote": "2028 1 2029 1 2030 1"
+  },
+  {
+   "kind": "table_row",
+   "label": "Future amortization 2029",
+   "values": [
+    "1"
+   ],
+   "unit": "$M",
+   "period": "FY2029",
+   "category": "financials",
+   "quote": "2029 1 2030 1 Total $20"
+  },
+  {
+   "kind": "table_row",
+   "label": "Future amortization 2030",
+   "values": [
+    "1"
+   ],
+   "unit": "$M",
+   "period": "FY2030",
+   "category": "financials",
+   "quote": "2030 1 Total $20"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total future amortization",
+   "values": [
+    "$20"
+   ],
+   "unit": "$M",
+   "period": "2026-2030",
+   "category": "financials",
+   "quote": "2030 1 Total $20"
+  },
+  {
+   "kind": "table_row",
+   "label": "Leasehold improvements",
+   "values": [
+    "$16",
+    "$51",
+    "$70"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Leasehold improvements $16 $51 $70 Servers, networking, and infrastructure equipment 34 2,216"
+  },
+  {
+   "kind": "table_row",
+   "label": "Servers, networking, and infrastructure equipment",
+   "values": [
+    "34",
+    "2,216"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Servers, networking, and infrastructure equipment 34 2,216 Construction in progress 4 63 877"
+  },
+  {
+   "kind": "table_row",
+   "label": "Construction in progress",
+   "values": [
+    "4",
+    "63",
+    "877"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Construction in progress 4 63 877 Other assets 3 10 30"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other assets (P&E)",
+   "values": [
+    "3",
+    "10",
+    "30"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Other assets 3 10 30 Total property and equipment, gross 23 158 3,193"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total property and equipment, gross",
+   "values": [
+    "23",
+    "158",
+    "3,193"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Total property and equipment, gross 23 158 3,193 Less Accumulated depreciation (4) (12) (132)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Less Accumulated depreciation",
+   "values": [
+    "(4)",
+    "(12)",
+    "(132)"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Less Accumulated depreciation (4) (12) (132) Total property and equipment, net $19 $146 $3,061"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total property and equipment, net",
+   "values": [
+    "$19",
+    "$146",
+    "$3,061"
+   ],
+   "unit": "$M",
+   "period": "2024-2026",
+   "category": "financials",
+   "quote": "Total property and equipment, net $19 $146 $3,061"
+  },
+  {
+   "kind": "inline",
+   "label": "Depreciation expense FY2023",
+   "values": [
+    "$1 million"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "Depreciation expense was $1 million, $3 million, and $10 million"
+  },
+  {
+   "kind": "inline",
+   "label": "Depreciation expense FY2024",
+   "values": [
+    "$3 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "$1 million, $3 million, and $10 million for the years ended December31, 2023, 2024, and 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Depreciation expense FY2025",
+   "values": [
+    "$10 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "and $10 million for the years ended December31, 2023, 2024, and 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Depreciation expense 9M 2025",
+   "values": [
+    "$6 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "and $6 million and $121 million for the nine months ended September 30, 2025 and 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Depreciation expense 9M 2026",
+   "values": [
+    "$121 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "$6 million and $121 million for the nine months ended September 30, 2025 and 2026 (unaudited), respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "Lease remaining terms",
+   "values": [
+    "less than one year to 20 years",
+    "up to 14 years"
+   ],
+   "unit": "years",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "non-cancelable remaining terms of less than one year to 20 years, some of which include options to extend for up to 14 years"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "2023",
+    "2024",
+    "2025",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "period": "2023-2026",
+   "category": "financials",
+   "quote": "Year Ended December 31, Nine Months Ended September 30, 2023 2024 2025 2025 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating lease cost",
+   "values": [
+    "$3",
+    "$17",
+    "$22",
+    "$13",
+    "$128"
+   ],
+   "unit": "$M",
+   "period": "2023-2026",
+   "category": "financials",
+   "quote": "Operating lease cost $3 $17 $22 $13 $128"
+  },
+  {
+   "kind": "table_row",
+   "label": "Amortization of lease assets",
+   "values": [
+    "81"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Amortization of lease assets 81 Interest on lease liabilities 27"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest on lease liabilities",
+   "values": [
+    "27"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Interest on lease liabilities 27 Finance lease cost 108"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance lease cost",
+   "values": [
+    "108"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Finance lease cost 108"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2026 NPA shares",
+   "values": [
+    "38.6 million shares"
+   ],
+   "unit": "shares",
+   "period": "Mar 2026",
+   "category": "financials",
+   "quote": "commitment to sell 38.6 million shares of the Companys Series G-2 redeemable convertible preferred stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2026 NPA price per share",
+   "values": [
+    "$259.1364"
+   ],
+   "unit": "per-share",
+   "period": "Mar 2026",
+   "category": "financials",
+   "quote": "Series G-2 redeemable convertible preferred stock at $259.1364 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA shares",
+   "values": [
+    "19.3 million shares"
+   ],
+   "unit": "shares",
+   "period": "Apr 2026",
+   "category": "financials",
+   "quote": "commitment to sell 19.3 million shares of the Companys Series G-2 redeemable convertible preferred stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA price per share",
+   "values": [
+    "$259.1364"
+   ],
+   "unit": "per-share",
+   "period": "Apr 2026",
+   "category": "financials",
+   "quote": "Series G-2 redeemable convertible preferred stock at $259.1364 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "AMD purchased put option",
+   "values": [
+    "up to $5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Jul 2026",
+   "category": "commitments",
+   "quote": "up to $5.0 billion of the Companys Class N common stock, if certain conditions are achieved"
+  },
+  {
+   "kind": "inline",
+   "label": "Holdback liability change in fair value FY2025",
+   "values": [
+    "$3 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "recorded a $3 million change in fair value of the holdback liability during the year ended December31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "SAFE conversion dates",
+   "values": [
+    "December 31, 2023",
+    "January 30, 2024"
+   ],
+   "period": "2023-2024",
+   "category": "financials",
+   "quote": "valuing the SAFE liability upon conversion on December 31, 2023 and on January 30, 2024"
+  }
+ ]
+}

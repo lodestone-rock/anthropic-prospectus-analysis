@@ -1,0 +1,350 @@
+{
+  "batch": "sx1a_b14",
+  "tables": [
+    {
+      "kind": "statement",
+      "caption": "Anthropic, PBC Consolidated Statements of Cash Flows",
+      "caption_line": 36612,
+      "start_line": 36618,
+      "end_line": 37004,
+      "column_note": "(In millions)",
+      "columns": ["", "2023", "2024", "2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026"],
+      "rows": [
+        {"label": "Cash flows from operating activities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Net loss", "cells": ["$(1,531)", "$(8,309)", "$(41,965)", "$(25,107)", "$(104,039)"]},
+        {"label": "Adjustments to reconcile net loss to net cash provided by (used in) operating activities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Stock-based compensation expense", "cells": ["29", "192", "1,158", "584", "3,255"]},
+        {"label": "Depreciation and amortization", "cells": ["3", "21", "40", "24", "250"]},
+        {"label": "Change in fair value of convertible notes, derivative liabilities, and SAFEs", "cells": ["1,045", "5,434", "34,308", "20,107", "94,324"]},
+        {"label": "Donation matching program liability", "cells": ["[BLANK]", "[BLANK]", "541", "[BLANK]", "2,086"]},
+        {"label": "Recognition and change in fair value of other financial instruments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "10,277"]},
+        {"label": "Other", "cells": ["[BLANK]", "7", "11", "4", "(11)"]},
+        {"label": "Changes in operating assets and liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Accounts receivable, net", "cells": ["(10)", "(90)", "(834)", "(500)", "(7,076)"]},
+        {"label": "Prepaid expenses and other assets", "cells": ["(1,253)", "(3,190)", "1,771", "779", "1,435"]},
+        {"label": "Accounts payable, accrued expenses, and other liabilities", "cells": ["84", "222", "2,079", "1,867", "4,377"]},
+        {"label": "Lease liabilities", "cells": ["(1)", "[BLANK]", "24", "13", "(11)"]},
+        {"label": "Deferred revenue", "cells": ["7", "21", "241", "194", "1,702"]},
+        {"label": "Net cash provided by (used in) operating activities", "cells": ["(1,627)", "(5,692)", "(2,637)", "(2,024)", "6,569"]},
+        {"label": "Cash flows from investing activities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Purchases of property and equipment", "cells": ["(2)", "(15)", "(131)", "(111)", "(925)"]},
+        {"label": "Prepayments for leased assets and equipment", "cells": ["[BLANK]", "[BLANK]", "(54)", "(51)", "(1,955)"]},
+        {"label": "Purchases of short-term investments", "cells": ["[BLANK]", "[BLANK]", "(3,082)", "(1,831)", "(40,318)"]},
+        {"label": "Sales and maturities of short-term investments", "cells": ["[BLANK]", "[BLANK]", "213", "9", "6,900"]},
+        {"label": "Other investing activities", "cells": ["[BLANK]", "(7)", "(23)", "(23)", "(248)"]},
+        {"label": "Net cash used in investing activities", "cells": ["(2)", "(22)", "(3,077)", "(2,007)", "(36,546)"]},
+        {"label": "Cash flows from financing activities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Proceeds from issuance of redeemable convertible preferred stock, net of issuance costs", "cells": ["445", "1,188", "16,548", "16,548", "110,432"]},
+        {"label": "Principal payments for finance leases", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(88)"]},
+        {"label": "Issuance of convertible notes for cash", "cells": ["1,750", "6,050", "3,450", "2,050", "[BLANK]"]},
+        {"label": "Proceeds from issuance of common stock", "cells": ["3", "10", "111", "59", "407"]},
+        {"label": "Repurchase of common stock", "cells": ["[BLANK]", "[BLANK]", "(149)", "(149)", "[BLANK]"]},
+        {"label": "Issuance of SAFEs for cash", "cells": ["122", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Payment of deferred offering costs", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(16)"]},
+        {"label": "Net cash provided by financing activities", "cells": ["2,320", "7,248", "19,960", "18,508", "110,735"]},
+        {"label": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash", "cells": ["[BLANK]", "[BLANK]", "1", "1", "(7)"]},
+        {"label": "Net increase in cash, cash equivalents, and restricted cash", "cells": ["691", "1,534", "14,247", "14,478", "80,751"]},
+        {"label": "Cash, cash equivalents, and restricted cash at beginning of period", "cells": ["929", "1,620", "3,154", "3,154", "17,401"]},
+        {"label": "Cash, cash equivalents, and restricted cash at end of period", "cells": ["$1,620", "$3,154", "$17,401", "$17,632", "$98,152"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 1 - Concentrations of Credit Risk: Accounts Receivable from Major Customers",
+      "caption_line": 37174,
+      "start_line": 37178,
+      "end_line": 37208,
+      "column_note": "",
+      "columns": ["", "As of December 31, 2024", "As of December 31, 2025", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Customer A", "cells": ["*", "13%", "*"]},
+        {"label": "Customer E", "cells": ["*", "*", "13%"]}
+      ],
+      "footnotes": ["*Less than 10% of total"]
+    },
+    {
+      "kind": "table",
+      "caption": "Note 1 - Concentrations of Revenue from Major Customers",
+      "caption_line": 37210,
+      "start_line": 37214,
+      "end_line": 37280,
+      "column_note": "",
+      "columns": ["", "2023", "2024", "2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026"],
+      "rows": [
+        {"label": "Customer A", "cells": ["*", "*", "12%", "11%", "*"]},
+        {"label": "Customer B", "cells": ["*", "*", "12%", "14%", "*"]},
+        {"label": "Customer C", "cells": ["43%", "*", "*", "*", "*"]},
+        {"label": "Customer D", "cells": ["11%", "*", "*", "*", "*"]}
+      ],
+      "footnotes": ["*Less than 10% of total"]
+    },
+    {
+      "kind": "table",
+      "caption": "Note 1 - Changes in the Allowance for Credit Losses",
+      "caption_line": 37528,
+      "start_line": 37530,
+      "end_line": 37572,
+      "column_note": "(in millions)",
+      "columns": ["", "2024", "2025", "Nine Months Ended September 30, 2026"],
+      "rows": [
+        {"label": "Balance at beginning of period", "cells": ["$", "$5", "$17"]},
+        {"label": "Change in allowance for credit losses", "cells": ["5", "20", "94"]},
+        {"label": "Write-off of uncollectible accounts receivable", "cells": ["[BLANK]", "(8)", "(2)"]},
+        {"label": "Balance at end of period", "cells": ["$5", "$17", "$109"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 2 - Revenue by Geographical Region",
+      "caption_line": 38370,
+      "start_line": 38374,
+      "end_line": 38426,
+      "column_note": "(in millions)",
+      "columns": ["", "2023", "2024", "2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026"],
+      "rows": [
+        {"label": "United States", "cells": ["$34", "$263", "$3,362", "$1,810", "$23,470"]},
+        {"label": "International", "cells": ["7", "123", "1,223", "735", "9,772"]},
+        {"label": "Total", "cells": ["$41", "$386", "$4,585", "$2,545", "$33,242"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 2 - Consumption-Based and Subscription-Based Revenue",
+      "caption_line": 38428,
+      "start_line": 38430,
+      "end_line": 38482,
+      "column_note": "(in millions)",
+      "columns": ["", "2023", "2024", "2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026"],
+      "rows": [
+        {"label": "Consumption-based", "cells": ["$39", "$288", "$3,796", "$2,125", "$26,306"]},
+        {"label": "Subscription-based", "cells": ["2", "98", "789", "420", "6,936"]},
+        {"label": "Total", "cells": ["$41", "$386", "$4,585", "$2,545", "$33,242"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 2 - Deferred Revenue - Significant Changes in the Deferred Revenue Balance",
+      "caption_line": 38486,
+      "start_line": 38488,
+      "end_line": 38528,
+      "column_note": "(in millions)",
+      "columns": ["", "Total"],
+      "rows": [
+        {"label": "Balance as of December 31, 2023", "cells": ["$7"]},
+        {"label": "Revenue recognized from deferred revenue at the beginning of the period", "cells": ["(7)"]},
+        {"label": "Amounts billed or received in advance and not recognized as revenue and other", "cells": ["28"]},
+        {"label": "Balance as of December 31, 2024", "cells": ["28"]},
+        {"label": "Revenue recognized from deferred revenue at the beginning of the period", "cells": ["(28)"]},
+        {"label": "Amounts billed or received in advance and not recognized as revenue and other", "cells": ["269"]},
+        {"label": "Balance as of December 31, 2025", "cells": ["269"]},
+        {"label": "Revenue recognized from deferred revenue at the beginning of the period (unaudited)", "cells": ["(236)"]},
+        {"label": "Amounts billed or received in advance and not recognized as revenue and other (unaudited)", "cells": ["1,938"]},
+        {"label": "Balance as of September 30, 2026 (unaudited)", "cells": ["$1,971"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 3 - Investments - Cash Equivalents and Short-Term Investments - As of December 31, 2024",
+      "caption_line": 38564,
+      "start_line": 38566,
+      "end_line": 38604,
+      "column_note": "(in millions)",
+      "columns": ["", "Amortized Cost", "Gross Unrealized Gains", "Gross Unrealized Losses", "Fair Value"],
+      "rows": [
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$3,029", "$", "$", "$3,029"]},
+        {"label": "Total cash equivalents", "cells": ["$3,029", "$", "$", "$3,029"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 3 - Investments - Cash Equivalents and Short-Term Investments - As of December 31, 2025",
+      "caption_line": 38606,
+      "start_line": 38608,
+      "end_line": 38690,
+      "column_note": "(in millions)",
+      "columns": ["", "Amortized Cost", "Gross Unrealized Gains", "Gross Unrealized Losses", "Fair Value"],
+      "rows": [
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$16,455", "$", "$", "$16,455"]},
+        {"label": "Corporate debt securities", "cells": ["4", "[BLANK]", "[BLANK]", "4"]},
+        {"label": "Total cash equivalents", "cells": ["$16,459", "$", "$", "$16,459"]},
+        {"label": "Short-term investments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Commercial paper", "cells": ["$123", "$", "$", "$123"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["2,111", "3", "[BLANK]", "2,114"]},
+        {"label": "Corporate debt securities", "cells": ["651", "1", "[BLANK]", "652"]},
+        {"label": "Total short-term investments", "cells": ["$2,885", "$4", "$", "$2,889"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 3 - Investments - Cash Equivalents and Short-Term Investments - As of September 30, 2026 (unaudited)",
+      "caption_line": 38692,
+      "start_line": 38694,
+      "end_line": 38782,
+      "column_note": "(in millions)",
+      "columns": ["", "Amortized Cost", "Gross Unrealized Gains", "Gross Unrealized Losses", "Fair Value"],
+      "rows": [
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$87,675", "$", "$", "$87,675"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["2,822", "[BLANK]", "(1)", "2,821"]},
+        {"label": "Total cash equivalents", "cells": ["$90,497", "$", "$(1)", "$90,496"]},
+        {"label": "Short-term investments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Commercial paper", "cells": ["$1,423", "$", "$(4)", "$1,419"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["32,328", "1", "(121)", "32,208"]},
+        {"label": "Corporate debt securities", "cells": ["2,681", "[BLANK]", "(25)", "2,656"]},
+        {"label": "Total short-term investments", "cells": ["$36,432", "$1", "$(150)", "$36,283"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 3 - Contractual Maturities of Cash Equivalents and Short-Term Investments",
+      "caption_line": 38804,
+      "start_line": 38806,
+      "end_line": 38852,
+      "column_note": "(in millions)",
+      "columns": ["", "As of December 31, 2025 - Amortized Cost", "As of December 31, 2025 - Fair Value", "As of September 30, 2026 (unaudited) - Amortized Cost", "As of September 30, 2026 (unaudited) - Fair Value"],
+      "rows": [
+        {"label": "Due within one year", "cells": ["$18,632", "$18,634", "$115,969", "$115,917"]},
+        {"label": "Due after one year through five years", "cells": ["712", "714", "10,960", "10,862"]},
+        {"label": "Total", "cells": ["$19,344", "$19,348", "$126,929", "$126,779"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 3 - Cash Equivalents and Short-Term Investments in an Unrealized Loss Position - As of September 30, 2026 (unaudited)",
+      "caption_line": 38862,
+      "start_line": 38866,
+      "end_line": 38904,
+      "column_note": "(in millions)",
+      "columns": ["", "Fair Value", "Unrealized Loss(1)"],
+      "rows": [
+        {"label": "Commercial paper", "cells": ["$1,293", "$(4)"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["31,537", "(122)"]},
+        {"label": "Corporate debt securities", "cells": ["2,500", "(25)"]},
+        {"label": "Total", "cells": ["$35,330", "$(151)"]}
+      ],
+      "footnotes": ["(1)All cash equivalents and short-term investments in an unrealized loss position have been in a continuous unrealized loss position for less than 12 months."]
+    },
+    {
+      "kind": "table",
+      "caption": "Note 4 - Fair Value Measurements - Financial Assets and Liabilities Measured at Fair Value on a Recurring Basis - As of December 31, 2024",
+      "caption_line": 38954,
+      "start_line": 38956,
+      "end_line": 39016,
+      "column_note": "(in millions)",
+      "columns": ["", "Level 1", "Level 2", "Level 3", "Total"],
+      "rows": [
+        {"label": "Assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$3,029", "$", "$", "$3,029"]},
+        {"label": "Total fair value assets", "cells": ["$3,029", "$", "$", "$3,029"]},
+        {"label": "Liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Convertible notes(1)", "cells": ["$", "$", "$14,116", "$14,116"]},
+        {"label": "Other noncurrent liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Derivative liability", "cells": ["[BLANK]", "[BLANK]", "150", "150"]},
+        {"label": "Total fair value liabilities", "cells": ["$", "$", "$14,266", "$14,266"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 4 - Fair Value Measurements - Financial Assets and Liabilities Measured at Fair Value on a Recurring Basis - As of December 31, 2025",
+      "caption_line": 39018,
+      "start_line": 39020,
+      "end_line": 39124,
+      "column_note": "(in millions)",
+      "columns": ["", "Level 1", "Level 2", "Level 3", "Total"],
+      "rows": [
+        {"label": "Assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$16,455", "$", "$", "$16,455"]},
+        {"label": "Corporate debt securities", "cells": ["[BLANK]", "4", "[BLANK]", "4"]},
+        {"label": "Short-term investments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Commercial paper", "cells": ["[BLANK]", "123", "[BLANK]", "123"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["[BLANK]", "2,114", "[BLANK]", "2,114"]},
+        {"label": "Corporate debt securities", "cells": ["[BLANK]", "652", "[BLANK]", "652"]},
+        {"label": "Other assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Warrant rights", "cells": ["[BLANK]", "[BLANK]", "345", "345"]},
+        {"label": "Total fair value assets", "cells": ["$16,455", "$2,893", "$345", "$19,693"]},
+        {"label": "Liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Accounts payable, accrued expenses, and other current liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Donation matching program liability(2)", "cells": ["$", "$", "$541", "$541"]},
+        {"label": "Convertible notes(1)", "cells": ["[BLANK]", "[BLANK]", "41,677", "41,677"]},
+        {"label": "Other noncurrent liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Holdback liability(3)", "cells": ["[BLANK]", "[BLANK]", "28", "28"]},
+        {"label": "Total fair value liabilities", "cells": ["$", "$", "$42,246", "$42,246"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "table",
+      "caption": "Note 4 - Fair Value Measurements - Financial Assets and Liabilities Measured at Fair Value on a Recurring Basis - As of September 30, 2026 (unaudited)",
+      "caption_line": 39136,
+      "start_line": 39138,
+      "end_line": 39258,
+      "column_note": "(in millions)",
+      "columns": ["", "Level 1", "Level 2", "Level 3", "Total"],
+      "rows": [
+        {"label": "Assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$87,675", "$", "$", "$87,675"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["[BLANK]", "2,821", "[BLANK]", "2,821"]},
+        {"label": "Short-term investments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Commercial paper", "cells": ["[BLANK]", "1,419", "[BLANK]", "1,419"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["[BLANK]", "32,208", "[BLANK]", "32,208"]},
+        {"label": "Corporate debt securities", "cells": ["[BLANK]", "2,656", "[BLANK]", "2,656"]},
+        {"label": "Other assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Warrant rights", "cells": ["[BLANK]", "[BLANK]", "1,128", "1,128"]},
+        {"label": "Partner financing arrangements", "cells": ["[BLANK]", "[BLANK]", "894", "894"]},
+        {"label": "Total fair value assets", "cells": ["$87,675", "$39,104", "$2,022", "$128,801"]},
+        {"label": "Liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Accounts payable, accrued expenses, and other current liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Holdback liability(3)", "cells": ["$", "$", "$71", "$71"]},
+        {"label": "Donation matching program liability(2)", "cells": ["[BLANK]", "[BLANK]", "1,960", "1,960"]},
+        {"label": "Convertible notes(1)", "cells": ["[BLANK]", "[BLANK]", "130,502", "130,502"]},
+        {"label": "Total fair value liabilities", "cells": ["$", "$", "$132,533", "$132,533"]}
+      ],
+      "footnotes": [
+        "(1)Recorded at fair value with changes in fair value recorded in earnings due to the election of the fair value option of accounting for financial instruments. Refer to Note 9 for further information.",
+        "(2)Refer to Note 10 for further information.",
+        "(3)Refer to Note 15 for further information."
+      ]
+    },
+    {
+      "kind": "table",
+      "caption": "Note 4 - Fair Value Measurements - Changes in the Fair Value of Level 3 Financial Instruments",
+      "caption_line": 39418,
+      "start_line": 39422,
+      "end_line": 39600,
+      "column_note": "(in millions)",
+      "columns": ["", "Warrant Rights", "Partner Financing Arrangements", "Donation Matching Program Liability", "Holdback Liability", "SAFEs", "Convertible Notes Payable", "Derivative Liability"],
+      "rows": [
+        {"label": "Balance as of December 31, 2023", "cells": ["$", "$", "$", "$", "$128", "$1,678", "$1,110"]},
+        {"label": "Additions", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "5,900", "150"]},
+        {"label": "Conversion", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(134)", "[BLANK]", "[BLANK]"]},
+        {"label": "Change in fair value and settlement of derivative liability", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "6", "6,538", "(1,110)"]},
+        {"label": "Balance as of December 31, 2024", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "14,116", "150"]},
+        {"label": "Additions", "cells": ["345", "[BLANK]", "541", "25", "[BLANK]", "3,450", "[BLANK]"]},
+        {"label": "Conversion", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(10,347)", "[BLANK]"]},
+        {"label": "Change in fair value and settlement of derivative liability", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "3", "[BLANK]", "34,458", "(150)"]},
+        {"label": "Balance as of December 31, 2025", "cells": ["345", "[BLANK]", "541", "28", "[BLANK]", "41,677", "[BLANK]"]},
+        {"label": "Additions (unaudited)", "cells": ["[BLANK]", "2,440", "1,808", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Conversion (unaudited)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(5,499)", "[BLANK]"]},
+        {"label": "Change in fair value (unaudited)", "cells": ["783", "(13,356)", "278", "43", "[BLANK]", "94,324", "[BLANK]"]},
+        {"label": "Settlement (unaudited)", "cells": ["[BLANK]", "11,810", "(667)", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Balances as of September 30, 2026 (unaudited)", "cells": ["$1,128", "$894", "$1,960", "$71", "$", "$130,502", "$"]}
+      ],
+      "footnotes": []
+    }
+  ]
+}

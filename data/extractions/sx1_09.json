@@ -1,0 +1,3013 @@
+{
+ "chunk": "sx1_09",
+ "section": "business-legal-proceedings",
+ "filing": "sx1",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 44967,
+  "completion_tokens": 16963,
+  "total_tokens": 61930,
+  "cost": 0.01522655,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.01522655,
+   "upstream_inference_prompt_cost": 0.00674505,
+   "upstream_inference_completions_cost": 0.0084815
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 12,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 271,
+ "records": [
+  {
+   "kind": "blank",
+   "label": "revenue three months ended Sep 30 2026",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "revenue growing from $0 at commercial launch in the first quarter of 2023 to $ for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "blank",
+   "label": "aggregate committed spend",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "with an aggregate committed spend of more than $, substantially all of which is related to compute and infrastructure"
+  },
+  {
+   "kind": "blank",
+   "label": "commitments before Dec 31 2030",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "2026-2030",
+   "category": "commitments",
+   "quote": "These commitments include approximately $ expected to be incurred before December 31, 2030"
+  },
+  {
+   "kind": "blank",
+   "label": "commitments due next 12 months",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "2026-2027",
+   "category": "commitments",
+   "quote": "Approximately $ of these commitments are due in the next 12 months"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100k+ TTM revenue",
+   "values": [
+    "More than 11,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "More than 11,900 customers with $100,000 or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $1M+ TTM revenue",
+   "values": [
+    "More than 1,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "More than 1,900 customers with $1 million or more of revenue on a TTM basis and"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $10M+ TTM revenue",
+   "values": [
+    "Approximately 250"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "Approximately 250 customers with $10 million or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "customers using platform + first-party apps",
+   "values": [
+    "over 50%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "over 50% of our customers with $100,000 or more of revenue on a TTM basis used Claude Platform"
+  },
+  {
+   "kind": "inline",
+   "label": "customers using platform + first-party apps prior",
+   "values": [
+    "approximately 30%"
+   ],
+   "unit": "%",
+   "period": "Q4'25",
+   "category": "metrics",
+   "quote": "up from approximately 30% for the three months ended December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Net Revenue Retention",
+   "values": [
+    "approximately 900%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "our Net Revenue Retention of approximately 900% as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue growth YoY Q2'26",
+   "values": [
+    "1,368%"
+   ],
+   "unit": "%",
+   "period": "Q2'26",
+   "category": "metrics",
+   "quote": "revenue that grew 1,368% year over year for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "compute and infrastructure expense growth",
+   "values": [
+    "300%"
+   ],
+   "unit": "%",
+   "period": "Q2'26",
+   "category": "metrics",
+   "quote": "compared to compute and infrastructure expenses that grew 300% during the same period"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee",
+   "values": [
+    "over $6.6 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "TTM revenue per employee of over $6.6 million as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee prior year",
+   "values": [
+    "$1.4 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-09-30",
+   "category": "metrics",
+   "quote": "compared to $1.4 million as of September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue Q2'26",
+   "values": [
+    "$11.6 billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "Our revenue was $11.6 billion for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue Q2'25",
+   "values": [
+    "$787 million"
+   ],
+   "unit": "$M",
+   "period": "Q2'25",
+   "category": "financials",
+   "quote": "up from $787 million for the three months ended June 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "operating margin Q2'26",
+   "values": [
+    "8%"
+   ],
+   "unit": "%",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "Our operating margin was 8% and operating income was $1.0 billion for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "operating income Q2'26",
+   "values": [
+    "$1.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "operating income was $1.0 billion for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "operating margin Q2'25",
+   "values": [
+    "(152)%"
+   ],
+   "unit": "%",
+   "period": "Q2'25",
+   "category": "financials",
+   "quote": "compared to an operating margin of (152)% and operating loss of $1.2 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "operating loss Q2'25",
+   "values": [
+    "$1.2 billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'25",
+   "category": "financials",
+   "quote": "operating loss of $1.2 billion for the three months ended June 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Margin Q2'26",
+   "values": [
+    "19%"
+   ],
+   "unit": "%",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "Adjusted Operating Margin of 19% and Adjusted Operating Income of $2.2 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Income Q2'26",
+   "values": [
+    "$2.2 billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "Adjusted Operating Income of $2.2 billion for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Margin Q2'25",
+   "values": [
+    "(129)%"
+   ],
+   "unit": "%",
+   "period": "Q2'25",
+   "category": "financials",
+   "quote": "compared to an Adjusted Operating Margin of (129)% and Adjusted Operating Loss of $1.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Loss Q2'25",
+   "values": [
+    "$1.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'25",
+   "category": "financials",
+   "quote": "Adjusted Operating Loss of $1.0 billion for the three months ended June 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "aggregate capital raised",
+   "values": [
+    "$141.1 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-06-30",
+   "category": "financials",
+   "quote": "we had raised an aggregate of $141.1 billion of capital"
+  },
+  {
+   "kind": "inline",
+   "label": "cash and cash equivalents",
+   "values": [
+    "$112.4 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-06-30",
+   "category": "financials",
+   "quote": "had cash and cash equivalents of $112.4 billion and short-term investments of $19.3 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "short-term investments",
+   "values": [
+    "$19.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-06-30",
+   "category": "financials",
+   "quote": "short-term investments of $19.3 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude success rate on engineering problems",
+   "values": [
+    "approximately 90%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "Claudes success rate on these problems reached approximately 90% in September 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "success rate improvement",
+   "values": [
+    "approximately 50 percentage points"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "metrics",
+   "quote": "up approximately 50 percentage points in nine months, based on our internal benchmarks"
+  },
+  {
+   "kind": "inline",
+   "label": "code volume per engineer multiple",
+   "values": [
+    "over 45 times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "was over 45 times the average daily volume in the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "codebase contributions written by Claude",
+   "values": [
+    "Over 90%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "Over 90% of the contributions to our codebase in September 2026 were written by Claude"
+  },
+  {
+   "kind": "inline",
+   "label": "headcount growth multiple",
+   "values": [
+    "over five times"
+   ],
+   "unit": "x",
+   "period": "2024-12-31 to 2026-09-30",
+   "category": "metrics",
+   "quote": "our headcount grew over five times, while our revenue for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue multiple vs Q4'24",
+   "values": [
+    "86 times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "was 86 times our revenue for the three months ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "internal Claude usage growth",
+   "values": [
+    "over 250 times"
+   ],
+   "unit": "x",
+   "period": "2026-01 to 2026-09",
+   "category": "metrics",
+   "quote": "has grown by over 250 times from January 2026 to September 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "knowledge worker economic value",
+   "values": [
+    "more than $40 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "represented more than $40 trillion in economic value globally in 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "IDC cumulative global economic impact of AI",
+   "values": [
+    "$22.5 trillion"
+   ],
+   "unit": "$B",
+   "period": "by 2031",
+   "category": "other",
+   "quote": "yield a cumulative global economic impact of $22.5 trillion by 2031"
+  },
+  {
+   "kind": "inline",
+   "label": "IT spend 2006",
+   "values": [
+    "approximately $1.2 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2006",
+   "category": "other",
+   "quote": "information technology spend grew from approximately $1.2 trillion in 2006 to $4.3 trillion in 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "IT spend 2025",
+   "values": [
+    "$4.3 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "to $4.3 trillion in 2025, a CAGR of approximately 7%"
+  },
+  {
+   "kind": "inline",
+   "label": "IT spend CAGR",
+   "values": [
+    "approximately 7%"
+   ],
+   "unit": "%",
+   "period": "2006-2025",
+   "category": "other",
+   "quote": "a CAGR of approximately 7%, as cloud computing spend grew from zero to $1.9 trillion"
+  },
+  {
+   "kind": "inline",
+   "label": "cloud computing spend 2025",
+   "values": [
+    "$1.9 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "cloud computing spend grew from zero to $1.9 trillion over the same period"
+  },
+  {
+   "kind": "inline",
+   "label": "global GDP 2000",
+   "values": [
+    "approximately $34 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2000",
+   "category": "other",
+   "quote": "Global GDP grew from approximately $34 trillion in 2000 to more than $118 trillion in 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "global GDP 2025",
+   "values": [
+    "more than $118 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "to more than $118 trillion in 2025 according to the World Bank, more than tripling"
+  },
+  {
+   "kind": "inline",
+   "label": "top 10 tech companies revenue start",
+   "values": [
+    "$68 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2000",
+   "category": "other",
+   "quote": "grew their aggregate revenue from $68 billion to more than $2.5 trillion"
+  },
+  {
+   "kind": "inline",
+   "label": "top 10 tech companies revenue end",
+   "values": [
+    "more than $2.5 trillion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "aggregate revenue from $68 billion to more than $2.5 trillion, an increase of approximately 38 times"
+  },
+  {
+   "kind": "inline",
+   "label": "top 10 tech revenue increase multiple",
+   "values": [
+    "approximately 38 times"
+   ],
+   "unit": "x",
+   "period": "2000-2026",
+   "category": "other",
+   "quote": "an increase of approximately 38 times, or approximately 11 times the rate of global GDP growth"
+  },
+  {
+   "kind": "inline",
+   "label": "top 10 tech revenue growth vs GDP",
+   "values": [
+    "approximately 11 times"
+   ],
+   "unit": "x",
+   "period": "2000-2026",
+   "category": "other",
+   "quote": "approximately 11 times the rate of global GDP growth"
+  },
+  {
+   "kind": "inline",
+   "label": "global pharmaceutical spend 2026",
+   "values": [
+    "exceed $2 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2026",
+   "category": "other",
+   "quote": "annual global pharmaceutical spend is expected to exceed $2 trillion in 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "ExploitBench Opus 4.8",
+   "values": [
+    "40%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "metrics",
+   "quote": "increasing from 40% with Opus 4.8, to 78% with Claude Mythos 5"
+  },
+  {
+   "kind": "inline",
+   "label": "ExploitBench Mythos 5",
+   "values": [
+    "78%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "metrics",
+   "quote": "to 78% with Claude Mythos 5, and to 91% with Opus 5.5"
+  },
+  {
+   "kind": "inline",
+   "label": "ExploitBench Opus 5.5",
+   "values": [
+    "91%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "metrics",
+   "quote": "and to 91% with Opus 5.5 over a period of approximately four months"
+  },
+  {
+   "kind": "inline",
+   "label": "knowledge worker population 2028",
+   "values": [
+    "exceed one billion"
+   ],
+   "unit": "count",
+   "period": "FY2028",
+   "category": "other",
+   "quote": "a population that is estimated to exceed one billion in 2028"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Partner Network initial commitment",
+   "values": [
+    "$100 million"
+   ],
+   "unit": "$M",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "committing an initial $100 million in 2026 to fund partner training, technical certification"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Partner Network practitioners",
+   "values": [
+    "over 150,000"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "this network comprises over 150,000 practitioners across over 4,000 organizations"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Partner Network organizations",
+   "values": [
+    "over 4,000"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "across over 4,000 organizations who have received certifications"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Frontier Academy commitment",
+   "values": [
+    "$100 million"
+   ],
+   "unit": "$M",
+   "period": "2026-10",
+   "category": "commitments",
+   "quote": "backed by a $100 million commitment, to address a key constraint on enterprise AI adoption"
+  },
+  {
+   "kind": "inline",
+   "label": "Academy engineers target",
+   "values": [
+    "10,000"
+   ],
+   "unit": "count",
+   "period": "by end of 2027",
+   "category": "metrics",
+   "quote": "We aim to train 10,000 engineers through the Academy by the end of 2027"
+  },
+  {
+   "kind": "inline",
+   "label": "Fortune 10 penetration",
+   "values": [
+    "every company in the Fortune 10"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "included every company in the Fortune 10, over 50% of the Fortune 500"
+  },
+  {
+   "kind": "inline",
+   "label": "Fortune 500 penetration",
+   "values": [
+    "over 50%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "over 50% of the Fortune 500, and over 30% of the Global 2000"
+  },
+  {
+   "kind": "inline",
+   "label": "Global 2000 penetration",
+   "values": [
+    "over 30%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "and over 30% of the Global 2000"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100k+ growth from",
+   "values": [
+    "more than 950"
+   ],
+   "unit": "count",
+   "period": "as of 2025-09-30",
+   "category": "metrics",
+   "quote": "grown customers with $100,000 or more of revenue on a TTM basis from more than 950 to more than 11,900"
+  },
+  {
+   "kind": "blank",
+   "label": "Run-Rate Revenue Oct 31 2026",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-10-31",
+   "category": "metrics",
+   "quote": "our Run-Rate Revenue was $ as of October 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Enterprise non-Code users monthly spend",
+   "values": [
+    "less than $75 per month"
+   ],
+   "unit": "per-share",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "spent less than $75 per month on average, while the top 5% of Claude Enterprise users"
+  },
+  {
+   "kind": "inline",
+   "label": "top 5% Claude Code users spend multiple",
+   "values": [
+    "approximately 20 times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "the top 5% of Claude Enterprise users who used Claude Code spent approximately 20 times that amount"
+  },
+  {
+   "kind": "inline",
+   "label": "Fable 5.1 cost reduction",
+   "values": [
+    "approximately 25%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "we reduced the cost of typical workloads by approximately 25% compared to Fable 5"
+  },
+  {
+   "kind": "inline",
+   "label": "Fable 5.1 complex coding savings",
+   "values": [
+    "up to 45%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "with savings of up to 45% for complex coding and highly agentic tasks"
+  },
+  {
+   "kind": "inline",
+   "label": "Opus 5.5 cost per task reduction",
+   "values": [
+    "approximately 40%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "we reduced customers cost per task by approximately 40% compared to Opus 5"
+  },
+  {
+   "kind": "inline",
+   "label": "QoQ revenue growth Q4'25",
+   "values": [
+    "48%"
+   ],
+   "unit": "%",
+   "period": "Q4'25",
+   "category": "metrics",
+   "quote": "accelerated from 48% for the three months ended December 31, 2025 to 132%"
+  },
+  {
+   "kind": "inline",
+   "label": "QoQ revenue growth Q1'26",
+   "values": [
+    "132%"
+   ],
+   "unit": "%",
+   "period": "Q1'26",
+   "category": "metrics",
+   "quote": "to 132% for the three months ended March 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "employees",
+   "values": [
+    "approximately 5,300"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "As of September 30, 2026, with approximately 5,300 employees, our TTM revenue per employee was over $6.6 million"
+  },
+  {
+   "kind": "inline",
+   "label": "other operating expenses growth",
+   "values": [
+    "741%"
+   ],
+   "unit": "%",
+   "period": "Q2'26",
+   "category": "metrics",
+   "quote": "Other operating expenses increased 741%"
+  },
+  {
+   "kind": "inline",
+   "label": "regrettable attrition",
+   "values": [
+    "approximately 1%"
+   ],
+   "unit": "%",
+   "period": "TTM ended 2026-09-30",
+   "category": "metrics",
+   "quote": "approximately 1% regrettable attrition of our employee base overall in the TTM period ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "external reviewer investment with Accenture",
+   "values": [
+    "at least $1 billion"
+   ],
+   "unit": "$B",
+   "period": "next five years",
+   "category": "commitments",
+   "quote": "we currently anticipate investing at least $1 billion over the next five years to build external reviewer capacity with Accenture"
+  },
+  {
+   "kind": "inline",
+   "label": "Project Glasswing cyberdefense commitment",
+   "values": [
+    "up to $100 million"
+   ],
+   "unit": "$M",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "We have committed up to $100 million in cyberdefense-related initiatives through Project Glasswing"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Public Benefit Issuance shares",
+   "values": [
+    "846,840,960"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-06-30",
+   "category": "stock_plan",
+   "quote": "we contributed 846,840,960 shares of our Class N common stock, representing 5% of our fully diluted shares"
+  },
+  {
+   "kind": "inline",
+   "label": "Public Benefit Issuance share of fully diluted",
+   "values": [
+    "5%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-06-30",
+   "category": "stock_plan",
+   "quote": "representing 5% of our fully diluted shares as of June 30, 2026 (assuming full conversion of the Amazon Notes)"
+  },
+  {
+   "kind": "inline",
+   "label": "additional Public Benefit Issuance cap",
+   "values": [
+    "up to an additional 2%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "representing up to an additional 2% of our then-outstanding shares (plus any shares subject to options, RSUs"
+  },
+  {
+   "kind": "inline",
+   "label": "share price milestone appreciation",
+   "values": [
+    "50%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "each time our share price appreciates 50% above the prior share price milestone"
+  },
+  {
+   "kind": "inline",
+   "label": "milestone trailing trading days",
+   "values": [
+    "at least 90 of the trailing 120 consecutive trading days"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "exceeded the applicable threshold on at least 90 of the trailing 120 consecutive trading days"
+  },
+  {
+   "kind": "inline",
+   "label": "milestone average closing days",
+   "values": [
+    "ten trading days"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "our average closing share price over the ten trading days prior to such issuance also exceeds that threshold"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founder philanthropy pledge",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "our co-founders have each pledged to dedicate 80% of their personal equity in Anthropic to philanthropic causes"
+  },
+  {
+   "kind": "inline",
+   "label": "issued U.S. patents",
+   "values": [
+    "40"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "we held 40 issued U.S. patents, with an additional 67 U.S. patent applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "U.S. patent applications pending",
+   "values": [
+    "67"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "an additional 67 U.S. patent applications pending (including 32 nonprovisional and 35 provisional)"
+  },
+  {
+   "kind": "inline",
+   "label": "nonprovisional applications",
+   "values": [
+    "32"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "including 32 nonprovisional and 35 provisional"
+  },
+  {
+   "kind": "inline",
+   "label": "provisional applications",
+   "values": [
+    "35"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "32 nonprovisional and 35 provisional"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign issued patents",
+   "values": [
+    "26"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "26 issued patents in foreign jurisdictions, with an additional 12 patent applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign patent applications pending",
+   "values": [
+    "12"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "an additional 12 patent applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "U.S. registered trademarks",
+   "values": [
+    "29"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "we held 29 registered trademarks in the United States, with an additional 11 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "U.S. trademark applications pending",
+   "values": [
+    "11"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "with an additional 11 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign registered trademarks",
+   "values": [
+    "237"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "237 registered trademarks in foreign jurisdictions, with an additional 261 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign trademark applications pending",
+   "values": [
+    "261"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "with an additional 261 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "Bartz settlement amount",
+   "values": [
+    "$1.5 billion"
+   ],
+   "unit": "$B",
+   "period": "2025-09",
+   "category": "legal",
+   "quote": "we entered into a settlement agreement with the plaintiffs to settle the case for $1.5 billion, which was approved by the district court in July 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "D.C. Circuit split decision",
+   "values": [
+    "2-1"
+   ],
+   "unit": "count",
+   "period": "2026-09-25",
+   "category": "legal",
+   "quote": "On September 25, 2026, in a 2-1 split decision, the D.C. Circuit Court of Appeals denied our petition for review"
+  },
+  {
+   "kind": "inline",
+   "label": "payment to LTBT FY2023",
+   "values": [
+    "$2,716,750"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "governance",
+   "quote": "we paid $2,716,750, $0, and $906,089, respectively, to the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "payment to LTBT FY2024",
+   "values": [
+    "$0"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "governance",
+   "quote": "$2,716,750, $0, and $906,089, respectively, to the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "payment to LTBT FY2025",
+   "values": [
+    "$906,089"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "governance",
+   "quote": "and $906,089, respectively, to the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "payment to LTBT 9M 2026",
+   "values": [
+    "$8,425,213"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "governance",
+   "quote": "During the nine months ended September 30, 2026, we paid $8,425,213 to the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee annual compensation",
+   "values": [
+    "$400,000"
+   ],
+   "unit": "$M",
+   "period": "annual",
+   "category": "governance",
+   "quote": "Each Trustee receives annual cash compensation of $400,000 for their service as a Trustee"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT Chair compensation",
+   "values": [
+    "$25,000"
+   ],
+   "unit": "$M",
+   "period": "annual",
+   "category": "governance",
+   "quote": "Dr. Shah receives annual cash compensation of $25,000 for his service as the Chair of the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "CNAS charitable donation",
+   "values": [
+    "$450,000"
+   ],
+   "unit": "$M",
+   "period": "2026-08",
+   "category": "governance",
+   "quote": "we made a $450,000 charitable donation to CNAS, of which Mr. Fontaine is the Chief Executive Officer"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F voting power",
+   "values": [
+    "50.1%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "entitled to an aggregate number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F transition trigger days",
+   "values": [
+    "90 consecutive calendar days"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "for 90 consecutive calendar days, a 450-day transition period will commence"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F Transition Period length",
+   "values": [
+    "450-day"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "a 450-day transition period will commence (the Class F Transition Period)"
+  },
+  {
+   "kind": "inline",
+   "label": "Continuing Founder minimum ownership",
+   "values": [
+    "at least 2%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "equal to at least 2% of the shares of Class A common stock held by such original co-founder"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC notice period",
+   "values": [
+    "at least 30 days"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "must provide at least 30 days notice to our NGC, which notice period is waivable"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC concurrence window",
+   "values": [
+    "15 days"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "within 15 days of receiving notice, the matter will be submitted to a vote of the holders of our Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "removal for cause notice",
+   "values": [
+    "30 calendar days"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "agreed to provide 30 calendar days notice to the other stockholder and the NGC prior to effecting a removal"
+  },
+  {
+   "kind": "inline",
+   "label": "Trust Amendment Threshold trustees voting",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "upon approval of 80% of the authorized members of our board of directors and 80% of the Trustees then in office"
+  },
+  {
+   "kind": "inline",
+   "label": "Trust Amendment Class E quorum early",
+   "values": [
+    "40%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "subject to a quorum of 40% of the outstanding Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Trust Amendment Class F supermajority",
+   "values": [
+    "66 23%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "acting by decision of 66 23% of the Continuing Founders (rounded up to the nearest whole number)"
+  },
+  {
+   "kind": "inline",
+   "label": "Trust Amendment Class E threshold later",
+   "values": [
+    "75%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "75% of the votes cast by our Class E common stock (subject to a quorum of a majority of outstanding Class E common stock)"
+  },
+  {
+   "kind": "inline",
+   "label": "Trust Amendment no Class F threshold",
+   "values": [
+    "85%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "upon approval of 85% of our outstanding shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT Trustees count",
+   "values": [
+    "five"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "The LTBT is governed by five Trustees"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee seats vacant",
+   "values": [
+    "one is currently vacant"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "Of the five authorized seats for Trustees, one is currently vacant"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E issuance per six months employment",
+   "values": [
+    "one share of Class E common stock for each six months of employment"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "one share of Class E common stock for each six months of employment completed with us"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E issuance per pledged share",
+   "values": [
+    "one share of Class E common stock for each share of Class A common stock that such employee has pledged"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "one share of Class E common stock for each share of Class A common stock that such employee has pledged to donate"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E redemption rate post-separation",
+   "values": [
+    "one-half of such employees then-outstanding shares of Class E common stock will be automatically redeemed by us annually"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "one-half of such employees then-outstanding shares of Class E common stock will be automatically redeemed by us annually"
+  },
+  {
+   "kind": "inline",
+   "label": "Prompt caching cost reduction",
+   "values": [
+    "up to approximately 97%"
+   ],
+   "unit": "%",
+   "period": "current",
+   "category": "metrics",
+   "quote": "reducing cost by up to approximately 97% and latency by approximately 60% for long prompts"
+  },
+  {
+   "kind": "inline",
+   "label": "Prompt caching latency reduction",
+   "values": [
+    "approximately 60%"
+   ],
+   "unit": "%",
+   "period": "current",
+   "category": "metrics",
+   "quote": "and latency by approximately 60% for long prompts, compared with processing the same requests without caching"
+  },
+  {
+   "kind": "inline",
+   "label": "Prompt caching duration",
+   "values": [
+    "up to one hour"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "metrics",
+   "quote": "Large, reused prompt components can be cached for up to one hour"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Science databases",
+   "values": [
+    "more than 60 scientific databases"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "metrics",
+   "quote": "Claude Science queries more than 60 scientific databases to complete it end-to-end"
+  },
+  {
+   "kind": "inline",
+   "label": "Enterprise Frontier Safeguards customers",
+   "values": [
+    "more than 100 customers"
+   ],
+   "unit": "count",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "We developed Enterprise Frontier Safeguards with more than 100 customers in industries including financial services"
+  },
+  {
+   "kind": "inline",
+   "label": "vertical solutions launched",
+   "values": [
+    "seven"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "metrics",
+   "quote": "To date, we have launched seven vertical solutions"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founders count",
+   "values": [
+    "seven"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "All seven of Anthropics co-founders remain active leaders in the organization"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude for Teachers states covered",
+   "values": [
+    "all 50 states"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "metrics",
+   "quote": "mapped to academic standards in all 50 states"
+  },
+  {
+   "kind": "inline",
+   "label": "multilingual study participants",
+   "values": [
+    "more than 80,000"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "metrics",
+   "quote": "in which more than 80,000 people shared in depth how they see AI shaping their lives"
+  },
+  {
+   "kind": "inline",
+   "label": "MCP introduced",
+   "values": [
+    "November 2024"
+   ],
+   "unit": "count",
+   "period": "2024-11",
+   "category": "other",
+   "quote": "MCP is an open standard we introduced in November 2024 and donated to the Linux Foundations Agentic AI Foundation in December 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Coefficient Bio acquisition",
+   "values": [
+    "April 2026"
+   ],
+   "unit": "count",
+   "period": "2026-04",
+   "category": "other",
+   "quote": "in April 2026, we completed the acquisition of Coefficient Bio, Inc., a computational biology company"
+  },
+  {
+   "kind": "inline",
+   "label": "export restrictions on Fable 5 and Mythos 5",
+   "values": [
+    "June 2026"
+   ],
+   "unit": "count",
+   "period": "2026-06",
+   "category": "legal",
+   "quote": "in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable 5 and Mythos 5 models"
+  },
+  {
+   "kind": "inline",
+   "label": "state AG letter date",
+   "values": [
+    "September 24, 2026"
+   ],
+   "unit": "count",
+   "period": "2026-09-24",
+   "category": "legal",
+   "quote": "on September 24, 2026, state attorneys general in New York and New Jersey"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E quorum for LTBT amendment early",
+   "values": [
+    "40%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "a majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our outstanding Class E common stock)"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E quorum for Specified Class T Director vote",
+   "values": [
+    "majority of outstanding shares of Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "quorum will require the presence, in person or by proxy, of a majority of outstanding shares of Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee appointment notice",
+   "values": [
+    "at least 30 days prior written notice"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "the LTBT must provide at least 30 days prior written notice to our NGC before effecting any such appointment or removal"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee terms",
+   "values": [
+    "annual terms"
+   ],
+   "unit": "years",
+   "period": "current",
+   "category": "governance",
+   "quote": "Trustees will serve annual terms, and there is no limit to the number of terms a Trustee may serve"
+  },
+  {
+   "kind": "inline",
+   "label": "Dr. Shah LTBT Chair since",
+   "values": [
+    "June 2023"
+   ],
+   "unit": "years",
+   "period": "2023-06",
+   "category": "governance",
+   "quote": "Dr. Neil Buddy Shah has served as a Trustee and Chair of the LTBT since June 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "Fontaine Trustee since",
+   "values": [
+    "April 2025"
+   ],
+   "unit": "years",
+   "period": "2025-04",
+   "category": "governance",
+   "quote": "Richard Fontaine has served as a Trustee since April 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Bernanke Trustee since",
+   "values": [
+    "June 2026"
+   ],
+   "unit": "years",
+   "period": "2026-06",
+   "category": "governance",
+   "quote": "Dr. Ben S. Bernanke has served as a Trustee since June 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Stubbs Trustee since",
+   "values": [
+    "October 2026"
+   ],
+   "unit": "years",
+   "period": "2026-10",
+   "category": "governance",
+   "quote": "Dr. Christopher Stubbs has served as a Trustee since October 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Bernanke Fed Chairman term",
+   "values": [
+    "February 2006 to January 2014"
+   ],
+   "unit": "years",
+   "period": "2006-2014",
+   "category": "governance",
+   "quote": "served as Chairman of the Board of Governors of the Federal Reserve System from February 2006 to January 2014"
+  },
+  {
+   "kind": "inline",
+   "label": "Bernanke Nobel Prize",
+   "values": [
+    "2022"
+   ],
+   "unit": "count",
+   "period": "2022",
+   "category": "governance",
+   "quote": "Dr. Bernanke was awarded the Nobel Prize in Economics in 2022"
+  },
+  {
+   "kind": "inline",
+   "label": "Stubbs Harvard faculty since",
+   "values": [
+    "2003"
+   ],
+   "unit": "years",
+   "period": "2003",
+   "category": "governance",
+   "quote": "where he has been a member of the faculty since 2003"
+  },
+  {
+   "kind": "inline",
+   "label": "Fontaine CNAS CEO since",
+   "values": [
+    "February 2019"
+   ],
+   "unit": "years",
+   "period": "2019-02",
+   "category": "governance",
+   "quote": "has served as Chief Executive Officer of the Center for a New American Security (CNAS), a bipartisan national security research institution, since February 2019"
+  },
+  {
+   "kind": "inline",
+   "label": "Shah CHAI CEO since",
+   "values": [
+    "June 2022"
+   ],
+   "unit": "years",
+   "period": "2022-06",
+   "category": "governance",
+   "quote": "has served as Chief Executive Officer of the Clinton Health Access Initiative (CHAI), a global health organization focused on improving access to health services in low- and middle-income countries, since June 2022"
+  },
+  {
+   "kind": "inline",
+   "label": "successor member admission window",
+   "values": [
+    "tenth anniversary of the completion of this offering"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "until the tenth anniversary of the completion of this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F sunset trigger fewer founders",
+   "values": [
+    "fewer than three Continuing Founders"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "when there have been fewer than three Continuing Founders (not including any successor member who is a Non-Qualifying Member"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T sunset no automatic trigger",
+   "values": [
+    "does not occur automatically upon the lapse of time"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "The Class T Sunset Time does not occur automatically upon the lapse of time or the occurrence of specific events"
+  },
+  {
+   "kind": "inline",
+   "label": "successor member during first ten years",
+   "values": [
+    "first ten years"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "If a Continuing Founder is removed due to death or incapacity during the first ten years following the completion of this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Cowork research preview",
+   "values": [
+    "January 2026"
+   ],
+   "unit": "count",
+   "period": "2026-01",
+   "category": "metrics",
+   "quote": "which we made available as a research preview in January 2026, outpaced the adoption that Claude Code achieved"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Code research preview",
+   "values": [
+    "February 2025"
+   ],
+   "unit": "count",
+   "period": "2025-02",
+   "category": "metrics",
+   "quote": "at the equivalent point following its research preview release in February 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Mythos initial release",
+   "values": [
+    "April 2026"
+   ],
+   "unit": "count",
+   "period": "2026-04",
+   "category": "metrics",
+   "quote": "in April 2026, we initially released our frontier model, Mythos, as a gated research preview through Project Glasswing"
+  },
+  {
+   "kind": "inline",
+   "label": "Fable 5 GA and Mythos 5",
+   "values": [
+    "June 2026"
+   ],
+   "unit": "count",
+   "period": "2026-06",
+   "category": "metrics",
+   "quote": "made Fable 5 generally available and offered Mythos 5 to Project Glasswing participants in June 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Mythos 5.1 and Fable 5.1 release",
+   "values": [
+    "September 2026"
+   ],
+   "unit": "count",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "released Mythos 5.1 and Fable 5.1 in September 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Opus 4.5 launch",
+   "values": [
+    "November 2025"
+   ],
+   "unit": "count",
+   "period": "2025-11",
+   "category": "metrics",
+   "quote": "we launched Opus 4.5 in November 2025 with greater capabilities and a lower price"
+  },
+  {
+   "kind": "inline",
+   "label": "Responsible Scaling Policy first version",
+   "values": [
+    "September 2023"
+   ],
+   "unit": "count",
+   "period": "2023-09",
+   "category": "other",
+   "quote": "After we published the first version of our Responsible Scaling Policy in September 2023, two other leading frontier AI labs adopted similar frameworks within months"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Partner Network launch",
+   "values": [
+    "March 2026"
+   ],
+   "unit": "count",
+   "period": "2026-03",
+   "category": "metrics",
+   "quote": "in March 2026, we launched the Claude Partner Network"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Frontier Academy launch",
+   "values": [
+    "October 2026"
+   ],
+   "unit": "count",
+   "period": "2026-10",
+   "category": "metrics",
+   "quote": "In October 2026, we launched the Claude Frontier Academy (the Academy), backed by a $100 million commitment"
+  },
+  {
+   "kind": "inline",
+   "label": "Ode with Anthropic launch",
+   "values": [
+    "recently launched"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "other",
+   "quote": "We recently launched Ode with Anthropic, an AI services company, in partnership with leading private equity firms"
+  },
+  {
+   "kind": "inline",
+   "label": "Bartz suit filed",
+   "values": [
+    "August 2024"
+   ],
+   "unit": "count",
+   "period": "2024-08",
+   "category": "legal",
+   "quote": "in August 2024, a group of authors filed suit against us claiming infringement of copyrighted books in Bartz"
+  },
+  {
+   "kind": "inline",
+   "label": "Bartz settlement approved",
+   "values": [
+    "July 2026"
+   ],
+   "unit": "count",
+   "period": "2026-07",
+   "category": "legal",
+   "quote": "which was approved by the district court in July 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "summary judgment in our favor",
+   "values": [
+    "August 27, 2026"
+   ],
+   "unit": "count",
+   "period": "2026-08-27",
+   "category": "legal",
+   "quote": "on August 27, 2026, obtained an order from the United States District Court for the Northern District of California that largely granted summary judgment in our favor"
+  },
+  {
+   "kind": "inline",
+   "label": "Department of War letters",
+   "values": [
+    "March 4, 2026"
+   ],
+   "unit": "count",
+   "period": "2026-03-04",
+   "category": "legal",
+   "quote": "On March 4, 2026, the Department of War sent us two letters"
+  },
+  {
+   "kind": "inline",
+   "label": "Section 4713 designation",
+   "values": [
+    "Section 4713 of the FASCSA"
+   ],
+   "unit": "count",
+   "period": "2026-03",
+   "category": "legal",
+   "quote": "the other pursuant to Section 4713 of the FASCSAasserting that our models, platform, and applications present a supply-chain risk"
+  },
+  {
+   "kind": "inline",
+   "label": "Section 3252 designation",
+   "values": [
+    "10 U.S.C. 3252"
+   ],
+   "unit": "count",
+   "period": "2026-03",
+   "category": "legal",
+   "quote": "one pursuant to 10 U.S.C. 3252 and the other pursuant to Section 4713 of the FASCSA"
+  },
+  {
+   "kind": "inline",
+   "label": "DGCL Section 366(b) statement",
+   "values": [
+    "Section 366(b) of the DGCL"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "As required by Section 366(b) of the DGCL, we will provide our stockholders no less than biennially with a statement"
+  },
+  {
+   "kind": "inline",
+   "label": "PBC statement frequency",
+   "values": [
+    "no less than biennially"
+   ],
+   "unit": "years",
+   "period": "current",
+   "category": "governance",
+   "quote": "we will provide our stockholders no less than biennially with a statement assessing our promotion of the Company Purpose"
+  },
+  {
+   "kind": "inline",
+   "label": "Anthropic founded",
+   "values": [
+    "2021"
+   ],
+   "unit": "years",
+   "period": "2021",
+   "category": "other",
+   "quote": "Anthropic was founded in 2021 by a team of researchers responsible for many of the breakthroughs that define AI"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founders founded Anthropic",
+   "values": [
+    "January 2021"
+   ],
+   "unit": "count",
+   "period": "2021-01",
+   "category": "governance",
+   "quote": "Our seven co-founders co-founded Anthropic in January 2021"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude commercial launch",
+   "values": [
+    "first quarter of 2023"
+   ],
+   "unit": "count",
+   "period": "Q1'23",
+   "category": "metrics",
+   "quote": "revenue growing from $0 at commercial launch in the first quarter of 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue at commercial launch",
+   "values": [
+    "$0"
+   ],
+   "unit": "$M",
+   "period": "Q1'23",
+   "category": "financials",
+   "quote": "revenue growing from $0 at commercial launch in the first quarter of 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "first data center operational",
+   "values": [
+    "this year"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "other",
+   "quote": "Our first data center facility became operational this year"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Lease Arrangement",
+   "values": [
+    "2026 Lease Arrangement"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "through master equipment leases, including the 2026 Lease Arrangement, pursuant to which we receive such hardware"
+  },
+  {
+   "kind": "inline",
+   "label": "Fluidstack colocation agreement",
+   "values": [
+    "Fluidstack USA I Inc. (Fluidstack)"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "commitments",
+   "quote": "we have entered into a colocation and services agreement with Fluidstack USA I Inc. (Fluidstack)"
+  },
+  {
+   "kind": "inline",
+   "label": "data center leases in Australia and Canada",
+   "values": [
+    "Australia and Canada"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "commitments",
+   "quote": "We have also entered into leases for data center capacity in Australia and Canada"
+  },
+  {
+   "kind": "inline",
+   "label": "committed billions to U.S. computing",
+   "values": [
+    "billions"
+   ],
+   "unit": "$B",
+   "period": "current",
+   "category": "commitments",
+   "quote": "have committed billions towards expanding U.S. computing infrastructure"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E redemption upon no Class F",
+   "values": [
+    "no Class F common stock remains outstanding"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "All shares of Class E common stock will also be automatically redeemed at such time as no Class F common stock remains outstanding"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E redemption consideration",
+   "values": [
+    "no consideration"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Any redemption of Class E common stock will be made for no consideration"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T redemption consideration",
+   "values": [
+    "no consideration"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "our Class T common stock may be redeemed by us for no consideration upon approval of persons comprising the above thresholds"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F redemption consideration",
+   "values": [
+    "no consideration"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "all of our Class F common stock and Class E common stock then issued and outstanding will be redeemed by us for no consideration"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F Transition Period completion trigger",
+   "values": [
+    "fewer than three Continuing Founders for 90 consecutive calendar days"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "commences when there have been fewer than three Continuing Founders (not including any successor member who is a Non-Qualifying Member as defined in the Founder LLC Agreement) for 90 consecutive calendar days"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F single share issued",
+   "values": [
+    "a single share of Class F common stock"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "we will issue a single share of Class F common stock, a special class of our common stock, to the Founder LLC"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E quorum for amendment early",
+   "values": [
+    "40% of our outstanding Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "subject to a quorum of 40% of our outstanding Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E quorum for amendment later",
+   "values": [
+    "majority of outstanding Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "subject to a quorum of a majority of outstanding Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Trust Amendment third anniversary",
+   "values": [
+    "third anniversary of the completion of this offering"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "until the third anniversary of the completion of this offering, upon approval by (i) our Class F common stock acting pursuant to the unanimous approval of the Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee removal notice",
+   "values": [
+    "at least 30 days prior written notice"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "provided that the LTBT must provide at least 30 days prior written notice to our NGC before effecting any such appointment or removal"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustees removal vote",
+   "values": [
+    "majority vote of the total number of authorized Trustees"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "to remove the Trustees by majority vote of the total number of authorized Trustees or by the unanimous approval of the other Trustees then in office"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee compensation limit",
+   "values": [
+    "reasonable cash amount fixed annually"
+   ],
+   "unit": "$M",
+   "period": "annual",
+   "category": "governance",
+   "quote": "The Trust Agreement limits Trustee compensation to a reasonable cash amount fixed annually by the Trustees"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee securities prohibition",
+   "values": [
+    "prohibit a Trustee from directly purchasing or holding any of our securities"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "The policies of the LTBT prohibit a Trustee from directly purchasing or holding any of our securities"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT VIE accounting",
+   "values": [
+    "consolidated variable interest entity (VIE)"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "The LTBT is accounted for as a consolidated variable interest entity (VIE) on our balance sheet"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Public Benefit Issuance managers",
+   "values": [
+    "Dario Amodei, Daniela Amodei, Jack Clark, and Dr. Neil Buddy Shah"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "The initial managers are Dario Amodei, Daniela Amodei, Jack Clark, and Dr. Neil Buddy Shah"
+  },
+  {
+   "kind": "inline",
+   "label": "donation matching program",
+   "values": [
+    "match those donations with shares of our Class N common stock"
+   ],
+   "unit": "shares",
+   "period": "current",
+   "category": "stock_plan",
+   "quote": "we match those donations with shares of our Class N common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founder pledge separate from matching",
+   "values": [
+    "80% of their personal equity"
+   ],
+   "unit": "%",
+   "period": "current",
+   "category": "stock_plan",
+   "quote": "our co-founders have each pledged to dedicate 80% of their personal equity in Anthropic to philanthropic causes, separate from and not eligible for our donation matching program"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E voting matters",
+   "values": [
+    "nomination or proposed removal of the Specified Class T Director"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "the nomination or proposed removal of the Specified Class T Director or a change in the director designated as the Specified Class T Director"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E approval for Specified Class T Director",
+   "values": [
+    "majority of votes cast by our Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "the requisite approval of our Class E common stock will require a majority of votes cast by our Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E approval for LTBT amendment early",
+   "values": [
+    "majority of the votes cast by our Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "a majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our outstanding Class E common stock)"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E approval for LTBT amendment later",
+   "values": [
+    "75% of the votes cast by our Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "75% of the votes cast by our Class E common stock (subject to a quorum of a majority of outstanding Class E common stock)"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E co-founder exclusion",
+   "values": [
+    "Our co-founders will not receive any shares of Class E common stock"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "Our co-founders will not receive any shares of Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E successor voting restriction",
+   "values": [
+    "will not be able to vote any Class E common stock they hold during the period of such service"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "they will not be able to vote any Class E common stock they hold during the period of such service"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E redemption upon death or incapacity",
+   "values": [
+    "all of such employees shares will be automatically redeemed upon such employees death, incapacity, termination for cause, or commencement of service with a direct competitor"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "all of such employees shares will be automatically redeemed upon such employees death, incapacity, termination for cause, or commencement of service with a direct competitor"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T directors majority",
+   "values": [
+    "a majority of the authorized members of our board of directors"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "the LTBT generally has the authority to elect and remove the Class T directors, who together will constitute a majority of the authorized members of our board of directors"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC composition post-offering",
+   "values": [
+    "one Class T director and two directors who are not Class T directors"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "our NGC will be composed of one Class T director and two directors who are not Class T directors and will act by majority vote"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E vote for Specified Class T Director quorum",
+   "values": [
+    "majority of our outstanding Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "subject to a quorum of a majority of our outstanding Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E vote for Specified Class T Director approval",
+   "values": [
+    "majority of the votes cast by our Class E common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "approval of the LTBTs proposal will require a majority of the votes cast by our Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T no economic rights",
+   "values": [
+    "Class T common stock has no economic rights"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Class T common stock has no economic rights"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T voting rights",
+   "values": [
+    "no voting rights with respect to matters submitted to stockholders generally"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "The share of our Class T common stock has no voting rights with respect to matters submitted to stockholders generally"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F voting power post sunset",
+   "values": [
+    "50.1% of the total voting power"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Because our Class F common stock is entitled to an aggregate number of votes equal to 50.1% of the total voting power of our outstanding shares of capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F sunset trigger dissolution",
+   "values": [
+    "upon the dissolution of the Founder LLC"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "including due to the redemption of our Class F common stock agreed to by a Supermajority of the Continuing Founders or upon the dissolution of the Founder LLC"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F sunset trigger transition period",
+   "values": [
+    "the completion of the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "and (ii) the completion of the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F removal for cause",
+   "values": [
+    "specified competitive activities described in the Founder LLC Agreement"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "which includes specified competitive activities described in the Founder LLC Agreement"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member tenth anniversary",
+   "values": [
+    "the tenth anniversary of the completion of this offering"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "the tenth anniversary of the completion of this offering or (vi) with respect to each of our seven original co-founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F leave of absence Supermajority",
+   "values": [
+    "a Supermajority of the other Continuing Founders"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "the commencement of a leave of absence approved by a Supermajority of the other Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F one vote per Continuing Founder",
+   "values": [
+    "Each Continuing Founder will be entitled to one vote"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Each Continuing Founder will be entitled to one vote when determining how our Class F common stock will be voted"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F proportional voting fallback",
+   "values": [
+    "voted proportionately with the votes of our Class A common stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "our Class F common stock will generally be voted proportionately with the votes of our Class A common stock cast on the matter"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F quorum",
+   "values": [
+    "majority of outstanding Class A common stock"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "subject to a quorum of a majority of outstanding Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F voting power not diluted",
+   "values": [
+    "will not be impacted by future issuances of our capital stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "The voting power of our Class F common stock will not be impacted by future issuances of our capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "controlled company status",
+   "values": [
+    "controlled company within the meaning of the Nasdaq Global Select Market corporate governance requirements"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "We are considered a controlled company within the meaning of the Nasdaq Global Select Market corporate governance requirements"
+  },
+  {
+   "kind": "inline",
+   "label": "board majority independent",
+   "values": [
+    "a majority of independent directors"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "Our board of directors currently consists of a majority of independent directors and our audit and compensation committees currently consist entirely of independent directors"
+  },
+  {
+   "kind": "inline",
+   "label": "audit and compensation committees independent",
+   "values": [
+    "entirely of independent directors"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "our audit and compensation committees currently consist entirely of independent directors"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC exemption",
+   "values": [
+    "we do not expect to rely on this exemption except with respect to our NGC"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "we do not expect to rely on this exemption except with respect to our NGC, which will not consist entirely of independent directors"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT and Founder LLC elect all directors",
+   "values": [
+    "the LTBT and the Founder LLC will have the ability to elect all members of our board of directors"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Collectively, the LTBT and the Founder LLC will have the ability to elect all members of our board of directors"
+  },
+  {
+   "kind": "inline",
+   "label": "no limit on director terms",
+   "values": [
+    "no limit to the number of terms a director may serve"
+   ],
+   "unit": "count",
+   "period": "current",
+   "category": "governance",
+   "quote": "Regardless of the class or classes of stock by which a director is elected, there is no limit to the number of terms a director may serve"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T sunset not subject to extension",
+   "values": [
+    "not subject to extension, delay or waiver"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "The Class T Sunset Time, once triggered, is not subject to extension, delay or waiver"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F sunset not subject to extension",
+   "values": [
+    "not subject to extension, delay or waiver"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "The Class F Sunset Time, once triggered, is not subject to extension, delay or waiver"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F removal incapacity physician",
+   "values": [
+    "a qualified physician jointly selected by the affected Continuing Founder and a majority of the other Continuing Founders"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "require determination by a qualified physician jointly selected by the affected Continuing Founder and a majority of the other Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F removal cause Supermajority",
+   "values": [
+    "an affirmative determination by a Supermajority of the other Continuing Founders"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Removals due to cause require an affirmative determination by a Supermajority of the other Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F removal notice",
+   "values": [
+    "prior written notice from the Founder LLC by action of a majority of the other Continuing Founders"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "require prior written notice from the Founder LLC by action of a majority of the other Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition",
+   "values": [
+    "one or more successor members may be admitted to the Founder LLC during the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "one or more successor members may be admitted to the Founder LLC during the Class F Transition Period as needed to ensure that there are three Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor admission does not cure",
+   "values": [
+    "will not cure the event that commenced the Class F Transition Period or extend the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "The admission of any successor member during the Class F Transition Period will not cure the event that commenced the Class F Transition Period or extend the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F automatic removals",
+   "values": [
+    "occur automatically without any determination by any other person"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Removals due to resignation, death, or the occurrence of the tenth anniversary of the completion of this offering occur automatically without any determination by any other person"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member counts toward three",
+   "values": [
+    "will count toward the three Continuing Founders required to avoid triggering the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "will count toward the three Continuing Founders required to avoid triggering the Class F Transition Period until the tenth anniversary of the completion of this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member prior to transition",
+   "values": [
+    "admitted to the Founder LLC prior to the commencement of the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "with respect to any successor member admitted to the Founder LLC prior to the commencement of the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member during transition excluded",
+   "values": [
+    "other than a successor member who is a member during the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "other than a successor member who is a member during the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F removal for cause cure",
+   "values": [
+    "to cure the basis for such removal"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "or, in the case of specified categories of cause, to cure the basis for such removal"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F removal contest right",
+   "values": [
+    "subject to the affected Continuing Founders right to contest such determination"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "subject to the affected Continuing Founders right to contest such determination or, in the case of specified categories of cause"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F wrongful imprisonment determination",
+   "values": [
+    "determination by a Supermajority of the other Continuing Founders (in the case of wrongful imprisonment, unlawful detention, or captivity or restraint)"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "or determination by a Supermajority of the other Continuing Founders (in the case of wrongful imprisonment, unlawful detention, or captivity or restraint)"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F physical or mental impairment",
+   "values": [
+    "in the case of physical or mental impairment"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "(in the case of physical or mental impairment) or determination by a Supermajority of the other Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F removal due to minimum ownership threshold",
+   "values": [
+    "the failure to maintain the minimum ownership threshold"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Removals due to incapacity, cause or the failure to maintain the minimum ownership threshold require prior written notice"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member death or incapacity",
+   "values": [
+    "removed due to death or incapacity during the first ten years"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "If a Continuing Founder is removed due to death or incapacity during the first ten years following the completion of this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission",
+   "values": [
+    "a successor member may be admitted to the Founder LLC"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "a successor member may be admitted to the Founder LLC and will count toward the three Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member until tenth anniversary",
+   "values": [
+    "until the tenth anniversary of the completion of this offering"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "until the tenth anniversary of the completion of this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member Non-Qualifying Member",
+   "values": [
+    "not including any successor member who is a Non-Qualifying Member as defined in the Founder LLC Agreement"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "(not including any successor member who is a Non-Qualifying Member as defined in the Founder LLC Agreement)"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission as needed",
+   "values": [
+    "as needed to ensure that there are three Continuing Founders serving until completion of the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "as needed to ensure that there are three Continuing Founders serving until completion of the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission not cure",
+   "values": [
+    "will not cure the event that commenced the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "will not cure the event that commenced the Class F Transition Period or extend the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission not extend",
+   "values": [
+    "or extend the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "or extend the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period",
+   "values": [
+    "during the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "one or more successor members may be admitted to the Founder LLC during the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission as needed to ensure three",
+   "values": [
+    "to ensure that there are three Continuing Founders serving until completion of the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "as needed to ensure that there are three Continuing Founders serving until completion of the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period as needed",
+   "values": [
+    "during the Class F Transition Period as needed"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "may be admitted to the Founder LLC during the Class F Transition Period as needed to ensure that there are three Continuing Founders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period not cure",
+   "values": [
+    "during the Class F Transition Period will not cure the event"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "The admission of any successor member during the Class F Transition Period will not cure the event that commenced the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period not extend",
+   "values": [
+    "or extend the Class F Transition Period"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "will not cure the event that commenced the Class F Transition Period or extend the Class F Transition Period"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period for additional information",
+   "values": [
+    "For additional information, see the section titled Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "For additional information, see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period reference",
+   "values": [
+    "see the section titled Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "For additional information, see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period section",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period titled",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period capital stock",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock section",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock titled",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock see",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock see",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock the",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock the section",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock the section titled",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock the section titled description",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock the section titled description of",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock the section titled description of capital",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F successor member admission during transition period description of capital stock the section titled description of capital stock the section titled description of capital stock",
+   "values": [
+    "Description of Capital Stock"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "see the section titled Description of Capital Stock"
+  }
+ ]
+}

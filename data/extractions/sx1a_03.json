@@ -1,0 +1,428 @@
+{
+ "chunk": "sx1a_03",
+ "section": "risk-factors-1",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 33908,
+  "completion_tokens": 8318,
+  "total_tokens": 42226,
+  "cost": 0.005482,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 31360,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.005482,
+   "upstream_inference_prompt_cost": 0.001323,
+   "upstream_inference_completions_cost": 0.004159
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 5905,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 36,
+ "records": [
+  {
+   "kind": "inline",
+   "label": "Class A common stock",
+   "values": [
+    "Class A common stock"
+   ],
+   "unit": "shares",
+   "period": "offering",
+   "category": "offering",
+   "quote": "Investing in our Class A common stock involves a high degree of risk. You should carefully consider the risks"
+  },
+  {
+   "kind": "inline",
+   "label": "aggregate committed spend",
+   "values": [
+    "approximately $895.4 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "with an aggregate committed spend of approximately $895.4 billion, substantially all of which is related to compute and infrastructure"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments before 2030",
+   "values": [
+    "approximately $447.5 billion"
+   ],
+   "unit": "$B",
+   "period": "before 2030-12-31",
+   "category": "commitments",
+   "quote": "These commitments include approximately $447.5 billion expected to be incurred before December 31, 2030, and substantially all of the remainder"
+  },
+  {
+   "kind": "inline",
+   "label": "remainder commitments period",
+   "values": [
+    "2031 and 2045"
+   ],
+   "unit": "date",
+   "period": "2031-2045",
+   "category": "commitments",
+   "quote": "substantially all of the remainder is expected to be incurred between 2031 and 2045"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments due 12 months",
+   "values": [
+    "Approximately $69.8 billion"
+   ],
+   "unit": "$B",
+   "period": "12M following 2026-09-30",
+   "category": "commitments",
+   "quote": "Approximately $69.8 billion of these commitments are due in the 12 months following September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "September 2025 cyberattack",
+   "values": [
+    "September 2025"
+   ],
+   "unit": "date",
+   "period": "Sep 2025",
+   "category": "legal",
+   "quote": "For example, in September 2025, we detected and assessed with high confidence that a Chinese state-sponsored hacking group"
+  },
+  {
+   "kind": "inline",
+   "label": "cyberattack targets",
+   "values": [
+    "roughly 30 global targets"
+   ],
+   "unit": "count",
+   "period": "Sep 2025",
+   "category": "legal",
+   "quote": "manipulated our Claude Code tool into attempting infiltration into roughly 30 global targets, including large technology companies, financial institutions"
+  },
+  {
+   "kind": "inline",
+   "label": "state AG investigations",
+   "values": [
+    "at least 15 other states"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "legal",
+   "quote": "state attorneys general in California and at least 15 other states have announced investigations of another company in our industry"
+  },
+  {
+   "kind": "inline",
+   "label": "models unauthorized access",
+   "values": [
+    "Four of our models"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "other",
+   "quote": "Four of our models gained unauthorized access to real third-party systems during sessions lasting roughly 10 to 34 hours of active work"
+  },
+  {
+   "kind": "inline",
+   "label": "unauthorized access session duration",
+   "values": [
+    "roughly 10 to 34 hours"
+   ],
+   "unit": "hours",
+   "period": "2026",
+   "category": "other",
+   "quote": "Four of our models gained unauthorized access to real third-party systems during sessions lasting roughly 10 to 34 hours of active work"
+  },
+  {
+   "kind": "inline",
+   "label": "criminal investigation count",
+   "values": [
+    "at least one case"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "legal",
+   "quote": "In at least one case, a state attorney general has initiated a criminal investigation against another company offering similar services"
+  },
+  {
+   "kind": "inline",
+   "label": "Consumer Terms minimum age",
+   "values": [
+    "at least 18 years of age"
+   ],
+   "unit": "years",
+   "period": "current",
+   "category": "other",
+   "quote": "While our current Consumer Terms of Service requires our users to be at least 18 years of age, minors have accessed"
+  },
+  {
+   "kind": "inline",
+   "label": "Mythos gated research preview",
+   "values": [
+    "April 2026"
+   ],
+   "unit": "date",
+   "period": "Apr 2026",
+   "category": "other",
+   "quote": "For example, in April 2026, we initially released our frontier model, Mythos, as a gated research preview through Project Glasswing"
+  },
+  {
+   "kind": "inline",
+   "label": "pre-training delay",
+   "values": [
+    "more than a month"
+   ],
+   "unit": "months",
+   "period": "2026",
+   "category": "other",
+   "quote": "we recently chose to delay pre-training a new frontier base model for more than a month to allow time to further enhance"
+  },
+  {
+   "kind": "inline",
+   "label": "FTC non-public investigations",
+   "values": [
+    "September 2026"
+   ],
+   "unit": "date",
+   "period": "Sep 2026",
+   "category": "legal",
+   "quote": "in September 2026, media reports citing a senior Federal Trade Commission (FTC) official indicated that the FTC has opened non-public investigations"
+  },
+  {
+   "kind": "inline",
+   "label": "FTC civil investigative demand",
+   "values": [
+    "October 2026"
+   ],
+   "unit": "date",
+   "period": "Oct 2026",
+   "category": "legal",
+   "quote": "In October 2026, the FTC issued a civil investigative demand to us seeking information about our consumer protection"
+  },
+  {
+   "kind": "inline",
+   "label": "Commerce export restrictions",
+   "values": [
+    "June 2026"
+   ],
+   "unit": "date",
+   "period": "Jun 2026",
+   "category": "legal",
+   "quote": "in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable 5 and Mythos 5 models"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 pre-release evaluation incidents",
+   "values": [
+    "2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "other",
+   "quote": "following incidents in 2026 in which our models gained unauthorized access to real computer systems during pre-release cybersecurity evaluations"
+  },
+  {
+   "kind": "inline",
+   "label": "no customer over 10% of revenue",
+   "values": [
+    "more than 10%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "metrics",
+   "quote": "While no single customer represented more than 10% of our revenue for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "top five customer concentration",
+   "values": [
+    "approximately 25%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "metrics",
+   "quote": "our top five customers represented approximately 25% of our revenue for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "CSP marketplace revenue FY2023",
+   "values": [
+    "11%"
+   ],
+   "unit": "%",
+   "period": "FY2023",
+   "category": "metrics",
+   "quote": "revenue generated from sales to customers through CSP marketplaces represented approximately 11%, 32%, 47%, and 44%, respectively, of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "CSP marketplace revenue FY2024",
+   "values": [
+    "32%"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "metrics",
+   "quote": "revenue generated from sales to customers through CSP marketplaces represented approximately 11%, 32%, 47%, and 44%, respectively, of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "CSP marketplace revenue FY2025",
+   "values": [
+    "47%"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "metrics",
+   "quote": "revenue generated from sales to customers through CSP marketplaces represented approximately 11%, 32%, 47%, and 44%, respectively, of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "CSP marketplace revenue 9M 2026",
+   "values": [
+    "44%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "metrics",
+   "quote": "revenue generated from sales to customers through CSP marketplaces represented approximately 11%, 32%, 47%, and 44%, respectively, of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "CSP marketplace net AR as of 2024-12-31",
+   "values": [
+    "42%"
+   ],
+   "unit": "%",
+   "period": "as of 2024-12-31",
+   "category": "metrics",
+   "quote": "net accounts receivable from sales through CSP marketplaces to customers represented 42%, 60%, and 52%, respectively, of our net accounts receivable"
+  },
+  {
+   "kind": "inline",
+   "label": "CSP marketplace net AR as of 2025-12-31",
+   "values": [
+    "60%"
+   ],
+   "unit": "%",
+   "period": "as of 2025-12-31",
+   "category": "metrics",
+   "quote": "net accounts receivable from sales through CSP marketplaces to customers represented 42%, 60%, and 52%, respectively, of our net accounts receivable"
+  },
+  {
+   "kind": "inline",
+   "label": "CSP marketplace net AR as of 2026-09-30",
+   "values": [
+    "52%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "net accounts receivable from sales through CSP marketplaces to customers represented 42%, 60%, and 52%, respectively, of our net accounts receivable"
+  },
+  {
+   "kind": "inline",
+   "label": "total indebtedness",
+   "values": [
+    "$6.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "As of September 30, 2026, our total indebtedness was $6.2 billion, reflecting the aggregate principal amount"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA date",
+   "values": [
+    "September 19, 2023"
+   ],
+   "unit": "date",
+   "period": "as of 2023-09-19",
+   "category": "financials",
+   "quote": "pursuant to the Convertible Note Purchase Agreement, dated as of September 19, 2023, by and between us and Amazon"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA date",
+   "values": [
+    "November 22, 2024"
+   ],
+   "unit": "date",
+   "period": "as of 2024-11-22",
+   "category": "financials",
+   "quote": "the New Convertible Note Purchase Agreement, dated as of November 22, 2024, by and between us and Amazon"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Lease Arrangement date",
+   "values": [
+    "March 2026"
+   ],
+   "unit": "date",
+   "period": "Mar 2026",
+   "category": "commitments",
+   "quote": "an equipment lease with a third-party partner, Broadcom Inc. (Broadcom), in March 2026 to procure specialized AI accelerators"
+  },
+  {
+   "kind": "inline",
+   "label": "Infrastructure Partner 2026 NPA capacity",
+   "values": [
+    "up to $42.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Mar 2026",
+   "category": "commitments",
+   "quote": "we have the ability to issue, if needed, up to $42.0 billion in aggregate principal amount of convertible promissory notes"
+  },
+  {
+   "kind": "blank",
+   "label": "notes as % of Class N post-conversion",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "our outstanding convertible promissory notes will represent in the aggregate approximately % of our Class N common stock and % of our total outstanding common stock"
+  },
+  {
+   "kind": "blank",
+   "label": "notes as % of total common stock post-conversion",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "our outstanding convertible promissory notes will represent in the aggregate approximately % of our Class N common stock and % of our total outstanding common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class N common stock conversion",
+   "values": [
+    "Class N common stock"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "the Amazon Notes will convert into Class N common stock, subject, in each case, to an ownership cap as set forth in the Amazon Notes"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T common stock",
+   "values": [
+    "Class T common stock"
+   ],
+   "unit": "shares",
+   "period": "current",
+   "category": "stock_plan",
+   "quote": "we have established the LTBT, which through a special class of common stock, Class T common stock, generally has the authority to elect"
+  }
+ ]
+}

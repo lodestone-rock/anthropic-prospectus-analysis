@@ -1,0 +1,4295 @@
+{
+ "chunk": "sx1a_07",
+ "section": "mda-1",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 26018,
+  "completion_tokens": 24184,
+  "total_tokens": 50202,
+  "cost": 0.0159947,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0159947,
+   "upstream_inference_prompt_cost": 0.0039027,
+   "upstream_inference_completions_cost": 0.012092
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 15,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 326,
+ "records": [
+  {
+   "kind": "inline",
+   "label": "revenue growth from launch",
+   "values": [
+    "$0",
+    "$17.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "revenue growing from $0 at commercial launch in the first quarter of 2023 to $17.0 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "multi-year compute procurement lead time",
+   "values": [
+    "12 to 18 months"
+   ],
+   "unit": "months",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "multi-year commitments that we typically procure 12 to 18 months in advance of availability"
+  },
+  {
+   "kind": "inline",
+   "label": "customers using platform + first-party apps",
+   "values": [
+    "over 50%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "over 50% of our customers with $100,000 or more of revenue on a TTM basis used Claude Platform and at least one of our first-party applications"
+  },
+  {
+   "kind": "inline",
+   "label": "prior period platform+apps usage",
+   "values": [
+    "approximately 30%"
+   ],
+   "unit": "%",
+   "period": "Q4'25",
+   "category": "metrics",
+   "quote": "up from approximately 30% for the three months ended December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100K+ TTM",
+   "values": [
+    "more than 11,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "more than 11,900 customers with $100,000 or more of revenue on a TTM basis as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100K+ TTM prior year",
+   "values": [
+    "more than 950"
+   ],
+   "unit": "count",
+   "period": "as of 2025-09-30",
+   "category": "metrics",
+   "quote": "up from more than 950 as of September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $1M+ TTM",
+   "values": [
+    "more than 1,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "more than 1,900 customers with $1 million or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $10M+ TTM",
+   "values": [
+    "approximately 250"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "approximately 250 customers with $10 million or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "Net Revenue Retention",
+   "values": [
+    "approximately 900%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "Net Revenue Retention of approximately 900% as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue growth YoY Q3'26",
+   "values": [
+    "1,127%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "our revenue grew 1,127% year over year for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "compute and infrastructure expense growth Q3'26",
+   "values": [
+    "382%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "compute and infrastructure expenses that grew 382% during the same period"
+  },
+  {
+   "kind": "inline",
+   "label": "short-term compute Q3'26",
+   "values": [
+    "$5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "commitments",
+   "quote": "including $5.0 billion of compute under short-term commitments, which currently costs significantly more"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude codebase contributions",
+   "values": [
+    "over 90%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "over 90% of the contributions to our codebase in September 2026 were written by Claude"
+  },
+  {
+   "kind": "inline",
+   "label": "code per engineer multiple",
+   "values": [
+    "over 45 times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "over 45 times the average daily volume in the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue growth Sep'25-Sep'26",
+   "values": [
+    "approximately 1,200%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "TTM revenue increased approximately 1,200% while headcount increased approximately 170%"
+  },
+  {
+   "kind": "inline",
+   "label": "headcount growth",
+   "values": [
+    "approximately 170%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "TTM revenue increased approximately 1,200% while headcount increased approximately 170%"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee prior",
+   "values": [
+    "$1.4 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-09-30",
+   "category": "metrics",
+   "quote": "driving TTM revenue per employee from $1.4 million to over $6.6 million"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee current",
+   "values": [
+    "over $6.6 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "driving TTM revenue per employee from $1.4 million to over $6.6 million"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue 9M 2026",
+   "values": [
+    "$33.2 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Our revenue was $33.2 billion for the nine months ended September 30, 2026, up from $2.5 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue 9M 2025",
+   "values": [
+    "$2.5 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "up from $2.5 billion for the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "operating loss 9M 2026",
+   "values": [
+    "$1.3 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Our operating loss was $1.3 billion for the nine months ended September 30, 2026, down from $5.2 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "operating loss 9M 2025",
+   "values": [
+    "$5.2 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "down from $5.2 billion for the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Income 9M 2026",
+   "values": [
+    "$4.1 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Adjusted Operating Income, which was $4.1 billion for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Loss 9M 2025",
+   "values": [
+    "$3.1 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "up from an Adjusted Operating Loss of $3.1 billion for the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "operating loss Q3'26",
+   "values": [
+    "$567 million"
+   ],
+   "unit": "$M",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "Our operating loss was $567 million for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "operating income Q2'26",
+   "values": [
+    "$974 million"
+   ],
+   "unit": "$M",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "compared to an operating income of $974 million for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "donation matching non-cash charges Q3'26",
+   "values": [
+    "$2.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "$2.0 billion of non-cash charges related to our donation matching program"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Income Q3'26",
+   "values": [
+    "$2.5 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "Adjusted Operating Income increased for the three months ended September 30, 2026 to $2.5 billion compared to $2.2 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Income Q2'26",
+   "values": [
+    "$2.2 billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "compared to $2.2 billion for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Margin Q2'26",
+   "values": [
+    "19%"
+   ],
+   "unit": "%",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "decreased from 19% for the three months ended June 30, 2026 to 15% for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Margin Q3'26",
+   "values": [
+    "15%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "to 15% for the three months ended September 30, 2026, primarily driven by the $5.0 billion of short-term compute"
+  },
+  {
+   "kind": "inline",
+   "label": "aggregate committed spend",
+   "values": [
+    "approximately $895.4 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "aggregate committed spend of approximately $895.4 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments before 2030",
+   "values": [
+    "approximately $447.5 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2030",
+   "category": "commitments",
+   "quote": "approximately $447.5 billion expected to be incurred before December 31, 2030"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments remainder period",
+   "values": [
+    "2031 and 2045"
+   ],
+   "unit": "years",
+   "period": "2031-2045",
+   "category": "commitments",
+   "quote": "substantially all of the remainder is expected to be incurred between 2031 and 2045"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments due 12 months",
+   "values": [
+    "Approximately $69.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Approximately $69.8 billion of these commitments are due in the 12 months following September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "total liquidity",
+   "values": [
+    "$146.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "we had $146.6 billion of liquidity, comprised of $95.6 billion of cash and cash equivalents"
+  },
+  {
+   "kind": "inline",
+   "label": "cash and cash equivalents",
+   "values": [
+    "$95.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "$95.6 billion of cash and cash equivalents, $36.3 billion of short-term investments"
+  },
+  {
+   "kind": "inline",
+   "label": "short-term investments",
+   "values": [
+    "$36.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "$36.3 billion of short-term investments, and $14.8 billion of availability under our AR Credit Facility"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Facility availability",
+   "values": [
+    "$14.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "$14.8 billion of availability under our AR Credit Facility (as defined below)"
+  },
+  {
+   "kind": "inline",
+   "label": "NPA financing capacity",
+   "values": [
+    "up to $77.0 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "up to $77.0 billion in available financing capacity under our NPAs"
+  },
+  {
+   "kind": "inline",
+   "label": "equity commitments",
+   "values": [
+    "up to $5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "up to $5.0 billion in equity commitments"
+  },
+  {
+   "kind": "blank",
+   "label": "net proceeds from offering",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "FY2026",
+   "category": "offering",
+   "quote": "we estimate that the net proceeds to us from this offering will be approximately $, based upon the assumed initial public offering price of $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "assumed IPO price per share",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "FY2026",
+   "category": "offering",
+   "quote": "the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range"
+  },
+  {
+   "kind": "blank",
+   "label": "net proceeds if underwriters option exercised",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "FY2026",
+   "category": "offering",
+   "quote": "or approximately $ if the underwriters option to purchase additional shares of our Class A common stock from us is exercised in full"
+  },
+  {
+   "kind": "inline",
+   "label": "consumption revenue FY2024",
+   "values": [
+    "$288 million",
+    "75%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Consumption-based revenue increased from $288 million, or 75% of total revenue, for the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "consumption revenue FY2025",
+   "values": [
+    "$3.8 billion",
+    "83%"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "to $3.8 billion, or 83% of total revenue, for the year ended December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "consumption revenue 9M 2026",
+   "values": [
+    "$26.3 billion",
+    "79%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "to $26.3 billion, or 79% of total revenue, for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "subscription revenue FY2024",
+   "values": [
+    "$98 million",
+    "25%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Subscription-based revenue increased from $98 million, or 25% of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "subscription revenue FY2025",
+   "values": [
+    "$789 million",
+    "17%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "to $789 million, or 17% of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "subscription revenue 9M 2026",
+   "values": [
+    "$6.9 billion",
+    "21%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "to $6.9 billion, or 21% of total revenue, over the same periods"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue FY2023",
+   "values": [
+    "$41 million"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "For 2023, our revenue of $41 million was substantially all consumption-based"
+  },
+  {
+   "kind": "inline",
+   "label": "subscription term",
+   "values": [
+    "12 months or less"
+   ],
+   "unit": "years",
+   "period": "FY2026",
+   "category": "other",
+   "quote": "during the subscription term, which is generally 12 months or less"
+  },
+  {
+   "kind": "inline",
+   "label": "sales and marketing % revenue 9M 2026",
+   "values": [
+    "17%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "sales, marketing, and partnerships expenses representing 17% of revenue for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "new model versions launched 9M 2026",
+   "values": [
+    "250"
+   ],
+   "unit": "count",
+   "period": "9M 2026",
+   "category": "metrics",
+   "quote": "we launched an aggregate of 250 new model versions, platform features, and applications"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100K+ Dec 2023",
+   "values": [
+    "approximately 20"
+   ],
+   "unit": "count",
+   "period": "FY2023",
+   "category": "metrics",
+   "quote": "grew from approximately 20 as of December 31, 2023, to approximately 200 as of December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100K+ Dec 2024",
+   "values": [
+    "approximately 200"
+   ],
+   "unit": "count",
+   "period": "FY2024",
+   "category": "metrics",
+   "quote": "to approximately 200 as of December 31, 2024, to approximately 1,500 as of December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100K+ Dec 2025",
+   "values": [
+    "approximately 1,500"
+   ],
+   "unit": "count",
+   "period": "FY2025",
+   "category": "metrics",
+   "quote": "to approximately 1,500 as of December 31, 2025, and to more than 11,900 as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue from $100K+ customers FY2023",
+   "values": [
+    "approximately $37 million",
+    "90%"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "grew from approximately $37 million to $220 million to $3.5 billion to $26.1 billion and represented 90%, 57%, 76%, and 74% of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue from $100K+ customers FY2024",
+   "values": [
+    "$220 million",
+    "57%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "grew from approximately $37 million to $220 million to $3.5 billion to $26.1 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue from $100K+ customers FY2025",
+   "values": [
+    "$3.5 billion",
+    "76%"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "to $3.5 billion to $26.1 billion and represented 90%, 57%, 76%, and 74% of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue from $100K+ customers TTM Sep'26",
+   "values": [
+    "$26.1 billion",
+    "74%"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "to $26.1 billion and represented 90%, 57%, 76%, and 74% of total revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "remaining revenue share TTM Sep'26",
+   "values": [
+    "26%",
+    "approximately 40 million"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "The remaining 26% of total revenue for the TTM period ended September 30, 2026 was generated by approximately 40 million customers"
+  },
+  {
+   "kind": "inline",
+   "label": "Fortune 500 penetration",
+   "values": [
+    "Over 50%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "Over 50% of the Fortune 500 and over 30% of the Global 2000 were customers with $100,000 or more of revenue"
+  },
+  {
+   "kind": "inline",
+   "label": "Global 2000 penetration",
+   "values": [
+    "over 30%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "over 30% of the Global 2000 were customers with $100,000 or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue as % of Fortune 500 customer expenses",
+   "values": [
+    "less than 0.1%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "less than 0.1% of their total expenses for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "top 10 Fortune 500 revenue share",
+   "values": [
+    "less than 1%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "revenue from our top 10 Fortune 500 customers represented, on average, less than 1% of their total expenses"
+  },
+  {
+   "kind": "inline",
+   "label": "top 10 vs average multiple",
+   "values": [
+    "over eight times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "still a small fraction of their overall spend, but over eight times the average of our Fortune 500 customers"
+  },
+  {
+   "kind": "inline",
+   "label": "customer concentration cap",
+   "values": [
+    "10%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "metrics",
+   "quote": "No single customer represented more than 10% of our revenue for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue outside top five customers Q3'26",
+   "values": [
+    "Approximately 79%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "Approximately 79% of our revenue came from customers outside of our top five customers for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue outside top five customers Q1'26",
+   "values": [
+    "approximately 64%"
+   ],
+   "unit": "%",
+   "period": "Q1'26",
+   "category": "metrics",
+   "quote": "up from approximately 64% for the three months ended March 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "recent model versions revenue share",
+   "values": [
+    "over 80%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "model versions released in the six months ended September 30, 2026 accounted for over 80% of our revenue for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "holiday spend decline",
+   "values": [
+    "approximately 20%"
+   ],
+   "unit": "%",
+   "period": "Q1'26",
+   "category": "metrics",
+   "quote": "for the two weeks ended January 2, 2026, total customer spend declined by approximately 20% compared to the prior two weeks ended December 19, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Public Benefit Issuance shares",
+   "values": [
+    "846,840,960"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-06-30",
+   "category": "stock_plan",
+   "quote": "we contributed 846,840,960 shares of our Class N common stock, representing 5% of our fully diluted shares as of June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "public benefit share of fully diluted",
+   "values": [
+    "5%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-06-30",
+   "category": "stock_plan",
+   "quote": "representing 5% of our fully diluted shares as of June 30, 2026 (assuming full conversion of the Amazon Notes)"
+  },
+  {
+   "kind": "inline",
+   "label": "additional public benefit contribution cap",
+   "values": [
+    "up to an additional 2%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "may issue shares of our Class N common stock to the Anthropic Public Benefit Fund (or other designee) representing up to an additional 2% of our then-outstanding shares"
+  },
+  {
+   "kind": "inline",
+   "label": "share price milestone appreciation",
+   "values": [
+    "50%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "each time our share price appreciates 50% above the prior share price milestone, beginning with our initial public offering price"
+  },
+  {
+   "kind": "inline",
+   "label": "milestone trading day threshold",
+   "values": [
+    "90 of the trailing 120 consecutive trading days"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "exceeded the applicable threshold on at least 90 of the trailing 120 consecutive trading days"
+  },
+  {
+   "kind": "inline",
+   "label": "milestone averaging window",
+   "values": [
+    "10 trading days"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "our average closing share price over the 10 trading days prior to such issuance also exceeds that threshold"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founder philanthropic pledge",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "our co-founders have each pledged to dedicate 80% of their personal equity in Anthropic to philanthropic causes"
+  },
+  {
+   "kind": "inline",
+   "label": "donation matching expense 9M 2026",
+   "values": [
+    "$2.1 billion",
+    "approximately 6%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "expenses related to our donation matching program were $2.1 billion, representing approximately 6% of our total operating expenses for that period"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue from policy-violating customers",
+   "values": [
+    "approximately 5% to 7%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "metrics",
+   "quote": "revenue from such customers represented approximately 5% to 7% of our revenue for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "in millions",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "The following table sets forth our consolidated statements of operations data for the periods indicated"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue",
+   "values": [
+    "$41",
+    "$386",
+    "$4,585",
+    "$2,545",
+    "$33,242"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Revenue $41 $386 $4,585 $2,545 $33,242"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure",
+   "values": [
+    "433",
+    "2,522",
+    "7,326",
+    "4,381",
+    "18,808"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Compute and infrastructure 433 2,522 7,326 4,381 18,808"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel",
+   "values": [
+    "95",
+    "454",
+    "1,839",
+    "1,027",
+    "4,863"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Personnel(1) 95 454 1,839 1,027 4,863"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement",
+   "values": [
+    "",
+    "1,500",
+    "",
+    "1,500",
+    ""
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "legal",
+   "quote": "Bartz settlement 1,500 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships",
+   "values": [
+    "2",
+    "43",
+    "568",
+    "322",
+    "5,529"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships 2 43 568 322 5,529"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative",
+   "values": [
+    "62",
+    "347",
+    "1,412",
+    "539",
+    "5,302"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Other operating and administrative 62 347 1,412 539 5,302"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total operating expenses",
+   "values": [
+    "592",
+    "3,366",
+    "12,645",
+    "7,769",
+    "34,502"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Total operating expenses 592 3,366 12,645 7,769 34,502"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating loss",
+   "values": [
+    "(551)",
+    "(2,980)",
+    "(8,060)",
+    "(5,224)",
+    "(1,260)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Operating loss (551) (2,980) (8,060) (5,224) (1,260)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income",
+   "values": [
+    "69",
+    "106",
+    "431",
+    "239",
+    "2,359"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Interest income 69 106 431 239 2,359"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value of convertible notes, derivative liabilities, and SAFEs",
+   "values": [
+    "(1,045)",
+    "(5,434)",
+    "(34,308)",
+    "(20,107)",
+    "(94,324)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "(1,045) (5,434) (34,308) (20,107) (94,324)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net",
+   "values": [
+    "(2)",
+    "",
+    "(8)",
+    "",
+    "(10,397)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Other income (expense), net (2) (8) (3) (10,397)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total other income (expense), net",
+   "values": [
+    "(978)",
+    "(5,328)",
+    "(33,885)",
+    "(19,871)",
+    "(102,362)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Total other income (expense), net (978) (5,328) (33,885) (19,871) (102,362)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Loss before provision for income taxes",
+   "values": [
+    "(1,529)",
+    "(8,308)",
+    "(41,945)",
+    "(25,095)",
+    "(103,622)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Loss before provision for income taxes (1,529) (8,308) (41,945) (25,095) (103,622)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes",
+   "values": [
+    "2",
+    "1",
+    "20",
+    "12",
+    "417"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Provision for income taxes 2 1 20 12 417"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss",
+   "values": [
+    "$(1,531)",
+    "$(8,309)",
+    "$(41,965)",
+    "$(25,107)",
+    "$(104,039)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Net loss(2) $(1,531) $(8,309) $(41,965) $(25,107) $(104,039)"
+  },
+  {
+   "kind": "inline",
+   "label": "SBC footnote annual",
+   "values": [
+    "$29 million",
+    "$192 million",
+    "$1.2 billion"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the years ended December 31, 2023, 2024, and 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "SBC footnote 9M",
+   "values": [
+    "$591 million",
+    "$3.3 billion"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "$591 million and $3.3 billion for the nine months ended September 30, 2025 and 2026, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "FV change footnote annual",
+   "values": [
+    "$1.0 billion",
+    "$5.4 billion",
+    "$34.3 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "which were $1.0 billion, $5.4 billion, and $34.3 billion for the years ended December 31, 2023, 2024, and 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "FV change footnote 9M",
+   "values": [
+    "$20.1 billion",
+    "$94.3 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "$20.1 billion and $94.3 billion for the nine months ended September 30, 2025 and 2026, respectively"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "values": [],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "consolidated statements of operations as a percentage of revenue data for the periods indicated"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue % of revenue",
+   "values": [
+    "100%",
+    "100%",
+    "100%",
+    "100%",
+    "100%"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Revenue 100% 100% 100% 100% 100%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure % of revenue",
+   "values": [
+    "1,056",
+    "653",
+    "160",
+    "172",
+    "57"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Compute and infrastructure 1,056 653 160 172 57"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel % of revenue",
+   "values": [
+    "232",
+    "118",
+    "40",
+    "40",
+    "15"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Personnel 232 118 40 40 15"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement % of revenue",
+   "values": [
+    "",
+    "33",
+    "",
+    "59",
+    ""
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "legal",
+   "quote": "Bartz settlement 33 59"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships % of revenue",
+   "values": [
+    "5",
+    "11",
+    "12",
+    "13",
+    "17"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships 5 11 12 13 17"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative % of revenue",
+   "values": [
+    "151",
+    "90",
+    "31",
+    "21",
+    "16"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Other operating and administrative 151 90 31 21 16"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total operating expenses % of revenue",
+   "values": [
+    "1,444",
+    "872",
+    "276",
+    "305",
+    "104"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Total operating expenses 1,444 872 276 305 104"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating loss % of revenue",
+   "values": [
+    "(1,344)",
+    "(772)",
+    "(176)",
+    "(205)",
+    "(4)"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Operating loss (1,344) (772) (176) (205) (4)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income % of revenue",
+   "values": [
+    "168",
+    "27",
+    "9",
+    "9",
+    "7"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Interest income 168 27 9 9 7"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes % of revenue",
+   "values": [
+    "(2,549)",
+    "(1,408)",
+    "(748)",
+    "(790)",
+    "(284)"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "(2,549) (1,408) (748) (790) (284)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net % of revenue",
+   "values": [
+    "",
+    "",
+    "(5)",
+    "",
+    "(31)"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Other income (expense), net (5) (31)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total other income (expense), net % of revenue",
+   "values": [
+    "(2,385)",
+    "(1,380)",
+    "(739)",
+    "(781)",
+    "(308)"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Total other income (expense), net (2,385) (1,380) (739) (781) (308)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Loss before provision for income taxes % of revenue",
+   "values": [
+    "(3,729)",
+    "(2,152)",
+    "(915)",
+    "(986)",
+    "(312)"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Loss before provision for income taxes (3,729) (2,152) (915) (986) (312)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes % of revenue",
+   "values": [
+    "",
+    "5",
+    "",
+    "1",
+    ""
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Provision for income taxes 5 1"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss % of revenue",
+   "values": [
+    "(3,734)%",
+    "(2,153)%",
+    "(915)%",
+    "(987)%",
+    "(313)%"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Net loss (3,734)% (2,153)% (915)% (987)% (313)%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue 9M comparison",
+   "values": [
+    "$2,545",
+    "$33,242",
+    "$30,697",
+    "1,206%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Revenue $2,545 $33,242 $30,697 1,206%"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue increase 9M 2026",
+   "values": [
+    "$30.7 billion",
+    "1,206%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Revenue for the nine months ended September 30, 2026 increased by $30.7 billion, or 1,206%"
+  },
+  {
+   "kind": "inline",
+   "label": "consumption revenue increase 9M 2026",
+   "values": [
+    "$24.2 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Consumption-based and subscription-based revenue increased by $24.2 billion and $6.5 billion, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "subscription revenue increase 9M 2026",
+   "values": [
+    "$6.5 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $24.2 billion and $6.5 billion, respectively, for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue from $100K+ customers 9M 2025",
+   "values": [
+    "$1.9 billion",
+    "approximately 75%"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "grew from $1.9 billion for the nine months ended September 30, 2025 to $24.5 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue from $100K+ customers 9M 2026",
+   "values": [
+    "$24.5 billion",
+    "74%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "to $24.5 billion for the nine months ended September 30, 2026 and represented approximately 75% and 74% of total revenue"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure 9M comparison",
+   "values": [
+    "$4,381",
+    "$18,808",
+    "$14,427",
+    "329%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Compute and infrastructure $4,381 $18,808 $14,427 329%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure % of revenue 9M",
+   "values": [
+    "172%",
+    "57%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Percentage of revenue 172% 57%"
+  },
+  {
+   "kind": "inline",
+   "label": "compute expense increase 9M 2026",
+   "values": [
+    "$14.4 billion",
+    "329%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $14.4 billion, or 329%, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "short-term compute 9M 2026",
+   "values": [
+    "$6.5 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "commitments",
+   "quote": "includes $6.5 billion of compute under short-term commitments for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel 9M comparison",
+   "values": [
+    "$1,027",
+    "$4,863",
+    "$3,836",
+    "374%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Personnel $1,027 $4,863 $3,836 374%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel % of revenue 9M",
+   "values": [
+    "40%",
+    "15%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Percentage of revenue 40% 15%"
+  },
+  {
+   "kind": "inline",
+   "label": "personnel increase 9M 2026",
+   "values": [
+    "$3.8 billion",
+    "374%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $3.8 billion, or 374%, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "SBC increase 9M 2026",
+   "values": [
+    "$2.7 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "driven by a $2.7 billion increase in stock-based compensation expense and an $891 million increase in cash compensation"
+  },
+  {
+   "kind": "inline",
+   "label": "cash compensation increase 9M 2026",
+   "values": [
+    "$891 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "an $891 million increase in cash compensation, both as a result of headcount growth"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement 9M comparison",
+   "values": [
+    "$1,500",
+    "$",
+    "$(1,500)",
+    "(100)%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "legal",
+   "quote": "Bartz settlement $1,500 $ $(1,500) (100)%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement % of revenue 9M",
+   "values": [
+    "59%",
+    "%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "legal",
+   "quote": "Percentage of revenue 59% %"
+  },
+  {
+   "kind": "inline",
+   "label": "Bartz settlement 9M 2025",
+   "values": [
+    "$1.5 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "legal",
+   "quote": "Bartz settlement expense of $1.5 billion for the nine months ended September 30, 2025 reflects the charge related to the legal settlement"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships 9M comparison",
+   "values": [
+    "$322",
+    "$5,529",
+    "$5,207",
+    "1,617%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships $322 $5,529 $5,207 1,617%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships % of revenue 9M",
+   "values": [
+    "13%",
+    "17%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Percentage of revenue 13% 17%"
+  },
+  {
+   "kind": "inline",
+   "label": "S&M increase 9M 2026",
+   "values": [
+    "$5.2 billion",
+    "1,617%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $5.2 billion, or 1,617%, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "channel partner fees increase 9M 2026",
+   "values": [
+    "$4.8 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "primarily driven by a $4.8 billion increase in fees paid to channel partners"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative 9M comparison",
+   "values": [
+    "$539",
+    "$5,302",
+    "$4,763",
+    "884%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Other operating and administrative $539 $5,302 $4,763 884%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative % of revenue 9M",
+   "values": [
+    "21%",
+    "16%"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Percentage of revenue 21% 16%"
+  },
+  {
+   "kind": "inline",
+   "label": "other opex increase 9M 2026",
+   "values": [
+    "$4.8 billion",
+    "884%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $4.8 billion, or 884%, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "donation matching increase 9M 2026",
+   "values": [
+    "$2.1 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "a $2.1 billion increase in non-cash charges related to donations made under our donation matching program"
+  },
+  {
+   "kind": "inline",
+   "label": "vendor costs increase 9M 2026",
+   "values": [
+    "$757 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "a $757 million increase in vendor costs related to data quality and performance evaluation services"
+  },
+  {
+   "kind": "inline",
+   "label": "payment processing fees increase 9M 2026",
+   "values": [
+    "$435 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "a $435 million increase in payment processing fees"
+  },
+  {
+   "kind": "inline",
+   "label": "professional services increase 9M 2026",
+   "values": [
+    "$428 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "a $428 million increase in professional services costs"
+  },
+  {
+   "kind": "inline",
+   "label": "IT and cloud software increase 9M 2026",
+   "values": [
+    "$407 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "a $407 million increase in information technology and cloud software costs"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income 9M comparison",
+   "values": [
+    "$239",
+    "$2,359",
+    "$2,120",
+    "887%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Interest income $239 $2,359 $2,120 887%"
+  },
+  {
+   "kind": "inline",
+   "label": "interest income increase 9M 2026",
+   "values": [
+    "$2.1 billion",
+    "887%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $2.1 billion, or 887%, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes 9M comparison",
+   "values": [
+    "$(20,107)",
+    "$(94,324)",
+    "$(74,217)",
+    "369%"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Change in fair value of convertible notes, derivative liabilities, and SAFEs $(20,107) $(94,324) $(74,217) 369%"
+  },
+  {
+   "kind": "inline",
+   "label": "FV change increase 9M 2026",
+   "values": [
+    "$74.2 billion",
+    "369%"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $74.2 billion, or 369%, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net 9M comparison",
+   "values": [
+    "$(3)",
+    "$(10,397)",
+    "$(10,394)",
+    "NM"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Other income (expense), net $(3) $(10,397) $(10,394) NM"
+  },
+  {
+   "kind": "inline",
+   "label": "other income decrease 9M 2026",
+   "values": [
+    "$10.4 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "decreased by $10.4 billion, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes 9M comparison",
+   "values": [
+    "$12",
+    "$417",
+    "$405",
+    "NM"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Provision for income taxes $12 $417 $405 NM"
+  },
+  {
+   "kind": "inline",
+   "label": "tax provision increase 9M 2026",
+   "values": [
+    "$405 million"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "increased by $405 million, compared to the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue FY2024-FY2025 comparison",
+   "values": [
+    "$386",
+    "$4,585",
+    "$4,199",
+    "1,088%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Revenue $386 $4,585 $4,199 1,088%"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue increase FY2025",
+   "values": [
+    "$4.2 billion",
+    "1,088%"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $4.2 billion, or 1,088%, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "consumption revenue increase FY2025",
+   "values": [
+    "approximately $3.5 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by approximately $3.5 billion and $691 million, respectively, for the year ended December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "subscription revenue increase FY2025",
+   "values": [
+    "$691 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "approximately $3.5 billion and $691 million, respectively, for the year ended December 31, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure FY2024-FY2025 comparison",
+   "values": [
+    "$2,522",
+    "$7,326",
+    "$4,804",
+    "190%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Compute and infrastructure $2,522 $7,326 $4,804 190%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure % of revenue FY2024-FY2025",
+   "values": [
+    "653%",
+    "160%"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Percentage of revenue 653% 160%"
+  },
+  {
+   "kind": "inline",
+   "label": "compute expense increase FY2025",
+   "values": [
+    "$4.8 billion",
+    "190%"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $4.8 billion, or 190%, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel FY2024-FY2025 comparison",
+   "values": [
+    "$454",
+    "$1,839",
+    "$1,385",
+    "305%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Personnel $454 $1,839 $1,385 305%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel % of revenue FY2024-FY2025",
+   "values": [
+    "118%",
+    "40%"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Percentage of revenue 118% 40%"
+  },
+  {
+   "kind": "inline",
+   "label": "personnel increase FY2025",
+   "values": [
+    "$1.4 billion",
+    "305%"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $1.4 billion, or 305%, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "SBC increase FY2025",
+   "values": [
+    "$973 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $973 million increase in stock-based compensation expense and a $339 million increase in cash compensation"
+  },
+  {
+   "kind": "inline",
+   "label": "cash compensation increase FY2025",
+   "values": [
+    "$339 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $339 million increase in cash compensation, both as a result of headcount growth"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement FY2024-FY2025 comparison",
+   "values": [
+    "$",
+    "$1,500",
+    "$1,500",
+    "NM"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "legal",
+   "quote": "Bartz settlement $ $1,500 $1,500 NM"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement % of revenue FY2024-FY2025",
+   "values": [
+    "%",
+    "33%"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "legal",
+   "quote": "Percentage of revenue % 33%"
+  },
+  {
+   "kind": "inline",
+   "label": "Bartz settlement increase FY2025",
+   "values": [
+    "$1.5 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "legal",
+   "quote": "Bartz settlement for the year ended December 31, 2025 increased by $1.5 billion compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships FY2024-FY2025 comparison",
+   "values": [
+    "$43",
+    "$568",
+    "$525",
+    "1,221%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships $43 $568 $525 1,221%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships % of revenue FY2024-FY2025",
+   "values": [
+    "11%",
+    "12%"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Percentage of revenue 11% 12%"
+  },
+  {
+   "kind": "inline",
+   "label": "S&M increase FY2025",
+   "values": [
+    "$525 million",
+    "1,221%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $525 million, or 1,221%, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "channel partner fees increase FY2025",
+   "values": [
+    "$341 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $341 million increase in fees paid to channel partners, reflecting the growth of our business"
+  },
+  {
+   "kind": "inline",
+   "label": "marketing and advertising increase FY2025",
+   "values": [
+    "$170 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $170 million increase in marketing and advertising expenses, reflecting higher media and public relations spend"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative FY2024-FY2025 comparison",
+   "values": [
+    "$347",
+    "$1,412",
+    "$1,065",
+    "307%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Other operating and administrative $347 $1,412 $1,065 307%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative % of revenue FY2024-FY2025",
+   "values": [
+    "90%",
+    "31%"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Percentage of revenue 90% 31%"
+  },
+  {
+   "kind": "inline",
+   "label": "other opex increase FY2025",
+   "values": [
+    "$1.1 billion",
+    "307%"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $1.1 billion, or 307%, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "donation matching increase FY2025",
+   "values": [
+    "$541 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $541 million increase in non-cash charges related to our donation matching program"
+  },
+  {
+   "kind": "inline",
+   "label": "vendor costs increase FY2025",
+   "values": [
+    "$165 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $165 million increase in vendor costs related to data quality and performance evaluation services"
+  },
+  {
+   "kind": "inline",
+   "label": "IT and cloud software increase FY2025",
+   "values": [
+    "$102 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $102 million increase in information technology and cloud software costs"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income FY2024-FY2025 comparison",
+   "values": [
+    "$106",
+    "$431",
+    "$325",
+    "307%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Interest income $106 $431 $325 307%"
+  },
+  {
+   "kind": "inline",
+   "label": "interest income increase FY2025",
+   "values": [
+    "$325 million",
+    "307%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $325 million, or 307%, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "investment income increase FY2025",
+   "values": [
+    "$305 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "a $305 million increase in investment income due to higher average cash and cash equivalents balances"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes FY2024-FY2025 comparison",
+   "values": [
+    "$(5,434)",
+    "$(34,308)",
+    "$(28,874)",
+    "531%"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Change in fair value of convertible notes, derivative liabilities, and SAFEs $(5,434) $(34,308) $(28,874) 531%"
+  },
+  {
+   "kind": "inline",
+   "label": "FV change increase FY2025",
+   "values": [
+    "$28.9 billion",
+    "531%"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $28.9 billion, or 531%, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net FY2024-FY2025 comparison",
+   "values": [
+    "$",
+    "$(8)",
+    "$(8)",
+    "NM"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Other income (expense), net $ $(8) $(8) NM"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes FY2024-FY2025 comparison",
+   "values": [
+    "$1",
+    "$20",
+    "$19",
+    "NM"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Provision for income taxes $1 $20 $19 NM"
+  },
+  {
+   "kind": "inline",
+   "label": "tax provision increase FY2025",
+   "values": [
+    "$19 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "increased by $19 million, compared to the year ended December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue FY2023-FY2024 comparison",
+   "values": [
+    "$41",
+    "$386",
+    "$345",
+    "841%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Revenue $41 $386 $345 841%"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue increase FY2024",
+   "values": [
+    "$345 million",
+    "841%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by $345 million, or 841%, compared to the year ended December 31, 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "consumption revenue increase FY2024",
+   "values": [
+    "approximately $249 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by approximately $249 million and $96 million, respectively, for the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "subscription revenue increase FY2024",
+   "values": [
+    "$96 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "approximately $249 million and $96 million, respectively, for the year ended December 31, 2024"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure FY2023-FY2024 comparison",
+   "values": [
+    "$433",
+    "$2,522",
+    "$2,089",
+    "482%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Compute and infrastructure $433 $2,522 $2,089 482%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure % of revenue FY2023-FY2024",
+   "values": [
+    "1,056%",
+    "653%"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Percentage of revenue 1,056% 653%"
+  },
+  {
+   "kind": "inline",
+   "label": "compute expense increase FY2024",
+   "values": [
+    "$2.1 billion",
+    "482%"
+   ],
+   "unit": "$B",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by $2.1 billion, or 482%, compared to the year ended December 31, 2023"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel FY2023-FY2024 comparison",
+   "values": [
+    "$95",
+    "$454",
+    "$359",
+    "378%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Personnel $95 $454 $359 378%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel % of revenue FY2023-FY2024",
+   "values": [
+    "232%",
+    "118%"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Percentage of revenue 232% 118%"
+  },
+  {
+   "kind": "inline",
+   "label": "personnel increase FY2024",
+   "values": [
+    "$359 million",
+    "378%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by $359 million, or 378%, compared to the year ended December 31, 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "cash compensation increase FY2024",
+   "values": [
+    "$164 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "a $164 million increase in cash compensation and a $163 million increase in stock-based compensation expense"
+  },
+  {
+   "kind": "inline",
+   "label": "SBC increase FY2024",
+   "values": [
+    "$163 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "a $163 million increase in stock-based compensation expense, both as a result of headcount growth"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships FY2023-FY2024 comparison",
+   "values": [
+    "$2",
+    "$43",
+    "$41",
+    "2,050%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships $2 $43 $41 2,050%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships % of revenue FY2023-FY2024",
+   "values": [
+    "5%",
+    "11%"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Percentage of revenue 5% 11%"
+  },
+  {
+   "kind": "inline",
+   "label": "S&M increase FY2024",
+   "values": [
+    "$41 million",
+    "2,050%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by $41 million, or 2,050%, compared to the year ended December 31, 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "marketing and advertising increase FY2024",
+   "values": [
+    "$39 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "a $39 million increase in marketing and advertising expenses reflecting higher media and public relations spend"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative FY2023-FY2024 comparison",
+   "values": [
+    "$62",
+    "$347",
+    "$285",
+    "460%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Other operating and administrative $62 $347 $285 460%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative % of revenue FY2023-FY2024",
+   "values": [
+    "151%",
+    "90%"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Percentage of revenue 151% 90%"
+  },
+  {
+   "kind": "inline",
+   "label": "other opex increase FY2024",
+   "values": [
+    "$285 million",
+    "460%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by $285 million, or 460%, compared to the year ended December 31, 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "vendor costs increase FY2024",
+   "values": [
+    "$165 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "a $165 million increase in vendor costs related to data quality and performance evaluation services"
+  },
+  {
+   "kind": "inline",
+   "label": "professional services increase FY2024",
+   "values": [
+    "$30 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "a $30 million increase in professional services costs"
+  },
+  {
+   "kind": "inline",
+   "label": "IT and cloud software increase FY2024",
+   "values": [
+    "$28 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "a $28 million increase in information technology and cloud software costs"
+  },
+  {
+   "kind": "inline",
+   "label": "facility and occupancy increase FY2024",
+   "values": [
+    "$24 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "a $24 million increase in facility and occupancy costs due to headcount growth"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income FY2023-FY2024 comparison",
+   "values": [
+    "$69",
+    "$106",
+    "$37",
+    "54%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Interest income $69 $106 $37 54%"
+  },
+  {
+   "kind": "inline",
+   "label": "interest income increase FY2024",
+   "values": [
+    "$37 million",
+    "54%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by $37 million, or 54%, compared to the year ended December 31, 2023"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes FY2023-FY2024 comparison",
+   "values": [
+    "$(1,045)",
+    "$(5,434)",
+    "$(4,389)",
+    "420%"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Change in fair value of convertible notes, derivative liabilities, and SAFEs $(1,045) $(5,434) $(4,389) 420%"
+  },
+  {
+   "kind": "inline",
+   "label": "FV change increase FY2024",
+   "values": [
+    "$4.4 billion",
+    "420%"
+   ],
+   "unit": "$B",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "increased by $4.4 billion, or 420%, compared to the year ended December 31, 2023"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net FY2023-FY2024 comparison",
+   "values": [
+    "$(2)",
+    "$",
+    "$2",
+    "NM"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Other income (expense), net $(2) $ $2 NM"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes FY2023-FY2024 comparison",
+   "values": [
+    "$2",
+    "$1",
+    "$(1)",
+    "NM"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Provision for income taxes $2 $1 $(1) NM"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "in millions",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "A reconciliation of our Adjusted Operating Income (Loss) and Adjusted Operating Margin to operating loss and operating margin"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating loss (Adjusted Op Income reconciliation)",
+   "values": [
+    "$(551)",
+    "$(2,980)",
+    "$(8,060)",
+    "$(5,224)",
+    "$(1,260)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Operating loss $(551) $(2,980) $(8,060) $(5,224) $(1,260)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Stock-based compensation expense (reconciliation)",
+   "values": [
+    "29",
+    "192",
+    "1,165",
+    "591",
+    "3,255"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Stock-based compensation expense 29 192 1,165 591 3,255"
+  },
+  {
+   "kind": "table_row",
+   "label": "Non-cash charitable contributions (reconciliation)",
+   "values": [
+    "",
+    "",
+    "541",
+    "",
+    "2,086"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Non-cash charitable contributions(1) 541 2,086"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement (reconciliation)",
+   "values": [
+    "",
+    "",
+    "1,500",
+    "",
+    "1,500"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "legal",
+   "quote": "Bartz settlement(2) 1,500 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Operating Income (Loss)",
+   "values": [
+    "$(522)",
+    "$(2,788)",
+    "$(4,854)",
+    "$(3,133)",
+    "$4,081"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Adjusted Operating Income (Loss) $(522) $(2,788) $(4,854) $(3,133) $4,081"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue (Adjusted Op Margin reconciliation)",
+   "values": [
+    "$41",
+    "$386",
+    "$4,585",
+    "$2,545",
+    "$33,242"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Revenue $41 $386 $4,585 $2,545 $33,242"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating margin",
+   "values": [
+    "(1,344)%",
+    "(772)%",
+    "(176)%",
+    "(205)%",
+    "(4)%"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Operating margin (1,344)% (772)% (176)% (205)% (4)%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Operating Margin",
+   "values": [
+    "(1,273)%",
+    "(722)%",
+    "(106)%",
+    "(123)%",
+    "12%"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Adjusted Operating Margin (1,273)% (722)% (106)% (123)% 12%"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "in millions",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "A reconciliation of Adjusted Net Income (Loss) to net loss, the most directly comparable GAAP financial measure"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss (Adjusted Net Income reconciliation)",
+   "values": [
+    "$(1,531)",
+    "$(8,309)",
+    "$(41,965)",
+    "$(25,107)",
+    "$(104,039)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Net loss(1) $(1,531) $(8,309) $(41,965) $(25,107) $(104,039)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Stock-based compensation expense (Adj Net reconciliation)",
+   "values": [
+    "29",
+    "192",
+    "1,165",
+    "591",
+    "3,255"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Stock-based compensation expense 29 192 1,165 591 3,255"
+  },
+  {
+   "kind": "table_row",
+   "label": "Non-cash charitable contributions (Adj Net reconciliation)",
+   "values": [
+    "",
+    "",
+    "541",
+    "",
+    "2,086"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Non-cash charitable contributions(2) 541 2,086"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement (Adj Net reconciliation)",
+   "values": [
+    "",
+    "",
+    "1,500",
+    "",
+    "1,500"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "legal",
+   "quote": "Bartz settlement(3) 1,500 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes (Adj Net reconciliation)",
+   "values": [
+    "1,045",
+    "5,434",
+    "34,308",
+    "20,107",
+    "94,324"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "SAFEs 1,045 5,434 34,308 20,107 94,324"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV mark-to-market financial instruments",
+   "values": [
+    "",
+    "",
+    "3",
+    "",
+    "10,277"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Change in fair value of certain mark-to-market financial instruments 3 10,277"
+  },
+  {
+   "kind": "table_row",
+   "label": "Income tax effects and adjustments",
+   "values": [
+    "(7)",
+    "(2)",
+    "(312)",
+    "",
+    ""
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Income tax effects and adjustments(4) (7) (2) (312)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Net Income (Loss)",
+   "values": [
+    "$(457)",
+    "$(2,683)",
+    "$(4,455)",
+    "$(2,911)",
+    "$5,591"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025",
+   "category": "financials",
+   "quote": "Adjusted Net Income (Loss) $(457) $(2,683) $(4,455) $(2,911) $5,591"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "in millions",
+    "Q1'25",
+    "Q2'25",
+    "Q3'25",
+    "Q4'25",
+    "Q1'26",
+    "Q2'26",
+    "Q3'26"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Quarterly Consolidated Statements of Operations Three Months Ended (in millions)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue (quarterly)",
+   "values": [
+    "$376",
+    "$787",
+    "$1,382",
+    "$2,040",
+    "$4,731",
+    "$11,555",
+    "$16,956"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Revenue $376 $787 $1,382 $2,040 $4,731 $11,555 $16,956"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure (quarterly)",
+   "values": [
+    "944",
+    "1,390",
+    "2,047",
+    "2,945",
+    "3,387",
+    "5,558",
+    "9,863"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Compute and infrastructure 944 1,390 2,047 2,945 3,387 5,558 9,863"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel (quarterly)",
+   "values": [
+    "218",
+    "320",
+    "489",
+    "812",
+    "1,295",
+    "1,857",
+    "1,711"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Personnel(1) 218 320 489 812 1,295 1,857 1,711"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement (quarterly)",
+   "values": [
+    "",
+    "",
+    "1,500",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "legal",
+   "quote": "Bartz settlement 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships (quarterly)",
+   "values": [
+    "24",
+    "96",
+    "202",
+    "246",
+    "1,033",
+    "2,135",
+    "2,361"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships 24 96 202 246 1,033 2,135 2,361"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative (quarterly)",
+   "values": [
+    "125",
+    "181",
+    "233",
+    "873",
+    "683",
+    "1,031",
+    "3,588"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Other operating and administrative 125 181 233 873 683 1,031 3,588"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total operating expenses (quarterly)",
+   "values": [
+    "1,311",
+    "1,987",
+    "4,471",
+    "4,876",
+    "6,398",
+    "10,581",
+    "17,523"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Total operating expenses 1,311 1,987 4,471 4,876 6,398 10,581 17,523"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating income (loss) (quarterly)",
+   "values": [
+    "(935)",
+    "(1,200)",
+    "(3,089)",
+    "(2,836)",
+    "(1,667)",
+    "974",
+    "(567)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Operating income (loss) (935) (1,200) (3,089) (2,836) (1,667) 974 (567)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income (quarterly)",
+   "values": [
+    "51",
+    "64",
+    "124",
+    "192",
+    "349",
+    "762",
+    "1,248"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Interest income 51 64 124 192 349 762 1,248"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes (quarterly)",
+   "values": [
+    "(5,701)",
+    "(5,241)",
+    "(9,165)",
+    "(14,201)",
+    "(12,791)",
+    "(59,597)",
+    "(21,936)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "(5,701) (5,241) (9,165) (14,201) (12,791) (59,597) (21,936)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net (quarterly)",
+   "values": [
+    "",
+    "",
+    "",
+    "(3)",
+    "(5)",
+    "(309)",
+    "(8,448)",
+    "(1,640)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Other income (expense), net (3) (5) (309) (8,448) (1,640)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total other income (expense), net (quarterly)",
+   "values": [
+    "(5,650)",
+    "(5,177)",
+    "(9,044)",
+    "(14,014)",
+    "(12,751)",
+    "(67,283)",
+    "(22,328)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Total other income (expense), net (5,650) (5,177) (9,044) (14,014) (12,751) (67,283) (22,328)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Loss before provision for income taxes (quarterly)",
+   "values": [
+    "(6,585)",
+    "(6,377)",
+    "(12,133)",
+    "(16,850)",
+    "(14,418)",
+    "(66,309)",
+    "(22,895)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Loss before provision for income taxes (6,585) (6,377) (12,133) (16,850) (14,418) (66,309) (22,895)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes (quarterly)",
+   "values": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "396",
+    ""
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Provision for income taxes 7 5 8 21 396"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss (quarterly)",
+   "values": [
+    "$(6,592)",
+    "$(6,377)",
+    "$(12,138)",
+    "$(16,858)",
+    "$(14,439)",
+    "$(66,309)",
+    "$(23,291)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Net loss $(6,592) $(6,377) $(12,138) $(16,858) $(14,439) $(66,309) $(23,291)"
+  },
+  {
+   "kind": "inline",
+   "label": "quarterly SBC footnote",
+   "values": [
+    "$105 million",
+    "$181 million",
+    "$305 million",
+    "$574 million",
+    "$924 million",
+    "$1.3 billion",
+    "$1.1 billion"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "stock-based compensation expense of $105 million, $181 million, $305 million, $574 million, $924 million, $1.3 billion, and $1.1 billion"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Q1'25",
+    "Q2'25",
+    "Q3'25",
+    "Q4'25",
+    "Q1'26",
+    "Q2'26",
+    "Q3'26"
+   ],
+   "values": [],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Quarterly Consolidated Statements of Operations, as a Percentage of Revenue"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue % (quarterly)",
+   "values": [
+    "100%",
+    "100%",
+    "100%",
+    "100%",
+    "100%",
+    "100%",
+    "100%"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Revenue 100% 100% 100% 100% 100% 100% 100%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure % (quarterly)",
+   "values": [
+    "251",
+    "177",
+    "148",
+    "144",
+    "72",
+    "48",
+    "58"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Compute and infrastructure 251 177 148 144 72 48 58"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel % (quarterly)",
+   "values": [
+    "58",
+    "41",
+    "35",
+    "40",
+    "27",
+    "16",
+    "10"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Personnel 58 41 35 40 27 16 10"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement % (quarterly)",
+   "values": [
+    "",
+    "",
+    "109",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "legal",
+   "quote": "Bartz settlement 109"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships % (quarterly)",
+   "values": [
+    "6",
+    "12",
+    "15",
+    "12",
+    "22",
+    "18",
+    "14"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships 6 12 15 12 22 18 14"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative % (quarterly)",
+   "values": [
+    "33",
+    "23",
+    "17",
+    "43",
+    "14",
+    "9",
+    "21"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Other operating and administrative 33 23 17 43 14 9 21"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total operating expenses % (quarterly)",
+   "values": [
+    "349",
+    "252",
+    "324",
+    "239",
+    "135",
+    "92",
+    "103"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Total operating expenses 349 252 324 239 135 92 103"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating income (loss) % (quarterly)",
+   "values": [
+    "(249)",
+    "(152)",
+    "(224)",
+    "(139)",
+    "(35)",
+    "8",
+    "(3)"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Operating income (loss) (249) (152) (224) (139) (35) 8 (3)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income % (quarterly)",
+   "values": [
+    "14",
+    "8",
+    "9",
+    "9",
+    "7",
+    "7",
+    "7"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Interest income 14 8 9 9 7 7 7"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes % (quarterly)",
+   "values": [
+    "(1,516)",
+    "(666)",
+    "(663)",
+    "(696)",
+    "(270)",
+    "(516)",
+    "(129)"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "(1,516) (666) (663) (696) (270) (516) (129)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net % (quarterly)",
+   "values": [
+    "",
+    "",
+    "",
+    "(7)",
+    "(73)",
+    "",
+    "(10)"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Other income (expense), net (7) (73) (10)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total other income (expense), net % (quarterly)",
+   "values": [
+    "(1,503)",
+    "(658)",
+    "(654)",
+    "(687)",
+    "(270)",
+    "(582)",
+    "(132)"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Total other income (expense), net (1,503) (658) (654) (687) (270) (582) (132)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Loss before provision for income taxes % (quarterly)",
+   "values": [
+    "(1,751)",
+    "(810)",
+    "(878)",
+    "(826)",
+    "(305)",
+    "(574)",
+    "(135)"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Loss before provision for income taxes (1,751) (810) (878) (826) (305) (574) (135)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes % (quarterly)",
+   "values": [
+    "",
+    "",
+    "",
+    "",
+    "2",
+    "",
+    "2"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Provision for income taxes 2 2"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss % (quarterly)",
+   "values": [
+    "(1,753)%",
+    "(810)%",
+    "(878)%",
+    "(826)%",
+    "(305)%",
+    "(574)%",
+    "(137)%"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Net loss (1,753)% (810)% (878)% (826)% (305)% (574)% (137)%"
+  },
+  {
+   "kind": "inline",
+   "label": "quarterly revenue growth span",
+   "values": [
+    "$376 million",
+    "$17.0 billion"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "from $376 million for the three months ended March 31, 2025 to $17.0 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100K+ Mar 2025",
+   "values": [
+    "approximately 400"
+   ],
+   "unit": "count",
+   "period": "Q1'25",
+   "category": "metrics",
+   "quote": "grew from approximately 400 as of March 31, 2025 to more than 11,900 as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "price reductions Q3'25 vs Q4'25",
+   "values": [
+    "approximately $70 million"
+   ],
+   "unit": "$M",
+   "period": "Q4'25",
+   "category": "financials",
+   "quote": "a decrease of approximately $70 million from price reductions introduced as part of new model versions and contractual discounts"
+  },
+  {
+   "kind": "inline",
+   "label": "price reductions Q2'26 vs Q3'26",
+   "values": [
+    "approximately $600 million"
+   ],
+   "unit": "$M",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "a decrease of approximately $600 million from price reductions introduced as part of new model versions and contractual discounts"
+  },
+  {
+   "kind": "inline",
+   "label": "compute expense quarterly span",
+   "values": [
+    "$944 million",
+    "$9.9 billion"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "from $944 million for the three months ended March 31, 2025 to $9.9 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "compute % revenue Q1'25",
+   "values": [
+    "251%"
+   ],
+   "unit": "%",
+   "period": "Q1'25",
+   "category": "financials",
+   "quote": "decreased from 251% for the three months ended March 31, 2025 to 48% for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "compute % revenue Q2'26",
+   "values": [
+    "48%"
+   ],
+   "unit": "%",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "to 48% for the three months ended June 30, 2026, as revenue growth outpaced the growth of our committed compute cost base"
+  },
+  {
+   "kind": "inline",
+   "label": "compute % revenue Q3'26",
+   "values": [
+    "58%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "increased to 58% for the three months ended September 30, 2026, reflecting the delivery of additional compute"
+  },
+  {
+   "kind": "inline",
+   "label": "Bartz charge Q3'25",
+   "values": [
+    "$1.5 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'25",
+   "category": "legal",
+   "quote": "we recorded a $1.5 billion charge to settle the Bartz litigation"
+  },
+  {
+   "kind": "inline",
+   "label": "S&M % revenue Q1'26",
+   "values": [
+    "22%"
+   ],
+   "unit": "%",
+   "period": "Q1'26",
+   "category": "financials",
+   "quote": "decreased from 22% for the three months ended March 31, 2026 to 14% for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "S&M % revenue Q3'26",
+   "values": [
+    "14%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "to 14% for the three months ended September 30, 2026, primarily driven by a decrease in revenue generated from sales through channel partners"
+  },
+  {
+   "kind": "inline",
+   "label": "operating income Q2'26 (narrative)",
+   "values": [
+    "$1.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "we generated operating income of $1.0 billion for the three months ended June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "operating loss Q3'26 (narrative)",
+   "values": [
+    "$567 million",
+    "$5.0 billion",
+    "$2.0 billion"
+   ],
+   "unit": "$M",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "We incurred an operating loss of $567 million for the three months ended September 30, 2026, primarily driven by $5.0 billion of compute under short-term commitments and $2.0 billion of non-cash charges"
+  },
+  {
+   "kind": "inline",
+   "label": "interest income quarterly span",
+   "values": [
+    "$51 million",
+    "$1.2 billion"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "from $51 million for the three months ended March 31, 2025 to $1.2 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "other income (expense) net Q1'26",
+   "values": [
+    "$(309) million"
+   ],
+   "unit": "$M",
+   "period": "Q1'26",
+   "category": "financials",
+   "quote": "Other income (expense), net of $(309) million, $(8.4) billion, and $(1.6) billion for the three months ended March 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "other income (expense) net Q2'26",
+   "values": [
+    "$(8.4) billion"
+   ],
+   "unit": "$B",
+   "period": "Q2'26",
+   "category": "financials",
+   "quote": "$(309) million, $(8.4) billion, and $(1.6) billion for the three months ended March 31, 2026, June 30, 2026, and September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "other income (expense) net Q3'26",
+   "values": [
+    "$(1.6) billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "and $(1.6) billion for the three months ended March 31, 2026, June 30, 2026, and September 30, 2026, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "tax provision Q3'26",
+   "values": [
+    "$396 million"
+   ],
+   "unit": "$M",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "Provision for income taxes increased to $396 million for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "in millions",
+    "Q1'25",
+    "Q2'25",
+    "Q3'25",
+    "Q4'25",
+    "Q1'26",
+    "Q2'26",
+    "Q3'26"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Quarterly Adjusted Operating Income (Loss) and Adjusted Operating Margin Three Months Ended (in millions, except for percentages)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating income (loss) (Adj Op quarterly)",
+   "values": [
+    "$(935)",
+    "$(1,200)",
+    "$(3,089)",
+    "$(2,836)",
+    "$(1,667)",
+    "$974",
+    "$(567)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Operating income (loss) $(935) $(1,200) $(3,089) $(2,836) $(1,667) $974 $(567)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Stock-based compensation expense (Adj Op quarterly)",
+   "values": [
+    "105",
+    "181",
+    "305",
+    "574",
+    "924",
+    "1,261",
+    "1,070"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Stock-based compensation expense 105 181 305 574 924 1,261 1,070"
+  },
+  {
+   "kind": "table_row",
+   "label": "Non-cash charitable contributions (Adj Op quarterly)",
+   "values": [
+    "",
+    "",
+    "541",
+    "",
+    "126",
+    "",
+    "1,960"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Non-cash charitable contributions(1) 541 126 1,960"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement (Adj Op quarterly)",
+   "values": [
+    "",
+    "",
+    "1,500",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "legal",
+   "quote": "Bartz settlement(2) 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Operating Income (Loss) (quarterly)",
+   "values": [
+    "$(830)",
+    "$(1,019)",
+    "$(1,284)",
+    "$(1,721)",
+    "$(617)",
+    "$2,235",
+    "$2,463"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Adjusted Operating Income (Loss) $(830) $(1,019) $(1,284) $(1,721) $(617) $2,235 $2,463"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue (Adj Op quarterly)",
+   "values": [
+    "$376",
+    "$787",
+    "$1,382",
+    "$2,040",
+    "$4,731",
+    "$11,555",
+    "$16,956"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Revenue $376 $787 $1,382 $2,040 $4,731 $11,555 $16,956"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating margin (quarterly)",
+   "values": [
+    "(249)%",
+    "(152)%",
+    "(224)%",
+    "(139)%",
+    "(35)%",
+    "8%",
+    "(3)%"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Operating margin (249)% (152)% (224)% (139)% (35)% 8% (3)%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Operating Margin (quarterly)",
+   "values": [
+    "(221)%",
+    "(129)%",
+    "(93)%",
+    "(84)%",
+    "(13)%",
+    "19%",
+    "15%"
+   ],
+   "unit": "%",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Adjusted Operating Margin (221)% (129)% (93)% (84)% (13)% 19% 15%"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "in millions",
+    "Q1'25",
+    "Q2'25",
+    "Q3'25",
+    "Q4'25",
+    "Q1'26",
+    "Q2'26",
+    "Q3'26"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Quarterly Adjusted Net Income (Loss) Three Months Ended (in millions)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss (Adj Net quarterly)",
+   "values": [
+    "$(6,592)",
+    "$(6,377)",
+    "$(12,138)",
+    "$(16,858)",
+    "$(14,439)",
+    "$(66,309)",
+    "$(23,291)"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Net loss(1) $(6,592) $(6,377) $(12,138) $(16,858) $(14,439) $(66,309) $(23,291)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Stock-based compensation expense (Adj Net quarterly)",
+   "values": [
+    "105",
+    "181",
+    "305",
+    "574",
+    "924",
+    "1,261",
+    "1,070"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Stock-based compensation expense 105 181 305 574 924 1,261 1,070"
+  },
+  {
+   "kind": "table_row",
+   "label": "Non-cash charitable contributions (Adj Net quarterly)",
+   "values": [
+    "",
+    "",
+    "541",
+    "",
+    "126",
+    "",
+    "1,960"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Non-cash charitable contributions(2) 541 126 1,960"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement (Adj Net quarterly)",
+   "values": [
+    "",
+    "",
+    "1,500",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "legal",
+   "quote": "Bartz settlement(3) 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV convertible notes (Adj Net quarterly)",
+   "values": [
+    "5,701",
+    "5,241",
+    "9,165",
+    "14,201",
+    "12,791",
+    "59,597",
+    "21,936"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "and SAFEs 5,701 5,241 9,165 14,201 12,791 59,597 21,936"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in FV mark-to-market financial instruments (quarterly)",
+   "values": [
+    "",
+    "3",
+    "288",
+    "8,432",
+    "",
+    "1,557",
+    ""
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Change in fair value of certain mark-to-market financial instruments 3 288 8,432 1,557"
+  },
+  {
+   "kind": "table_row",
+   "label": "Income tax effects and adjustments (quarterly)",
+   "values": [
+    "(2)",
+    "(5)",
+    "(2)",
+    "",
+    "(245)",
+    "(65)",
+    ""
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Income tax effects and adjustments(4) (2) (5) (2) (245) (65)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Net Income (Loss) (quarterly)",
+   "values": [
+    "$(786)",
+    "$(957)",
+    "$(1,168)",
+    "$(1,544)",
+    "$(312)",
+    "$2,736",
+    "$3,167"
+   ],
+   "unit": "$M",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "Adjusted Net Income (Loss) $(786) $(957) $(1,168) $(1,544) $(312) $2,736 $3,167"
+  },
+  {
+   "kind": "inline",
+   "label": "quarterly FV change footnote",
+   "values": [
+    "$5.7 billion",
+    "$5.2 billion",
+    "$9.2 billion",
+    "$14.2 billion",
+    "$12.8 billion",
+    "$59.6 billion",
+    "$21.9 billion"
+   ],
+   "unit": "$B",
+   "period": "Q1'25-Q3'26",
+   "category": "financials",
+   "quote": "which were $5.7 billion, $5.2 billion, $9.2 billion, $14.2 billion, $12.8 billion, $59.6 billion, and $21.9 billion for the three months ended"
+  },
+  {
+   "kind": "inline",
+   "label": "cash and cash equivalents (liquidity)",
+   "values": [
+    "$95.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "we had cash and cash equivalents of $95.6 billion, $36.3 billion of short-term investments, and $14.8 billion available under the AR Credit Facility"
+  },
+  {
+   "kind": "inline",
+   "label": "accumulated deficit",
+   "values": [
+    "$156.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "as reflected in our accumulated deficit of $156.2 billion, which includes $135.1 billion related to changes in the fair value of our convertible notes"
+  },
+  {
+   "kind": "inline",
+   "label": "accumulated deficit FV component",
+   "values": [
+    "$135.1 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "which includes $135.1 billion related to changes in the fair value of our convertible notes driven by increases in our enterprise valuation"
+  },
+  {
+   "kind": "inline",
+   "label": "FV change 9M 2026 (liquidity section)",
+   "values": [
+    "$94.3 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "including $94.3 billion during the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "operating cash flow 9M 2026",
+   "values": [
+    "$6.6 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "We generated positive cash flows from operating activities of $6.6 billion for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "liquidity sufficiency horizon",
+   "values": [
+    "at least the next 12 months"
+   ],
+   "unit": "months",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "will be sufficient to support working capital, operating and finance lease payments, and capital expenditure requirements for at least the next 12 months"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Credit Facility size",
+   "values": [
+    "$2.5 billion",
+    "$400 million"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "commitments",
+   "quote": "initially provided for a $2.5 billion senior secured revolving credit facility with a $400 million letter of credit sublimit"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement amendment Sep 2025",
+   "values": [
+    "$2.75 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "commitments",
+   "quote": "we amended the Initial Credit Facility to increase the aggregate revolving commitments to $2.75 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement amendment Nov 2025",
+   "values": [
+    "$3.25 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "commitments",
+   "quote": "we further amended the Initial Credit Facility to increase the aggregate revolving commitments to $3.25 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Facility size",
+   "values": [
+    "$15.0 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "provide for a $15.0 billion senior secured revolving credit facility with the full amount thereof available for letters of credit"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Facility maturity",
+   "values": [
+    "September 4, 2031"
+   ],
+   "unit": "other",
+   "period": "2031",
+   "category": "commitments",
+   "quote": "The AR Credit Facility will mature on September 4, 2031, subject to earlier springing maturity"
+  },
+  {
+   "kind": "inline",
+   "label": "springing maturity threshold",
+   "values": [
+    "more than $500 million",
+    "91-day period"
+   ],
+   "unit": "$M",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "if more than $500 million in aggregate scheduled cash principal payments on certain of our indebtedness are required within the 91-day period"
+  },
+  {
+   "kind": "inline",
+   "label": "standby letters of credit outstanding",
+   "values": [
+    "$205 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "we had no borrowings drawn under the AR Credit Facility and $205 million of standby letters of credit outstanding"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Facility liquidity covenant",
+   "values": [
+    "at least $5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "requiring that we maintain liquidity of at least $5.0 billion as of the last day of each fiscal quarter, beginning with the fiscal quarter ending December 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "AMD equity purchase commitment",
+   "values": [
+    "up to $5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "AMD has provided a commitment to purchase up to $5.0 billion of our Class N common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "AMD first milestone year",
+   "values": [
+    "2027"
+   ],
+   "unit": "years",
+   "period": "2027",
+   "category": "commitments",
+   "quote": "we expect the first of such milestones to be achieved in 2027"
+  },
+  {
+   "kind": "inline",
+   "label": "AMD purchase pricing window",
+   "values": [
+    "30 trading days"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "volume-weighted average price of our Class A common stock over the 30 trading days immediately preceding the applicable closing date"
+  },
+  {
+   "kind": "inline",
+   "label": "AMD draw window",
+   "values": [
+    "12 months"
+   ],
+   "unit": "months",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "we must make any draw request within 12 months following the final delivery and deployment of AMD GPU capacity"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founders count",
+   "values": [
+    "seven"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "governance",
+   "quote": "Talent attraction and retention start with our seven co-founders, all of whom have remained with the company"
+  },
+  {
+   "kind": "inline",
+   "label": "chip families count",
+   "values": [
+    "four"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "other",
+   "quote": "We train and serve Claude natively across four major chip families (AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs)"
+  }
+ ]
+}

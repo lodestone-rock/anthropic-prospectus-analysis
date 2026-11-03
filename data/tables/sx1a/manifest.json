@@ -1,0 +1,113 @@
+{
+ "file_len": 45537,
+ "batches": [
+  {
+   "batch": "sx1a_b00",
+   "start": 1,
+   "end": 3200,
+   "out": "tables/sx1a/sx1a_b00.json"
+  },
+  {
+   "batch": "sx1a_b01",
+   "start": 2601,
+   "end": 5800,
+   "out": "tables/sx1a/sx1a_b01.json"
+  },
+  {
+   "batch": "sx1a_b02",
+   "start": 5201,
+   "end": 8400,
+   "out": "tables/sx1a/sx1a_b02.json"
+  },
+  {
+   "batch": "sx1a_b03",
+   "start": 7801,
+   "end": 11000,
+   "out": "tables/sx1a/sx1a_b03.json"
+  },
+  {
+   "batch": "sx1a_b04",
+   "start": 10401,
+   "end": 13600,
+   "out": "tables/sx1a/sx1a_b04.json"
+  },
+  {
+   "batch": "sx1a_b05",
+   "start": 13001,
+   "end": 16200,
+   "out": "tables/sx1a/sx1a_b05.json"
+  },
+  {
+   "batch": "sx1a_b06",
+   "start": 15601,
+   "end": 18800,
+   "out": "tables/sx1a/sx1a_b06.json"
+  },
+  {
+   "batch": "sx1a_b07",
+   "start": 18201,
+   "end": 21400,
+   "out": "tables/sx1a/sx1a_b07.json"
+  },
+  {
+   "batch": "sx1a_b08",
+   "start": 20801,
+   "end": 24000,
+   "out": "tables/sx1a/sx1a_b08.json"
+  },
+  {
+   "batch": "sx1a_b09",
+   "start": 23401,
+   "end": 26600,
+   "out": "tables/sx1a/sx1a_b09.json"
+  },
+  {
+   "batch": "sx1a_b10",
+   "start": 26001,
+   "end": 29200,
+   "out": "tables/sx1a/sx1a_b10.json"
+  },
+  {
+   "batch": "sx1a_b11",
+   "start": 28601,
+   "end": 31800,
+   "out": "tables/sx1a/sx1a_b11.json"
+  },
+  {
+   "batch": "sx1a_b12",
+   "start": 31201,
+   "end": 34400,
+   "out": "tables/sx1a/sx1a_b12.json"
+  },
+  {
+   "batch": "sx1a_b13",
+   "start": 33801,
+   "end": 37000,
+   "out": "tables/sx1a/sx1a_b13.json"
+  },
+  {
+   "batch": "sx1a_b14",
+   "start": 36401,
+   "end": 39600,
+   "out": "tables/sx1a/sx1a_b14.json"
+  },
+  {
+   "batch": "sx1a_b15",
+   "start": 39001,
+   "end": 42200,
+   "out": "tables/sx1a/sx1a_b15.json"
+  },
+  {
+   "batch": "sx1a_b16",
+   "start": 41601,
+   "end": 44800,
+   "out": "tables/sx1a/sx1a_b16.json"
+  },
+  {
+   "batch": "sx1a_b17",
+   "start": 44201,
+   "end": 45537,
+   "out": "tables/sx1a/sx1a_b17.json"
+  }
+ ]
+}

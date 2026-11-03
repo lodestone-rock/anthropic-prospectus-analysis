@@ -1,0 +1,231 @@
+{
+  "batch": "sx1a_b00",
+  "tables": [
+    {
+      "kind": "caption",
+      "caption": "Per share",
+      "caption_line": 266,
+      "start_line": 266,
+      "end_line": 296,
+      "column_note": "",
+      "columns": ["", "Per share", "Total"],
+      "rows": [
+        {"label": "Initial public offering price", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Underwriting discount(1)", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Proceeds, before expenses, to Anthropic, PBC", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Proceeds, before expenses, to selling stockholders", "cells": ["[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)See the section titled Underwriting for a description of the compensation payable to the underwriters."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes certain key terms of each class or series of our common stock that will be authorized following the completion of this offering",
+      "caption_line": 1678,
+      "start_line": 1682,
+      "end_line": 2040,
+      "column_note": "",
+      "columns": ["Category of Rights", "Class A Common Stock", "Class N Common Stock", "Class T Common Stock", "Class F Common Stock", "Class E Common Stock"],
+      "rows": [
+        {"label": "Votes per share", "cells": ["1", "0", "1", "50.1% of outstanding voting power on record date", "1"]},
+        {"label": "Matters on which entitled to vote", "cells": [
+          "All matters submitted to stockholders generally election of non-Class T directors certain amendments to the terms of the LTBT or the rights of our Class T common stock redemption of our Class T common stock",
+          "Not entitled to vote except as required by law, in which case our Class N common stock will have one vote per share",
+          "Election of Class T directors, which constitute a majority of our board of directors redemption of our Class E common stock certain amendments to the rights of our Class F common stock",
+          "All matters submitted to stockholders generally election of non-Class T directors certain amendments to the terms of the LTBT or the rights of our Class T common stock redemption of our Class T common stock redemption of our Class E common stock",
+          "Nomination, change in designation, or removal of the Specified Class T Director (as defined below) (only if our NGC does not concur with the LTBTs nomination, change in designation, or removal) certain amendments to the terms of the LTBT or the rights of our Class T common stock redemption of our Class T common stock"
+        ]},
+        {"label": "Conversion rights", "cells": [
+          "None",
+          "Converts into Class A common stock upon a sale or transfer to an unaffiliated third party",
+          "None",
+          "None",
+          "None"
+        ]},
+        {"label": "Transferability", "cells": [
+          "Generally transferable",
+          "Generally transferable converts to Class A common stock upon transfer as described above",
+          "Transferable only upon approval of persons comprising the Trust Amendment Threshold (as defined below)",
+          "Not transferable except in the case of a reorganization or redomiciliation of the Founder LLC that is approved by our board of directors and does not result in a change to the members of the Founder LLC",
+          "Not transferable"
+        ]},
+        {"label": "Dividend rights", "cells": [
+          "Entitled to participate pro rata in dividends and distributions",
+          "Entitled to participate pro rata in dividends and distributions",
+          "None",
+          "None",
+          "None"
+        ]},
+        {"label": "Right to receive liquidation distributions", "cells": [
+          "Entitled to participate pro rata in liquidation distributions",
+          "Entitled to participate pro rata in liquidation distributions",
+          "Entitled to par value per share",
+          "Entitled to par value per share",
+          "Entitled to par value per share"
+        ]},
+        {"label": "Redeemable by company", "cells": [
+          "No",
+          "No",
+          "Redeemable by us for no consideration upon occurrence of certain events",
+          "Redeemable by us for no consideration upon occurrence of certain events",
+          "Redeemable by us for no consideration upon occurrence of certain events"
+        ]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "The Offering",
+      "caption_line": 2228,
+      "start_line": 2230,
+      "end_line": 2418,
+      "column_note": "",
+      "columns": ["", ""],
+      "rows": [
+        {"label": "Class A common stock offered by us", "cells": ["shares"]},
+        {"label": "Class A common stock offered by the selling stockholders", "cells": ["shares"]},
+        {"label": "Underwriters option to purchase additional shares of Class A common stock from us", "cells": ["shares"]},
+        {"label": "Class A common stock to be outstanding after this offering", "cells": ["shares (or shares if the underwriters exercise their option to purchase additional shares of our Class A common stock in full)"]},
+        {"label": "Class N common stock to be outstanding after this offering", "cells": ["shares"]},
+        {"label": "Class T common stock to be outstanding after this offering", "cells": ["1 share"]},
+        {"label": "Class E common stock to be outstanding after this offering", "cells": ["0 shares"]},
+        {"label": "Class F common stock to be outstanding after this offering", "cells": ["1 share"]},
+        {"label": "Class A, Class N, Class T, Class E, and Class F common stock to be outstanding after this offering", "cells": ["shares (or shares if the underwriters exercise their option to purchase additional shares of our Class A common stock in full)"]},
+        {"label": "Use of proceeds", "cells": ["We estimate that the net proceeds from the sale of shares of our Class A common stock by us in this offering will be approximately $ (or approximately $ if the underwriters option to purchase additional shares of our Class A common stock is exercised in full), based upon the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, and after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. We will not receive any proceeds from the sale of shares of Class A common stock by the selling stockholders. The principal purposes of this offering are to increase our capitalization and financial flexibility, create a public market for our Class A common stock, facilitate an orderly distribution of shares for the selling stockholders, and enable access to the public equity markets for us and our stockholders. We intend to use the net proceeds from this offering for general corporate purposes, including working capital, operating expenses, and capital expenditures, including investments in compute and infrastructure, as well as hiring and retention of highly skilled personnel. Additionally, we may use a portion of the net proceeds to acquire or invest in businesses, products, services, or technologies. However, we do not have agreements or commitments for any material acquisitions or investments at this time. We also intend to use a portion of the net proceeds to satisfy our anticipated tax withholding and remittance obligations related to the settlement of certain of our outstanding RSUs. See the section titled Use of Proceeds for more information."]},
+        {"label": "Voting rights", "cells": ["Shares of our Class A common stock are entitled to one vote per share. Shares of our Class N common stock have no voting rights, except as otherwise required by law. The share of our Class T common stock has no voting rights with respect to matters submitted to stockholders generally, except as set forth within our amended and restated certificate of incorporation, including with respect to the election of a majority of our board of directors or as required by law. The share of our Class F common stock will be entitled to an aggregate number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock as of the applicable record date on all matters submitted to a vote of stockholders generally, including the election of our directors other than the Class T directors. Shares of our Class E common stock will be entitled to one vote per share with respect to certain limited matters."]},
+        {"label": "Controlled company", "cells": ["We are considered a controlled company within the meaning of the Nasdaq Global Select Market corporate governance requirements. See the sections titled Our Governance Structure and Its Goals, Management, and Description of Capital Stock for additional information."]},
+        {"label": "Risk factors", "cells": ["See the section titled Risk Factors and other information included in this prospectus for a discussion of some of the factors you should consider before deciding to invest in our Class A common stock."]},
+        {"label": "Proposed trading symbol", "cells": ["ANT"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "As of September 30, 2026",
+      "caption_line": 2558,
+      "start_line": 2558,
+      "end_line": 2648,
+      "column_note": "",
+      "columns": ["", "Class A Common Stock (Outstanding)", "Class N Common Stock (Outstanding)", "Redeemable Convertible Preferred Stock", "Stock Options", "RSUs", "Total Class A and Class N Common Stock (As-Converted, Fully Diluted)", "(No Economic Right) Class T and Class F Common Stock"],
+      "rows": [
+        {"label": "Historical", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class A common stock", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class N common stock", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class T common stock", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Redeemable convertible preferred stock", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Stock options", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "RSUs", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Total", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Pro Forma Adjustments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Preferred Stock Conversion", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Convertible Notes Conversion", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "RSU Settlement", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Shares issued under treasury stock method(1)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class F Stock Issuance", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class A common stock offered by us in this offering", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Total", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Additional Adjustments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "RSUs granted after September 30, 2026", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Rollover notes(2)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Acquisition Issuances", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Acquisition holdback shares(3)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Pledge Issuance", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Donation Matching Plan Vested Obligations(4)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Initial Public Benefit Issuance", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Total", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)Reflects the net reduction in shares issuable upon exercise of outstanding stock options, which have a weighted-average exercise price of $ per share, assuming aggregate exercise proceeds of approximately $ billion are used to repurchase shares of Class A common stock at the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus.",
+        "(2)For more information about the terms of our convertible promissory notes, see the section titled Managements Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and Capital ResourcesConvertible NotesOutstanding Notes.",
+        "(3)For more information about the terms of our acquisition holdback shares, see Note 15 to our consolidated financial statements included elsewhere in this prospectus.",
+        "(4) ."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "Consolidated Statements of Operations Data",
+      "caption_line": 2724,
+      "start_line": 2726,
+      "end_line": 2948,
+      "column_note": "(in millions, except share and per share amounts)",
+      "columns": ["", "2023", "2024", "2025", "2025", "2026"],
+      "rows": [
+        {"label": "Revenue", "cells": ["$41", "$386", "$4,585", "$2,545", "$33,242"]},
+        {"label": "Operating expenses", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Compute and infrastructure", "cells": ["433", "2,522", "7,326", "4,381", "18,808"]},
+        {"label": "Personnel(1)", "cells": ["95", "454", "1,839", "1,027", "4,863"]},
+        {"label": "Bartz settlement", "cells": ["[BLANK]", "[BLANK]", "1,500", "1,500", "[BLANK]"]},
+        {"label": "Sales, marketing, and partnerships", "cells": ["2", "43", "568", "322", "5,529"]},
+        {"label": "Other operating and administrative", "cells": ["62", "347", "1,412", "539", "5,302"]},
+        {"label": "Total operating expenses", "cells": ["592", "3,366", "12,645", "7,769", "34,502"]},
+        {"label": "Operating loss", "cells": ["(551)", "(2,980)", "(8,060)", "(5,224)", "(1,260)"]},
+        {"label": "Interest income", "cells": ["69", "106", "431", "239", "2,359"]},
+        {"label": "Change in fair value of convertible notes, derivative liabilities, and SAFEs", "cells": ["(1,045)", "(5,434)", "(34,308)", "(20,107)", "(94,324)"]},
+        {"label": "Other income (expense), net", "cells": ["(2)", "[BLANK]", "(8)", "(3)", "(10,397)"]},
+        {"label": "Total other income (expense), net", "cells": ["(978)", "(5,328)", "(33,885)", "(19,871)", "(102,362)"]},
+        {"label": "Loss before provision for income taxes", "cells": ["(1,529)", "(8,308)", "(41,945)", "(25,095)", "(103,622)"]},
+        {"label": "Provision for income taxes", "cells": ["2", "1", "20", "12", "417"]},
+        {"label": "Net loss(2)", "cells": ["$(1,531)", "$(8,309)", "$(41,965)", "$(25,107)", "$(104,039)"]},
+        {"label": "Net loss per share attributable to common stockholders, basic and diluted", "cells": ["$(1.42)", "$(5.43)", "$(23.04)", "$(13.90)", "$(50.10)"]},
+        {"label": "Weighted-average number of shares outstanding, basic and diluted", "cells": ["1,076,880,510", "1,528,994,540", "1,821,084,860", "1,806,802,920", "2,076,810,122"]}
+      ],
+      "footnotes": [
+        "(1)Includes stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $591 million and $3.3 billion for the nine months ended September 30, 2025 and 2026, respectively.",
+        "(2)Includes change in fair value of convertible notes, derivative liabilities, and simple agreements for future equity (SAFEs), which were $1.0 billion, $5.4 billion, and $34.3 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $20.1 billion and $94.3 billion for the nine months ended September 30, 2025 and 2026, respectively. These changes were primarily driven by an increase in the fair value of our outstanding convertible promissory notes resulting from an increase in our enterprise valuation during each of the respective periods."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth the computation of unaudited pro forma net loss per share, basic and diluted, of common stock attributable to common stockholders for the periods presented",
+      "caption_line": 2972,
+      "start_line": 2976,
+      "end_line": 3032,
+      "column_note": "(in millions, except share and per share amounts)",
+      "columns": ["", "2025", "2026"],
+      "rows": [
+        {"label": "Numerator", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Net loss", "cells": ["$(41,965)", "$(104,039)"]},
+        {"label": "Pro forma adjustment to record stock-based compensation expense related to RSUs for which the performance-based vesting condition will be satisfied upon the effectiveness of the registration statement of which this prospectus forms a part", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Pro forma adjustment to eliminate the change in fair value recognized related to convertible promissory notes", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Pro forma net loss", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Denominator", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Weighted-average number of shares outstanding, basic and diluted", "cells": ["1,821,084,860", "2,076,810,122"]},
+        {"label": "Pro forma adjustment to reflect the Preferred Stock Conversion", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Pro forma adjustment to reflect the RSU Settlement", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Pro forma adjustment to reflect the Convertible Notes Conversion", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Weighted-average number of shares outstanding used to compute pro forma net loss per share, basic and diluted(1)(2)", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Pro forma net loss per share, basic and diluted(1)(2)", "cells": ["[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)The unaudited pro forma net loss per share and pro forma weighted-average number of shares used in computing pro forma net loss per share give effect to (i) the Preferred Stock Conversion, as if such conversion had occurred on January 1, 2025, (ii) the Convertible Notes Conversion, as if such conversion had occurred on January 1, 2025, (iii) the elimination of the change in fair value recognized on convertible promissory notes that converted into shares of our redeemable convertible preferred stock during the periods presented and that convert in the Convertible Notes Conversion, in each case as if such notes had converted on January 1, 2025, (iv) stock-based compensation expense related to RSUs for which the service-based vesting condition was satisfied or partially satisfied, and as if the performance-based condition had been satisfied on January 1, 2025, of $ and $ for the year ended December 31, 2025 and the nine months ended September 30, 2026, respectively, (v) the net issuance of and shares of our Class A common stock upon the vesting and settlement of RSUs, for which the service-based vesting condition was satisfied, and as if the performance-based condition had been satisfied on January 1, 2025, for the year ended December 31, 2025 and the nine months ended September 30, 2026, respectively, and (vi) the filing and effectiveness of our amended and restated certificate of incorporation in Delaware that will become effective immediately prior to the completion of this offering. The pro forma weighted-average number of shares does not give effect to the Initial Public Benefit Issuance, as shares of our Class N common stock held by our wholly owned subsidiary are not considered outstanding for accounting purposes.",
+        "(2)As of September 30, 2026, unrecognized stock-based compensation expense not reflected in pro forma net loss per share was $24.1 billion related to RSUs for which the service-based vesting condition was not satisfied, and which is expected to be recognized over a weighted-average period of approximately 2.0 years, and $2.1 billion related to our other outstanding equity awards, which is expected to be recognized over a weighted-average period of approximately 1.4 years."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "Consolidated Balance Sheet Data",
+      "caption_line": 3078,
+      "start_line": 3080,
+      "end_line": 3154,
+      "column_note": "(in millions)",
+      "columns": ["", "Actual", "Pro Forma(1)", "Pro Forma As Adjusted(2)(3)"],
+      "rows": [
+        {"label": "Cash, cash equivalents, and short-term investments", "cells": ["$131,845", "[BLANK]", "[BLANK]"]},
+        {"label": "Working capital(4)", "cells": ["$129,349", "[BLANK]", "[BLANK]"]},
+        {"label": "Total assets", "cells": ["$154,320", "[BLANK]", "[BLANK]"]},
+        {"label": "Total liabilities", "cells": ["$146,683", "[BLANK]", "[BLANK]"]},
+        {"label": "Redeemable convertible preferred stock", "cells": ["$157,510", "[BLANK]", "[BLANK]"]},
+        {"label": "Additional paid-in capital", "cells": ["$6,481", "[BLANK]", "[BLANK]"]},
+        {"label": "Accumulated deficit", "cells": ["$(156,193)", "[BLANK]", "[BLANK]"]},
+        {"label": "Total stockholders deficit", "cells": ["$(149,873)", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)The pro forma column in the consolidated balance sheet gives effect to (i) the Preferred Stock Conversion, as if such conversion had occurred on September 30, 2026, (ii) the Convertible Notes Conversion, as if such conversion had occurred on September 30, 2026, (iii) the Class F Stock Issuance, as if it had occurred on September 30, 2026, (iv) an increase to additional paid-in capital and accumulated deficit related to stock-based compensation of $ related to RSUs subject to the RSU Settlement, and (v) the filing and effectiveness of our amended and restated certificate of incorporation in Delaware that will become effective immediately prior to the completion of this offering.",
+        "(2)The pro forma as adjusted column gives effect to (i) the pro forma adjustments set forth above, (ii) the sale and issuance by us of shares of our Class A common stock in this offering, based upon the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, and after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us, and (iii) the use of net proceeds from this offering, together with existing cash and cash equivalents, if necessary, to satisfy the estimated tax withholding and remittance obligations related to the RSU Settlement. We will not receive any proceeds from the sale of shares of our Class A common stock by any of the selling stockholders.",
+        "(3)Each $1.00 increase (decrease) in the assumed initial public offering price would increase (decrease) each of cash, cash equivalents, and short-term investments working capital total assets additional paid-in capital and total stockholders deficit by $, assuming the number of shares offered by us as stated on the cover page of this prospectus remains unchanged and after deducting the estimated underwriting discounts and commissions and estimated offering expenses payable by us. Similarly, each increase (decrease) of 1.0 million in the number of shares offered by us, as set forth on the cover page of this prospectus, would increase (decrease) each of cash, cash equivalents, and short-term investments working capital total assets additional paid-in capital and total stockholders deficit by $, assuming the assumed initial public offering price of $ per share (the midpoint of the estimated offering price range set forth on the cover page of this prospectus) remains the same, and after deducting the estimated underwriting discounts and commissions and estimated offering expenses payable by us. We will not receive any proceeds from the sale of shares of our Class A common stock by any of the selling stockholders.",
+        "(4)Working capital is defined as current assets less current liabilities."
+      ]
+    }
+  ]
+}

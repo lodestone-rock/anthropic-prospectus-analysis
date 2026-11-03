@@ -1,0 +1,183 @@
+{
+  "batch": "sx1a_b11",
+  "tables": [
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series H-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 28914,
+      "start_line": 28918,
+      "end_line": 28958,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series H-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["747,016", "$439,999,521"]},
+        {"label": "Bodhi LLC (2)", "cells": ["16,977", "$9,999,614"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by Spark Capital Growth Fund VI, L.P. and Spark Capital Growth Fund Holdings 2026, LLC. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each of Spark Capital Growth Fund VI, L.P. and Spark Capital Growth Fund Holdings 2026, LLC.",
+        "(2)Bodhi LLC is wholly owned by Vas Narasimhan, a member of our board of directors, and his wife."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series G-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 28966,
+      "start_line": 28970,
+      "end_line": 29002,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series G-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["96,474", "$24,999,925"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by Spark Capital Growth Founders Fund V, L.P. and Spark Capital Growth Fund V, L.P. (each, a Spark V entity, and collectively, Spark V entities), which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark V entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series F-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29014,
+      "start_line": 29018,
+      "end_line": 29048,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series F-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["439,817", "$61,999,947"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by the Spark V entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark V entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series E-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29056,
+      "start_line": 29060,
+      "end_line": 29090,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series E-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["1,782,959", "$99,999,930"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by the Spark V entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark V entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series D-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29102,
+      "start_line": 29106,
+      "end_line": 29138,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series D-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["2,499,624", "$74,999,968"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by Spark Capital Growth Founders Fund IV, L.P. and Spark Capital Growth Fund IV, L.P. (each, a Spark IV entity, and collectively, Spark IV entities), which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark IV entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series C-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29154,
+      "start_line": 29158,
+      "end_line": 29188,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series C-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["6,680,859", "$74,999,991"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by the Spark IV entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark IV entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth certain information with respect to the beneficial ownership of our capital stock as of September 30, 2026 and as adjusted to reflect the sale of our Class A common stock offered by us and the selling stockholders in this offering assuming no exercise of the underwriters option to purchase additional shares of our Class A common stock, for each of our NEOs, each of our directors, all of our current directors and executive officers as a group, each person, or group of persons, known by us to be the beneficial owner of more than 5% of the outstanding shares of any class of our voting securities and each selling stockholder.",
+      "caption_line": 29556,
+      "start_line": 29628,
+      "end_line": 29958,
+      "column_note": "Super-headers: Shares Beneficially Owned Before the Offering (Class A / Class F / Class T, each with # and % sub-columns, plus % of Total Voting Power Before the Offering); Shares of Class A Being Offered (#); Shares Beneficially Owned After the Offering (same sub-columns). Most % and post-offering cells are blank in the source extraction.",
+      "columns": ["Name of Beneficial Owner", "Class A (#)", "Class A (%)", "Class F (#)", "Class F (%)", "Class T (#)", "Class T (%)", "% of Total Voting Power Before the Offering", "Shares of Class A Being Offered", "Class A (#)", "Class A (%)", "Class F (#)", "Class F (%)", "Class T (#)", "Class T (%)", "% of Total Voting Power After the Offering"],
+      "rows": [
+        {"label": "Named Executive Officers and Directors", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Dario Amodei(1)", "cells": ["240,637,980", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Shares subject to voting proxies(2)", "cells": ["4,621,120", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Total", "cells": ["245,259,100", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Daniela Amodei(3)", "cells": ["241,408,940", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Krishna Rao(4)", "cells": ["9,497,900", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Reed Hastings(5)", "cells": ["9,410", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Christopher Liddell(6)", "cells": ["9,410", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Vas Narasimhan(7)", "cells": ["176,050", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Yasmin Razavi(8)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "All executive officers and directors as a group (7 persons)(9)", "cells": ["496,360,810", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Greater than 5% Stockholders", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Long-Term Benefit Trust(10)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "1", "100%", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "1", "100%", "[BLANK]"]},
+        {"label": "Founder LLC(11)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "1", "100%", "[BLANK]", "[BLANK]", "50.1%"]},
+        {"label": "Other Selling Stockholders", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Tom Brown(12)", "cells": ["244,173,040", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Jack Clark(13)", "cells": ["242,271,840", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Jared Kaplan(14)", "cells": ["242,351,170", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Sam McCandlish(15)", "cells": ["243,383,850", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Christopher Olah(16)", "cells": ["242,882,420", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "*Represents beneficial ownership of less than 1%.",
+        "Represents the percentage of the total votes attributable to all outstanding shares of our Class A common stock and Class F common stock. Does not include (i) our Class T common stock, which is held by the LTBT, and which generally has the authority to elect and remove the Class T directors, who together will constitute a majority of the authorized members of our board of directors, and is generally not entitled to vote with respect to matters submitted to a vote of stockholders, (ii) our Class N common stock, which is not entitled to vote on any matter that is submitted to a vote of stockholders, except as otherwise required by law, or (iii) our Class E common stock, which is not entitled to vote for the election of directors.",
+        "Holders of our Class A common stock are entitled to one vote per share on all matters submitted to stockholders generally. Our Class F common stock is entitled to a fixed 50.1% of the voting power of our outstanding capital stock as of the applicable record date on matters submitted to stockholders generally. As a result, the voting power of the holders of Class A common stock is limited to an aggregate of 49.9% of the total outstanding voting power as of the applicable record date. Accordingly, the voting power of each holder of Class A common stock has been reduced to 49.9% of the percentage shown before the offering (taking into account the reduction of voting power due to shares sold in the offering).",
+        "We expect that our seven co-founders, including Dr. Amodei and Ms. Amodei, will enter into the Founder LLC Agreement shortly before the effectiveness of the registration statement of which this prospectus forms a part. The Founder LLC Agreement will provide that the share of Class F common stock will be voted, consented, or not consented, in the manner determined by a vote of the Continuing Founders as prescribed by the Founder LLC Agreement, with each Continuing Founder entitled to one vote. With respect to each of our co-founders, the voting power percentage provided does not include the voting power of our Class F common stock held by the Founder LLC. The Founder LLC Agreement will not govern the voting of any shares of our Class A common stock held by the co-founders or their related holders. Each co-founder (or their related holders) will be able to vote shares of our Class A common stock held by them in their discretion, regardless of the manner in which the Founder LLC will vote our Class F common stock. For more information, please see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure, Our Co-Founders, and Description of Capital StockCommon StockVoting Rights.",
+        "(1)Consists of (i) 237,813,080 shares of Class A common stock held of record by Dr. Amodei or by trusts over which Dr. Amodei exercises investment or voting control, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Dr. Amodei is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.",
+        "(2)Dr. Amodei has entered into the Voting Proxy Agreements with the DAFs (as further described elsewhere in this prospectus), pursuant to which Dr. Amodei has the authority (and irrevocable proxy) to direct the vote and vote certain shares of Class A common stock held by the DAFs, at his discretion on all matters to be voted upon by stockholders.",
+        "(3)Consists of (i) 238,319,540 shares of Class A common stock held of record by Ms. Amodei or by trusts over which Ms. Amodei exercises investment or voting control, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, (iii) 130,550 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026 held by Ms. Amodeis spouse, (iv) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026, and (v) 133,950 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026 held by Ms. Amodeis spouse. Ms. Amodei is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.",
+        "(4)Consists of (i) 153,960 shares of Class A common stock held of record by Mr. Rao, (ii) 7,843,940 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 1,500,000 shares of Class A common stock subject to stock options exercisable by a trust over which Mr. Rao exercises investment or voting control within 60 days of September 30, 2026.",
+        "(5)Consists of 9,410 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026.",
+        "(6)Consists of 9,410 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026.",
+        "(7)Consists of (i) 169,770 shares of Class A common stock held of record by Bodhi LLC over which Dr. Narasimhan exercises sole investment and voting control and (ii) 6,280 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026.",
+        "(8)Excludes shares of Class A common stock held by any affiliates of Spark Capital (each, a Spark Capital Entity). Spark Capital Growth Fund IV, L.P. and Spark Capital Growth Founders Fund IV, L.P. are controlled by their general partner, Spark Growth Management Partners IV, LLC, which is governed by five managing members including Yasmin Razavi, who is one of our directors. Spark Capital Growth Fund V, L.P. and Spark Capital Growth Founders Fund V, L.P. are controlled by their general partner, Spark Growth Management Partners V, LLC, which is governed by its five managing members, including Ms. Razavi, who is one of our directors. Spark Capital Growth Fund VI, L.P. is controlled by its general partner, Spark Growth Management Partners VI, LLC, which is governed by its six managing members, including Ms. Razavi, who is one of our directors. The members of Spark Capital Growth Fund Holdings 2026, LLC are Spark Capital Growth Fund IV, L.P., Spark Capital Growth Founders Fund IV, L.P., Spark Capital Growth Fund V, L.P., Spark Capital Growth Founders Fund V, L.P. and Spark Capital Growth Fund VI, L.P. The managing members of each general partner make investment and voting decisions based on a majority vote. To the extent Ms. Razavi may be deemed to have beneficial ownership over the shares beneficially owned by any Spark Capital Entity, she expressly disclaims such beneficial ownership. The business address of each of the foregoing persons is 200 Clarendon Street, Floor 59, Boston, Massachusetts 02116.",
+        "(9)Consists of (i) 481,077,470 shares of Class A common stock beneficially owned by our executive officers and directors, (ii) 13,845,290 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 1,438,050 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026.",
+        "(10)Consists of one share of Class T common stock held of record by the LTBT.",
+        "(11)Consists of one share of Class F common stock held of record by the Founder LLC.",
+        "(12)Consists of (i) 241,348,140 shares of Class A common stock held of record by Mr. Brown or by trusts over which Mr. Brown exercises investment or voting control, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Mr. Brown co-founded Anthropic in January 2021 and serves as our Chief Compute Officer. Mr. Brown is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.",
+        "(13)Consists of (i) 239,446,940 shares of Class A common stock held of record by Mr. Clark or by a trust over which Mr. Clark exercises sole voting control, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Mr. Clark co-founded Anthropic in January 2021 and leads the Anthropic Institute. Mr. Clark is also a member of the Founder LLC and is expected to serve as one of the initial managers of the Anthropic Public Benefit Fund. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure, Our Co-Founders, and BusinessOur Commitment to Public Benefit.",
+        "(14)Consists of (i) 239,526,270 shares of Class A common stock held of record by Dr. Kaplan or by trusts over which Dr. Kaplan exercises shared investment or voting control, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Dr. Kaplan co-founded Anthropic in January 2021 and serves as our Chief Science Officer. Dr. Kaplan is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.",
+        "(15)Consists of (i) 240,558,950 shares of Class A common stock held of record by trusts over which Dr. McCandlish exercises shared investment or voting control, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Dr. McCandlish co-founded Anthropic in January 2021 and serves as our Chief Architect. Dr. McCandlish is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders.",
+        "(16)Consists of (i) 240,057,520 shares of Class A common stock held of record by Mr. Olah, (ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026. Mr. Olah co-founded Anthropic in January 2021 and leads our interpretability research efforts. Mr. Olah is also a member of the Founder LLC. For more information, see the sections titled Our Governance Structure and Its GoalsFounder Voting Structure and Our Co-Founders."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "As more fully described below, the following table summarizes certain key terms of each class or series of our common stock that will be authorized following the completion of this offering",
+      "caption_line": 30014,
+      "start_line": 30018,
+      "end_line": 30346,
+      "column_note": "Table continues on the next printed page with a repeated column-header row (lines 30196-30216); repeated header skipped, rows kept in order.",
+      "columns": ["Category of Rights", "Class A Common Stock", "Class N Common Stock", "Class T Common Stock", "Class F Common Stock", "Class E Common Stock"],
+      "rows": [
+        {"label": "Votes per share", "cells": ["1", "0", "1", "50.1% of outstanding voting power on record date", "1"]},
+        {"label": "Matters on which entitled to vote", "cells": ["All matters submitted to stockholders generally election of non-Class T directors certain amendments to the terms of the LTBT or the rights of our Class T common stock redemption of our Class T common stock", "Not entitled to vote except as required by law, in which case our Class N common stock will have one vote per share", "Election of Class T directors, which constitute a majority of our board of directors redemption of our Class E common stock certain amendments to the rights of our Class F common stock", "All matters submitted to stockholders generally election of non-Class T directors certain amendments to the terms of the LTBT or the rights of our Class T common stock redemption of our Class T common stock redemption of our Class E common stock", "Nomination, change in designation, or removal of the Specified Class T Director (only if our NGC does not concur with the LTBTs nomination, change in designation, or removal) certain amendments to the terms of the LTBT or the rights of our Class T common stock redemption of our Class T common stock"]},
+        {"label": "Conversion rights", "cells": ["None", "Converts into Class A common stock upon a sale or transfer to an unaffiliated third party", "None", "None", "None"]},
+        {"label": "Transferability", "cells": ["Generally transferable", "Generally transferable converts into Class A common stock upon transfer as described above", "Transferable only upon approval of persons comprising the Trust Amendment Threshold", "Not transferable except in the case of a reorganization or redomiciliation of the Founder LLC that is approved by our board of directors and does not result in a change to the members of the Founder LLC", "Not transferable"]},
+        {"label": "Dividend rights", "cells": ["Entitled to participate pro rata in dividends and distributions", "Entitled to participate pro rata in dividends and distributions", "None", "None", "None"]},
+        {"label": "Right to receive liquidation distributions", "cells": ["Entitled to participate pro rata in liquidation distributions", "Entitled to participate pro rata in liquidation distributions", "Entitled to par value per share", "Entitled to par value per share", "Entitled to par value per share"]},
+        {"label": "Redeemable by company", "cells": ["No", "No", "Redeemable by us for no consideration upon occurrence of certain events", "Redeemable by us for no consideration upon occurrence of certain events", "Redeemable by us for no consideration upon occurrence of certain events"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Sunset Provisions",
+      "caption_line": 30618,
+      "start_line": 30620,
+      "end_line": 31052,
+      "column_note": "Two content columns (Class T Sunset Time, Class F Sunset Time) with row labels in an unlabeled first column; header repeats after each printed page break (lines 30806-30808, 30916-30918) and those repetitions are skipped.",
+      "columns": ["", "Class T Sunset Time", "Class F Sunset Time"],
+      "rows": [
+        {"label": "Trigger", "cells": ["The Class T Sunset Time occurs when no Class T common stock remains outstanding, including due to the redemption of our Class T common stock or an amendment to the rights of our Class T common stock that eliminates our Class T common stock, which in each case requires the approval of persons comprising the Trust Amendment Threshold. The Trust Amendment Threshold may be satisfied as follows if the Trustees are voting in favor of the action, upon approval of 80% of the authorized members of our board of directors and 80% of the Trustees then in office (in each case, rounded up or down to the nearest whole number (any exact 0.5 rounding up)) if our Class F common stock remains outstanding and the Trustees are not voting in favor of the action until the third anniversary of the completion of this offering, upon approval by (i) our Class F common stock acting pursuant to the unanimous approval of the Continuing Founders, (ii) a majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our outstanding Class E common stock), and (iii) a majority of the votes cast by outstanding Class A common stock (subject to a quorum of a majority of outstanding Class A common stock) or at any time, upon approval by (i) our Class F common stock acting by decision of 66 23% of the Continuing Founders (rounded up to the nearest whole number), (ii) 75% of the votes cast by our Class E common stock (subject to a quorum of a majority of outstanding Class E common stock), and (iii) a majority of the votes cast by our Class A common stock (subject to a quorum of a majority of outstanding Class A common stock) or if no Class F common stock remains outstanding and the Trustees are not voting in favor of the action, upon approval of 85% of the outstanding Class A common stock. The Class T Sunset Time does not occur automatically upon the lapse of time or the occurrence of specific events. Any action resulting in the occurrence of the Class T Sunset Time requires approval of persons comprising the Trust Amendment Threshold. The Class T Sunset Time, once triggered, is not subject to extension, delay, or waiver.", "The Class F Sunset Time occurs on the earlier of (i) the time when no Class F common stock remains outstanding, including due to the redemption of our Class F common stock agreed to by a Supermajority of the Continuing Founders or upon the dissolution of the Founder LLC, and (ii) the completion of the Class F Transition Period. The Class F Transition Period commences when there have been fewer than three Continuing Founders (not including any successor member who is a Non-Qualifying Member as defined in the Founder LLC Agreement) for 90 consecutive calendar days. A Continuing Founder will be removed from the Founder LLC upon the earliest to occur of (i) such Continuing Founders resignation as a member of the Founder LLC (ii) such Continuing Founders death or incapacity (iii) with respect to each of our seven original co-founders, such original co-founders ceasing to hold (together with such original co-founders related holders) on any record date for a vote of our stockholders a number of shares of Class A common stock (including shares subject to options, RSUs, and other convertible securities) equal to at least 2% of the shares of Class A common stock held by such original co-founder and their related holders as of the completion of this offering (iv) such Continuing Founders removal for cause, which includes specified competitive activities described in the Founder LLC Agreement (v) with respect to any successor member admitted to the Founder LLC prior to the commencement of the Class F Transition Period, other than a successor member who is a member during the Class F Transition Period, the tenth anniversary of the completion of this offering or (vi) with respect to each of our seven original co-founders, the commencement of a leave of absence approved by a Supermajority of the other Continuing Founders, which may not be approved during the Class F Transition Period or if the grant of the leave of absence would itself cause the Class F Transition Period to commence. Removals due to resignation, death, or the occurrence of the tenth anniversary of the completion of this offering occur automatically without any determination by any other person. Removals due to incapacity require determination by a qualified physician jointly selected by the affected Continuing Founder and a majority of the other Continuing Founders (in the case of physical or mental impairment) or determination by a Supermajority of the other Continuing Founders (in the case of wrongful imprisonment, unlawful detention, or captivity or restraint), subject to the affected Continuing Founders right to contest such determination. Removals due to cause require an affirmative determination by a Supermajority of the other Continuing Founders, subject to the affected Continuing Founders right to contest such determination or, in the case of specified categories of cause, to cure the basis for such removal. Removals due to incapacity, cause, or the failure to maintain the minimum ownership threshold require prior written notice from the Founder LLC by action of a majority of the other Continuing Founders. If a Continuing Founder is removed due to death or incapacity during the first ten years following the completion of this offering, a successor member may be admitted to the Founder LLC and will count toward the three Continuing Founders required to avoid triggering the Class F Transition Period until the tenth anniversary of the completion of this offering. The Class F Sunset Time, once triggered, is not subject to extension, delay, or waiver."]},
+        {"label": "Changes in Voting Power and Director Election and Removal Rights", "cells": ["Prior to the Class T Sunset Time, the LTBT, as the sole holder of Class T common stock, will generally have the authority to elect and remove the Class T directors, who constitute a majority of the authorized members of our board of directors. The share of our Class T common stock has no voting rights with respect to matters submitted to stockholders generally, except as set forth within our amended and restated certificate of incorporation, including with respect to the election of a majority of our board of directors or as required by law. Following the Class T Sunset Time, if our Class F common stock remains outstanding, our Class A common stock and Class F common stock, voting together as a single class, will elect all of our directors. Because our Class F common stock is entitled to an aggregate number of votes equal to 50.1% of the total voting power of our outstanding shares of capital stock, the Founder LLC would have the ability to determine the outcome of all matters submitted to a vote of stockholders generally, including the election of all directors. If neither our Class T common stock nor Class F common stock remains outstanding, our Class A common stock would have the ability to determine the outcome of all matters submitted to a vote of stockholders generally, including the election of all directors.", "Prior to the Class F Sunset Time, our Class F common stock will be entitled to an aggregate number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock as of the applicable record date and, together with our Class A common stock, voting together as a single class, will elect the directors other than the Class T directors and decide all other matters put to a vote of stockholders generally. Immediately after the Class F Sunset Time, if our Class T common stock remains outstanding, the LTBT would continue to have the authority to elect and remove the Class T directors, who would constitute a majority of the authorized members of our board of directors. However, the LTBT would no longer need to comply with the procedures for nomination, removal, or change in the Class T director designated as the Specified Class T Director. In such a case, our Class A common stock would elect and remove the remaining directors and decide all other matters put to a vote of stockholders generally. If neither our Class T common stock nor Class F common stock remains outstanding, our Class A common stock would have the ability to determine the outcome of all matters submitted to a vote of stockholders generally, including the election of all directors."]}
+      ],
+      "footnotes": []
+    }
+  ]
+}

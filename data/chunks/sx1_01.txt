@@ -1,0 +1,352 @@
+S-1
+1
+anthropicpbc-sx1.htm
+S-1
+
+As filed with the Securities and Exchange Commission on October 26, 2026.
+
+Registration No.333-
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM S-1
+
+REGISTRATION STATEMENT
+
+UNDER
+
+THE SECURITIES ACT OF 1933
+
+Anthropic, PBC
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+7372
+
+86-1696045
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(Primary Standard Industrial
+
+Classification Code Number)
+
+(I.R.S. Employer
+
+Identification Number)
+
+548 Market Street
+
+PMB 90375
+
+San Francisco, California 94104
+
+(415) 326-6303
+
+(Address, including zip code, and telephone number, including area code, of registrants principal executive offices)
+
+Dario Amodei, Chief Executive Officer and Co-Founder
+
+Daniela Amodei, President and Co-Founder
+
+Anthropic, PBC
+
+548 Market Street
+
+PMB 90375
+
+San Francisco, California 94104
+
+(415) 326-6303
+
+(Name, address, including zip code, and telephone number, including area code, of agent for service)
+
+Copies to
+
+Rezwan D. Pavri
+
+Allison B. Spinner
+
+Lang Liu
+
+Colin G. Conklin
+
+Jonie I. Kondracki
+
+Lester Ang
+
+Shannon R. Delahaye
+
+Wilson Sonsini Goodrich Rosati, P.C.
+
+650 Page Mill Road
+
+Palo Alto, California 94304
+
+(650) 493-9300
+
+Brian Israel
+
+Elena Leichty
+
+Patrick Ekeruo
+
+Scott Booth
+
+Anthropic, PBC
+
+548 Market Street
+
+PMB 90375
+
+San Francisco, California 94104
+
+(415) 326-6303
+
+Sarah K. Solum
+
+Calise Y. Cheng
+
+Phillip S. Stoup
+
+Freshfields US LLP
+
+855 Main Street
+
+Redwood City, California 94063
+
+(650) 618-9250
+
+Approximate date of commencement of proposed sale to the public As soon as practicable after this registration statement becomes effective.
+
+If any of the securities being registered on this Form are to be offered on a delayed or continuous basis pursuant to Rule 415 under the Securities Act of 1933 check the
+
+following box.
+
+If this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, please check the following box and list the Securities
+
+Act registration statement number of the earlier effective registration statement for the same offering.
+
+If this Form is a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, check the following box and list the Securities Act registration
+
+statement number of the earlier effective registration statement for the same offering.
+
+If this Form is a post-effective amendment filed pursuant to Rule 462(d) under the Securities Act, check the following box and list the Securities Act registration
+
+statement number of the earlier effective registration statement for the same offering.
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth
+
+company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the
+
+Exchange Act.
+
+Largeacceleratedfiler
+
+Acceleratedfiler
+
+Non-acceleratedfiler
+
+Smallerreportingcompany
+
+Emerginggrowthcompany
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+
+financial accounting standards provided pursuant to Section7(a)(2)(B) of the Securities Act.
+
+The registrant hereby amends this registration statement on such date or dates as may be necessary to delay its effective date until the registrant
+
+shall file a further amendment which specifically states that this registration statement shall thereafter become effective in accordance with
+
+Section8(a) of the Securities Act of 1933, as amended, or until the registration statement shall become effective on such date as the Securities
+
+and Exchange Commission, acting pursuant to said Section8(a), may determine.
+
+The information in this preliminary prospectus is not complete and may be changed. These securities may not be sold until
+
+the registration statement filed with the Securities and Exchange Commission is effective. This preliminary prospectus is not
+
+an offer to sell nor does it seek an offer to buy these securities in any jurisdiction where the offer or sale is not permitted.
+
+Subject To Completion. Dated .
+
+Class A Common Stock
+
+Shares
+
+Anthropic, PBC
+
+This is an initial public offering of shares of Class A common stock of Anthropic, PBC. We are selling shares of Class A common stock and
+
+the selling stockholders identified in this prospectus are selling an additional shares of Class A common stock. We will not receive any
+
+proceeds from the sale of shares of our Class A common stock by any of the selling stockholders.
+
+Prior to this offering, there has been no public market for our Class A common stock. It is currently estimated that the initial public offering price
+
+per share will be between $ and $. We have applied to list our Class A common stock on the Nasdaq Global Select Market under the
+
+symbol ANT.
+
+We have a novel capital and corporate governance structure. We are incorporated as a public benefit corporation under Delaware law, a structure
+
+consistent with our commitment to artificial intelligence (AI) safety and responsibility. As a public benefit corporation, we are required to
+
+balance the pecuniary interests of our stockholders, the best interests of those materially affected by our conduct, and the specific public benefit
+
+purpose identified in our amended and restated certificate of incorporation the responsible development and maintenance of advanced AI for
+
+the long-term benefit of humanity. We created our Long-Term Benefit Trust (the LTBT) to help ensure that Anthropic, PBC is managed in a
+
+manner that responsibly balances its goals as a public benefit corporation. The LTBT is intended to operate as an independent body of financially
+
+disinterested trustees with expertise in AI safety, national security, public policy, and social enterprise. Through a special class of common stock,
+
+Class T common stock, the LTBT generally has the authority to elect and remove the Class T directors, who together will constitute a majority of
+
+the authorized members of our board of directors. Our Class T common stock does not otherwise have voting rights with respect to matters
+
+submitted to stockholders generally and has no economic rights. Immediately prior to the completion of this offering, we will also issue a single
+
+share of Class F common stock, a special class of our common stock, to a limited liability company organized by our co-founders (the Founder
+
+LLC). Dario Amodei, our Chief Executive Officer and a member of our board of directors, and Daniela Amodei, our President and Chairperson of
+
+our board of directors, together with our five other co-founders, will initially be the sole members of the Founder LLC. Our Class F common
+
+stock, which will be held by the Founder LLC, will be entitled to an aggregate number of votes that equals 50.1% of the total voting power of our
+
+outstanding shares of capital stock with respect to matters submitted to stockholders generally, including the election of our directors other than
+
+the Class T directors. Our Class F common stock will not have any economic rights. Upon the completion of this offering, we will also authorize a
+
+special class of our common stock, Class E common stock, which will be issued to our employees, excluding our co-founders. Our Class E
+
+common stock will be entitled to vote only on certain limited matters and will not have any economic rights. In addition, we have authorized
+
+Class A common stock and Class N common stock. The rights of the holders of Class A common stock and Class N common stock are identical,
+
+except with respect to voting and conversion. Each share of Class A common stock is entitled to one vote per share and shares of Class N common
+
+stock have no voting rights, except as otherwise required by law. The holders of our Class N common stock are primarily strategic business
+
+partners, and shares of Class N common stock will generally convert to Class A common stock upon a sale or transfer to an unaffiliated third
+
+party. Our Class A common stock is not convertible. See the sections titled Risk FactorsRisks Related to our Governance Structure, Our
+
+Governance Structure and Its Goals, and Description of Capital Stock for more information.
+
+We are considered a controlled company within the meaning of the Nasdaq Global Select Market corporate governance requirements. See the
+
+sections titled Our Governance Structure and Its Goals, Management, and Description of Capital Stock for additional information.
+
+See the section titled Risk Factors beginning on page26 to read about factors you should consider before buying shares of
+
+our Class A common stock.
+
+Neither the Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these securities or
+
+passed upon the accuracy or adequacy of this prospectus. Any representation to the contrary is a criminal offense.
+
+Per share
+
+Total
+
+Initial public offering price
+
+$
+
+$
+
+Underwriting discount(1)
+
+$
+
+$
+
+Proceeds, before expenses, to Anthropic, PBC
+
+$
+
+$
+
+Proceeds, before expenses, to selling stockholders
+
+$
+
+$
+
+______________
+
+(1)See the section titled Underwriting for a description of the compensation payable to the underwriters.
+
+To the extent that the underwriters sell more than shares of Class A common stock, the underwriters have the option to purchase up to an
+
+additional shares of Class A common stock from Anthropic, PBC at the initial public offering price less the underwriting discount.
+
+The underwriters expect to deliver the shares against payment in New York, New York, on or about .
+
+Goldman Sachs Co. LLC
+
+Morgan Stanley
+
+J.P. Morgan
+
+Citigroup
+
+Barclays
+
+Wells Fargo Securities
+
+BofA Securities
+
+Deutsche Bank Securities
+
+RBC Capital Markets
+
+UBS Investment Bank
+
+BMO Capital Markets
+
+BNP PARIBAS
+
+Credit Agricole CIB
+
+Jefferies
+
+Mizuho
+
+MUFG
+
+Societe Generale
+
+TD Securities
+
+BTIG
+
+Cantor
+
+Capital One Securities
+
+Macquarie Capital
+
+Prospectus dated
+
+i
+
+Table of Contents
+
+Table of Contents
+
+SELECT DEFINED TERMS
+
+1

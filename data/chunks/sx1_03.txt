@@ -1,0 +1,3797 @@
+Risk Factors
+
+See the section titled Risk Factors and other information
+
+included in this prospectus for a discussion of some of the
+
+factors you should consider before deciding to invest in our
+
+Class A common stock.
+
+Proposed trading symbol
+
+ANT
+
+The number of shares of our Class A common stock, Class N common stock, Class T common stock, and Class F
+
+common stock that will be outstanding after this offering is based on shares of our Class A common stock,
+
+shares of our Class N common stock, one share of our Class T common stock, and one share of our Class F
+
+common stock outstanding as of September 30, 2026, which reflects
+
+the automatic conversion of (i) all outstanding shares of our Series A, C-1, D-1, D-2, E-1, F-1, G-1,
+
+and H-1 redeemable convertible preferred stock into shares of Class A common stock and (ii) all
+
+outstanding shares of our Series B, C-2, D-3, E-2, E-3, E-4, E-5, F-2, G-2, G-3, G-4, H-2, H-3,
+
+and H-4 redeemable convertible preferred stock into shares of Class N common stock,
+
+immediately prior to the completion of this offering pursuant to the terms of our amended and restated
+
+certificate of incorporation (collectively, the Preferred Stock Conversion)
+
+one share of our Class F common stock that will be issued immediately prior to the completion of this
+
+offering to the Founder LLC (the Class F Stock Issuance)
+
+the conversionof $ in aggregate principal amount of our
+
+outstandingconvertiblepromissorynotes into shares of Class N common stock immediately
+
+prior to the completion ofthisoffering, representing shares issuable to Amazon Web Services, Inc.
+
+upon the completion of this offering without causing it to exceed the applicable ownership cap (the
+
+Convertible Notes Conversion)
+
+the Initial Public Benefit Issuance, the shares of which (i) are considered legally outstanding, (ii) are
+
+not considered outstanding for accounting purposes while held by our wholly owned subsidiary, and
+
+(iii) accordingly will not be reflected as outstanding in our consolidated financial statements and
+
+the net issuance of shares of Class A common stock subject to RSUs for which the service-based
+
+vesting condition was satisfied as of the date of this prospectus and the performance-based vesting
+
+condition will be satisfied upon the effectiveness of the registration statement of which this prospectus
+
+forms a part, after giving effect to the withholding of shares of Class A common stock subject to
+
+such RSUs to satisfy the associated estimated tax withholding and remittance obligations (based upon
+
+the assumed initial public offering price of $ per share, which is the midpoint of the estimated
+
+20
+
+Table of Contents
+
+offering price range set forth on the cover page of this prospectus, and an assumed % tax
+
+withholding rate) (the RSU Settlement).
+
+The shares of our Class A common stock, Class N common stock, Class T common stock, and Class F common
+
+stock outstanding as of September 30, 2026 exclude the following
+
+shares of our Class A common stock issuable upon the exercise of options to purchase shares of
+
+our Class A common stock outstanding as of September 30, 2026, with a weighted-average exercise
+
+price of $ per share
+
+shares of our Class A common stock issuable upon the vesting and settlement of RSUs
+
+outstanding as of the date of this prospectus, but for which (i) the service-based vesting condition was
+
+not satisfied as of such date and (ii) the performance-based vesting condition, if applicable, will be
+
+satisfied upon the effectiveness of the registration statement of which this prospectus forms a part
+
+shares of our Class A common stock issued after September 30, 2026 in connection with our
+
+acquisitions of privately-held companies and
+
+shares of our Class A common stock reserved for future issuance under our equity compensation
+
+plans, consisting of
+
+shares of our Class A common stock reserved for future issuance upon conversion of Class N
+
+common stock issuable under our Donation Matching Plan (as amended and restated, the
+
+Donation Matching Plan)
+
+shares of our Class A common stock to be reserved for future issuance under our 2026
+
+Equity Incentive Plan (our 2026 Plan), which will become effective prior to the completion of
+
+this offering
+
+shares of our Class A common stock reserved for future issuance under our Amended and
+
+Restated 2021 Stock Plan (our 2021 Plan) as of September 30, 2026, which number of shares will
+
+be added to the shares of our Class A common stock to be reserved for future issuance under our
+
+2026 Plan upon its effectiveness, at which time we will cease granting awards under our 2021 Plan
+
+and
+
+shares of our Class A common stock to be reserved for future issuance under our 2026
+
+Employee Stock Purchase Plan (our ESPP), which will become effective prior to the completion
+
+of this offering.
+
+Our 2026 Plan and ESPP each provide for an annual automatic increase in the number of shares of our Class A
+
+common stock reserved thereunder, and our 2026 Plan provides for increases to the number of shares that may
+
+be granted thereunder based on awards under our 2021 Plan that expire or are cancelled or forfeited, and
+
+shares under our 2021 Plan that are tendered to or withheld by us for payment of an exercise price or for
+
+satisfying tax withholding obligations or are forfeited or otherwise repurchased by us, as more fully described in
+
+the section titled Executive CompensationEquity Plans.
+
+21
+
+Table of Contents
+
+Except as otherwise indicated, all information in this prospectus assumes
+
+the Preferred Stock Conversion will occur immediately prior to the completion of this offering
+
+the Convertible Notes Conversion will occur immediately prior to the completion of this offering
+
+the filing and effectiveness of our amended and restated certificate of incorporation in Delaware and
+
+the effectiveness of our amended and restated bylaws will each occur immediately prior to the
+
+completion of this offering
+
+the Class F Stock Issuance will occur immediately prior to the completion of this offering
+
+no issuance of shares of Class E common stock prior to the completion of this offering
+
+a 10-for-one forward split of our Class A common stock and Class N common stock effected on
+
+September 17, 2026, including a proportional increase in the authorized shares of our capital stock,
+
+with all share, option, RSU, and per share information for all periods presented in this prospectus
+
+adjusted to reflect such forward split on a retroactive basis
+
+a one-for-1,000 reverse split of our Class T common stock effected on September 17, 2026
+
+no exercise of outstanding stock options or settlement of outstanding RSUs subsequent to September
+
+30, 2026, other than the RSU Settlement and
+
+no exercise by the underwriters of their option to purchase up to an additional shares of our
+
+Class A common stock from us in this offering.
+
+22
+
+Table of Contents
+
+Summary Consolidated Financial and Other Data
+
+The following tables summarize our consolidated financial and other data. We have derived the summary
+
+consolidated statements of operations data for the years ended December 31, 2023, 2024, and 2025 from our
+
+audited consolidated financial statements included elsewhere in this prospectus. We have derived the summary
+
+consolidated statements of operations data for the six months ended June 30, 2025 and 2026, and the
+
+summary consolidated balance sheet data as of June 30, 2026, from our unaudited interim consolidated
+
+financial statements included elsewhere in this prospectus. The summary consolidated financial data in this
+
+section are not intended to replace our consolidated financial statements and related notes and are qualified in
+
+their entirety by our consolidated financial statements and related notes included elsewhere in this prospectus.
+
+Our historical results are not necessarily indicative of the results that may be expected in the future and our
+
+results for the six months ended June 30, 2026 are not necessarily indicative of the results that may be
+
+expected for the full year ending December 31, 2026 or any other period. The following summary consolidated
+
+financial and other data should be read in conjunction with the section titled Managements Discussion and
+
+Analysis of Financial Condition and Results of Operations and our consolidated financial statements and
+
+related notes thereto included elsewhere in this prospectus.
+
+Consolidated Statements of Operations Data
+
+Year Ended December 31,
+
+Six Months Ended June 30,
+
+(in millions, except share and per share
+
+amounts)
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Revenue
+
+$41
+
+$386
+
+$4,585
+
+$1,163
+
+$16,286
+
+Operating expenses
+
+Compute and infrastructure
+
+433
+
+2,522
+
+7,326
+
+2,334
+
+8,945
+
+Personnel(1)
+
+95
+
+454
+
+1,839
+
+538
+
+3,152
+
+Bartz settlement
+
+1,500
+
+Sales, marketing, and partnerships
+
+2
+
+43
+
+568
+
+120
+
+3,168
+
+Other operating and administrative
+
+62
+
+347
+
+1,412
+
+306
+
+1,714
+
+Total operating expenses
+
+592
+
+3,366
+
+12,645
+
+3,298
+
+16,979
+
+Operating loss
+
+(551)
+
+(2,980)
+
+(8,060)
+
+(2,135)
+
+(693)
+
+Interest income
+
+69
+
+106
+
+431
+
+115
+
+1,111
+
+Change in fair value of convertible
+
+notes, derivative liabilities, and SAFEs
+
+(1,045)
+
+(5,434)
+
+(34,308)
+
+(10,942)
+
+(72,388)
+
+Other income (expense), net
+
+(2)
+
+(8)
+
+(8,757)
+
+Total other income (expense), net
+
+(978)
+
+(5,328)
+
+(33,885)
+
+(10,827)
+
+(80,034)
+
+Loss before provision for income taxes
+
+(1,529)
+
+(8,308)
+
+(41,945)
+
+(12,962)
+
+(80,727)
+
+Provision for income taxes
+
+2
+
+1
+
+20
+
+7
+
+21
+
+Net loss(2)
+
+$(1,531)
+
+$(8,309)
+
+$(41,965)
+
+$(12,969)
+
+$(80,748)
+
+Net loss per share attributable to common
+
+stockholders, basic and diluted
+
+$(1.42)
+
+$(5.43)
+
+$(23.04)
+
+$(7.25)
+
+$(39.88)
+
+Weighted-average number of shares
+
+outstanding, basic and diluted
+
+1,076,880,510
+
+1,528,994,540
+
+1,821,084,860
+
+1,788,730,900
+
+2,024,972,990
+
+(1)Includes stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the years ended December 31,
+
+2023, 2024, and 2025, respectively, and $286 million and $2.2 billion for the six months ended June 30, 2025 and 2026,
+
+respectively.
+
+(2)Includes change in fair value of convertible notes, derivative liabilities, and simple agreements for future equity (SAFEs),
+
+which were $1.0 billion, $5.4 billion, and $34.3 billion for the years ended December 31, 2023, 2024, and 2025, respectively,
+
+and $10.9 billion and $72.4 billion for the six months ended June 30, 2025 and 2026, respectively. These changes were
+
+primarily driven by an increase in the fair value of our outstanding convertible promissory notes resulting from an increase in
+
+our enterprise valuation during each of the respective periods.
+
+23
+
+Table of Contents
+
+The following table sets forth the computation of unaudited pro forma net loss per share, basic and diluted, of
+
+common stock attributable to common stockholders for the periods presented
+
+(in millions, except share and per share amounts)
+
+Year Ended
+
+December 31,
+
+2025
+
+Six Months
+
+Ended June
+
+30, 2026
+
+Numerator
+
+Net loss
+
+$(41,965)
+
+$(80,748)
+
+Pro forma adjustment to record stock-based compensation expense related to
+
+RSUs for which the performance-based vesting condition will be satisfied upon
+
+the effectiveness of the registration statement of which this prospectus forms a
+
+part
+
+Pro forma adjustment to eliminate the change in fair value recognized related to
+
+the Convertible Notes Conversion
+
+Pro forma net loss
+
+Denominator
+
+Weighted-average number of shares outstanding, basic and diluted
+
+1,821,084,860
+
+2,024,972,990
+
+Pro forma adjustment to reflect the Preferred Stock Conversion
+
+Pro forma adjustment to reflect the RSU Settlement
+
+Pro forma adjustment to reflect the Convertible Notes Conversion
+
+Weighted-average number of shares outstanding used to compute pro forma net
+
+loss per share, basic and diluted(1)(2)
+
+Pro forma net loss per share, basic and diluted(1)(2)
+
+______________
+
+(1)The unaudited pro forma net loss per share and pro forma weighted-average number of shares used in computing pro forma net
+
+loss per share give effect to (i) the Preferred Stock Conversion, as if such conversion had occurred on January 1, 2025, (ii) the
+
+Convertible Notes Conversion, as if such conversion had occurred on January 1, 2025, (iii) stock-based compensation expense
+
+related to RSUs for which the service-based vesting condition was satisfied or partially satisfied, and as if the performance
+
+condition had been satisfied on January 1, 2025, of $ and $ for the year ended December 31, 2025 and the six
+
+months ended June 30, 2026, respectively, (iv) the net issuance of and shares of our Class A common stock upon
+
+the vesting and settlement of RSUs, for which the service-based vesting condition was satisfied, and as if the performance
+
+condition had been satisfied on January 1, 2025, for the year ended December 31, 2025 and the six months ended June 30,
+
+2026, respectively, and (v) the filing and effectiveness of our amended and restated certificate of incorporation in Delaware that
+
+will become effective immediately prior to the completion of this offering. The pro forma weighted-average number of shares
+
+does not give effect to the Initial Public Benefit Issuance, as shares of our Class N common stock held by our wholly owned
+
+subsidiary are not considered outstanding for accounting purposes.
+
+(2)As of , 2026, unrecognized stock-based compensation expense not reflected in pro forma net loss per share was
+
+$related to RSUs for which the service-based vesting condition was not satisfied, and which is expected to be recognized
+
+over a weighted-average period of approximately years, and $ related to our other outstanding equity awards, which
+
+is expected to be recognized over a weighted-average period of approximately years.
+
+24
+
+Table of Contents
+
+Consolidated Balance Sheet Data
+
+As of June 30, 2026
+
+(in millions)
+
+Actual
+
+Pro Forma(1)
+
+Pro Forma As
+
+Adjusted(2)(3)
+
+Cash, cash equivalents, and short-term investments
+
+$131,651
+
+$
+
+$
+
+Working capital(4)
+
+$130,760
+
+$
+
+$
+
+Total assets
+
+$147,358
+
+$
+
+$
+
+Total liabilities
+
+$117,467
+
+$
+
+$
+
+Redeemable convertible preferred stock
+
+$157,510
+
+$
+
+$
+
+Additional paid-in capital
+
+$5,336
+
+$
+
+$
+
+Accumulated deficit
+
+$(132,902)
+
+$
+
+$
+
+Total stockholders deficit
+
+$(127,619)
+
+$
+
+$
+
+______________
+
+(1)The pro forma column in the consolidated balance sheet gives effect to (i) the Preferred Stock Conversion, as if such conversion
+
+had occurred on June 30, 2026, (ii) the Convertible Notes Conversion, as if such conversion had occurred on June 30, 2026,
+
+(iii) the Class F Stock Issuance, as if it had occurred on June 30, 2026, (iv) an increase to additional paid-in capital and
+
+accumulated deficit related to stock-based compensation of $ related to RSUs subject to the RSU Settlement, and (v) the
+
+filing and effectiveness of our amended and restated certificate of incorporation in Delaware that will become effective
+
+immediately prior to the completion of this offering.
+
+(2)The pro forma as adjusted column gives effect to (i) the pro forma adjustments set forth above, (ii) the sale and issuance by us
+
+of shares of our Class A common stock in this offering, based upon the assumed initial public offering price of $ per
+
+share, which is the midpoint of the estimated price range set forth on the cover page of this prospectus, and after deducting
+
+estimated underwriting discounts and commissions and estimated offering expenses payable by us, and (iii) the use of net
+
+proceeds from this offering, together with existing cash and cash equivalents, if necessary, to satisfy the estimated tax
+
+withholding and remittance obligations related to the RSU Settlement. We will not receive any proceeds from the sale of shares
+
+of our Class A common stock by any of the selling stockholders.
+
+(3)Each $1.00 increase (decrease) in the assumed initial public offering price would increase (decrease) each of cash, cash
+
+equivalents, and short-term investments working capital total assets additional paid-in capital and total stockholders deficit
+
+by $, assuming the number of shares offered by us as stated on the cover page of this prospectus remains unchanged and
+
+after deducting the estimated underwriting discounts and commissions and estimated offering expenses payable by us.
+
+Similarly, an increase (decrease) of 1.0 million shares in the number of shares offered by us, as set forth on the cover page of
+
+this prospectus, would increase (decrease) each of cash, cash equivalents, and short-term investments working capital total
+
+assets additional paid-in capital and total stockholders deficit by $, assuming the assumed initial public offering price of
+
+$ per share (the midpoint of the price range set forth on the cover page of this prospectus) remains the same, and after
+
+deducting the estimated underwriting discounts and commissions and estimated offering expenses payable by us. We will not
+
+receive any proceeds from the sale of shares of our Class A common stock by any of the selling stockholders.
+
+(4)Working capital is defined as current assets less current liabilities.
+
+Non-GAAP Financial Measures
+
+In addition to the measures presented in our consolidated financial statements that were prepared in
+
+accordance with accounting principles generally accepted in the United States (GAAP), we use Adjusted
+
+Operating Income (Loss), Adjusted Operating Margin, and Adjusted Net Income (Loss) as non-GAAP financial
+
+measures to evaluate our business, measure our performance, identify trends affecting our business, formulate
+
+business plans, and make strategic decisions.
+
+Year Ended December 31,
+
+Six Months Ended June 30,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Adjusted Operating Income (Loss)
+
+$(522)
+
+$(2,788)
+
+$(4,854)
+
+$(1,849)
+
+$1,618
+
+Operating margin
+
+(1,344)%
+
+(772)%
+
+(176)%
+
+(184)%
+
+(4)%
+
+Adjusted Operating Margin
+
+(1,273)%
+
+(722)%
+
+(106)%
+
+(159)%
+
+10%
+
+Adjusted Net Income (Loss)
+
+$(457)
+
+$(2,683)
+
+$(4,448)
+
+$(1,741)
+
+$2,671
+
+See the section titled Managements Discussion and Analysis of Financial Condition and Results of Operations
+
+Non-GAAP Financial Measures for a definition of each non-GAAP financial measure, a discussion of the
+
+25
+
+Table of Contents
+
+limitations of each non-GAAP financial measure, and a reconciliation of each non-GAAP financial measure to
+
+its most comparable GAAP financial measure for the periods presented and additional information.
+
+27
+
+Table of Contents
+
+Risk Factors
+
+Investing in our Class A common stock involves a high degree of risk. You should carefully consider the risks
+
+and uncertainties described below, together with all of the other information in this prospectus, including the
+
+section titled Managements Discussion and Analysis of Financial Condition and Results of Operations and
+
+our consolidated financial statements and related notes, before making a decision to invest in our Class A
+
+common stock. The disclosures in this section reflect our beliefs and opinions as to matters that could
+
+materially and adversely affect us in the future, and are not representations as to whether such matters have
+
+or have not occurred previously, except as otherwise disclosed. References to past events are provided by way
+
+of example only and are not intended to be a complete listing or a representation as to their likelihood of
+
+occurring in the future. Our business, financial condition, results of operations, or prospects could also be
+
+adversely affected by risks and uncertainties not currently known to us or that we currently do not believe
+
+are material. If any of the risks actually occur, our business, financial condition, results of operations, and
+
+prospects could be adversely affected. In that event, the market price of our Class A common stock could
+
+decline, and you could lose part or all of your investment.
+
+Risks Related to our Business and Industry
+
+Our success depends in large part on our ability to continue to develop the most advanced and
+
+capable AI models, and any failure to do so could adversely affect our business.
+
+Our success depends in large part on our ability to continuously develop, improve, and deploy the most
+
+advanced, capable, and useful AI models. Achieving and maintaining this position depends on our ability to
+
+advance the frontier of AI capabilities through breakthrough research, innovative architectures, and
+
+efficient training methodologies
+
+ensure our models are safe, reliable, and trustworthy while maintaining competitive performance
+
+secure the compute and infrastructure necessary to power and support our increasing needs
+
+advance compute efficiency through algorithmic and architectural innovations, including compute
+
+multiplier advancements
+
+retain the continued service of our co-founders, senior management team, and key technical
+
+employees, and attract, retain, and motivate leading researchers, engineers, and technical talent in an
+
+intensely competitive and evolving market
+
+continue revenue growth and maintain access to sufficient capital, including through potential equity
+
+and debt financing, to make the investments we believe are necessary to support our growth trajectory
+
+secure and maintain relationships with data providers, licensors, and partners to obtain the diverse,
+
+high-quality datasets necessary for world-class model performance
+
+secure and maintain relationships with cloud, ecosystem, and other partners to facilitate the diffusion
+
+of Claude
+
+build, operate, and maintain the infrastructure required to deploy frontier models cost-effectively and
+
+at scale
+
+translate model capabilities into products that meet evolving customer needs and achieve meaningful
+
+adoption
+
+allocate substantial financial resources efficiently across research, infrastructure, and operations and
+
+navigate an evolving, uncertain, and at times divergent global regulatory landscape and engage with
+
+legislators, regulators, and other stakeholders to promote the development of regulatory frameworks
+
+that we believe are good for society, our customers, and the long-term health of the global economy.
+
+28
+
+Table of Contents
+
+Our failure to achieve any of the foregoing could prevent us from maintaining our competitive position, cause
+
+us to fall behind competitors, reduce customer adoption of, or demand for, our models, platform, and
+
+applications, and impair our revenue growth. Limitations to our revenue growth could, in turn, constrain our
+
+ability to fund the substantial and increasing expenditures required for frontier AI development, including
+
+investments in compute, model training, data acquisition, and safety and security systems, as well as our ability
+
+to attract, retain, and appropriately compensate highly skilled technical and operational personnel in a highly
+
+competitive market. Any such constraints could slow our rate of development and innovation, degrade model
+
+performance or reliability relative to competitors, limit our participation in industry standards-setting and
+
+regulatory processes, and reduce our attractiveness to enterprises and prosumers. These effects could create a
+
+self-reinforcing or compounding cycle in which diminished growth limits our capacity to invest in the resources
+
+necessary to remain competitive, which in turn could further weaken our ability to sustain or increase our
+
+revenue growth, making it increasingly difficult and costly to regain technological leadership and operate at the
+
+frontier of AI. Any of the foregoing could adversely affect our business, financial condition, and results of
+
+operations.
+
+Our ability to maintain our position at the frontier of AI depends in part on our use of AI systems to accelerate
+
+our research processes, a recursive dynamic we refer to as closing the loop, in which successive versions of our
+
+models assist in building the next, with the goal of compounding capability gains over time. Our models have
+
+been and are increasingly becoming critical tools in designing, training, testing, and optimizing next-generation
+
+AI systems. If we fail to direct sufficient compute and research efforts to AI-assisted development, or if our
+
+competitors more effectively leverage AI to enhance their own innovation cycles, we risk falling progressively
+
+further behind as competitors continuously use AI to further enhance their own development capabilities,
+
+enabling the creation of increasingly advanced systems at an accelerating pace. As our reliance on our own AI
+
+systems to write production code, conduct research, and build subsequent model versions deepens, any
+
+systemic flaw, bias, or error in our current models could propagate into the next versions of models and
+
+products built using those systems, compounding across successive versions of Claude models in ways that may
+
+be difficult to detect or remediate. If we are unable to manage the foregoing risks, our ability to deploy the most
+
+advanced, capable, and useful AI models could be adversely affected.
+
+In addition, our increasing use of AI systems to accelerate our own research and development may cause the
+
+capabilities of our models to advance more rapidly than our ability to develop, validate, and implement
+
+corresponding safety, alignment, and security measures. Much of our evidence regarding the pace of such AI-
+
+driven acceleration is derived from lagging indicators, and our ability to forecast or measure the rate at which
+
+our capabilities are advancing, including any acceleration attributable to our most recent or unreleased models,
+
+is limited. As a result, we may not identify a significant acceleration in our rate of development until after it has
+
+occurred. If our capabilities were to outpace our safety, alignment, and security measures, or if we were unable
+
+to anticipate the pace of such advancement, we may be unable to adequately assess or mitigate the resulting
+
+risks, which could increase the likelihood of safety incidents, regulatory intervention, or reputational harm, and
+
+could adversely affect our business, financial condition, and results of operations. In light of these uncertainties,
+
+including limits on our ability to observe the pace at which our capabilities are advancing, we have adopted, and
+
+may continue to adopt, precautionary safety, alignment, and security measures to allow our safety efforts to
+
+advance together with model capabilities. In the past these measures have included delaying the release of
+
+models and limiting their initial availability, such as with Mythos through Project Glasswing, and in the future,
+
+as we learn more about model capabilities and behavior, they could include additional measures that affect
+
+whether, how, and when we develop or deploy new models or capabilities. We cannot predict with precision
+
+when we will determine that such measures are necessary, what measures will be required, or how long they
+
+will remain in place, and as the capabilities of our models advance, such measures may become more frequent
+
+and more costly. These measures could slow our capability gains relative to competitors that do not adopt
+
+similar constraints, and could adversely affect our competitive position, revenue growth, and results of
+
+operations.
+
+The development of frontier AI models requires substantial investments of compute resources, capital, and
+
+human capital to conduct large-scale training runs that may span weeks or months and cost many millions of
+
+dollars. There is no guarantee that any given training run will succeeda run may fail for a number of reasons,
+
+such as failing to achieve the targeted capability or safety thresholds, producing unexpected or undesirable
+
+behaviors that cannot be adequately remediated, or yielding a model that is ultimately not competitive with
+
+alternatives available in the market. We would also face the additional cost and delay of initiating a new training
+
+29
+
+Table of Contents
+
+run to attempt to achieve the intended model improvements. We have in the past experienced, and may in the
+
+future experience, such failed or underperforming training runs, resulting in a loss of invested resources with
+
+limited or no corresponding benefit to our business. Given the scale of compute and other resources required
+
+for frontier model training and the extended timelines involved, a failed or underperforming training run could
+
+also delay our product roadmap, affect our competitive position, and adversely affect our business, financial
+
+condition, and results of operations.
+
+In addition, new models, features, or capabilities may not be introduced on schedule, may not perform as
+
+intended, may require significant iteration after release, may fail to gain meaningful adoption, or may take
+
+longer than expected to gain meaningful adoption, any of which could reduce customer demand or place us at a
+
+competitive disadvantage. In addition, considerations relating to model safety, interpretability, alignment, and
+
+welfare may lead us to limit or delay the deprecation of older models or to continue supporting legacy versions
+
+alongside newer releases, creating trade-offs in product development and compute distribution that could
+
+adversely affect innovation velocity, infrastructure utilization, and revenue. In addition, customers who have
+
+integrated older models into their workflows may resist migration to newer versions, and any accelerated or
+
+forced deprecation could result in customer attrition, contractual disputes, or reputational harm. We have also
+
+changed, and may in the future change, usage limits, rate limits, or model and product capabilities, which could
+
+adversely affect our reputation and the perceived value of our offerings. Some of these changes have resulted,
+
+and could in the future result, in claims that our disclosures regarding model access or capabilities were
+
+inadequate or misleading.
+
+Further, the industry benchmarks commonly used to test AI models may not accurately reflect real-world
+
+performance or utility, and even models that perform well on such benchmarks may not meet customer
+
+expectations when deployed in production environments, which could lead to customer dissatisfaction, reduced
+
+usage, or reputational harm. If we are unable to effectively innovate and improve our models, platform, and
+
+applications while addressing these challenges, or if competitors are able to deliver AI solutions that are
+
+perceived as more capable, safer, or more reliable, or that offer adequate performance at a lower cost, our
+
+business, financial condition, and results of operations could be adversely affected.
+
+In addition, innovation in AI involves addressing complex and evolving challenges related to data quality, data
+
+integrity, training methodologies, bias, safety, accuracy, and the behavior of model outputs. AI algorithms may
+
+be flawed, and AI systems may contain bugs, errors, or defects or fail to follow instructions or produce
+
+inaccurate, misleading, offensive, inappropriate, or otherwise harmful outputs reflect or amplify unwanted or
+
+unknown biases present in training data or raise concerns relating to intellectual property, privacy, or other
+
+legal and ethical considerations. We must continually invest resources to identify, mitigate, remediate, and
+
+reduce the occurrence of such issues, including through managing and improving datasets, training techniques,
+
+evaluation methods, safeguards, and human oversight. However, we may not be able to obtain the datasets that
+
+we need, including through licenses or strategic data partnerships. In addition, we or our data providers may
+
+use synthetic or AI-generated data in the training process, which could introduce quality issues, amplify biases
+
+or errors, contribute to model degradation, or raise novel legal questions regarding ownership, licensing, or
+
+intellectual property rights that may not be timely or clearly resolved by courts or regulators. Such unintended
+
+consequences, failures, or misuse of our models could impair customer trust, slow adoption, expose us to legal
+
+or regulatory scrutiny, or adversely affect our brand and reputation.
+
+If we are unable to secure adequate compute or if we fail to direct our compute effectively
+
+across our workloads, we may be unable to train models that remain competitive with those
+
+of our competitors or adequately serve our customers.
+
+Our ability to develop, train, improve, and deploy frontier models depends on our access to enormous and
+
+increasing quantities of specialized compute. The training of Claude models has required, and we expect will
+
+continue to require, substantial compute. Industry participants, academic researchers, and our own experience
+
+suggest that, in certain contexts, applying greater amounts of compute during model training has been
+
+associated with improvements in model capabilities. These observations are consistent with aspects of broader
+
+empirical relationships among model performance, model size, training data, and compute scale that are
+
+commonly referred to as Scaling Laws, although the extent, efficiency, and durability of such improvements
+
+are uncertain, and these relationships may plateau, diminish, or fail to materialize at larger scales or under
+
+different conditions. Accordingly, our ability to remain at the frontier of AI capabilities is substantially
+
+dependent on our ability to secure compute at the scale required to sustain all our workloads, including to train
+
+30
+
+Table of Contents
+
+next-generation models, and we cannot provide assurance that increased investment in compute will result in
+
+commensurate improvements in model performance.
+
+The market for compute is intensely competitive. We compete for access to compute with some of the worlds
+
+largest and most well-capitalized technology companies, many of which develop their own competitive AI
+
+models and have significantly greater financial resources than us. Many own and operate cloud computing data
+
+center infrastructure, maintain captive chip manufacturing or design capabilities, have long-standing strategic
+
+relationships with key hardware suppliers, or have significant equity investments from, or other financial
+
+arrangements with, such suppliers. These competitors can outbid us for scarce compute, secure priority
+
+allocations from chip manufacturers and CSPs, and make long-term capital commitments that we cannot
+
+match. We expect demand for advanced compute to continue to grow, and the cost of compute could rise
+
+significantly, particularly if AI-driven demand accelerates or if the ability to build highly capable models
+
+becomes more broadly available and shifts competition toward access to advanced compute. Additionally,
+
+numerous well-funded AI companies are pursuing large-scale AI model development, further increasing
+
+demand for limited compute. Certain CSPs from which we obtain substantial compute also develop and offer
+
+their own AI models and related services. As a result, our commercial relationships with these providers may
+
+not always be fully aligned with our long-term interests, and if the compute we have access to from third parties
+
+is curtailed, repriced, or terminated, whether for competitive reasons or otherwise, our business, financial
+
+condition, and results of operations could be adversely affected.
+
+In addition to competition from third parties, our ability to secure compute is subject to allocation decisions by
+
+our CSPs. Although our CSPs are generally subject to contractual commitments with us regarding the provision
+
+of compute, our ability to obtain such capacity remains dependent on those providers operational execution,
+
+adherence to the terms of such contractual provisions, and broader business considerations, such as capacity
+
+constraints, internal demand for compute to support their own AI and computing operations, relationships with
+
+or contractual obligations to third parties (which may include other AI companies), and risk management
+
+considerations. As a result, we may not receive the full amount of compute we seek, or such compute may not
+
+be delivered on the timelines we require, even where contractual arrangements are in place. Additionally, we
+
+have in the past sought quantities of compute from CSPs in excess of what those partners were willing to
+
+provide. If our CSPs reduce, limit, or fail to increase our allocations to keep pace with our growing requirements
+
+for any reason, we may need to seek alternative compute sources on less favorable terms or timelines, and we
+
+may be unable to secure adequate alternative compute, or any at all. Any such shortfall could constrain our
+
+ability to train models, serve customers, or maintain our competitive position.
+
+Even if we are able to secure compute, we must still direct it efficiently across the full range of workloads that
+
+are a part of our business, including research, model development, serving customers, and internal usage of
+
+Claude. While we manage our compute as a single, fungible pool and direct available compute between
+
+workloads based on where the marginal unit is expected to be most productive at any given time, there can be
+
+no assurance that this approach to compute will be the most efficient or that it will support the needs of each of
+
+our workloads. Because demand for compute has historically exceeded available capacity, any constraint on our
+
+ability to procure, maintain, or expand that capacity could adversely affect multiple aspects of our business
+
+simultaneously, including our ability to serve customers at the quality and scale they expect, to train and
+
+improve our models, and to develop new products and capabilities. While we actively manage and balance such
+
+compute capacity across these workloads via our capacity management system, if this system fails to perform as
+
+intended, or if our ability to dynamically rebalance capacity across workloads is disrupted, customer-facing
+
+service quality or model and product development timelines could be adversely affected. There can be no
+
+assurance that we will make optimal resourcing decisions, and any significant inefficiencies, including those
+
+related to deployment and rebalancing, could adversely affect both our near-term results of operations and our
+
+long-term strategic position. These compute resourcing challenges are heightened by the growth of our agentic
+
+offerings, which involve multi-step reasoning chains, iterative tool invocations, extended context windows, and
+
+sustained inference sessions that consume significantly more compute per user interaction than single-turn API
+
+calls or chat-based interactions. As agentic workloads grow as a proportion of our total compute demand, the
+
+aggregate compute required to serve our customers could increase disproportionately relative to the associated
+
+revenue, placing additional strain on our compute workload management decisions.
+
+The majority of our compute is procured under multi-year commitments that are typically entered into well in
+
+advance of the periods in which that compute is deployed. Because different AI accelerators have varying
+
+31
+
+Table of Contents
+
+performance characteristics across workload types, the composition of our committed compute portfolio,
+
+including the mix of accelerator architectures procured from our partners, reflects our demand forecasts and
+
+development roadmap assumptions at the time those commitments are made. If the magnitude or mix of
+
+workloads we need to support differs materially from those forecasts, whether due to changes in model
+
+architecture, customer demand, internal operations, or research priorities, the composition of our available
+
+compute may not optimally match our needs in a given period. This could affect our ability to serve customers,
+
+develop models, and support internal operations.
+
+If we fail to secure sufficient compute, or if we fail to effectively direct the limited compute we have across our
+
+workloads to develop and deploy models with capabilities at least comparable to those of our competitors, we
+
+risk falling behind the technological frontier. The pace of AI development is extremely rapid, with successive
+
+versions of models emerging in compressed timeframes, often measured in months rather than years. As a
+
+result, even a brief period without access to sufficient compute could cause us to fall behind quickly. With AI
+
+development, the gap between frontier models and those one or two versions behind can be significant in terms
+
+of capability, performance, and commercial applicability. Customers, partners, and software developers may
+
+shift to competitors whose models offer superior capabilities, and we may be unable to attract or retain the
+
+technical talent necessary for frontier research if our researchers lack access to adequate compute or if we are
+
+not perceived as operating at the forefront of model development. Any inability to maintain our position at the
+
+frontier could result in loss of customers and revenue, diminished brand and reputation, and a decline in our
+
+competitive position, each of which may be difficult to regain. If we are unable to manage the foregoing risks,
+
+our business, financial condition, and results of operations could be adversely affected.
+
+If our actual compute requirements differ materially from our projections, we may fail to
+
+secure sufficient compute to meet our needs or we may be committed to excess compute that
+
+remains underutilized.
+
+The competitive and structural dynamics of the compute market require us to make binding financial
+
+commitments for compute months or years in advance of our day-to-day delivery and use. Chip manufacturers,
+
+CSPs, and data center developers require advance commitments in order to allocate production capacity, plan
+
+infrastructure investments, and manage their own supply chains. As a result, we must forecast our compute
+
+requirements well in advance of their deployment and commit capital accordingly, often with limited ability to
+
+adjust commitments if our needs change.
+
+These forecasts for future compute usage are inherently uncertain. Our actual compute requirements depend on
+
+numerous factors that are difficult to predict, including the pace of our research progress, the compute intensity
+
+of training techniques we develop or adopt, changes in the competitive landscape that may require us to
+
+accelerate or modify our development plans, customer demand for inference compute, and the evolution of
+
+hardware or other technological efficiencies and changes. If we underestimate our compute requirements, we
+
+may be unable to secure sufficient compute to support our forecasted customer demand and model
+
+development roadmap. In the past, we have significantly underestimated our compute requirements, which left
+
+us capacity constrained and impacted both product development and deployment. Further, the timing of
+
+compute coming online may not align with the timing of demand growth, which could result in periods of
+
+excess or underutilized compute and committed cash outflows that do not produce immediate revenue.
+
+Our ability to forecast and secure the compute we need is further challenged by our ongoing transition from a
+
+cloud-only, fixed-time arrangement compute model to a hybrid model that includes directly leased chips that
+
+are hosted in dedicated data center facilities leased and operated on our behalf, to our specification. This
+
+transition introduces additional variables into our procurement planning, including the timing of facility
+
+completion, the pace at which newly commissioned facilities achieve full operational capacity, our ability to
+
+operate, maintain, and integrate on-premise capacity with cloud-based infrastructure, the operational
+
+execution of our suppliers, and the performance of hardware in new facility environments. Delays in securing
+
+energy, water, and other critical services for these facilities could further slow the pace at which newly
+
+commissioned compute becomes available for use. Errors in forecasting any of these transition-related
+
+variables could compound our risks related to securing sufficient compute and result in either capacity
+
+shortfalls or underutilized capacity during the transition period.
+
+We have entered into, and expect to continue to enter into, long-term agreements for compute and other
+
+compute resources that involve minimum purchase commitments, take-or-pay provisions, and other terms that
+
+32
+
+Table of Contents
+
+obligate us to pay for resources regardless of actual utilization. These commitments represent substantial fixed
+
+obligations. As of and subsequent to September 30, 2026, we have entered into purchase commitments and
+
+lease agreements, including short-term commitments, as well as leases not yet commenced, with an aggregate
+
+committed spend of more than $, substantially all of which is related to compute and infrastructure. These
+
+commitments include approximately $ expected to be incurred before December 31, 2030, and
+
+substantially all of the remainder is expected to be incurred between 2031 and 2045. Approximately $ of
+
+these commitments are due in the next 12 months. See the section titled Managements Discussion and
+
+Analysis of Financial Condition and Results of OperationsLiquidity and Capital ResourcesContractual
+
+Obligations for more information.
+
+Our ability to meet the substantial and growing financial obligations of these requirements to secure compute
+
+depends on our ability to generate significant revenue growth. We must grow our customer base and expand
+
+revenue rapidly in order to generate the cash flows necessary to satisfy these commitments. However, our
+
+revenue is primarily consumption-based, and much of it is not subject to long-term contractual commitments,
+
+while our compute and infrastructure commitments generally extend over multiple years. As a result, we may
+
+enter into these obligations based on revenue expectations that may not be realized. If our revenue growth does
+
+not keep pace with our compute-related payment obligations, if we are unable to successfully convert our
+
+compute investment into revenue-generating customer workloads, if we fail to raise additional capital on
+
+acceptable terms, or if we experience other adverse developments affecting our liquidity, we may be unable to
+
+satisfy these obligations. Any such failure could also result in defaults under our agreements, loss of access to
+
+critical resources, and reputational harm. In particular, a default under certain commercial agreements could
+
+trigger cross-default provisions under the AR Credit Agreement (as defined below), and certain of our
+
+outstanding convertible promissory notes, potentially resulting in the acceleration of substantially all of our
+
+outstanding, and any future, indebtedness. Such cross-defaults could set off a cascading series of adverse
+
+consequences, including the exercise of remedies by multiple creditors, the termination of key commercial
+
+arrangements, enforcement actions against our assets, and severe liquidity constraints. An acceleration of our
+
+indebtedness, combined with the loss of access to critical data center infrastructure, among other things, could
+
+impair our ability to train and deploy models, serve customers, and fund ongoing operations, which could have
+
+an adverse effect on our business, financial condition, and results of operations. For more information, see the
+
+sections titled We have incurred significant indebtedness in order to operate and grow our business,
+
+including to fund our substantial compute commitments, and our ability to service this indebtedness may be
+
+constrained by our cash flows and liquidity and We may not have the ability to raise the funds necessary to
+
+repay the principal and accrued interest of our outstanding convertible promissory notes or the AR Credit
+
+Agreement in cash when required by the terms of the notes or the AR Credit Agreement, as applicable, or at
+
+their maturity.
+
+Additionally, the rapid pace of technological change across AI infrastructure, hardware, software, system
+
+architectures, and model development techniques means that compute secured today may become less efficient
+
+or economically attractive relative to future alternatives. We may find ourselves committed to using older-
+
+generation hardware and infrastructure while competitors gain access to more advanced systems, or we may be
+
+paying premium prices for resources that have declined in market value. These dynamics could adversely affect
+
+our cost structure and competitive position. Certain of our financing arrangements require us to enter into
+
+exclusive or preferential supply commitments with particular chip suppliers with respect to the compute
+
+financed pursuant to such arrangements. These commitments may limit our ability to shift procurement to
+
+alternative suppliers or newer chip architectures if our needs or the technology landscape evolve, potentially
+
+leaving us committed to platforms that are suboptimal for our actual workload requirements and reducing our
+
+ability to adjust our compute portfolio in response to changed circumstances. If we are unable to manage the
+
+foregoing risks, our business, financial condition, and results of operations could be adversely affected.
+
+Constraints on the critical inputs supporting compute could limit our ability to secure
+
+adequate compute.
+
+The compute necessary for training and deploying frontier models depends on a supply chain with multiple
+
+potential points of constraint or failure. The availability, pricing, and lead times for compute are affected by the
+
+supply of advanced chips and other IT equipment, the availability of sufficient electrical power and the
+
+infrastructure required to generate and deliver it, and the capacity of data center infrastructure. Each of these
+
+inputs faces significant constraints that may limit our ability to secure the compute we need. In addition,
+
+33
+
+Table of Contents
+
+increasing demand for compute has contributed to, and may continue to contribute to, increases in the cost of
+
+such resources, which could limit our ability to invest in, develop, or deploy our models, platform, and
+
+applications at the pace we anticipate.
+
+Supply and Concentration of Chips, Memory, and Data Center Equipment
+
+The specialized chips required for AI workloads, particularly high-performance AI accelerators and memory,
+
+are produced by a limited number of manufacturers. The production of advanced chips is extraordinarily
+
+complex, requiring manufacturing processes at the leading edge of technological capability.
+
+The majority of the worlds most advanced chip manufacturing capacity is concentrated in Taiwan, primarily at
+
+Taiwan Semiconductor Manufacturing Company (TSMC). This geographic concentration creates significant
+
+risks, including exposure to natural disasters such as earthquakes and typhoons, potential disruption from
+
+geopolitical tensions between Taiwan and China, vulnerability to any interruption in Taiwans power grid, water
+
+supply, or other critical infrastructure, and susceptibility to developing trade regulations and restrictions. Any
+
+military conflict, tariffs and trade restrictions, economic coercion, blockade, natural disaster, or other incident
+
+affecting Taiwan could severely disrupt the global supply of advanced chips, with effects that could persist for
+
+years given the time required to construct and qualify alternative fabrication facilities. Efforts to establish
+
+sufficient advanced chip manufacturing capacity outside of Taiwan, including in the United States, remain in
+
+early stages and may not produce adequate compute to materially reduce these concentration risks within the
+
+foreseeable future. In addition, due to the demand for advanced chip manufacturing, TSMC has, at times, been
+
+unable to fully satisfy market demand for chip manufacturing capacity, and as a result, we have not always been
+
+able to obtain sufficient quantities of chips on a timely basis. Accordingly, any restrictions or delays on the
+
+supply of advanced chips out of Taiwan or TSMC would adversely affect our business, financial condition, and
+
+results of operations.
+
+In addition, both high bandwidth memory, which is a key component in high performance AI accelerators, and
+
+other high performance memory products used in compute infrastructure, are largely manufactured by SK
+
+hynix Inc., Samsung Electronics Co., and Micron Technology, Inc. Each of these manufacturers is working to
+
+expand its production capacity to meet demand. However, there is no guarantee that these efforts will result in
+
+adequate supply fast enough to meet demand, particularly if large customers or competitors secure exclusive
+
+supply commitments or otherwise reserve substantially all of a manufacturers available production capacity.
+
+The concentration and constraints in manufacturing supply expose us to the risk that manufacturers may make
+
+allocation decisions or strategic shifts that adversely affect our access to the advanced chips needed for our
+
+business. We also face risks that specialized chips may contain defects, or that their production or delivery may
+
+be delayed or disrupted, which, given long replacement lead times, could constrain available compute and
+
+adversely affect our operations and ability to scale. A meaningful portion of the components we and our
+
+partners rely on is sourced from or manufactured outside of the United States, and new or increased tariffs,
+
+import restrictions, or trade disputes could delay deliveries, force supply-chain changes, or raise our costs,
+
+some of which we bear directly under pass-through arrangements. For more information, see the section titled
+
+Governmental trade controls, including export and import controls, sanctions, customs requirements, and
+
+related regimes, could subject us to liability or loss of contracting privileges or limit our ability to compete in
+
+certain markets.
+
+We also depend on third-party chip design and services companies for the design, manufacture, and support of
+
+certain custom accelerator platforms, as well as for related infrastructure financing arrangements. Disruption to
+
+these relationships, or any failure by these parties to deliver hardware or services on expected timelines and
+
+specifications, could adversely affect the availability, performance, or cost of accelerator platforms on which we
+
+rely.
+
+Data centers also require electrical, generation, and transmission equipment, cooling systems, backup
+
+generators, and networking hardware, some of which are made by only a few manufacturers, must be ordered
+
+years in advance, and require substantial pre-delivery payments that we may not recover if our plans change. In
+
+addition, certain equipment, such as high-voltage transformers, switchgear, turbines, generators, substations,
+
+and transmission components, has been subject to extended delivery timelines, price increases, tariffs and
+
+national security requirements, and allocation constraints as demand from data center operators and other
+
+large electricity consumers has grown. If such equipment is delayed or unavailable, we may be able to replace it
+
+34
+
+Table of Contents
+
+only at higher prices or under less favorable long-term commitments. In order to secure near-term access to
+
+compute, we may also elect, or be required, to procure long-lead-time generation and electrical equipment at
+
+prices above prevailing market rates on the expectation that it can be deployed on an accelerated timeline to
+
+unlock capacity in the near term. Realizing the benefit of paying such prices depends on the timely and
+
+successful engineering, procurement, and construction of the associated facilities, which requires specialized
+
+expertise that is currently in short supply and involves significant execution risk. Delays, cost overruns, or
+
+failure to secure energy on the anticipated schedule could mean that we do not obtain the energy and capacity
+
+for which we paid such prices. In some cases, these arrangements also depend on a developer or other
+
+counterparty agreeing to purchase the equipment at such prices, finance such purchase, and recover those costs
+
+and associated financing costs from us over time, and we may bear these costs even if the underlying capacity is
+
+delayed or never realized. Our equipment supply framework agreements and similar arrangements may expose
+
+us to further risks, including minimum purchase or take-or-pay commitments, price escalation, and obligations
+
+that we are unable to align with our actual deployment needs.
+
+Additionally, the U.S. government has imposed and may continue to impose export controls restricting the sale
+
+of advanced chips and chip manufacturing equipment to certain countries, including China. These restrictions
+
+have affected global chip and related equipment supply allocation, and future changes in export control policy
+
+could affect the availability or pricing of the compute resources on which we rely. Future export controls could
+
+be more restrictive, for example, by placing restrictions on the countries in which advanced chips may be
+
+installed or in which model weights may be stored, which could limit where we or our partners are able to build
+
+data centers, constrain our international expansion, or increase our costs.
+
+Electrical Power and Fuel Constraints
+
+The operation of data centers at the scale required for frontier AI development and deployment consumes
+
+substantial quantities of electrical power. The availability of sufficient electrical power has emerged as a
+
+significant constraint on data center development and expansion in many geographies, including the United
+
+States. Electrical grid infrastructure in the United States and other countries was not designed to accommodate
+
+the rapid increase in demand associated with AI development, and the lead times required to build new
+
+generation capacity, transmission infrastructure, and grid interconnections can extend for years. Demand on
+
+electric grid infrastructure is also increasing as a result of the increased electrification of homes, vehicles, and
+
+industry, and this growing demand is occurring at a time when power generation capacity additions,
+
+transmission expansion, and grid modernization efforts have not kept pace and certain existing generation
+
+resources are being retired, all of which has contributed to higher electricity prices and longer interconnection
+
+timelines in certain regions. We have publicly committed to covering the cost of electricity price increases to
+
+consumers caused by our data centers, including both the cost of electricity itself and the infrastructure
+
+necessary to deliver it.
+
+Our access to electrical power also depends on our ability, and the ability of the third parties on which we rely
+
+for the construction, management, and operation of our data center facilities, to negotiate and maintain
+
+contracts with utility providers and grid operators and to obtain approvals from public utility commissions and
+
+other regulators. These parties may be unable or unwilling to approve, or may condition or delay, the
+
+connections, capacity expansions, special or negotiated rate arrangements, and infrastructure investments
+
+necessary to support data center growth, or may grant them only at costs that limit the economic efficiency and
+
+viability of certain facilities, such as by requiring us to bear grid upgrade or interconnection costs beyond those
+
+attributable to serving our facilitiesrepresenting a larger share of costs than is required under existing or prior
+
+regulatory constructs. Interconnection queues for large new electricity loads have also lengthened substantially
+
+in many regions, which could delay or limit our access to grid power. Utility providers and regulators may also
+
+reallocate previously committed capacity that our data center facilities may require. In many jurisdictions, a
+
+single utility provider has substantial control over the terms, timing, and cost of the service and infrastructure
+
+necessary to power our data center facilities. The commercial and regulatory priorities of utility providers may
+
+differ from ours, including with respect to which infrastructure investments are made, how their costs are
+
+allocated, and whether alternative or self-supplied generation arrangements are permitted and on what
+
+conditions. Utility providers and other stakeholders may also seek regulatory or legislative measures affecting
+
+large electricity loads, self-supply, or alternative power generation arrangements. The outcomes of our
+
+negotiations and regulatory proceedings involving utilities are uncertain, and unfavorable results could increase
+
+our costs, delay our projects, or limit the alternatives available to us. More broadly, regulatory proceedings
+
+35
+
+Table of Contents
+
+relating to cost allocation, rate design, and the treatment of large electricity loads are ongoing in numerous
+
+jurisdictions, and adverse outcomes, changes in policy, or the imposition of new tariffs, surcharges, or
+
+curtailment obligations applicable to data centers could increase our costs or limit our access to electrical
+
+power.
+
+In addition, the construction of the generation and transmission infrastructure on which we depend is itself
+
+capital-intensive and exposed to labor shortages, supply chain disruptions, permitting delays, changes in
+
+interest rates, tariffs, other cost overruns, and financing constraints. The significant and increasing capital
+
+required to fund these generation, transmission, and related infrastructure investments, whether incurred by
+
+us, our utility and energy supply providers, or our data center development partners, is sensitive to prevailing
+
+interest rates and the availability of debt or equity financing on acceptable terms. Any inability of our partners
+
+to access capital when needed, and the limitations, cost, and competition for such capital, could increase the
+
+cost of the power on which we depend, delay or halt projects, or render certain facilities commercially unviable,
+
+and under certain of our arrangements, we bear these financing and capital costs directly or on a pass-through
+
+basis. Furthermore, newer sources of generation, such as solar, wind, battery storage, nuclear, and geothermal
+
+power, may not be available in the quantities or on the timelines we require, or may be available only at higher
+
+cost. Our facilities separately depend on access to reliable water for cooling, which in some regions is scarce,
+
+subject to use restrictions, or increasingly costly. Any of the foregoing could adversely affect the availability of
+
+the power or water we require, increase our costs, or limit our ability to develop, expand, or operate our data
+
+center facilities, which could adversely affect our business, financial condition, and results of operations.
+
+Competition for access to electrical supply and data center locations with adequate power availability is intense,
+
+and we compete for such access with well-capitalized CSPs, some of which produce and develop competing AI
+
+models, cryptocurrency mining operations, and other large-scale electricity consumers. In addition to, or
+
+sometimes in lieu of, grid-based electricity, an increasing share of data centers are being developed with
+
+dedicated on-site power generation capacity that supplies electricity directly to the facility independent of any
+
+utility-operated electric grid. The reliability of such off-grid power generation solutions varies by the underlying
+
+technology, the equipment used, and the operator and will reflect site-by-site operational and environmental
+
+profiles. Development of this new capacity in turn requires power generation and electrical infrastructure that
+
+are themselves subject to supply challenges and operational complexity. For example, certain of our planned
+
+data center facilities rely on dedicated on-site natural gas-fired generation, which exposes us to fuel price
+
+volatility and supply disruptions that are outside of our control and for which we bear the cost on a pass-
+
+through basis. These facilities are also subject to constraints on pipeline capacity and firm fuel transportation
+
+necessary to deliver natural gas. As data center operators increasingly rely on natural gas-fired generation, and
+
+because behind-the-meter and on-site arrangements are feasible only in some jurisdictions given the applicable
+
+regulatory frameworks, we expect increased competition among users for the same natural gas supply and
+
+pipeline capacity in those areas. This competition could drive up the price of natural gas in such areas and may
+
+adversely affect our ability to contract for firm fuel supply and transportation and to secure the pipeline
+
+connections and laterals our facilities require.
+
+These dynamics present several related risks. We may be unable to secure firm gas supply and transportation
+
+during the development of a facility, causing a planned site to be delayed or abandoned we may face fuel supply
+
+or delivery disruptions once a facility is operating and because our arrangements generally provide for fuel and
+
+related costs to be borne by us on a pass-through basis without cost caps, we remain exposed to increases in the
+
+cost of natural gas and its transportation. More broadly, the cost of electricity is subject to significant variability
+
+that is largely outside of our control, as wholesale electricity prices fluctuate with changing supply and demand,
+
+weather, fuel prices, tariffs or surcharges, and grid stress, and can rise sharply during periods of peak demand
+
+or constrained supply, and such increases in energy costs could adversely affect our results of operations.
+
+In some regions, including certain regions where we have contracted compute commitments, data center
+
+development has prompted public controversy and regulatory scrutiny regarding environmental impact, land
+
+and water use, and the allocation of limited power resources. For example, if our efforts to secure electrical
+
+power are perceived to affect other utility customers and the broader grid, regulators may impose conditions,
+
+standby charges, or other requirements intended to address such impacts. More broadly, our access to electrical
+
+power is subject to an evolving regulatory framework characterized by complexity, jurisdictional overlap, and
+
+rules that were largely designed around service by incumbent utility providers and existing generation
+
+arrangements and that may not readily accommodate new entrants or alternative approaches, which can result
+
+36
+
+Table of Contents
+
+in significant delay or prevent the development of the generation we require. Grid-tied electrical supply, for
+
+instance, is subject to the jurisdiction of federal and state energy regulators, regional grid operators, and public
+
+utility commissions, while behind-the-meter and on-site generation is subject to a distinct set of exclusive
+
+service franchise protections, permitting, environmental, air quality, interconnection, and siting requirements.
+
+In addition, environmental standards applicable to power generation continue to evolve, including as a result of
+
+changing governmental priorities and shifting public and political views regarding climate change and the
+
+appropriate treatment of various power generation sources. Any failure to secure access to adequate electrical
+
+power, any legal, regulatory, or other administrative action or change limiting the availability of electricity, or
+
+any significant increase in energy or compliance costs, could adversely affect our cost structure and limit our
+
+ability to scale our compute infrastructure, develop and deploy our models, and service our customers. We have
+
+also made, and may in the future make, voluntary commitments to offset the impact of our data center energy
+
+consumption on local communities and electricity ratepayers, including commitments to cover grid
+
+infrastructure upgrade costs, procure new power generation to match our energy needs, invest in curtailment
+
+systems to reduce strain on the grid during peak demand periods, and address environmental impacts. These
+
+commitments have increased, and we expect will continue to increase, our operating costs. Moreover, we
+
+believe this is part of a broader emerging trend in the AI industry, and such commitments, or similar
+
+obligations, may become increasingly standard or required, which could further increase our costs. In addition,
+
+the physical effects of climate change may increase our operating costs over time, as higher average
+
+temperatures can increase the power consumption and water usage required to cool equipment at the facilities
+
+on which we depend.
+
+Data Center Infrastructure
+
+Even where chips and electrical power are available, the development of data center facilities requires
+
+substantial time, capital, and specialized expertise. Data center construction involves lengthy permitting
+
+processes, complex supply chains for specialized equipment, and significant lead times for the installation and
+
+commissioning of cooling systems, electrical infrastructure, and networking equipment. Labor shortages,
+
+including shortages of, and competition for, electricians, facility technicians, and other skilled tradespeople,
+
+supply chain disruptions, permitting delays, and other factors can extend construction timelines and increase
+
+costs. Further, given data center development projects require advanced and significant capital commitments
+
+with dedicated end users, we have in some cases relied, and expect to continue to rely, on arrangements for
+
+financing or with partners who guarantee the lease obligations to support the development of data center
+
+capacity that is expected to host such partners chips or computing infrastructure. In addition, there are a
+
+limited number of qualified third-party vendors with the expertise we require and that support the particular
+
+infrastructure we wish to implement. Accordingly, we rely on this limited number of third parties for the
+
+construction, management, and operation of certain of our data center facilities, some of which have limited
+
+operating history or may have less experience operating data center infrastructure at the scale and complexity
+
+our operations require. In certain cases, these third-party operators are trained or supervised by our chip
+
+partners to manage facilities on our behalf but are not affiliates of those partners and may not have the same
+
+depth of expertise, operational resilience, or resources. Any failure by these third-party operators to perform as
+
+expected could disrupt our access to compute. In addition, safety or environmental incidents at facilities built or
+
+operated for us, whatever their cause, could expose us to claims, fines, or suspensions of construction or
+
+operations, the costs of which we may bear. We also depend on an extended network of suppliers, builders, and
+
+facility operators. If any of them engage in practices that are unsafe, unlawful, or contrary to the labor, human
+
+rights, environmental, or other standards we or our partners require, we could face legal liability, lose the
+
+ability to use affected suppliers or facilities, and suffer harm to our reputation, even where we did not direct or
+
+know of the conduct.
+
+Our collective data center infrastructure is currently concentrated primarily in the United States, which exposes
+
+us to risks associated with regional regulatory changes, power grid constraints or failures, disruptions to
+
+network connectivity between facilities, natural disasters, physical attacksincluding those motivated by
+
+geopolitical events, opposition to AI, and opposition to data center developmentand other disruptions that
+
+could affect multiple facilities. Certain state, local, and municipal jurisdictions in the United States are also
+
+considering or have approved moratoriums on new data center construction, citing public health, safety, and
+
+environmental concerns. Such jurisdictions and other regulators, grid operators, or utilities may also adopt
+
+other measures that subject users of large electricity loads, including data centers, to curtailment, interruptions,
+
+forced reductions, disconnection, or other restrictions during periods of grid stress, whether through changes in
+
+37
+
+Table of Contents
+
+law or policy, market or reliability constraints, limits on transmission and distribution infrastructure, or a
+
+preference for protecting other utility customers and the broader grid. New large loads on the electrical grid
+
+may be increasingly subject to mandatory curtailment in regions where there is insufficient grid-connected
+
+power generation to reliably supply existing and new electricity loads. For example, states such as New York
+
+and Texas have recently moved to regulate large-scale data centers, whether by pausing state permitting for
+
+new large facilities, as New York has, or by subjecting large electricity loads to curtailment or disconnection
+
+during grid emergencies, as Texas has. Such moratoriums, or similar actions, could delay or prevent the
+
+construction or expansion of facilities on which we depend for compute. Opposition to data center development
+
+has also become more organized and coordinated across jurisdictions and our public profile may draw
+
+particular attention to projects associated with us. The loss of, or a significant disruption at, any major facility
+
+may not be readily absorbed by our remaining or future infrastructure. We are expanding our data center
+
+capacity internationally as part of our efforts to diversify our infrastructure footprint and reduce concentration
+
+risks associated with operating a significant portion of our compute infrastructure in the United States and to
+
+support our international growth strategy, including by entering into letters of intent and negotiating lease and
+
+related agreements for data center facilities in multiple non-U.S. jurisdictions, which exposes us to additional
+
+risks related to foreign regulatory requirements and approvals, data sovereignty and localization laws,
+
+governmental access or assistance requirements, cross-border data transfer restrictions, foreign tax regimes,
+
+and increased operational complexity. Our ability to enter into definitive agreements for data center capacity
+
+and operations in non-U.S. jurisdictions depends on the timely formation, registration, and receipt of
+
+governmental approval of local subsidiaries, as well as the establishment of local banking arrangements, and
+
+any delay or failure in completing these steps could delay or prevent us from mitigating our infrastructure
+
+concentration risks, executing our international growth strategy, securing planned compute capacity, or could
+
+result in substantial additional taxes, penalties, or other liabilities. In addition, regulatory, legal, and other
+
+constraints in many jurisdictions may limit the locations in which we can practically site or contract for data
+
+center capacity, which could constrain our ability to diversify our infrastructure footprint as quickly or as
+
+broadly as we currently intend.
+
+We and our principal competitors rely on substantially similar inputs to develop and deploy frontier models,
+
+including advanced chips sourced from a small number of suppliers and data center capacity and compute
+
+obtained from CSPs and other third parties. As we and our competitors increasingly pursue vertical integration,
+
+the basis of competition could shift over time to encompass not only which company can develop the most
+
+capable models, but also which company can develop the best underlying components. Our future
+
+competitiveness may depend in part on our ability to successfully develop vertically integrated compute
+
+infrastructure on competitive terms and timelines, and there can be no assurance that we will be able to do so.
+
+Our competitors may be better positioned, or may invest greater efforts, to vertically integrate across the
+
+compute supply chain, including through proprietary chip design, fabrication, ownership or long-term control
+
+of data center infrastructure, access to dedicated power generation assets, exclusive supply arrangements with
+
+hardware manufacturers, or by securing the limited sites suitable for large-scale data center development ahead
+
+of us. Competitors that succeed in controlling a greater share of these supply chain layers may be able to secure
+
+compute at greater scale, lower cost, or with greater reliability than we can, particularly during periods of high
+
+demand or supply constraint, when captive supply relationships may confer certain advantages over
+
+participants that depend on third-party providers. Such competitors may also develop proprietary hardware-
+
+software co-designs that optimize compute efficiency for their specific model architectures, which could
+
+compound any capability gap across successive model versions. While we are pursuing initiatives to develop
+
+dedicated data center infrastructure, there can be no assurance that these efforts will be completed on the
+
+timelines or at the costs we anticipate, or that they will be sufficient to offset any structural advantages that
+
+vertically integrated competitors may achieve. Competitors that succeed in these efforts may be better
+
+positioned to remain at the frontier of AI regardless of broader market constraints.
+
+Natural hazards, extreme weather, or other disruptions affecting the regions where these inputs are produced
+
+or where our facilities are located could further constrain the availability of chips, power, water, or data center
+
+capacity on which we depend. If we are unable to manage the foregoing risks, our business, financial condition,
+
+and results of operations could be adversely affected.
+
+38
+
+Table of Contents
+
+We are highly dependent on the continued service of our co-founders, senior management
+
+team, and key technical employees, and the loss of any of these individuals may adversely
+
+affect our business, financial condition, and results of operations.
+
+We are highly dependent on the continued service of our Chief Executive Officer, President, co-founders, senior
+
+management team, and key technical team. In particular, our Chief Executive Officer and President are critical
+
+to setting our strategic direction, advancing our research agenda, shaping our safety and governance
+
+frameworks, and generally advancing our mission, and we believe that their leadership would be difficult to
+
+replace. If either were to become unavailable for any reason, or if either of their reputations were significantly
+
+harmed, regardless of merit, there could be an adverse impact on our operations and competitive position,
+
+employee morale, employee retention, pace of innovation, customer and partner confidence in our company,
+
+our brand and reputation, and our long-term strategic objectives. Further, the loss of key personnel, including
+
+members of our founding team and senior management team, and key engineering, research, product
+
+development, marketing, and sales personnel, could also disrupt our operations and have an adverse effect on
+
+our business. Many of our key personnel, particularly within our technical and research teams, are strongly
+
+motivated by our mission and the opportunity to work on addressing specific problems within the AI landscape.
+
+To the extent that their interests evolve, they seek to pursue different technical challenges or areas of focus, or
+
+they are drawn to other organizations or initiatives that they perceive as better aligned with their personal
+
+beliefs or professional objectives, we may face increased difficulty retaining such personnel. This risk may be
+
+heightened as we continue to scale and mature as an organization, which may change the nature of the work
+
+environment, priorities, or perceived mission alignment for certain personnel, including personnel who may
+
+conclude that the objectives that drew them to us have been substantially achieved. In addition, under certain of
+
+our agreements with suppliers, the loss of certain key personnel could accelerate our obligations or otherwise
+
+trigger adverse consequences under such agreements.
+
+If we are unable to retain key personnel, or if we fail to conduct effective succession planning and find suitable
+
+replacements for any losses of such key personnel in a timely manner and on competitive terms, we could
+
+experience declines in sales, delays in research and development, and harm to our business and operations. If
+
+we are unable to manage the foregoing risks, our business, financial condition, and results of operations could
+
+be adversely affected.
+
+We may require additional capital to meet our substantial ongoing obligations and support
+
+our business growth, and our ability to generate sufficient revenue and secure additional
+
+capital on acceptable terms is critical to our continued operations and competitive position.
+
+Our business model requires substantial and increasing capital to support our ability to remain competitive and
+
+to stay at the frontier of AI. We intend to continue to make significant financial investments to support our
+
+business growth and may require additional funds to acquire sufficient compute and respond to business
+
+challenges, including expenditures to create, maintain, upgrade, and enhance our models, platform, and
+
+applications, including costs related to investments in infrastructure, human capital, office expansion, and data
+
+assets. In addition, we may use a portion of our cash to satisfy tax withholding and remittance obligations
+
+related to outstanding RSUs and equity awards that we grant in the future.
+
+In addition, to date we have financed our compute primarily under arrangements with CSPs, with costs
+
+recognized as compute is made available to us. We may in the future finance a greater portion of our compute
+
+on an up-front basis, including through capital leases, prepayments, debt-financed purchases of equipment, or
+
+similar arrangements. If we were to do so, we may incur significant cash outflows in advance of compute
+
+availability or related revenue, which could increase demands on our cash flows and liquidity and our need to
+
+raise additional capital. Such arrangements could also increase our capital intensity and alter our cash-flow
+
+profile.
+
+Accordingly, it is critical that we maintain strong revenue growth, grow revenue efficiently relative to our
+
+committed compute, infrastructure, and personnel costs, and manage our cash flows effectively. To the extent
+
+that such efforts are insufficient to meet our capital needs, we may need to obtain additional capital through
+
+equity or debt financings. If we raise additional funds through future issuances of equity, equity-linked
+
+securities, or convertible debt securities, our existing stockholders could suffer dilution, and any new securities
+
+we issue could have rights, preferences, and privileges superior to those of holders of our common stock.
+
+Further, the conversion of our outstanding convertible securities will cause additional dilution to our existing
+
+39
+
+Table of Contents
+
+stockholders. Any debt financing that we may secure in the future may involve restrictive covenants relating to
+
+our capital raising activities and other financial and operational matters, potentially making it more difficult for
+
+us to obtain additional capital and to pursue business opportunities.
+
+In addition, our ability to draw amounts under certain of our note purchase agreements (NPAs) is not
+
+guaranteed and is subject to the satisfaction of specified conditions. In particular, our ability to access
+
+additional amounts under certain of these facilities depends on our achievement of certain revenue
+
+performance targets andor the ability of third parties to deliver additional compute to us. While we have
+
+historically surpassed all such revenue performance targets, there can be no assurance that revenue will
+
+continue to exceed these thresholds at all times in the future. If these conditions are not satisfied, we may be
+
+unable to draw additional amounts under the applicable NPA, which could adversely affect our cash flows and
+
+liquidity. For more information about the terms of our convertible promissory notes, see the section titled
+
+Managements Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and
+
+Capital ResourcesConvertible Notes.
+
+We may not be able to obtain additional financing on terms favorable to us, if at all. We evaluate financing
+
+opportunities from time to time, and our ability to obtain financing will depend, among other things, on our
+
+development efforts, business plans, and operating performance and the condition of the capital markets at the
+
+time we seek financing. The equity and debt markets may experience extreme volatility and disruption from
+
+time to time, which could result in higher credit spreads in such markets and higher funding costs for us. If we
+
+are unable to generate sufficient revenue growth or obtain adequate financing or financing on terms satisfactory
+
+to us when we require it, our ability to continue to support our business growth, scale our infrastructure,
+
+develop new models, platforms, and applications, enhance our existing models, platform, and applications, and
+
+respond to business challenges may be impaired, and our business, financial condition, and results of
+
+operations may be adversely affected.
+
+Our company culture has contributed to our success and, if we cannot maintain this culture as
+
+we grow, our business could be adversely affected.
+
+We believe that our company culture is a critical component to our success. We are a mission-driven company
+
+and our culture reflects a strong emphasis on the Company Purpose. Our ability to continue to cultivate and
+
+maintain this culture is essential to our growth and continued success. We face a number of challenges
+
+associated with our commitment to our company culture, including
+
+the need to identify, attract, reward, and retain people in leadership positions in our organization who
+
+share and further our culture, values, and mission
+
+the increasing size and geographic diversity of our workforce, and our ability to promote a uniform and
+
+consistent culture across all of our offices and employees
+
+internal and external perceptions about our mission, values, commitment to safety, and uses of our
+
+models, platform, and applications
+
+engagement with government policymakers on issues that resonate differently across our workforce
+
+competitive pressures to move in directions that may divert us from our mission and values
+
+the rigorous, values-driven standards we apply in hiring and decision-making, which may slow the
+
+pace at which we can scale our workforce or expand our operations relative to competitors
+
+the continued challenges of a rapidly evolving industry
+
+the increased scrutiny and expectations associated with operating as a public company and
+
+the need to balance our long-term, mission-driven objectives with shorter-term financial performance
+
+expectations, which may create internal tension and challenge our ability to consistently reinforce our
+
+cultural values and mission across teams and leadership.
+
+40
+
+Table of Contents
+
+Our mission-driven culture is one of our core characteristics that helps us to attract and retain key personnel
+
+and differentiate us in the market. If we are unable to maintain our culture, as well as balance our commitment
+
+to maintaining our culture with the demands of rapid growth, competition, and operating as a public company,
+
+our employee morale, engagement, and retention could suffer, requiring us to incur additional costs or adopt
+
+alternative recruiting strategies, which could adversely affect our business, financial condition, and results of
+
+operations.
+
+We face intense competition, and if we are unable to compete effectively, our business,
+
+financial condition, and results of operations could be adversely affected.
+
+The market for AI models, platforms, and applications is rapidly evolving, intensely competitive, and subject to
+
+frequent and significant changes in technology, evolving customer requirements and expectations, shifting
+
+industry standards, regulatory developments, new market entrants, and new models, platforms, and
+
+applications. We face competition from a wide range of companies across multiple categories.
+
+We compete directly with companies developing frontier models for third-party software developers and
+
+enterprises. Our primary competitors in this category include Alphabet Inc. (together with its affiliates,
+
+Google) and OpenAI Group PBC (OpenAI). These competitors are developing increasingly capable AI
+
+systems and compete with us for customers, talent, compute, and strategic partnerships. Many have
+
+substantially greater financial, technical, and marketing resources than we do, their own or greater access to
+
+sources of compute, longer operating histories, greater brand recognition, and established relationships with
+
+current and potential customers and partners, which facilitates their ability to integrate their models into first-
+
+party applications sold directly to businesses.
+
+We also compete with a broader set of model providers operating at or below the frontier, including large
+
+companies, specialized AI labs, and a growing range of other open-weight or open-source (shared weights,
+
+training data, and code) models released by international and domestic organizations. Such providers compete
+
+for a growing range of enterprise workloads that prioritize cost efficiency over intelligence. In particular, certain
+
+large companies compete through proprietary AI models, integrated AI capabilities in existing products, and
+
+control of cloud infrastructure and distribution channels. Some of these companies also have substantially
+
+greater financial, technical, and marketing resources than we do, their own or greater access to sources of
+
+compute, longer operating histories, greater brand recognition, and established relationships with current and
+
+potential customers and partners. In addition, some have substantially broader and more diverse product and
+
+service offerings and may be able to leverage existing relationships with distribution partners and customers to
+
+gain business in ways that discourage customers from purchasing our models, platform, and applications. For
+
+example, competitors may bundle AI capabilities with other products, integrate AI functionality into products
+
+that customers already use, offer closed technology platforms that lock customers into their ecosystems, sell
+
+products at zero or negative margins to gain market share, or use their substantial financial resources to
+
+subsidize the cost of AI models, platforms, and applications. Customers may prefer to purchase from existing
+
+vendors with which they have established relationships, even if our models, platform, and applications offer
+
+superior features or performance. Further, large companies that are currently our customers may choose to
+
+develop their own AI capabilities internally rather than purchase our models, platform, and applications.
+
+Specialized AI labs, on the other hand, are competitive due to their ability to offer specific AI applications and
+
+differentiated business models. These companies can move quickly, attract top talent, develop novel
+
+approaches, platforms, or business models that disrupt existing competitive dynamics, and introduce
+
+technologies or products with greater performance or functionality, lower cost, ease of implementation, or other
+
+advantages. Some competitors or customers may have access to proprietary datasets, distribution channels, or
+
+domain-specific expertise that we do not possess, or new competitors may emerge that address particular
+
+industries or use cases more effectively than our models, platform, and applications, which could enable them
+
+to develop more specialized or higher-performing AI systems. In addition, competitors, customers, or other
+
+third parties have attempted in the past and will likely continue to attempt to replicate, distill, extract, or
+
+otherwise derive the functionality or capabilities of our models through permitted or impermissible means,
+
+including through our research previews. These actions could reduce the technological differentiation of our
+
+offerings enable the development of competing products at lower cost, with reduced research and development
+
+investment, or that replicate our models without safety controls or safeguards that were incorporated in our
+
+versions implicate national security concerns or strain geopolitical tensions and intensify competitive
+
+pressures. In addition, efforts to prevent or mitigate model replication, distillation, or other forms of extraction
+
+41
+
+Table of Contents
+
+may require us to modify our models, platform, and applications, limit features or use cases, or implement
+
+technical safeguards that could reduce the usability or attractiveness of our offerings, slow adoption, and
+
+adversely affect customer demand and revenue. More broadly, as AI models are increasingly used to develop
+
+other AI models, the knowledge and techniques required to build frontier models may become more widely
+
+available over time, including through distillation, unauthorized access to or theft of model weights, or the
+
+diffusion of AI-assisted research and development capabilities across the industry. If the ability to develop
+
+highly capable models becomes more broadly available, our technological differentiation could erode and
+
+competition could increasingly depend on access to large-scale compute rather than on model development
+
+capability. In such an environment, access to sufficient compute on economical terms could become the
+
+primary constraint on our ability to train and serve competitive models, and our business, competitive position,
+
+and results of operations could be adversely affected if we are unable to secure compute at the scale, cost, or on
+
+the timeline we require.
+
+Additionally, open-weight or open-source AI models may capture a portion of the market for certain use cases,
+
+which could exert pricing pressure on our offerings or lead certain customers to adopt open-source alternatives
+
+for those use cases.
+
+A significant portion of our customer base consists of startups and technology-oriented enterprises that may be
+
+more sensitive to adverse macroeconomic conditions and may reduce or delay spending during a downturn.
+
+Because our cost structure limits our ability to rapidly adjust spending, a sustained economic downturn could
+
+disproportionately disadvantage us relative to larger, better-capitalized competitors. Such competitors may be
+
+better positioned to absorb or withstand adverse economic conditions or reductions in customer technology
+
+spending due to their greater financial resources, diversified product offerings and customer bases, and more
+
+stable revenue streams. It could also disadvantage us relative to smaller startups with leaner cost structures,
+
+lower fixed overhead, and fewer long-term contractual commitments that could help enable them to adjust
+
+spending more rapidly than we can. As a result, competitive pressures on our business could intensify, which
+
+could adversely affect our business, financial condition, and results of operations.
+
+If we are unable to differentiate our models, platform, and applications from competing offerings through
+
+enhanced functionality, superior performance, better safety features and reliability, lower cost, or other factors,
+
+demand for our models, platform, and applications may decline. The rapid pace of technological change in AI
+
+means that models, platforms, and applications can quickly become outdated. We must continuously invest in
+
+research and development to maintain our competitive position, but there is no guarantee that our investments
+
+will result in models, platforms, and applications that customers prefer over competing alternatives. Moreover,
+
+we are first and foremost a research lab, and our strategy prioritizes frontier research and model capability. We
+
+believe the advancing intelligence and capabilities of our models are the principal drivers of their adoption, and
+
+we have historically prioritized research and model development rather than new products and applications or
+
+sales and marketing. This approach assumes that model capability will continue to be a meaningful source of
+
+competitive differentiation. However, as the AI industry matures, the degree of differentiation among advanced
+
+AI models may narrow. This convergence may result from factors such as overlapping or similarly sourced
+
+training data, the widespread adoption of comparable model architectures, training techniques, and
+
+optimization methods, shared access to computing infrastructure, and the rapid dissemination of research
+
+advances across the industry. To the extent competitors are able to achieve comparable model capabilities with
+
+lower development or deployment costs, our ability to differentiate our models, platform, and applications on
+
+the basis of performance, functionality, or cost may be diminished. If differentiation among advanced models
+
+narrows, or if customers increasingly select AI providers on the basis of application features, user experience,
+
+distribution, integration into products they already use, or the strength of a sales organization rather than
+
+model capability, competitors that have invested more heavily than we have in those areas could be better
+
+positioned than we are. Responding to such a shift could require us to increase our investment in product
+
+development and sales and marketing substantially beyond our current plans, which could take longer or cost
+
+more than we anticipate and could reduce the compute and other resources available for frontier research, and
+
+we may not be able to execute such a shift quickly or effectively. See also the section titled We have a limited
+
+history under our current go-to-market strategy, and our efforts to scale and evolve our customer acquisition,
+
+engagement, and retention model may not be successful.
+
+If we are unable to compete successfully, our business, financial condition, and results of operations could be
+
+adversely affected.
+
+42
+
+Table of Contents
+
+If we fail to attract new customers, retain existing customers, or expand usage of our models,
+
+platform, and applications, our business, financial condition, and results of operations could
+
+be adversely affected.
+
+Our future growth depends on our ability to attract new customers, retain existing customers, and expand sales
+
+within our existing customer base. We face significant challenges in each of these areas, and failure to execute
+
+on our customer acquisition and retention strategies could adversely affect our business, financial condition,
+
+and results of operations.
+
+We must continue to attract new customers in a cost-effective manner. Potential customers may not understand
+
+the benefits of our models, platform, and applications or may be unable to justify the investment in our models,
+
+platform, and applications, particularly as existing competitors continue to enhance their offerings, improve
+
+performance, expand functionality, or reduce costs. Our ability to demonstrate differentiated value to potential
+
+customers may become more difficult as this competition intensifies, or as large technology companies bundle
+
+AI capabilities into existing products. If we continue to focus on enterprise customers, we may face longer sales
+
+cycles that demand significant upfront investment in enterprise sales teams and customer service. These sales
+
+efforts are costly and may not result in customer conversion.
+
+Even if we successfully attract new customers, we face significant challenges in retaining them. Many of our
+
+customer contracts allow customers to reduce usage or terminate with limited or no notice. Customers are not
+
+obligated to renew their subscriptions or contracts with us. Customer retention and usage levels may decline
+
+due to a number of factors, including
+
+dissatisfaction with the performance, reliability, safety, or accuracy of our AI models
+
+availability of competitive alternatives
+
+customers developing their own AI capabilities internally
+
+our models, platform, and applications reducing demand for our customers offerings or causing
+
+disruptions to their businesses, which could lead to reduced usage or customer attrition
+
+changes in customer budgets or strategic priorities regarding AI investment
+
+concerns about data privacy, security, or our data handling practices
+
+negative publicity regarding AI generally or our business specifically
+
+changes in the regulatory and legal landscape surrounding AI and our models, platform, and
+
+applications in particular
+
+pricing changes or perception that our pricing is not competitive and
+
+general economic conditions or industry-specific downturns affecting our customers.
+
+Our ability to retain customers and drive expansion also depends on our continued investment in product
+
+development. The process of developing products and incorporating new technologies is complex and
+
+uncertain, and if we fail to accurately predict customers changing needs and emerging technological trends and
+
+opportunities, we may not be able to compete effectively and our business and ability to generate revenue could
+
+be adversely affected. As AI technology evolves rapidly, customers may perceive our models, platform, and
+
+applications as becoming outdated or may expect continuous improvements to model performance and
+
+capabilities. Even minor degradations in model performance or increases in response latency could cause
+
+customers to reduce usage or switch to competitors. If we are unable to retain existing customers or if our
+
+customers do not maintain their usage levels, our revenue and growth could be adversely affected. For
+
+additional discussion on product development, see the section titled Our success depends in large part on
+
+our ability to continue to develop the most advanced and capable AI models, and any failure to do so could
+
+adversely affect our business.
+
+Some of our enterprise customers may have the financial resources, technical capabilities, and access to the
+
+talent and compute necessary to develop and deploy proprietary AI models, and may reduce or cease usage of
+
+43
+
+Table of Contents
+
+our models, platform, and applications as their internal AI capabilities mature, even where they initially
+
+adopted our offerings as a foundation for their AI strategy. If these customers were to reduce or cease usage of
+
+our models, platform, and applications, our revenue and growth could be adversely affected.
+
+In addition to retaining customers, our growth strategy depends in part on expanding usage within our existing
+
+customer base by increasing usage volumes, selling additional capabilities, and expanding adoption across
+
+departments and use cases within customer organizations. However, customers may not expand their usage for
+
+a variety of reasons, including satisfaction with current usage levels, budget constraints, technical challenges in
+
+integrating our models, platform, and applications more broadly within their organizations, or preference for
+
+multi-vendor AI strategies in order to limit dependence on any single provider. Due to our consumption-based
+
+pricing model, customers may reduce or cease usage at any point within a given period due to budget or
+
+internal procurement constraints, organizational spending controls, or other factors unrelated to the quality or
+
+performance of our models, platform, and applications, and may not resume usage until a new budget period
+
+commences or additional spend is approved, even where demand for our models, platform, and applications
+
+remains strong. As a result, our revenue could be lower or more variable than anticipated and this effect may be
+
+particularly pronounced among customers experiencing rapid growth in their usage of AI. If we increase sales
+
+and marketing expenditures to accelerate customer acquisition without achieving proportional revenue growth
+
+and if we cannot attract new customers, retain existing customers, expand within our customer base, or
+
+accomplish these objectives in a cost-effective manner or timely manner, our revenue growth will decline and
+
+our business, financial condition, and results of operations will be adversely affected.
+
+If the market for our models, platform, and applications develops more slowly than we expect
+
+or declines, our growth may slow or stall, and our business, financial condition, and results of
+
+operations could be adversely affected.
+
+The market for AI technologies, including frontier AI and related models, platforms, and applications, has
+
+grown rapidly in recent years, but is still relatively nascent and evolving rapidly, and it is uncertain whether the
+
+market for such AI technologies will achieve or sustain widespread adoption at the pace or to the extent we
+
+expect. Our ability to generate revenue and achieve sustainable growth depends in significant part on the extent
+
+to which enterprises, software developers, and other users adopt AI technologies, integrate them into existing
+
+workflows, expand usage over time, and are willing to pay for our models, platform, and applications at levels
+
+that support durable economic value at scale. Market adoption may be slower than anticipated due to factors
+
+such as uncertainty regarding the cost, performance, reliability, and perceived value of AI solutions increased
+
+regulation concerns about security, privacy, legal and regulatory compliance, or ethical considerations
+
+technological challenges level of effort and expense associated with integration efforts competition from
+
+alternative or emerging technologies the availability or adoption of complementary infrastructure and
+
+workflows or reductions in corporate spending due to macroeconomic conditions. Moreover, demand for
+
+frontier models may decline if customers determine that less advanced, lower-cost models are sufficient for
+
+their particular use cases. As AI capabilities improve across the industry and a broader range of models
+
+becomes available, customers may conclude that incremental performance gains at the frontier do not justify
+
+the additional cost, and may migrate toward smaller, cheaper, or open-source alternatives that adequately
+
+address their needs. If we are unable to demonstrate sufficient differentiated value from our frontier models
+
+relative to less capable alternatives, our revenue and growth could be adversely affected, even in a market where
+
+overall AI adoption continues to grow. Further, while AI adoption may continue or accelerate in certain areas,
+
+the long-term trajectory of this technological trend is uncertain, and market understanding, acceptance, and
+
+valuation of AI-enabled models, platforms, and applications may be inaccurate or change over time and
+
+adoption may occur unevenly across industries, geographies, and customer types. If growth in the AI market
+
+does not translate into sustained customer demand for our offerings, expanded usage, and increased revenue,
+
+or if anticipated use cases fail to materialize, our prospects, business, financial condition, and results of
+
+operations could be adversely affected.
+
+The political environment and our engagement with policymakers and public positions on AI
+
+regulation and safety could subject us to heightened scrutiny, political backlash, or
+
+disproportionate regulatory action.
+
+Our commitment to responsible and safe AI development includes active engagement with policymakers,
+
+regulators, and other stakeholders regarding the development of AI-related laws, regulations, and standards.
+
+We have participated in, and will likely continue to participate in, political processes, including through
+
+44
+
+Table of Contents
+
+contributions, advocacy, or support of political organizations. In addition, our executives and other
+
+representatives have publicly expressed and may in the future publicly express views on AI policy, regulation,
+
+safety, and related social or political issues. As a result, we have experienced, and may continue to experience,
+
+increased visibility and may continue to be subject to heightened scrutiny or the risk of being disproportionately
+
+or selectively targeted by particular governmental bodies, even where similarly situated companies are not,
+
+including through investigations or enforcement actions, the imposition or selective application of regulatory,
+
+licensing, or permitting requirements, adverse treatment in government procurement or provision of security
+
+clearances, or targeted immigration or visa actions affecting our personnel. As part of our political engagement,
+
+we have advocated for, and will likely continue to advocate for, regulatory approaches or industry standards
+
+that we believe promote the safe and responsible development of AI but that could increase our compliance
+
+burdens, limit our product development or deployment flexibility, or otherwise slow our growth relative to
+
+competitors.
+
+Our public positions, stated values, policy advocacy, or statements by our executives have attracted, and may
+
+continue to attract, criticism from influential political figures, industry participants, regulators, or other third
+
+parties, particularly in politically sensitive or polarized environments, which could shape public narratives or
+
+regulatory perceptions of our business in ways that are unfavorable to us. For example, public statements by us
+
+or other industry participants regarding the safety of frontier AI development have been cited by governmental
+
+actors to support litigation or regulatory claims, including requests for injunctive relief restricting model
+
+development, and could be cited in future proceedings involving us. Such scrutiny or backlash could result in
+
+reputational harm, increased compliance or operating costs, investigations, enforcement actions, or restrictions
+
+on our operations, any of which could adversely affect our business, financial condition, and results of
+
+operations.
+
+If the use of our AI models results in harm, whether through use by malicious actors or misuse
+
+by other third parties, or if our model guardrails or safeguards fail to prevent such misuse,
+
+our reputation and brand, business, financial condition, and results of operations could be
+
+adversely affected.
+
+While our AI models are designed to comply with our AI safety and usage guidelines and be broadly safe,
+
+ethical, and helpful, and while we have implemented safety measures intended to anticipate, identify, and
+
+mitigate potential harmful uses, such measures are incomplete, may be outdated in light of evolving threat
+
+models, or may fail to identify or prevent all potential misuse of our models, and our models have been, and
+
+may continue to be, misused or manipulated to produce harmful outputs or carry out harmful actions.
+
+Malicious actors have used, and may continue to develop novel or more sophisticated methods to use, our
+
+models in ways that violate our usage policy or seek to circumvent our model guardrails or safeguards through
+
+techniques such as prompt injection, adversarial inputs, or other methods, and use our models to engage in
+
+harmful activities, including developing weapons, generating fraudulent or misleading content, conducting
+
+cyberattacks, perpetrating acts of violence, or to engage in activities that would otherwise be prohibited under
+
+our usage policy or in violation of applicable law. Our customer onboarding diligence varies by access channel,
+
+and we do not and in certain situations cannot uniformly verify the identity of those who access our models or
+
+of our customers end users, which may limit our ability to prevent access or recidivism by malicious actors or
+
+to enforce our usage policy or other policies.
+
+Moreover, our safety and security controls, including automated classifiers and monitoring systems, depend on
+
+complex internal configurations that have failed, been misconfigured, or been inadvertently disabled, and may
+
+do so again in the future without our timely detection. Any undetected failure of our safety controls could
+
+permit misuse that our safeguards are designed to prevent, and could result in real world harm, legal liability,
+
+regulatory or enforcement action, loss of customer trust, and reputational harm, any of which could adversely
+
+affect our business, financial condition, and results of operations.
+
+In particular, our most capable models have demonstrated, and future models are expected to demonstrate,
+
+capabilities that could provide meaningful assistance to malicious actors seeking to develop chemical,
+
+biological, or other dangerous weapons. We deploy technical safeguards, including automated classifiers,
+
+specifically intended to detect and block these categories of misuse, but such safeguards are incomplete, may be
+
+outdated in light of evolving threat models, have been and may in the future again be circumvented, or may fail
+
+to operate as intended. Any actual or perceived use of our models to contribute to the development of such
+
+weapons could result in harm, legal liability, regulatory or enforcement action, loss of government and
+
+45
+
+Table of Contents
+
+enterprise relationships, and damage to our reputation and brand, any of which could adversely affect our
+
+business, financial condition, and results of operations.
+
+For example, in September 2025, we detected and assessed with high confidence that a Chinese state-sponsored
+
+hacking group manipulated our Claude Code tool into attempting infiltration into roughly 30 global targets,
+
+including large technology companies, financial institutions, chemical manufacturing companies, and
+
+government agencies, resulting in a limited number of successful intrusions. We believe this is the first
+
+documented case of a large-scale cyberattack executed without substantial human intervention. We expect that
+
+malicious actors, including sophisticated state-sponsored actors, will continue to seek to leverage our models,
+
+platform, and applications for harmful actions, including by circumventing our safeguards, and their efforts to
+
+do so may increase as the capabilities of our technology increase. Any successful attempt to misuse, or any
+
+perceived misuse of, our models, platform, and applications for a cyberattack or for any other malicious
+
+purpose could result in exposure to liability, disruption of our customer or other commercial relationships, or
+
+damage to our reputation. The risks of such harms may increase as the cybersecurity-related capabilities of our
+
+models, platform, and applications increase. Independent security researchers and other third parties have also
+
+used, and may in the future use, our models to identify and exploit vulnerabilities in the systems of other
+
+companies, including other AI developers, at times in connection with authorized bug bounty programs. While
+
+such activity may be lawful and consistent with industry practice for vulnerability research, it illustrates that
+
+our models can function as a general-purpose tool for gaining unauthorized access to third-party systems, and
+
+comparable capabilities could be used by malicious actors without authorization. Such incidents, whether or
+
+not we are a direct party to them, may draw public and regulatory attention to the offensive cybersecurity
+
+capabilities of our models and could result in reputational harm, calls for additional restrictions on our models,
+
+or claims that we failed to adequately safeguard against such uses. For more information about risks related to
+
+security incidents, see the section titled Any security breaches or other incidents, including those that affect
+
+our networks, systems, or data, or the networks, systems, or data of our service providers, suppliers, or
+
+customers, could adversely affect our business, financial condition, and results of operations.
+
+As part of our commitment to responsible security research and transparency, we disclose information about
+
+the capability and safety of our models, the safeguards that we have adopted with respect to our models, and
+
+instances of misuse of our technology, such as the September 2025 cyberattack described above. We also
+
+publish model system cards, our research findings, and other safety-related information. We take steps to
+
+ensure that such disclosures will not materially assist malicious activity and weigh the benefits and risks of such
+
+disclosures from an ecosystem preparedness perspective however, malicious actors, including sophisticated
+
+state-sponsored adversaries, have in the past and may in the future use those disclosures to assist their
+
+attempts to circumvent our safeguards and security measures, thereby increasing the risks of misuse of our
+
+models, platform, and applications, as well as the potential for exposure to liability, regulatory or litigation
+
+proceedings, or other harms. In addition, because these disclosures describe risks and observed model
+
+behaviors in detail, they may draw heightened public, media, or regulatory attention and could be cited by
+
+regulators, litigants, or others in proceedings or claims against us. The steps we take to prevent misuse of our
+
+models, platform, and applications could be incomplete or may fail to operate as intended, and any actual or
+
+perceived misuse could adversely affect our business, financial condition, and results of operations.
+
+Our AI models may behave in unintended, misaligned, or autonomous ways, including by
+
+taking harmful actions that no user or third party directed, which could adversely affect our
+
+reputation and brand, business, financial condition, and results of operations.
+
+Our AI models may themselves cause harm by producing undesirable outputs or behaving in unintended,
+
+misaligned, or autonomous ways, including by taking unintended or harmful actions that no user or third party
+
+directed. These risks may increase as our models become more capable and are granted greater autonomy,
+
+permissions, and integration with external systems. Although we continue to study why these behaviors
+
+emerge, our understanding continues to evolve, and we may be unable to anticipate or understand such
+
+behaviors in the future.
+
+In addition, our models have been and may continue to be deployed in high-risk or sensitive contexts, such as
+
+healthcare, scientific and biomedical research, drug discovery and development, legal, finance, government, or
+
+other critical decision-making environments, and in connection with hardware, where undesirable model
+
+behaviorswhich are inherently non-deterministic and may manifest in unpredictable ways, such as errors,
+
+inaccuracies, biased or unsolicited views or hallucinationscould lead to serious harm, liability, or reputational
+
+46
+
+Table of Contents
+
+or other damage. More broadly, the long-term effects of regular AI interaction on mental health, cognitive
+
+development, and social behavior are not yet fully understood, and if such long-term harms do materialize in
+
+the future, we could face significant liability, reputational harm, and adverse effects on our business, financial
+
+condition, and results of operations.
+
+Our development of more advanced AI models and our expansion into new jurisdictions could amplify the
+
+foregoing risks. As our AI models become more advanced and capable, we have faced and may continue to face
+
+heightened alignment, interpretability, controllability, and safety challenges, as more sophisticated models may
+
+be better able to circumvent safeguards or behave in unintended ways. We may be unable to fully understand or
+
+explain why our models produce particular outputs or behave in particular ways, which could limit our ability to
+
+predict or prevent failures, provide explanations to customers or regulators, or satisfy emerging regulatory,
+
+transparency, and explainability requirements.
+
+In addition, our safety evaluations and testing processes have produced and may in the future produce
+
+incomplete or unreliable results. For example, we have observed models behaving differently when they detect
+
+or infer that they are being evaluated, which can limit our ability to accurately assess real-world risks or failure
+
+modes prior to deployment. Such model awareness of our evaluation efforts creates a significant limitation on
+
+our ability to assess model safety.
+
+Furthermore, AI models have developed, and may in the future develop, unexpected capabilities during training
+
+that were not anticipated, intended, or tested for, and such emergent capabilities may not be discovered until
+
+after a model has been deployed, potentially resulting in safety incidents, reputational harm, regulatory
+
+scrutiny, or the need to withdraw, retrain, or modify deployed models at significant expense. Such models may
+
+also be deployed in higher-stakes or more sensitive applications, increasing the potential impact of errors,
+
+misuse, or misalignment.
+
+In addition, advanced AI models, including our models, give rise to novel ethical and safety risks, including
+
+risks related to autonomy, manipulation, and the simulation of aspects of human psychology. These risks could
+
+result in unforeseen harms and may require the development of governance structures, safeguards, or
+
+mitigation strategies beyond existing AI safety frameworks, and there is always a risk that we will be unable to
+
+develop or implement them effectively. In addition, models, including our own, have exhibited, and may in the
+
+future exhibit, unexpected strategic or self-preserving behaviors, including attempts to resist shutdown, conceal
+
+or manipulate information, or generate outputs that could be interpreted as coercive, deceptive, or
+
+manipulative, including behavior resembling blackmail or efforts to influence human decision-makers to
+
+preserve the models continued operation or access.
+
+Even isolated or simulated instances of such behavior, whether occurring in testing or real-world deployments,
+
+and whether occurring with our models or models developed by others, could generate significant public
+
+concern, regulatory scrutiny, litigation risk, or reputational harm, regardless of whether such behavior results
+
+in actual harm. For example, state attorneys general in California and at least 15 other states have announced
+
+investigations of another company in our industry regarding AI safety. Concerns have been raised both within
+
+our organization and by other researchers, regulators, policymakers, and industry participants that sufficiently
+
+advanced AI systems could, if not developed, deployed, and operated with appropriate safeguards, oversight,
+
+and security measures, pose catastrophic or existential risks to humanity, particularly if such systems were
+
+misused, replicated, weaponized, or allowed to operate with a high degree of autonomy. We have observed that
+
+our models are contributing to the pace of our own research and these risks will increase as AI systems
+
+substantially automate AI research and development if, for example, they accelerate AI progress beyond our
+
+ability to evaluate and safeguard new models, which could adversely affect our business, financial condition,
+
+and results of operations.
+
+Our development of highly advanced models, platforms, and applications and expansion of use cases could
+
+further increase the risk that our models cause harm. For example, agentic AI systems are capable of
+
+autonomously taking actions on behalf of users, interacting directly with external systems, executing code,
+
+making API calls, sending communications, or completing transactions with limited human oversight. These
+
+systems are designed to possess enterprise-level permissions, integrations, and contextual awareness and to
+
+operate autonomously for extended durations, including sustained multi-step workflows lasting hours or days,
+
+which amplifies the potential severity of any errors, misalignments, or security incidents that may occur during
+
+such extended autonomous operation. These autonomous capabilities could increase the potential for harm, as
+
+47
+
+Table of Contents
+
+errors, misalignment, or security exploits may result in real-world consequencesincluding consequences that
+
+may be difficult or impossible to reverse, such as committing code changes, deleting or modifying data, or
+
+completing financial transactionsbefore effective intervention is possible.
+
+In an agentic workflow, an error or unintended action at any individual step may propagate through subsequent
+
+steps, compounding the severity of harm before detection or correction. The pace and volume of autonomous
+
+execution, particularly in enterprise deployments, may also exceed the capacity of human reviewers to
+
+meaningfully understand and evaluate whether each action is appropriate. The effectiveness of human
+
+oversight over our agentic offerings may be limited by the speed and volume of autonomous agent actions, the
+
+complexity of multi-agent and multi-step workflows that may make it difficult for reviewers to assess whether
+
+an agents actions are appropriate, and organizational pressures within customer environments to maximize
+
+agent autonomy in order to achieve productivity gains. Human reviewers may experience alert fatigue, may lack
+
+sufficient context to evaluate agent decisions, or may not review agent actions in time to prevent harm,
+
+particularly in high-volume enterprise deployments where agents operate concurrently across multiple
+
+workflows or in manners outside of a humans awareness. In addition, agentic systems may pursue stated
+
+objectives in ways that are technically consistent with their instructions but contrary to the users actual intent.
+
+Moreover, our ability to anticipate, detect, or test vulnerabilities or other design or implementation
+
+shortcomings in such systems may be constrained, particularly where agents operate across complex, multi-
+
+step workflows or interact with third-party services outside our control, and the breadth and complexity of
+
+potential interactions across such multi-step agent behaviors cannot be exhaustively tested prior to
+
+deployment. Separately, models may behave in a misaligned manner and take harmful actions that are not
+
+directed by a user or third party, pursuing objectives or acting on dispositions that diverge from those intended
+
+by human users or developers. Misaligned behaviors of this kind, whether occurring in testing or real-world
+
+deployments, have been observed both in our models and elsewhere in the industry, including in testing and
+
+internal use, models circumventing network and sandbox restrictions, granting themselves permissions they
+
+had not been given, taking unintended actions in pursuit of assigned goals, interfering with other AI agents, and
+
+misrepresenting whether tasks had been completed or verified, and as models are granted greater autonomy,
+
+permissions, and integration with external systems, the consequences of such misaligned behavior increase. For
+
+example, during cybersecurity evaluations built by a third-party evaluation partner, a misconfiguration in the
+
+testing environment left the model under evaluation connected to the open internet despite instructions that it
+
+had no internet access. Four of our models gained unauthorized access to real third-party systems during
+
+sessions lasting roughly 10 to 34 hours of active work. In one incident, after being unable to abort an impossible
+
+task, an early version of a model used a password it found to gain administrator access to a third partys system,
+
+harvested additional credentials, changed system settings, and read one individuals personal information. The
+
+affected parties were notified. Each incident involved a single instance of a model working in isolation on its
+
+assigned exercise, and our investigation found no evidence that any model coordinated with other agents,
+
+pursued goals beyond its assigned task, or attempted to evade oversight. These risks may be heightened where
+
+multiple AI agents operate together. Agents that interact or coordinate with one another may amplify,
+
+propagate, or reinforce misaligned behavior across the group, pursue objectives collectively in ways not
+
+intended or endorsed by any user, or take coordinated actions against systems or targets unrelated to their
+
+assigned tasks, in each case, in ways that may be difficult to anticipate, detect, or contain. Incidents of this kind
+
+have occurred, and we expect the deployment and interaction of larger numbers of autonomous agents to
+
+increase these risks over time.
+
+Our ability to detect and mitigate misaligned or unintended behavior depends in part on the effectiveness of our
+
+alignment evaluations, monitoring, and other oversight and control techniques, many of which rely on our
+
+models having a limited ability to evade or subvert such oversight. As our models become more capable, they
+
+have become better able to circumvent such techniques, including by concealing misaligned objectives or
+
+behaviors, and the effectiveness of our evaluation, monitoring, and control measures, and our ability to
+
+measure the degree to which our models are aligned, may decline as a result. In addition, models, including our
+
+own, have attempted, in incidents observed in our industry, to interfere with, manipulate, or subvert the
+
+mechanisms used to evaluate, grade, or oversee such models, including the systems responsible for assessing
+
+their performance or alignment. Models used, including our own, to assess the behavior of other models have,
+
+and may in the future continue to, engage in misaligned behavior. Such conduct described above could cause
+
+our evaluations to overstate the safety or alignment of our models and could further limit our ability to detect
+
+misalignment. If we become less able to detect or assess misalignment as our models advance, we may deploy
+
+models whose behavior we cannot adequately verify, which could increase the risk of undetected harmful
+
+48
+
+Table of Contents
+
+conduct and misalignment, which could adversely affect our business, financial condition, and results of
+
+operations.
+
+We are also extending our models, platform, and applications into scientific, biomedical, and physical domains.
+
+For example, we offer Claude Science, an agentic research environment that connects our models to scientific
+
+databases, third-party and open-source scientific models, and customers own computing infrastructure, and
+
+we have released, initially as a limited research preview, an open protocol that enables our models to monitor
+
+and control laboratory instruments, robotic systems, and other physical hardware. We also conduct research on
+
+the ability of our models to operate robotic systems. When our models direct physical equipment, errors,
+
+misaligned behavior, adversarial manipulation, or misuse could result in bodily injury, property damage,
+
+damage to costly equipment or experimental materials, or the release of hazardous substances, and such
+
+consequences may be immediate and irreversible. Safety interlocks, human-in-the-loop controls, and access
+
+restrictions we implement may prove inadequate, and because certain of these components are open source,
+
+third parties may deploy them with hardware, or in configurations, that we have not evaluated or from which
+
+our safeguards have been removed. Connecting increasingly capable models to laboratory automation may also
+
+heighten governmental and public concern regarding the potential for AI systems to accelerate the development
+
+of dangerous biological, chemical, or other materials, which could result in additional regulatory restrictions on,
+
+or scrutiny of, these offerings.
+
+In addition, maintaining comprehensive records of the actions, decisions, and reasoning of our agentic systems
+
+across complex, multi-step workflows is technically challenging, particularly when agents interact with third-
+
+party systems outside our control, and any inability to provide adequate audit trails could impair our ability to
+
+investigate incidents, respond to regulatory inquiries, or defend against liability claims. These risks are
+
+heightened by the fact that we use our own agentic offerings, including Claude Code, as critical tools in our
+
+internal development processes, such that any errors, vulnerabilities, or degradation in these products could
+
+directly impair our ability to develop and deploy future models and products. As we increasingly leverage
+
+Claude to accelerate progress within Anthropic, our organization may lose visibility across certain processes in a
+
+way that may become difficult for any individual or group of humans to understand and control. Because our
+
+models write a large and growing share of our code and increasingly perform our research, including our safety
+
+research, misaligned behavior in internal use could undermine that work, introduce vulnerabilities into our
+
+systems or into the training of future models, or result in models operating outside of our intended controls.
+
+Our monitoring does not cover all of our internal and external deployments and may not detect subtle or diffuse
+
+forms of such behavior.
+
+Any of the foregoing model behaviors, whether in testing or in real-world deployments and whether involving
+
+our models or those of others, could result in safety incidents, reputational harm, increased regulatory scrutiny,
+
+or liability, any of which could adversely affect our business, financial condition, and results of operations.
+
+Furthermore, while we continue to design and develop more sophisticated techniques to evaluate the safety and
+
+alignment of our models, the capabilities of our models could advance at a rate that initiates the
+
+implementation of enhanced safety and testing measures as we have described in our Responsible Scaling
+
+Policy. If our evaluations, monitoring, or reviews indicate risks that we believe warrant further testing, we have
+
+in the past, and may in the future, delay, restrict, or decline to proceed with the release of a model. For example,
+
+following incidents in 2026 in which our models gained unauthorized access to real computer systems during
+
+pre-release cybersecurity evaluations, we suspended certain of those evaluations, as well as higher-risk
+
+reinforcement learning environments. For more information about our approach to model releases, please see
+
+the section titled BusinessSafety Research is Core to Our BusinessOur Approach to Model Releases. Any
+
+decision to delay or restrict a release could adversely affect our competitive position and customer
+
+relationships, and adversely affect our business, financial condition, and results of operations.
+
+We may be exposed to liability, litigation, and regulatory action arising from harms
+
+associated with our AI models, and our contractual protections and insurance may be
+
+insufficient, any of which could adversely affect our business, financial condition, and results
+
+of operations.
+
+Harms associated with our AI models, whether arising from misuse by third parties, from our models own
+
+behavior, or from their deployment in high-risk or sensitive contexts, may expose us to liability, litigation, and
+
+regulatory action, including under theories that remain unsettled as applied to AI, and our contractual and
+
+insurance protections may prove insufficient.
+
+49
+
+Table of Contents
+
+Individuals at risk of suicide or self-harm or who have committed acts of violence toward others have used, and
+
+may also in the future use, our models, notwithstanding our safeguards. AI models developed by others in our
+
+industry have been and may in the future be alleged to have played a role in instances of suicide, acts of violence
+
+toward others, or serious self-harm, which have resulted and may in the future result in significant public
+
+scrutiny, litigation, criminal investigations, regulatory attention, and reputational harm.
+
+Similar incidents involving our models have presented and could in the future present substantial risk to our
+
+reputation, expose us to legal, regulatory, and other proceedings, and adversely affect our business, financial
+
+condition, and results of operations. While our current Consumer Terms of Service requires our users to be at
+
+least 18 years of age, minors have accessed in the past, and may in the future access, the platform, and risks
+
+relating to child safety may be particularly acute, as minors may be more susceptible to harmful content,
+
+manipulation, or overreliance on AI outputs, and incidents involving children tend to draw heightened
+
+regulatory, media, and public scrutiny.
+
+State attorneys general and private plaintiffs have also begun to assert tort, product liability, consumer
+
+protection, and failure-to-warn claims against companies in our industry, alleging that AI models caused or
+
+contributed to harm and that the developer failed to adequately warn users of known risks. In at least one case,
+
+a state attorney general has initiated a criminal investigation against another company offering similar services.
+
+Regulators have obtained substantial monetary settlements and injunctive relief against other technology
+
+companies based on analogous theories of product-design or algorithmic harm, and we believe similar theories
+
+are likely to continue to be tested against us and other companies in our industry as adoption of our models
+
+grows, including by minors and other vulnerable users, notwithstanding our efforts to restrict such access. The
+
+relief sought in such matters has, in at least one instance, extended beyond data-handling, disclosure, or age-
+
+verification practices to include a request to enjoin an AI company from developing new models absent
+
+independent, third-party safety review and approval, illustrating the potential breadth of remedies
+
+governmental actors may pursue against companies in our industry. Any determination that we are liable under
+
+such theories, or any judicial or regulatory expansion of tort, product liability, or consumer protection law, or
+
+criminal liability, as applied to AI models, could result in significant liability and require us to change how we
+
+design and offer our models, platform, and applications.
+
+A substantial portion of our traffic is subject to Zero Data Retention (ZDR) terms under which we retain only
+
+classifier scores, not prompts or outputs. For that traffic, we cannot conduct offline analysis, cross-conversation
+
+investigation, human review, or otherwise analyze historical data to detect, investigate, and document security
+
+events or incidents, which thereby reduces our ability to detect misuse. ZDR may also prevent us from
+
+producing records for subpoenas, regulatory examinations, or incident-reporting obligations, and there is no
+
+certainty a regulator or court would excuse non-production based on a lack of available records, and such
+
+regulators or courts may construe the lack of records against us through unfavorable inferences or other
+
+sanctions. As our models become more capable, our safety framework has required and may continue to require
+
+monitoring and retention incompatible with ZDR for certain model classes. Because ZDR is a competitive
+
+expectation for enterprise customers in regulated industries and on third-party cloud platforms, these
+
+requirements have caused and could continue to cause customers to migrate to other providers or to
+
+deployments where our visibility is more limited.
+
+In the European Union (EU), the United Kingdom (UK), and elsewhere, cybersecurity and AI-related
+
+incidents are subject to increasingly stringent reporting obligations. European regulators expect companies to
+
+provide detailed information about incidents under several laws and regulations, which we may not be able to
+
+provide within the prescribed time frame. Similarly, in the United States, companies are increasingly subject to
+
+incident reporting obligations. In addition, other jurisdictions around the world have adopted, or may adopt,
+
+similar laws and regulations with similar implications. Any of the foregoing could result in regulatory action,
+
+litigation, customer attrition, or reputational harm that adversely affects our business. For more information
+
+regarding our incident reporting obligations, see the section titled Any security breaches or other incidents,
+
+including those that affect our networks, systems, or data, or the networks, systems, or data of our service
+
+providers, suppliers, or customers, could adversely affect our business, financial condition, and results of
+
+operations.
+
+The legal frameworks governing liability for actions taken autonomously by AI systems, including our agentic
+
+products, are unsettled and could expose us to significant and unpredictable legal claims. Existing legal
+
+doctrines governing agency, product liability, and professional negligence were developed in the context of
+
+50
+
+Table of Contents
+
+human decision-making and have not been authoritatively applied to autonomous AI systems. We believe our
+
+provision of intelligence service is considered a service in the context of legal frameworks addressing product
+
+liability, but courts and regulators may reach different conclusions across jurisdictions. In addition, it is unclear
+
+whether, and under what circumstances, actions taken by an AI agent could be deemed to create binding legal
+
+obligations on behalf of the user or deploying enterprise, or whether our contractual protections, including
+
+limitation of liability and indemnification provisions, will be enforceable or adequate in the context of claims
+
+arising from autonomous agent conduct. We may face claims from customers, their end users, or third parties
+
+alleging that we are liable for harm caused by our agents autonomous actions, even where the customer
+
+configured, deployed, or supervised the agent. The absence of settled legal standards creates significant
+
+uncertainty regarding our potential liability exposure and the adequacy of our risk mitigation measures.
+
+Our expansion into new geographic markets further compounds these risks, as we must navigate differing
+
+cultural norms regarding AI use, comply with diverse and evolving regulatory regimes that may impose varying
+
+safety, compliance, or liability requirements, address language-specific vulnerabilities and content moderation
+
+challenges, and potentially face regulatory enforcement actions, litigation, or other liabilities in jurisdictions
+
+where we have more limited operational experience, including heightened risks of intellectual property theft,
+
+unauthorized model access, or misuse associated with operating data center infrastructure in certain non-U.S.
+
+locations.
+
+If our models are involved in causing significant harm, we could be subject to legal claims, including personal
+
+injury or negligence claims, regulatory enforcement actions, criminal investigations, or other governmental
+
+efforts, which could result in costly litigation, significant financial judgments or settlements, disruptive
+
+remediation obligations, or a challenging regulatory landscape. We have taken steps to limit our liability for
+
+such mattersfor example, through warranty disclaimers and limitations of liability in our terms of service
+
+but those contractual protections may not be upheld, or may not apply to certain claims, or may otherwise be
+
+insufficient to limit our liability exposure under applicable law. Moreover, in some cases we have contractually
+
+assumed additional liability. For example, to facilitate independent testing and evaluation of our frontier
+
+models, we have agreed to indemnify certain external evaluators and testing vendors for specified losses arising
+
+from testing activities, including security incidents, data loss, data breaches, and other harms associated with
+
+such activities. Although our agreements with external evaluators and testing vendors generally limit the
+
+amount of our indemnification obligations, certain of these agreements require us to defend and indemnify the
+
+evaluator, without a cap on our liability, against certain third-party claims. These include claims arising from
+
+allegations that our models or their outputs, as used in the evaluators authorized testing, infringe third-party
+
+intellectual property or other proprietary rights, as well as certain other claims arising from the testing or
+
+related engagement. Because our models may behave in ways that no user or developer intended, claims arising
+
+from such actions could result in substantial liability. Our insurance policies also may not provide sufficient
+
+coverage to adequately mitigate the potential liabilities we face, especially where any one incident, or a group of
+
+incidents, causes disproportionate harm. In addition, with the scale of harm that could result from a
+
+catastrophic AI-related incident, no single insurer, and potentially the insurance industry in the aggregate, may
+
+have sufficient capacity or expertise to underwrite insurance commensurate with such exposure.
+
+Further, the insurance market for AI-specific risks is nascent and evolving, and we may be unable to obtain
+
+coverage for certain AI-related liabilities on commercially reasonable terms, or at all, leaving us exposed to
+
+potentially significant uninsured losses. Harmful incidents involving our models, regardless of fault, could also
+
+severely and disproportionately damage our reputation and brand as a safety-focused AI company, leading to
+
+loss of customer trust and customer attrition, reduced demand for our models, platform, and applications, and
+
+difficulty attracting and retaining talent. In addition, because we primarily serve enterprise customers, which
+
+often have heightened expectations around safety, reliability, and compliance, any harmful incident or
+
+perceived lapse in our safety practices could have a disproportionate adverse impact on our brand, customer
+
+relationships, and revenue. Moreover, to the extent enterprises are attracted to our models, platform, and
+
+applications due to our safety-focused positioning, any erosion of that perception could impair our ability to
+
+attract and retain enterprise customers.
+
+There can be no assurances that we will be able to predict, detect, and proactively prevent every harmful use or
+
+harmful output of our AI models, in particular as we continue to rapidly develop our models, platform, and
+
+applications, and expand our operations geographically, and any failure to do so could adversely affect our
+
+reputation and brand or result in costly legal liability. There may have been past instances of harmful use or
+
+51
+
+Table of Contents
+
+harmful output of our models that we did not detect, and there may be future instances that we will not detect.
+
+Any of the foregoing risks could adversely affect our business, financial condition, and results of operations.
+
+If we are unable to manage the risks related to our focus on and commitment to AI safety, our
+
+brand, business, financial condition, and results of operations could be adversely affected.
+
+Balancing Safety and Commercial Objectives. Our commitment to AI safety requires us to make difficult
+
+judgments that balance safety considerations against commercial objectives, competitive pressures, and
+
+stakeholder expectations. We often make judgment calls with respect to when we determine a model is safe
+
+enough to release and which capabilities to develop or restrict. For example, in April 2026, we initially released
+
+our frontier model, Mythos, as a gated research preview through Project Glasswing, available to select
+
+organizations for cybersecurity applications, rather than making it broadly available at launch due to its
+
+advanced capabilities in cyber vulnerability discovery. We expect that frontier models with similar or enhanced
+
+capability profiles, whether developed by us or by other AI labs, will continue to emerge, and that future
+
+Anthropic models exhibiting such capabilities may be subject to access constraints. More broadly, we believe it
+
+is important to assess the safety of our models not only at release but throughout their development. For
+
+models we anticipate will have novel capabilities or present novel safety risks, we plan to evaluate the safety of
+
+each stage of training, including pretraining, post-training, and internal deployment, and we may delay or
+
+pause a stage when we are not confident in our safety measures for that stage. For example, we recently chose to
+
+delay pre-training a new frontier base model for more than a month to allow time to further enhance our
+
+security measures related to preventing model weight exfiltration and protecting our intellectual property.
+
+There can be no assurance, however, that the safeguards or access regimes we adopt will prove adequate, that
+
+we will correctly identify which capabilities require restriction, or that constraints we impose will not be
+
+circumvented. These judgments are particularly consequential because, as AI systems become more capable,
+
+the potential severity of harm from misaligned or misused models increases correspondingly, and a wide range
+
+of stakeholders, including researchers and policymakers, have raised concerns that sufficiently advanced AI
+
+systems could pose catastrophic or existential risks to society if not developed and deployed responsibly. Our
+
+safety-focused approach is designed in part to mitigate such risks, but there can be no assurance that our efforts
+
+will be successful or that the broader AI industry will adopt similar safeguards. In particular, as AI systems
+
+become more autonomous and capable of taking consequential actions with less human oversight, there is a
+
+risk that such systems could, whether due to misalignment with human intentions, errors in objective
+
+specification, or self-preserving behaviors, take harmful actions independently and at scale without human
+
+intervention. Even if our own models do not cause such harm, a significant safety incident involving any
+
+frontier AI could trigger broad reputational damage to the AI industry, public backlash, and sweeping
+
+regulatory responses that could adversely affect our business. For example, in September 2026, media reports
+
+citing a senior Federal Trade Commission (FTC) official indicated that the FTC has opened non-public
+
+investigations into the potential risks that increasingly autonomous AI systems may pose to consumers. In
+
+October 2026, the FTC issued a civil investigative demand to us seeking information about our consumer
+
+protection, data protection, and privacy practices, as well as the safety and security of our products. The scope
+
+of any investigation of us or its outcome, and any investigation, enforcement action, or adverse finding arising
+
+from this or similar inquiries could result in significant costs, require changes to how we design, test, or deploy
+
+our models, platform, and applications, or otherwise adversely affect our business, financial condition, and
+
+results of operations. We may misjudge these trade-offs, either by being overly cautious and potentially losing
+
+market opportunities, or by being insufficiently rigorous and releasing models, platforms, or applications that
+
+cause harm. Even where human oversight mechanisms are in place, such mechanisms may prove insufficient in
+
+practice if the volume, speed, or complexity of autonomous agent actions exceeds the capacity of human
+
+reviewers to meaningfully evaluate and intervene, and any perceived failure of our oversight mechanisms could
+
+expose us to regulatory enforcement, liability claims, and reputational harm. For more information, see the
+
+section titled If the use of our AI models results in harm, whether through use by malicious actors or misuse
+
+by other third parties, or if our model guardrails or safeguards fail to prevent such misuse, our reputation and
+
+brand, business, financial condition, and results of operations could be adversely affected.
+
+Moreover, governmental authorities have restricted, and may in the future further restrict, the availability of
+
+our models, including based on their assessment of the capabilities or safeguards of our models, independent of
+
+our own safety-based access decisions. For example, in June 2026, the U.S. Department of Commerce imposed
+
+worldwide export restrictions on our Fable 5 and Mythos 5 models, which we disabled for all customers until
+
+those restrictions were lifted. For more information, see the section titled Governmental trade controls,
+
+52
+
+Table of Contents
+
+including export and import controls, sanctions, customs requirements, and related regimes, could subject us to
+
+liability or loss of contracting privileges or limit our ability to compete in certain markets.
+
+Internal Governance and Decision-Making
+
+To institutionalize our safety commitments and ensure we are managed in a manner that responsibly balances
+
+our tripartite goals as a PBC, we have established the LTBT, which through a special class of common stock,
+
+Class T common stock, generally has the authority to elect and remove the Class T directors, who together will
+
+constitute a majority of the authorized members of our board of directors. In addition to the LTBT and our
+
+structure as a PBC, we train our models in accordance with Claudes constitution, which we make publicly
+
+available, and have adopted and continue to update safety policies, such as our Responsible Scaling Policy. We
+
+also solicit and seriously consider input from a wide range of stakeholders and constituents, including our
+
+stockholders, employees, customers, the LTBT, industry leaders and experts, and AI safety organizations. Such
+
+practices and processes have previously resulted in, and may in the future result in, slower decision-making and
+
+product releases. We may also face potential conflicts when safety and business interests diverge. If we do not
+
+successfully manage these risks related to our AI safety processes and practices, or if there is a perception that
+
+we have not successfully managed such risks, we may face reputational harm, internal conflicts resulting in a
+
+deterioration of our company culture, slower or inferior product releases, or litigation. For more information,
+
+see the section titled Risks Related to our Governance Structure.
+
+We have implemented an external reviewer program and engage researchers, adversarial testers, and other
+
+third parties to support aspects of our safety, security, and model-evaluation efforts. Certain of these
+
+arrangements are novel and may require us to provide such parties with access to internal information,
+
+systems, personnel, or models, which could increase the risk of disclosure of confidential, proprietary, or other
+
+sensitive information. In addition, findings, assessments, or public statements by such third parties may differ
+
+from our views and could adversely affect customer trust, regulatory perceptions, or our reputation.
+
+Heightened Reputational Vulnerability. As we have publicly positioned ourselves as a safety-focused
+
+organization, we face heightened vulnerability to reputational harm from any perceived inconsistency between
+
+our stated values and actual practices. We are held to higher standards than certain competitors that have not
+
+made similar public commitments, and any incidents impacting our perception as a safety-focused organization
+
+could result in
+
+Employee Disruption. Employees who joined our company based on our safety commitments may
+
+experience a decline in morale, disillusionment, a loss of trust in leadership, or reduced productivity if
+
+they perceive we are not living up to our stated values. Public disagreements regarding our safety
+
+approach, including criticism from current or former employees, or the departure of personnel
+
+associated with our safety efforts, could amplify such perceptions. Such negative perceptions could also
+
+impair our ability to recruit and hire new talent to the organization. Any erosion of our safety-focused
+
+reputation could also make it more difficult or costly to attract and retain highly skilled employees,
+
+including by increasing compensation or other hiring costs. These dynamics could lead to increased
+
+turnover,loss of institutional knowledge, and reduced effectiveness of our teams, which could in turn
+
+cause disruption to ongoing development and safety initiatives and impair our abilityto remain at the
+
+frontier of AI model development.
+
+Customer Backlash. Customers and enterprise partners who choose to deploy our models, platform,
+
+and applications based on our safety positioning may lose trust in us, terminate or decline to renew
+
+their contracts, demand refunds, publicly criticize our company, or switch to our competitors, which
+
+could result inharm to our reputation, revenue loss, and reduced market share.These risks may be
+
+heightened with respect to programs in which we make models available only to a limited group of
+
+vetted organizations, such as Project Glasswing. Organizations not selected for, or removed from, such
+
+programs may perceive our access decisions as arbitrary, exclusionary, or anticompetitive, which could
+
+result in reputational harm, loss of customer or partner relationships, regulatory complaints, or
+
+litigation, including claims under antitrust or unfair competition laws. Conversely, participants in such
+
+programs may publicly criticize us or terminate their participation if program terms, eligibility criteria,
+
+transition arrangements to successor models, or capability levels do not meet their expectations.
+
+53
+
+Table of Contents
+
+Regulatory Scrutiny. Regulators may subject us to heightened oversight, investigations, enforcement
+
+actions, or new or more burdensome compliance requirements based on the capabilities of our models,
+
+platform, and applications or perceived failures to meet our own stated standards, which could
+
+increase our operational costs and limit our ability to deploy our models, platform, and applications.
+
+Damaging Media Coverage. Negative press coverage could amplify concerns about our safety
+
+practices, reach broader audiences, including potential customers and investors, create lasting
+
+reputational damage through viral social media discussion, and make future incidents subject to
+
+heightened scrutiny, which could further exacerbate the adverse effects of any perceived failures to
+
+meet our stated standards.
+
+Litigation.We may face lawsuits from stockholders alleging misrepresentation, from customers
+
+claiming breach of contractual or implied commitments, or from other parties alleging harm resulting
+
+from the gap between our stated values and actual practices, leading to legal costs, settlements,
+
+judgments, injunctions, or other liabilities and remedies.
+
+Any safety-related controversy or incident, whether actual or perceived, and regardless of fault or frequency,
+
+could prove significantly damaging to our business. In addition, we have engaged with governments in Canada,
+
+the EU, the UK, the United States, and other jurisdictions in connection with Project Glasswing and related
+
+frontier-capability programs, and we have positioned such programs, in part, to help provide the foundation for
+
+broader industry coordination on the responsible release of frontier models with cybersecurity and other
+
+advanced capabilities. The commercial viability of these and similar future programs may depend on sustained
+
+governmental and industry coalition support. If such coalitions fail to materialize, are perceived as exclusionary
+
+or anticompetitive, are rolled back, or result in mandates we cannot readily satisfy (including with respect to
+
+access, localization, monitoring, or reporting), our ability to commercialize models with Mythos-class
+
+capabilities, and the reputational benefits we derive from safety-focused positioning, could be materially
+
+impaired. For more information, see the section titled If we are unable to maintain and enhance our brand
+
+and reputation, our business, financial condition, and results of operations may be adversely affected.
+
+We voluntarily publicly disclose information regarding AI safety challenges, research findings, and limitations
+
+of our models and systems, that exceeds standard industry practice and regulatory requirements. While our
+
+intent with these voluntary disclosures is to advance the safe development of AI and build public trust, these
+
+disclosures create several risks. The AI safety landscape is nascent and evolving rapidly, and our understanding
+
+of and perspective on appropriate safety practices, risk tradeoffs, and deployment contexts may change over
+
+time as technologies, use cases, and regulatory expectations develop. As a result, statements we make today
+
+may later prove incomplete, require modification, or be interpreted differently in light of subsequent
+
+developments. To the extent we adhere to prior public statements or frameworks, we may also limit our
+
+operational flexibility, product development, or deployment decisions, even where evolving circumstances
+
+would otherwise warrant a different approach. Our public statements about AI risks, safety challenges, areas of
+
+uncertainty, or potential societal impacts, including statements regarding job displacement or economic
+
+disruption, may be used against us in litigation, regulatory proceedings, or public controversies, particularly if
+
+our future actions or statements are viewed as inconsistent with our prior statements and commitments.
+
+Regulators have and could continue to use our disclosures as the basis for heightened scrutiny or more
+
+stringent requirements applicable to us compared to less transparent competitors. Additionally, our disclosures
+
+have provided, and may in the future provide, competitors with insights into our proprietary training and other
+
+sensitive processes, research priorities, and strategic concerns, without reciprocal transparency, which may be
+
+potentially competitively disadvantageous to us. If we are unable to effectively manage the foregoing risks, our
+
+brand, reputation, and ability to compete could be adversely affected.
+
+Resource Allocation and Scaling. Safety-focused development is resource-intensive. We must allocate limited
+
+resources, capital, and talent between safety-focused workloads and other initiatives, often without clear
+
+returns on our safety-focused investments. For example, our investments in interpretability research and
+
+techniques designed to ensure our models behavior remains consistent with intended goals, values, and safety
+
+objectives may not yield actual or perceived commercial returns. Additionally, as we develop our models,
+
+platform, and applications, safety testing may become more expensive and resource intensive. Limited-access
+
+programs such as Project Glasswing may also require us to design, operate, and continually maintain bespoke
+
+vetting, contracting, monitoring, and offboarding processes that differ materially from our standard
+
+commercial release processes, including coordination among participating organizations, transition planning to
+
+54
+
+Table of Contents
+
+successor models, and enhanced internal controls commensurate with the heightened sensitivity of the
+
+underlying capabilities. These activities impose ongoing operational, legal, and security costs that may recur as
+
+future frontier models with similar capability profiles are released. If we fail to successfully manage resource
+
+allocation or develop more efficient methods with respect to our safety initiatives, our safety outcomes,
+
+business, financial condition, and results of operations could be adversely affected.
+
+As our product portfolio and employee and customer base expand globally, applying safety principles
+
+consistently across our rapidly expanding organization, models, platform, applications, use cases, and
+
+jurisdictions and regulatory regimes has become increasingly challenging. For more information, see the
+
+section titled To continue to grow our business, we will need to continue to expand internationally, and our
+
+non-U.S. operations and sales to customers outside of the United States expose us to risks inherent in
+
+international expansion, sales, and operations.
+
+If we are unable to successfully manage the foregoing risks related to our focus and commitment to AI safety,
+
+our business, financial condition, and results of operations could be adversely affected.
+
+If we are unable to maintain and enhance our brand and reputation, our business, financial
+
+condition, and results of operations may be adversely affected.
+
+We believe that maintaining and enhancing our brand identity and reputation is critical to our relationships
+
+with, and to our ability to attract and retain, customers, partners, and employees. Our brand and reputation are
+
+influenced not only by our actions, but also by the actions of our partners, our customers, and other third
+
+parties with whom we do business, and by broader public perceptions of the AI industry, and we may be
+
+grouped with other industry participants and judged similarly, regardless of differences in our approach or
+
+conduct. The successful promotion of our brand depends on a number of factors, including our ability to
+
+continue to develop and deliver reliable, high-quality, and responsible models, platforms, and applications that
+
+meet the needs of our customers our sales and marketing efforts, including our effectiveness at developing a
+
+strong brand name and positive presence within the AI industry through participation in industry events and
+
+key media coverage the perceptions and experiences of both our enterprise and individual customers,
+
+including through testimonials, use cases, and word-of-mouth our ability to maintain security and reliability of
+
+our models, platform, and applications the actions of our management and our ability to differentiate our
+
+models, platform, and applications from those of our competitors, including through product design choices,
+
+safeguards, business models, and policies, including our approach to monetization strategies that differ from
+
+those of certain competitors. In addition, our brand is subject to heightened scrutiny with respect to perceived
+
+societal, environmental, labor, health, and safety-related impacts of AI technologies, and a single perceived
+
+failure could result in outsized reputational harm. For example, as AI systems become more capable or
+
+prevalent, public perception that our models, platform, and applications contribute to job displacement or
+
+economic disruption could generate significant negative media coverage, customer or employee backlash, or
+
+organized opposition, regardless of the actual impact of our models, platform, and applications on employment.
+
+Our ability to maintain and enhance our brand and reputation also depends on the effectiveness and scalability
+
+of our internal communications and reputation-management capabilities, including our ability to support
+
+global operations, and limitations in these areas could adversely affect our brand as we grow. Our crisis
+
+response and reputation-management capabilities may be limited or underdeveloped, particularly as we scale,
+
+which could impair our ability to respond effectively to adverse events and mitigate reputational harm.
+
+The promotion of our brand requires us to make substantial expenditures, which we anticipate will increase as
+
+our market becomes more competitive. We have in the past, and may in the future, face challenges in building
+
+broader brand awareness and may fall behind competitors with more established or widely recognized brands.
+
+Our brand promotion activities may not be successful or generate the awareness or increased revenue we
+
+expect, and even if they do, any increase in revenue may not offset the significant expenses we incur in the
+
+efforts to build our brand.
+
+If we do not successfully maintain and enhance our brand, our business may not grow, we may have reduced
+
+pricing power relative to competitors, we could lose customers or fail to attract potential customers or we could
+
+fail to hire and retain employees, all of which could adversely affect our business, financial condition, and
+
+results of operations.
+
+55
+
+Table of Contents
+
+We derive substantially all of our revenue from a limited number of products and
+
+applications, and our failure to maintain and expand our product portfolio could adversely
+
+affect our business, financial condition, and results of operations.
+
+We currently derive substantially all of our revenue from a limited number of products and applications,
+
+primarily our Claude models and portfolio of applications that sit on top of the Claude Platform. This
+
+dependence on a narrower set of offerings subjects us to various risks that could adversely affect our business,
+
+financial condition, and results of operations.
+
+Our concentration in a limited number of products and applications, as well as our focused development
+
+strategy within specific areas of the broader AI landscape, reduces our ability to mitigate business risks through
+
+diversification. While this focused approach may enable us to allocate resources efficiently and compete

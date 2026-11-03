@@ -1,0 +1,2565 @@
+We are subject to claims, lawsuits, arbitration proceedings, government inquiries and investigations, executive
+
+and administrative orders and directives, and other legal, regulatory, and administrative actions and
+
+proceedings, including those involving intellectual property disputes, compliance with regulatory requirements,
+
+government approvals and authorizations, labor and employment, anti-discrimination, commercial disputes,
+
+competition, privacy, consumer protection, customer complaints, advertising, and other matters relating to our
+
+technology, models, platform, and applications, and we may become subject to additional types of claims,
+
+lawsuits, arbitration proceedings, government inquiries and investigations, executive and administrative orders
+
+and directives, and other legal, regulatory, and administrative actions and proceedings as our business grows
+
+and as we deploy new technologies, models, platforms, and applications. In particular, as our models, platform,
+
+and applications increasingly include agentic AI systems capable of taking autonomous actions with real-world
+
+consequences, we may face novel legal theories of liability, including intellectual property infringement,
+
+product liability, agency, and negligence claims, that have not been tested in the context of autonomous AI
+
+systems and for which the scope of our potential exposure is uncertain. In addition, as we expand our
+
+healthcare and life sciences offerings, regulators may conclude that certain of our products, or our customers
+
+use of them, are subject to healthcare regulation or to other laws governing healthcare and health information,
+
+which could require us to obtain authorizations, modify or restrict our offerings, or incur significant compliance
+
+costs. Errors or other undesirable outputs from our models in these contexts could contribute to patient harm,
+
+compromised research, or regulatory failures by our customers, and could expose us to claims from customers,
+
+patients, and other third parties, as well as to regulatory inquiries and enforcement actions.
+
+We are also subject to antitrust and competition law risk arising from our public advocacy regarding AI safety
+
+and the responsible pace of AI development and from our participation in industry groups, safety
+
+collaborations, and standard-setting initiatives. Communications, advocacy, or collaboration among companies
+
+that develop frontier AI models, or conduct alleged to reflect coordination among such companies, may be
+
+characterized as concerted action subject to the antitrust and competition laws, including Section 1 of the
+
+Sherman Act and analogous state and non-U.S. laws, even where undertaken for safety purposes, conducted
+
+publicly, or intended as advocacy for governmental action or industry standards. In September 2026, a putative
+
+class action was filed against us and other developers of frontier AI models in the U.S. District Court for the
+
+Northern District of California, alleging that we and the other defendants agreed to restrain competition by
+
+slowing the pace at which we develop and improve our respective AI models, in purported violation of Section 1
+
+of the Sherman Act. The complaint seeks treble damages, injunctive relief, and other relief on behalf of a
+
+purported class of purchasers of the defendants paid consumer subscriptions. We disagree with the claims and
+
+intend to defend the matter vigorously, but the outcome of this and any similar proceeding is inherently
+
+uncertain.
+
+Antitrust litigation can be complex, protracted, disruptive, and expensive, and an adverse outcome could result
+
+in treble damages and injunctive relief. We could also become subject to additional private litigation or to
+
+investigations or enforcement actions by the U.S. Department of Justice, the FTC, state attorneys general, or
+
+non-U.S. competition authorities. We have proposed public efforts to work with the U.S. government and other
+
+developers of frontier AI models to establish safety standards, including with respect to the pace of capability
+
+development, and have suggested that such collaboration may warrant a narrow exemption or safe harbor from
+
+antitrust laws. These proposals have drawn public opposition from political leaders, some of whom have
+
+characterized such efforts as anticompetitive regardless of the purpose of such exemption or safe harbor. There
+
+is no assurance that any such exemption or safe harbor will be adopted. Our advocacy for such an exemption,
+
+and any safety commitments we pursue with other developers of frontier AI in its absence, could subject us to
+
+99
+
+Table of Contents
+
+additional regulatory, litigation, and other risks. These risks may cause us to limit or modify our public
+
+advocacy, our participation in industry safety and standard-setting initiatives, and our communications with
+
+other developers of frontier AI, which could adversely affect our ability to pursue collaborative approaches to AI
+
+safety that we believe are important to our mission.
+
+The results of any such claims, lawsuits, arbitration proceedings, government inquiries and investigations,
+
+executive and administrative orders and directives, or other legal, regulatory, and administrative actions and
+
+proceedings cannot be predicted with any degree of certainty. Any claims, lawsuits, investigations, orders,
+
+directives, regulatory actions, or proceedings against us, whether meritorious or not, could adversely affect our
+
+revenue, cause potential customers to pause sales discussions, cause existing customers to delay, pause, or
+
+cancel contracts or seek to modify their contracts, undermine our ability to pursue future contracts, damage our
+
+relationships with partners and customers, adversely affect our institutional standing, undermine investor
+
+confidence, limit our ability to sell our models, platform, and applications in certain industries, result in costly
+
+litigation or regulatory or other defense, adversely affect our reputation, require significant management
+
+attention, consume significant time, and divert significant resources.
+
+Determining reserves for our pending litigation or other disputes is a complex and fact-intensive process that
+
+requires significant subjective judgment and speculation. It is possible that a resolution of one or more such
+
+proceedings could result in substantial damages, settlement costs, fines, and penalties that could adversely
+
+affect our business, financial condition, and results of operations. Because of the potential risks, expenses, and
+
+uncertainties of litigation or other dispute resolution processes, we may, from time to time, settle disputes, even
+
+where we have meritorious claims or defenses, by agreeing to settlement agreements, as we did, for example, in
+
+Bartz. Moreover, as in Bartz, insurance may not fully cover such claims, provide sufficient payments to cover all
+
+the costs to resolve one or more such claims, or continue to be available on terms acceptable to us. A claim
+
+brought against us that is uninsured or underinsured could result in unanticipated costs. These proceedings
+
+could also result in harm to our reputation and brand, sanctions, consent decrees, injunctions, or other orders
+
+requiring a change in our business practices. Further, under certain circumstances, we have contractual and
+
+other legal obligations to indemnify and to incur legal expenses on behalf of our business and commercial
+
+partners and current and former directors and officers. Any of these consequences could adversely affect our
+
+business, financial condition, and results of operations.
+
+We are subject to anti-corruption and anti-bribery laws, anti-money laundering laws, and
+
+similar laws.
+
+We are required to comply with the United States Foreign Corrupt Practices Act of 1977, the United Kingdom
+
+Bribery Act 2010, and other anti-corruption and anti-bribery laws, anti-money laundering laws, and similar
+
+laws in the United States and non-U.S. countries where we have operations and conduct business. Anti-
+
+corruption and anti-bribery laws, which have been enforced aggressively and are interpreted broadly, prohibit
+
+companies and their employees, agents, intermediaries, and other third parties from, among other things,
+
+promising, authorizing, making, or offering improper payments or other benefits to government officials and
+
+other persons in the public and private sector.
+
+We leverage third parties, including intermediaries and agents, to conduct our business and to sell our models,
+
+platform, and applications, and in connection with lobbying and other activities. We and these third parties
+
+have in the past and may in the future have direct or indirect interactions with officials and employees of
+
+government agencies, including state-owned or state-affiliated entities, and we potentially could be held liable
+
+for the corrupt or other illegal activities of third-party business partners and intermediaries, our employees,
+
+representatives, contractors, partners, agents, and other third parties, even if we do not explicitly authorize
+
+such parties activities.
+
+We cannot ensure that our policies and procedures to address compliance with these anti-corruption and anti-
+
+money laundering laws will be effective, or that all of our employees, representatives, contractors, partners,
+
+agents, intermediaries, or other third parties have not taken, or will not take, actions that violate these laws, for
+
+which we may be ultimately held liable.
+
+As we increase our non-U.S. sales and business, our risk of violating these laws may increase. Non-compliance
+
+with applicable anti-corruption and anti-bribery laws, anti-money laundering laws, and similar laws could
+
+subject us to criminal or civil sanctions, settlements, prosecution, loss of export privileges, suspension or
+
+100
+
+Table of Contents
+
+debarment from U.S. government contracts, other enforcement actions, disgorgement of profits, significant
+
+fines, damages, other civil and criminal penalties or injunctions, whistleblower complaints, adverse media
+
+coverage, and other consequences. Any investigations, actions, or sanctions could adversely affect our
+
+reputation, business, financial condition, and results of operations. Responding to any investigation or action
+
+could result in a significant diversion of managements attention and resources and significant defense costs
+
+and other professional fees.
+
+Governmental trade controls, including export and import controls, sanctions, customs
+
+requirements, and related regimes, could subject us to liability or loss of contracting
+
+privileges or limit our ability to compete in certain markets.
+
+Our models, platform, and applications are subject to U.S. export controls, and our current or future models,
+
+platform, and applications may be controlled under the Export Administration Regulations administered by the
+
+U.S. Department of Commerce or, in more limited circumstances, under the International Traffic in Arms
+
+Regulations (the ITAR) administered by the U.S. Department of State. Because the capabilities of our AI
+
+models are currently evolving rapidly through ongoing training and frequent model development, and because
+
+the export control treatment of AI technologies under relevant laws is developing, the classification of, and
+
+controls related to, our models, platform, applications, and technologies under these regimes are inherently
+
+uncertain and are likely to change over time. Certain of our models, platform, and applications, and the
+
+underlying technology and source code associated with our models, platform, and applications, may require
+
+authorization for export, re-export, or transfer in-country, and for individuals of certain nationalities to access
+
+such technology or source code, including within the United States.
+
+In particular, our core models, platform, and applications leverage encryption for data protection, and some of
+
+our future models, platform, and applications may be able to produce export-controlled software, which may
+
+subject exports, re-exports, and transfer of such models, platform, and applications to export authorization
+
+requirements.
+
+Our commercially available models, platform, and applications generally can be exported without an export
+
+license. However, some exports may require us to obtain authorization from the cognizant government agency.
+
+In certain contexts, the provision of our models, platform, and applications may constitute export of defense
+
+articles or defense services subject to the ITAR, which can be exported only if we obtain required export licenses
+
+or other government authorizations. Compliance with applicable export controls may delay the introduction or
+
+sale of our models, platform, and applications outside the United States, restrict our customers ability to deploy
+
+our models, platform, and applications globally, inhibit our ability to engage in certain research and
+
+development activities, limit the performance of our models, platform, and applications, or prohibit exports to
+
+certain jurisdictions altogether. Such restrictions have already affected our offerings directly. For example, in
+
+June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable 5 and
+
+Mythos 5 models. To ensure compliance, we disabled Fable 5 and Mythos 5 for all of our customers access to
+
+our other models was not affected. We redeployed the Fable 5 and Mythos 5 models after we updated our
+
+safeguards in coordination with the U.S. government and our industry partners and once the U.S. Department
+
+of Commerce lifted its restrictions. Similar export controls could recur, could remain in place longer, or could
+
+extend to additional models or capabilities. In addition, future updates to our safeguards or other remedial
+
+measures may not be sufficient to obtain relief from such restrictions or relief may not be granted on a similar
+
+timeline or at all. The restrictions imposed in June 2026 and potential restrictions in the future may also limit
+
+our ability to recruit talent, to fully utilize our existing workforce, to continue to improve our models, and to
+
+make our products available internationally. Any such restrictions could adversely affect our financial results
+
+impair the research, compute, and development investment our models represent and cause us to lose
+
+customers, partners, and market share, including to competitors not subject to similar restrictions.
+
+Further, our activities are subject to economic, financial, and trade sanctions administered by the United States
+
+and other countries. Economic, financial, and trade sanctions restrict or prohibit providing certain services and
+
+engaging in certain transactions or other activities or dealings with individuals, entities, organizations,
+
+governments, territories, and countries targeted by or the subject of these sanctions. These restrictions, as well
+
+as other applicable international trade rules, are subject to change with little to no notice. In addition, U.S. law
+
+increasingly authorizes the U.S. government to restrict or review the use of hardware, software, and services
+
+originating from, or linked to, countries it designates as adversaries, including such technology incorporated
+
+into the supply chains for the data centers and compute infrastructure on which we depend. Such restrictions
+
+101
+
+Table of Contents
+
+could narrow our choice of suppliers, delay our infrastructure projects, or increase our costs, and any non-
+
+compliance could result in penalties, loss of contracting privileges, or reputational harm.
+
+We take various steps to comply with applicable export controls and sanctions, including maintaining a global
+
+trade policy and a supported regions policy, implementing IP-based geo-blocking controls that restrict access
+
+from certain jurisdictions to our models, platform, and applications, conducting restricted party screening of
+
+certain customers and vendors, and including sanctions and export compliance provisions in our customer
+
+terms of service and vendor agreements. However, we cannot guarantee the compliance measures and internal
+
+controls we have adopted will prevent violations of applicable export controls and sanctions. Our compliance
+
+measures and internal controls have not always been and may not always be fully effective, and we have in the
+
+past voluntarily disclosed, and may in the future voluntarily disclose, instances of non-compliance to the
+
+relevant authorities. We cannot guarantee that our measures will prevent future violations or keep pace with
+
+the changing substance, application, and interpretation of export controls and sanctions. In addition, third
+
+parties have in the past and may in the future take action to circumvent our compliance measures and controls
+
+in order to gain access to our products and services.
+
+If we misclassify a product or service, export, re-export, transfer, or provide access to a product, or provide
+
+services in violation of applicable export controls or sanctions, or otherwise fail to comply with applicable
+
+export controls or sanctions, we could be subject to criminal or civil sanctions, settlements, prosecution, loss of
+
+export privileges, suspension or debarment from U.S. government contracts, other enforcement actions,
+
+disgorgement of profits, significant fines, damages, other civil and criminal penalties or injunctions,
+
+whistleblower complaints, adverse media coverage, and other consequences. Any investigations, actions, or
+
+sanctions could adversely affect our reputation, business, financial condition, and results of operations.
+
+Responding to any investigation or action could result in a significant diversion of managements attention and
+
+resources and significant defense costs and other professional fees.
+
+Decreased use of our models, platform, and applications by customers outside the United States or a limitation
+
+on our ability to export, provide access to, or sell our models, platform, and applications to customers and other
+
+parties outside the United States may cause our revenue from such unsupported jurisdictions to decline and
+
+otherwise adversely affect our business and financial condition.
+
+If we or our business partners or counterparties, including licensors and licensees, prime contractors,
+
+subcontractors, sublicensors, vendors, customers, or contractors, violate export controls or sanctions, including
+
+by failing to obtain appropriate import, export, or re-export licenses or permits, or if we fail to secure such
+
+contractual commitments from such parties, we may also be adversely affected through reputational harm as
+
+well as other negative consequences, including government investigations or penalties.
+
+Negative consequences stemming from violations or apparent violations of export controls or sanctions may
+
+include the loss of the right to sell our models, platform, and applications or services to the U.S. government, or
+
+to other U.S. or non-U.S. public bodies, or a reduction in our ability to compete for such sales opportunities
+
+involving government agencies or other public bodies. Further, ensuring that we are complying with applicable
+
+export controls and sanctions regulations may be time-consuming and could result in the delay or loss of sales
+
+opportunities in connection with particular transactions.
+
+Also, in addition to the United States, various countries regulate the import and export of certain encryption
+
+and other technology and have enacted laws that could limit our ability to distribute our models, platform, and
+
+applications or could limit our customers abilities to implement our models, platform, and applications in
+
+those countries. For example, following Russias invasion of Ukraine, the United States and other countries
+
+imposed financial and trade sanctions and export controls against Russia, Belarus, and certain regions of
+
+Ukraine, and the United States and other countries could impose wider sanctions and export restrictions and
+
+take other actions should the conflict further escalate. Any new export restrictions, new legislation, changes in
+
+sanctions, or shifting approaches in the enforcement or scope of existing regulations, or in the individuals,
+
+entities, governments, territories, countries, or technologies targeted by or subject to such regulations could
+
+result in decreased use of our models, platform, and applications by existing customers outside of the United
+
+States, reduced adoption of our models, platform, and applications by new customers with non-U.S. operations,
+
+limited expansion into new markets, and decreased revenue.
+
+102
+
+Table of Contents
+
+To continue to grow our business, we will need to continue to expand internationally, and our
+
+non-U.S. operations and sales to customers outside of the United States expose us to risks
+
+inherent in international expansion, sales, and operations.
+
+We are a U.S.-headquartered company with extensive U.S. operations, as well as subsidiaries and operations in
+
+several other countries and regions, including the United Kingdom, the EU, Canada, and Asia-Pacific, and we
+
+expect that our future growth will depend in part on expanding our operations, customer base, and market
+
+presence in additional jurisdictions. Operating in non-U.S. markets requires significant resources and
+
+management attention and subjects us to regulatory, economic, and political risks that are different from those
+
+in the United States. As we continue to expand internationally, we have faced and will continue to face risks in
+
+doing business internationally that could adversely affect our business, including
+
+the need to localize and adapt our models, platform, and applications for specific countries, including
+
+translation into foreign languages and associated expenses
+
+privacy laws, export controls, sanctions, and other national security regulations that impose different
+
+and potentially conflicting obligations with respect to how personal data is processed or require that
+
+customer data be stored in a designated territory
+
+laws in certain jurisdictions that may compel our personnel, vendors, or facility operators to provide
+
+governmental authorities with access to our systems, data, or other information, in some cases without
+
+notice to us and with limited means of recourse
+
+national security-driven data security regulations. For example, the Department of Justice issued a
+
+final rule, effective in April 2025, that places limitations, and in some cases prohibitions, on certain
+
+transfers of covered data to partners, service providers, vendors, employees, and investors located in
+
+China or with other specified links to China (and other designated countries). We may be required to
+
+re-examine current contracts or engage in new contract negotiations with third parties that aid in
+
+processing data on our behalf or otherwise have access to covered data. These rules also may broadly
+
+require us to extract promises from other third-party service providers that they will not transfer data
+
+we share with them onward to parties linked to countries of concern
+
+import regulations, including U.S. and non-U.S. governments restrictive trade policies, customs duties
+
+and other parallel regulations, tariffs, and countermeasures
+
+AI, data-related, cybersecurity, and digital service laws and regulations (such as the EU AI Act, NIS2,
+
+the EU Digital Services Act, the United Kingdoms Online Safety Act 2023, and the EU Data Act) that
+
+are rapidly evolving, require continuous monitoring to maintain compliance, and often provide for
+
+substantial penalties in the event of a violation
+
+difficulties in staffing and managing non-U.S. operations, including the complexity of engaging in
+
+various employer-of-record arrangements that are geographically dispersed, and the risk that these
+
+arrangements, or any failure to establish local employing entities on a timely basis, may not comply
+
+with local employment, labor, or tax laws, exposing us to fines, penalties, reclassification, or back-
+
+payment claims
+
+difficulties of maintaining our culture across various jurisdictions
+
+regulatory and other delays and difficulties in setting up non-U.S. operations, including delays in
+
+forming, registering, and obtaining governmental approvals for local subsidiaries, delays in
+
+establishing local banking, payroll, and benefits arrangements, and difficulties relating to safety of
+
+personnel and information, any of which could delay local hiring efforts
+
+the potential need for reviews by the U.S. government or non-U.S. governments of certain transactions
+
+with non-U.S. entities
+
+different pricing environments, longer sales cycles, longer accounts receivable payment cycles, and
+
+collections issues
+
+103
+
+Table of Contents
+
+new and different sources of competition
+
+weaker protection for, and practical difficulties in enforcing, intellectual property and other legal rights
+
+outside of the United States compared to protections available domestically
+
+laws and business practices favoring local competitors
+
+compliance challenges related to the complexity of multiple, conflicting, and changing governmental
+
+laws and regulations, including copyright, employment, tax, privacy, and data protection laws and
+
+regulations, export controls, and sanctions
+
+parties outside the United States seeking to circumvent sanctions and export controls
+
+increased financial accounting and reporting burdens and complexities
+
+increased costs in establishing infrastructure across various jurisdictions
+
+declines in the values of foreign currencies relative to the U.S. dollar
+
+restrictions on the transfer of funds
+
+potentially adverse tax consequences
+
+the cost of and potential outcomes of any claims or litigation
+
+future accounting pronouncements and changes in accounting policies
+
+changes in tax laws or tax regulations and
+
+regional and local economic and political conditions.
+
+Entry into certain transactions with non-U.S. entities or persons may be subject to government regulations and
+
+review, including review by U.S. or non-U.S. government entities related to contemplated or past foreign direct
+
+investment (FDI). In recent years, many countries around the world have adopted FDI regulatory regimes
+
+that seek to scrutinize investments into, and acquisitions of, domestic companies by non-domestic parties,
+
+granting governments broad discretion to review contemplated and past investment and acquisition
+
+transactions. These FDI regimes may restrict our ability to attract investments, invest in or fund partners
+
+outside of the United States that build or operate data centers or supply infrastructure for us, or acquire
+
+promising new technologies, companies, and talent in countries around the world, potentially limiting our
+
+ability to carry out our business strategy.
+
+More broadly, increasing geopolitical tensions, shifting national security priorities, and evolving technology-
+
+focused trade, export control, investment, and data-governance regimes may result in restrictions, heightened
+
+scrutiny, or other limitations on our ability to operate, sell products, partner with customers, or deploy our
+
+models in certain jurisdictions or with certain counterparties. Governments may adopt or expand policies
+
+aimed at protecting domestic technology ecosystems, restricting the cross-border flow of data, or limiting access
+
+to AI systems, which could reduce our addressable market, increase compliance costs, or require operational
+
+changes. In particular, the U.S. government has increasingly scrutinized AI companies exposure to Chinese
+
+state actors, and future executive orders, legislation, or regulatory actions could restrict our ability to serve
+
+customers or users connected to China, impose new compliance obligations, lead us to implement anti-abuse
+
+mechanisms or other technical access restrictions, or limit the deployment of our models in ways that reduce
+
+our addressable market. Any escalation of U.S.-China tensions, retaliatory measures by either government, or
+
+failure or perceived failure by us to prevent non-U.S. state-actor access to or misuse of our technology could
+
+subject us to regulatory action, reputational harm, and adverse effects on our business, financial condition, and
+
+results of operations.
+
+As we continue to expand our business globally, our success will depend, in large part, on our ability to
+
+anticipate and effectively manage these risks. These factors and others could adversely affect our ability to
+
+increase non-U.S. revenue and, consequently, could materially impact our business. The expansion of our
+
+existing non-U.S. operations and entry into additional non-U.S. markets will require significant management
+
+104
+
+Table of Contents
+
+attention and financial resources. Our failure to successfully manage our non-U.S. operations and the
+
+associated risks effectively could limit the future growth of our business.
+
+Increasing scrutiny and changing expectations from regulators, our investors, customers,
+
+and employees with respect to ESG may result in additional compliance risk and costs and
+
+may impact our reputation and business.
+
+Companies across many industries are facing increasing scrutiny related to their environmental, social, and
+
+governance (ESG) practices and reporting, both in the United States and internationally. For example, new
+
+U.S. and non-U.S. laws and regulations relating to ESG matters, including environmental sustainability and
+
+climate change, are under consideration, being adopted, or being rolled back or revised, which may impact our
+
+necessary disclosures and increase compliance costs. Further, there is particular focus on concerns relating to
+
+AI and its impact on society and the environment, including the power-intensive nature of the industry, public
+
+concern regarding high consumption of water, and reliance on critical minerals and rare elements in the
+
+manufacture of chips. Some investors may use these non-financial performance factors to guide their
+
+investment strategies and, in some cases, may choose not to invest in us if they believe our policies and actions
+
+relating to ESG are inadequate.
+
+Our sustainability initiatives, goals, or commitments could be difficult to achieve or costly to implement.
+
+Moreover, compliance with recently adopted and potential upcoming ESG requirements, including California
+
+legislation that requires various climate-related disclosures, the EUs Corporate Sustainability Reporting
+
+Directive and Corporate Sustainability Due Diligence Directive, and the United Kingdoms Streamlined Energy
+
+and Carbon Reporting framework, will require the dedication of significant time and resources. At the same
+
+time, anti-ESG sentiment has gained momentum across the United States, particularly at the federal level, and
+
+the federal and certain state governments have enacted or proposed anti-ESG policies or legislation or have
+
+issued related legal opinions. Such policies, legislation, initiatives, and scrutiny could expose any sustainability,
+
+employment, governance, or other corporate practices we adopt to the risk of litigation, antitrust investigations
+
+or challenges by federal or state authorities, and result in injunctions, penalties, and reputational harm.
+
+Additionally, if our competitors corporate social responsibility performance is perceived to be better than ours,
+
+potential or current investors may elect to invest with our competitors instead. Our business may face increased
+
+scrutiny related to these activities and our related disclosures, including from the investment community and
+
+the local communities in which we operate, and our failure to achieve progress or manage the dynamic, and at
+
+times conflicting, public sentiment and legal landscape in these areas on a timely basis, or at all, could adversely
+
+affect our reputation, business, and financial condition. Further, we may experience backlash from customers,
+
+government entities, advocacy groups, employees, or other stakeholders who disagree with our actual or
+
+perceived positions, or with our lack of position on social, environmental, governance, political, public policy,
+
+economic, geopolitical, or other sensitive issues. Any perceived lack of transparency about these matters could
+
+adversely affect our brand and reputation, our employees engagement and retention, and the willingness of our
+
+customers and partners to do business with us. Both advocates and opponents of ESG-related matters are
+
+increasingly resorting to a range of activism forms, including media campaigns and litigation, to advance their
+
+perspectives. To the extent we are subject to such activism, it may require us to incur costs or otherwise
+
+adversely affect our business, financial condition, and results of operations.
+
+If we or our payment processing partners fail to manage the risks related to our payment
+
+processing activities, we could be subject to fines, regulatory scrutiny, disruptions to our
+
+business, or reputational harm.
+
+A portion of our customers authorize us to bill their credit card accounts through our third-party payment
+
+processing partners for our paid subscriptions. We have experienced, and expect to continue to experience,
+
+fraudulent activity, including the creation of accounts using false identities and the use of stolen or otherwise
+
+unauthorized payment credentials, which has resulted, and may in the future result, in losses, including
+
+payment processing fees, chargeback fees, and fines and penalties imposed by our payment processors or card
+
+networks, for which we may not be reimbursed. We maintain fraud-detection and identity-verification
+
+measures, but these measures have not identified, and may not identify, all such activity. Further, our
+
+customers provide us with credit card billing information online, and we do not verify the physical identity of
+
+cardholders or conduct additional verification beyond what we collect online, which increases our risk of
+
+exposure to fraudulent activity.
+
+105
+
+Table of Contents
+
+We also incur chargebacks when customers or card issuers claim that a transaction was unauthorized or
+
+otherwise improper. If the volume of chargebacks were to become excessive, we could be subject to higher
+
+processing fees, additional fines, fraud mitigation requirements, or the termination or suspension of our ability
+
+to accept certain payment methods, including credit cards, through one or more payment processors.
+
+In addition, payment processors, card networks, and financial institutions periodically revise their rules,
+
+standards, and practices, including data protection and documentation standards, required to utilize their
+
+services. Our compliance with these evolving requirements, and the continued compliance of our third-party
+
+payment processing partners, may require additional operational resources and expense. Failure by us or our
+
+payment processing partners to comply with applicable standards could result in fines, increased scrutiny,
+
+disruptions to our business and our ability to process payments for our intelligence service, or reputational
+
+harm.
+
+Risks Related to Tax and Accounting Matters
+
+Changes in tax laws or regulations could be enacted, or existing tax laws or regulations could
+
+be applied to us or our customers in a manner that could increase the costs of our models,
+
+platform, and applications and adversely affect our business.
+
+We operate in multiple jurisdictions and are subject to tax laws and regulations of U.S. federal, state, and local
+
+and non-U.S. governments. Income, sales, use, or other tax laws, statutes, rules, regulations, or ordinances
+
+could be enacted or amended at any time (possibly with retroactive effect) and could be applied solely or
+
+disproportionately to models, platforms, and applications provided over the internet. These enactments or
+
+amendments could reduce our sales activity due to the inherent cost increase the taxes would represent and
+
+ultimately harm our results of operations and cash flows. Further, the application of U.S. federal, state, local,
+
+and non-U.S. tax laws to services provided electronically is unclear and continuously evolving. Existing tax
+
+laws, statutes, rules, regulations, or ordinances could be interpreted or applied adversely to us, possibly with
+
+retroactive effect, which could require us or our customers to pay additional tax amounts, as well as fines or
+
+penalties, and interest for past amounts. If we are unsuccessful in collecting such taxes due from our customers,
+
+we would be held liable for such costs, thereby adversely affecting our results of operations and harming our
+
+business.
+
+As we expand the scale of our non-U.S. business activities, any changes in the U.S. or non-U.S. taxation of such
+
+activities may increase our worldwide effective tax rate and harm our business, financial condition, and results
+
+of operations. We may be subject to taxation in several jurisdictions around the world with increasingly
+
+complex tax laws, the application of which can be uncertain. In addition, our hiring of personnel and
+
+engagement of third-party employer-of-record providers in non-U.S. jurisdictions, as well as our data center
+
+and other infrastructure activities outside the United States, have created, and may in the future create,
+
+permanent establishments or other taxable presence in those jurisdictions, which could subject us to additional
+
+income, withholding, and indirect taxes, as well as interest, penalties, and additional compliance obligations. In
+
+advance of forming and obtaining approvals for local operating entities, we have entered into, and expect to
+
+enter into, additional letters of intent, leases, and other agreements relating to our international compute and
+
+infrastructure activities through interim contracting arrangements with existing entities, and we may be unable
+
+to transfer these arrangements to local entities on a timely basis or at all. Any prolonged reliance on these
+
+interim arrangements, or any failure to migrate them to local entities, could increase our exposure to
+
+permanent establishment or other taxable-presence determinations and could result in non-recoverable value-
+
+added or similar indirect taxes, which could be material in certain jurisdictions. Although we have not been
+
+required to pay income taxes, other than in immaterial amounts in certain jurisdictions to date, the amount of
+
+taxes we pay in these jurisdictions could increase substantially as a result of changes in the applicable tax
+
+principles, including increased tax rates, new tax laws, or revised interpretations of existing tax laws and
+
+precedents, which could adversely affect our liquidity and results of operations. For example, a number of
+
+countries and organizations, such as the Organisation for Economic Co-operation and Development (OECD),
+
+have proposed changes to existing tax laws or new laws that could impact our tax obligations, including a
+
+framework that imposes a 15% global minimum tax, which has been implemented into the domestic laws of
+
+some jurisdictions in the EU, among other jurisdictions, and is being considered for implementation by other
+
+countries. On January 5, 2026, the OECD announced a side-by-side elective safe harbor that exempts electing
+
+U.S.-parented multinational entities from certain provisions of the global minimum tax for fiscal years
+
+106
+
+Table of Contents
+
+beginning on or after January 1, 2026. In addition, the authorities in these jurisdictions could review our tax
+
+returns and impose additional tax, interest, and penalties, and the authorities could claim that various
+
+withholding requirements apply to us or our subsidiaries or assert that benefits of tax treaties are not available
+
+to us or our subsidiaries, any of which would harm us and our results of operations.
+
+Our business, financial condition, and results of operations may be adversely affected if we
+
+are required to collect sales or other related taxes for subscriptions to our models, platform,
+
+and applications in jurisdictions where we have not historically done so.
+
+We collect sales tax in a number of jurisdictions. Sales, use, value-added, digital services, and similar tax laws
+
+and rates vary by jurisdiction. One or more states or countries may seek to impose incremental or new sales,
+
+use, or other tax collection obligations on us. A successful assertion by a state, country, or other jurisdiction that
+
+we should have been or should be collecting additional sales, use, or other taxes could, among other things,
+
+result in substantial tax payments, create significant administrative burdens for us, discourage potential
+
+customers from subscribing to our models, platform, and applications due to the incremental cost of any such
+
+sales or other related taxes, or otherwise harm our business, financial condition, and results of operations.
+
+Further, certain jurisdictions in which we operate have enacted a digital services tax, which is generally a tax on
+
+gross revenue generated from users or customers located in those jurisdictions, and other jurisdictions are
+
+considering enacting similar laws. Any successful action by taxing authorities to compel us to collect and remit
+
+sales, use, value-added, digital services, and similar taxes, either retroactively, prospectively, or both, may
+
+adversely affect our business, financial condition, and results of operations.
+
+Our ability to use our net operating loss carryforwards and certain other tax attributes may
+
+be limited.
+
+We have incurred substantial net operating losses (NOLs) during our history. In general, under Sections 382
+
+and 383 of the Internal Revenue Code of 1986, as amended (the Code), a corporation that undergoes an
+
+ownership change is subject to annual limitations on its ability to utilize its pre-change U.S. federal NOL
+
+carryforwards and certain other tax attributes, including tax credit carryforwards, to offset its future taxable
+
+income or tax liabilities. For these purposes, an ownership change generally occurs if the percentage of a
+
+corporations stock (by value) owned by one or more 5-percent shareholders increases by more than 50
+
+percentage points over a rolling three-year period. We have experienced ownership changes in the past, and we
+
+may experience ownership changes in the future, including as a result of this offering or subsequent shifts in
+
+our stock ownership, some of which may be outside our control. NOLs and other tax attributes of companies we
+
+have acquired are, and of companies we may acquire may be, subject to similar limitations. Similar provisions
+
+of state tax law and the tax laws of non-U.S. jurisdictions may also limit our ability to utilize state and non-U.S.
+
+NOL carryforwards and other tax attributes. In addition, certain states, including California, have suspended or
+
+otherwise limited the use of NOL carryforwards and other tax attributes, which could accelerate or permanently
+
+increase our state income tax liabilities. Separately, under current law, U.S. federal NOLs arising in taxable
+
+years beginning after December 31, 2017 may be used to offset only 80% of taxable income in any year, whether
+
+or not an ownership change occurs. As a result of the foregoing, even if we attain profitability, we may be unable
+
+to use all or a material portion of our NOLs and other tax attributes, which could adversely affect our future
+
+cash flows and results of operations.
+
+Our corporate structure and intercompany arrangements are subject to the tax laws of
+
+multiple jurisdictions, and we could be required to pay additional taxes, which could
+
+adversely affect our business, financial condition, and results of operations.
+
+As we continue to expand our non-U.S. operations, we are, and may increasingly be, required to report taxable
+
+income in various jurisdictions around the world based on our business activities in those jurisdictions. Our
+
+corporate structure and associated transfer pricing policies reflect the functions, risks, and assets of the entities
+
+involved in our intercompany transactions. However, our tax position is subject to various risks, including
+
+increases in tax rates, new or revised tax laws (which may apply retroactively), and new interpretations of
+
+existing tax laws and policies by taxing authorities or courts, any of which could increase our overall tax
+
+obligations.
+
+Our intercompany transactions are subject to complex transfer pricing rules administered by tax authorities in
+
+the jurisdictions in which we operate, many of which apply divergent, and sometimes conflicting, legal
+
+107
+
+Table of Contents
+
+standards. Tax authorities may take inconsistent positions regarding the application of the arms-length
+
+principle, the characterization or valuation of our intellectual property, or the pricing of intercompany services
+
+and other transactions. If a tax authority successfully challenges our transfer pricing or the allocation of income
+
+and expenses among jurisdictions, we could be required to reallocate income or pay additional taxes, interest,
+
+and penalties. If the jurisdiction from which income is reallocated does not agree with the adjustment, we could
+
+also be subject to double taxation. In addition, certain of our cross-border contracting arrangements, including
+
+infrastructure-related agreements entered into by U.S. entities pending the formation of local subsidiaries, may
+
+give rise to non-recoverable value-added or similar indirect taxes or other tax costs, which could be material
+
+depending on the jurisdiction.
+
+Although we believe our tax positions are reasonable, our tax reserves are adequate, and our transfer pricing
+
+practices reflect arms-length terms, tax authorities may disagree with our assumptions, judgments, and
+
+estimates. If a tax authority were to prevail in asserting that our intercompany arrangements do not satisfy
+
+applicable transfer pricing requirements, we could be required to pay additional taxes, interest, and penalties
+
+that exceed our reserves. Such an outcome could increase our effective tax rate, reduce our cash flows, and
+
+adversely affect our ability to achieve and sustain profitability.
+
+If our judgments or estimates relating to our critical accounting policies prove to be incorrect,
+
+our results of operations may be adversely affected.
+
+The preparation of financial statements in conformity with GAAP requires management to make judgments in
+
+applying our accounting policies and to make estimates and assumptions that affect the amounts reported on
+
+our consolidated financial statements and accompanying notes. We base our estimates in part on historical
+
+experience, market observable inputs, if available, and various other assumptions that we believe to be
+
+reasonable under the circumstances, as provided in the section titled Managements Discussion and Analysis
+
+of Financial Condition and Results of OperationsCritical Accounting Estimates. Significant accounting
+
+policies, estimates, and assumptions used in preparing our consolidated financial statements include, but are
+
+not limited to, revenue recognition, stock-based compensation, common stock valuations, fair value of
+
+convertible notes, derivative liabilities, and SAFEs, leases, income taxes, and loss contingencies. In addition, we
+
+engage in complex and novel transactions and may be required to consolidate certain assets or entities on our
+
+financial statements, which may involve significant judgment and could result in volatility in our reported
+
+results of operations. Our results of operations may be adversely affected if our assumptions change or if actual
+
+circumstances differ from those in our assumptions, which may cause our results of operations to fall below the
+
+expectations of securities analysts and investors and cause a decline in the market price of our Class A common
+
+stock.
+
+If we fail to maintain an effective system of disclosure controls and internal control over
+
+financial reporting, our ability to produce timely and accurate financial statements or comply
+
+with applicable regulations may be impaired, which may adversely affect our business,
+
+financial condition, and results of operations.
+
+As a public company, we will be subject to the reporting requirements of the Exchange Act, the Sarbanes-Oxley
+
+Act, and the listing standards of the Nasdaq Global Select Market. The Sarbanes-Oxley Act and related
+
+Exchange Act rules require, among other things, that we maintain effective disclosure controls and procedures
+
+and internal control over financial reporting. We are continuing to develop and refine our disclosure controls
+
+and other procedures that are designed to assure that information required to be disclosed by us in the reports
+
+that we will file with the SEC is recorded, processed, summarized, and reported within the time periods
+
+specified in SEC rules and forms and that information required to be disclosed in reports under the Exchange
+
+Act is accumulated and communicated to management, including our principal executive and financial officers,
+
+to allow timely decisions regarding disclosure. We are also continuing to improve our internal control over
+
+financial reporting. We have expended, and anticipate that we will continue to expend, significant resources to
+
+maintain and improve the effectiveness of our disclosure controls and procedures and internal control over
+
+financial reporting.
+
+Our current controls and any new controls that we develop may become inadequate because of changes in the
+
+conditions in our business. Further, weaknesses in our disclosure controls, procedures, or internal control over
+
+financial reporting may be discovered in the future. Any failure to develop or maintain effective controls, or any
+
+difficulties encountered in their implementation or improvement, may adversely affect our results of operations
+
+108
+
+Table of Contents
+
+or cause us to fail to meet our reporting obligations and may result in a restatement of our financial statements
+
+for prior periods. We also rely on distribution partners and other third-party service providers to process and
+
+store data underlying our financial reporting. Our ability to maintain effective internal controls therefore
+
+depends in part on the design and operating effectiveness of controls maintained by these third parties, and our
+
+ability to audit or remediate deficiencies in such third-party control environments is limited.
+
+Any failure to implement and maintain effective internal control over financial reporting may also adversely
+
+affect the results of periodic management evaluations and annual independent registered public accounting
+
+firm attestation reports regarding the effectiveness of our internal control over financial reporting that we will
+
+eventually be required to include in our periodic reports that will be filed with the SEC. Ineffective disclosure
+
+controls and procedures and internal control over financial reporting may also cause investors to lose
+
+confidence in our reported financial and other information, which would likely adversely affect the market price
+
+of our Class A common stock. In addition, if we are unable to continue to meet these requirements, we may not
+
+be able to remain listed on the Nasdaq Global Select Market. We are not currently required to comply with the
+
+SEC rules that implement Section 404 of the Sarbanes-Oxley Act and are therefore not required to make a
+
+formal assessment of the effectiveness of our internal control over financial reporting for that purpose. As a
+
+public company, we will be required to provide an annual management report on the effectiveness of our
+
+internal control over financial reporting commencing with our second annual report on Form 10-K.
+
+We are exposed to fluctuations in interest rates and currency exchange rates, which could
+
+negatively affect our business, financial condition, and results of operations.
+
+We hold a significant amount of cash, cash equivalents, and investments, a substantial portion of which is
+
+invested in instruments with variable or market-based interest rates. As a result, our investment income is
+
+sensitive to changes in prevailing interest rates. A decline in interest rates could reduce the income we earn on
+
+these investments, which could adversely affect our financial condition and results of operations. In addition,
+
+volatility in interest rates may impact the fair value of our investment portfolio and could affect our overall
+
+financial performance.
+
+Our sales are currently denominated in U.S. dollars, euros, and British pounds, and will likely be denominated
+
+in other currencies in the future. Because we report our results of operations and revenue in U.S. dollars, we are
+
+exposed to foreign currency translation risk and may in the future face additional foreign currency risks. For
+
+example, a strengthening of the U.S. dollar compared to these foreign currencies could increase the real cost of
+
+our models, platform, and applications to non-U.S. customers, which could reduce demand for our models,
+
+platform, and applications and adversely affect our results of operations. In addition, as our non-U.S.
+
+operations expand, an increasing portion of our operating expenses may be denominated in foreign currencies
+
+and subject to fluctuations due to changes in foreign currency exchange rates. If we are not able to effectively
+
+manage these risks, including through any hedging activities, our financial condition and results of operations
+
+could be adversely affected.
+
+Risks Related to our Governance Structure
+
+Our capital stock structure features certain provisions that are novel or otherwise not
+
+common among other corporations with multiple-class structures, and may effectively
+
+eliminate the ability of holders of our Class A common stock to influence important decisions,
+
+including a change in control.
+
+We have a novel capital and corporate governance structure that has no direct public company precedent. We
+
+are incorporated as a PBC under Delaware law. As a PBC, we are required to balance the pecuniary interests of
+
+our stockholders, the best interests of those materially affected by our conduct, and the Company Purpose
+
+identified in our amended and restated certificate of incorporation. In addition, the LTBT possesses certain
+
+rights that are designed to help ensure that we are managed in a manner that responsibly balances our goals as
+
+a PBC. Through a special class of common stock, Class T common stock, the LTBT generally has the authority to
+
+elect and remove the Class T directors, who together will constitute a majority of the authorized members of our
+
+board of directors. See the section titled Our Governance Structure and Its GoalsLong-Term Benefit Trust
+
+Election and Removal of Directors for more information. The LTBT is intended to operate as an independent
+
+body of five financially disinterested Trustees, and our Class T common stock has no economic rights. As a
+
+result, the LTBT may have interests that differ from yours, and it may exercise its power in a way with which
+
+109
+
+Table of Contents
+
+you disagree or in a way that may be adverse to your interests. Immediately prior to the completion of this
+
+offering, we will also issue a single share of Class F common stock, a special class of our common stock, to the
+
+Founder LLC. Our Class F common stock will be entitled to an aggregate number of votes that equals 50.1% of
+
+the total voting power of our outstanding shares of capital stock as of the applicable record date with respect to
+
+matters submitted to stockholders generally, including the election of our directors other than the Class T
+
+directors. Immediately prior to the completion of this offering, we will also authorize a special class of our
+
+common stock, Class E common stock, which we will issue to our employees, excluding our co-founders. Our
+
+Class E common stock will be entitled to vote only on certain limited matters and will not have any economic
+
+rights. Under this governance structure, we expect that the LTBT and the Founder LLC will collectively have the
+
+ability to elect all members of our board of directors, and the Founder LLC will have the ability to determine the
+
+outcome of all matters submitted to a vote of our stockholders generally for the foreseeable future. Accordingly,
+
+holders of our Class A common stock generally will not be able to affect the outcome of any matter submitted to
+
+a vote of our stockholders or the election of our directors, regardless of how they vote, unless a majority of the
+
+Continuing Founders (as defined below) cannot agree on how our Class F common stock will be voted (in which
+
+case our Class F common stock will generally be voted proportionately with the votes of our Class A common
+
+stock cast on the matter).
+
+Our governance structure is likely to have the effect of limiting the likelihood of an unsolicited merger proposal,
+
+unsolicited tender offer, or proxy contest for the removal of directors. As a result, our governance structure may
+
+make it more difficult to replace our directors and management and may have the effect of depriving our
+
+stockholders of an opportunity to sell their shares at a premium over prevailing market prices.
+
+We cannot predict whether our structure will result in lower demand for our Class A common stock, increased
+
+volatility, adverse publicity, or other adverse consequences. In particular, the absence of judicial precedent
+
+interpreting this structure increases the risk and unpredictability of governance-related litigation, and courts
+
+may interpret the obligations inherent in our structure in ways that we might not anticipate.
+
+Our capital structure will concentrate voting power with the LTBT and the Founder LLC for
+
+the foreseeable future and will result in the LTBT and the Founder LLC having voting power
+
+that is not derived from or proportionate to economic interests in our company.
+
+Our Class T common stock will generally entitle the LTBT to elect and remove the Class T directors, who
+
+together will constitute a majority of the authorized members of our board of directors. Our Class T common
+
+stock will remain outstanding indefinitely, subject to the right of our board of directors and the Trustees or
+
+specified majorities of our Class A common stock, Class E common stock, and Class F common stock to amend
+
+or terminate the terms of the LTBT or the rights of our Class T common stock or to redeem our Class T common
+
+stock (such time as no share of Class T common stock is outstanding, the Class T Sunset Time). The Class T
+
+common stock may also be transferred without restriction upon the receipt of the same approvals required to
+
+amend, terminate, or redeem it. We intentionally structured the Class T common stock in this manner to
+
+preserve long-term flexibility if circumstances change. If the Class T common stock were transferred to a person
+
+or entity that is not affiliated with the LTBT or is not otherwise required to consider the Company Purpose, for
+
+so long as we remain a PBC, all of our directors, regardless of how they are elected, would continue to be
+
+obligated to act in accordance with Delaware law and our certificate of incorporation, bylaws, and other
+
+governing documents as then in effect, including those provisions relating to our public benefit purpose. The
+
+Trust Agreement (as defined below) limits Trustee compensation to a reasonable cash amount fixed annually by
+
+the Trustees. Trustee compensation will not vary with or be conditioned upon the profits or any action or
+
+inaction of our company. The policies of the LTBT prohibit a Trustee from directly purchasing or holding any of
+
+our securities.
+
+Our Class F common stock will entitle the Founder LLC to an aggregate number of votes that equals 50.1% of
+
+the total voting power of our outstanding shares of capital stock as of the applicable record date with respect to
+
+matters submitted to stockholders generally, including the election of our directors other than the Class T
+
+directors. Our Class F common stock will remain outstanding until the earlier of (i) the completion of the Class
+
+F Transition Period (as defined below), which will commence when there have been fewer than three
+
+Continuing Founders (not including any successor member who is a Non-Qualifying Member as defined in
+
+the Founder LLC limited liability company agreement (the Founder LLC Agreement)) for 90 consecutive
+
+calendar days and (ii) the time when there is no Class F common stock outstanding, including as a result of a
+
+redemption thereof agreed to by a Supermajority (as defined below) of the Continuing Founders or upon the
+
+110
+
+Table of Contents
+
+dissolution of the Founder LLC (the Class F Sunset Time). Upon the completion of this offering, based on
+
+beneficial ownership as of September 30, 2026, our co-founders will collectively hold approximately (i) %
+
+of the total voting power of our outstanding capital stock with respect to matters submitted to stockholders
+
+generally, excluding through their interests in the Founder LLC, and (ii) % of the total voting power of our
+
+outstanding capital stock with respect to matters submitted to stockholders generally, including through their
+
+interests in the Founder LLC.
+
+The voting powers of the LTBT and the Founder LLC are not derived from or proportionate to economic
+
+interests in our company and will not be subject to dilution or the loss of rights upon the issuance of additional
+
+shares of Class A common stock (including upon conversion of any Class N common stock) or any other shares
+
+of our capital stock. Moreover, the LTBT, Founder LLC, and our individual co-founders may have interests that
+
+differ from yours and may vote in a way with which you disagree and that may be adverse to your interests. For
+
+example, while the LTBT, Founder LLC, and our co-founders share a long-term commitment to our mission
+
+that may benefit stockholders who share our public benefit goals, the separation between voting power and
+
+economic interests may result in such persons exercising their influence in a manner that prioritizes actions or
+
+outcomes they believe to be consistent with the Company Purpose and the best interests of those materially
+
+affected by our conduct over the pecuniary interests of our other stockholders. This divergence of voting power
+
+from economic interests in our company is likely to persist for the foreseeable future and will not be subject to
+
+dilution based on additional issuances of our capital stock or reduction for sales or dispositions of our capital
+
+stock by our individual co-founders. For additional information about the circumstances in which our Class T
+
+common stock and Class F common stock could be redeemed, see the section titled Description of Capital
+
+StockCommon StockRedemption.
+
+Our governance structure and the adoption of our amended and restated certificate of
+
+incorporation may negatively affect the decision by certain institutional investors to
+
+purchase or hold shares of our Class A common stock.
+
+Certain aspects of our governance structure, such as our multi-class capital structure, may limit the ability of
+
+certain institutional investors to invest in us as a result of their investment policies or may make such an
+
+investment less attractive to the portfolio managers of certain institutional investors.
+
+In addition, our multi-class capital structure may make us ineligible for inclusion in indices, and as a result,
+
+mutual funds, exchange-traded funds, and other investment vehicles that attempt to passively track these
+
+indices would not invest in our stock. These policies may depress our valuation compared to those of other
+
+similar companies that are able to be included in such indices.
+
+We are considered a controlled company within the meaning of the Nasdaq Global Select
+
+Market corporate governance requirements, and, as a result, we qualify for, and currently
+
+rely on, exemptions from certain corporate governance requirements.
+
+We are considered a controlled company within the meaning of the Nasdaq Global Select Market corporate
+
+governance requirements because the LTBT, as the sole holder of our Class T common stock, generally has the
+
+power to elect a majority of the authorized members of our board of directors. As a result, we may elect not to
+
+comply with certain corporate governance requirements, including
+
+the requirement that a majority of our board of directors consist of independent directors
+
+the requirement that our board of directors have a nominating and corporate governance committee
+
+that is comprised entirely of independent directors with a written charter addressing the committees
+
+purpose and responsibilities and
+
+the requirement that we have a compensation committee that is comprised entirely of independent
+
+directors with a written charter addressing the committees purpose and responsibilities.
+
+If we elect not to comply with certain requirements, you will not have the same protections afforded to
+
+stockholders of companies that are subject to all of the Nasdaq Global Select Market corporate governance
+
+requirements. Although we qualify as a controlled company, we do not expect to rely on this exemption except
+
+with respect to our NGC, which will not consist entirely of independent directors. Our board of directors
+
+currently consists of a majority of independent directors and our audit and compensation committees currently
+
+111
+
+Table of Contents
+
+consist entirely of independent directors. In the event that we cease to be a controlled company and our Class
+
+A common stock continues to be listed on the Nasdaq Global Select Market, we will be required to comply with
+
+the provision that our NGC be comprised entirely of independent directors within the applicable transition
+
+period.
+
+We operate as a Delaware public benefit corporation. As a public benefit corporation, we
+
+cannot provide any assurance that we will achieve the Company Purpose.
+
+As a PBC, we are intended to produce a public benefit or benefits and to operate in a responsible and
+
+sustainable manner, balancing our stockholders pecuniary interests, the best interests of those materially
+
+affected by our conduct, and the Company Purpose identified in our amended and restated certificate of
+
+incorporation. We cannot assure you that we will achieve the Company Purpose or that the expected positive
+
+impact from being a PBC will be realized, which could adversely affect our reputation, business, financial
+
+condition, and results of operations. As a PBC, we are required, under Section 366 of the Delaware General
+
+Corporation Law (DGCL) and pursuant to our amended and restated bylaws, to disclose to stockholders a
+
+report at least biennially on our overall performance in promoting the public benefit identified in our amended
+
+and restated certificate of incorporation and the best interests of those materially affected by our conduct and
+
+on our assessment of our success in achieving the Company Purpose and in promoting those interests. If we are
+
+not timely or are unable to provide this report, or if the report is not viewed favorably by parties doing business
+
+with us, regulators, others reviewing our credentials, or other stakeholders, including holders of our Class A
+
+common stock, our reputation as a PBC may be adversely affected.
+
+Our focus on the long-term best interests of our company as a PBC, and the duty of our
+
+directors to balance the pecuniary interests of our stockholders, the best interests of those
+
+stakeholders materially affected by our conduct, and the Company Purpose, may conflict with
+
+short-, medium-, or long-term financial interests and business performance, which may
+
+negatively impact the value of our Class A common stock.
+
+We have made, and may in the future make, decisions that we believe balance the pecuniary interests of our
+
+stockholders, the best interests of those materially affected by our conduct, and the Company Purpose set forth
+
+in our amended and restated certificate of incorporation, even if such decisions may negatively impact the
+
+short-, medium-, or long-term performance of our business, financial condition, and results of operations or the
+
+short-, medium-, or long-term performance of our Class A common stock. This may impact the value of our
+
+Class A common stock and make owning our Class A common stock less appealing to investors who are focused
+
+on returns. Our decisions and actions in pursuit of long-term success may not result in the long-term benefits
+
+we expect, which could adversely affect our business, financial condition, and results of operations, as well as
+
+the market price of our Class A common stock. Such decisions and actions may include changes to our models,
+
+platform, and applications limitations on certain uses of our models, platform, and applications moderating
+
+the pace of the development of our models for safety-related reasons adjustments to the timing of new
+
+offerings changes in how we deliver customer support investments in our relationships with partners and
+
+employees investments in and introductions of new models, platforms, and applications investments in social
+
+impact initiatives consistent with our public benefit objectives and changes in our approach to working with
+
+local or national jurisdictions on laws and regulations governing our business.
+
+Our policies, including those on usage, currently prohibit, or may be revised in the future to prohibit, certain
+
+usage or other actions, which may have adverse commercial consequences to us. For example, our usage policy
+
+prohibits the use of our models, platform, and applications to develop or operate fully autonomous weapons or
+
+to conduct mass surveillance, including mass domestic surveillance, and we have declined to permit such uses
+
+based on the Company Purpose, notwithstanding the revenue those or similar uses could generate. Maintaining
+
+these limitations has had, and may continue to have, adverse commercial and financial consequences. We have
+
+also restricted or delayed the availability of certain capabilities for safety reasons. For example, we initially
+
+released our Mythos model only as a gated research preview through Project Glasswing rather than making it
+
+broadly available to the public. Similarly, we have chosen not to develop certain commercially attractive
+
+offerings, such as image and video generation models, in order to direct our compute toward our research and
+
+safety priorities. Our public advocacy, and the decisions we make to moderate the pace of AI development,
+
+delay or restrict the release of models or features, or forgo commercial opportunities for safety-related reasons,
+
+may not maximize stockholder value, could have a negative impact on the value of our Class A common stock,
+
+and could result in litigation. Each of these decisions reflects our directors balancing of the pecuniary interests
+
+112
+
+Table of Contents
+
+of our stockholders, the best interests of those materially affected by our conduct, and the Company Purpose.
+
+While we believe these decisions are consistent with the Company Purpose, as a result of these decisions, we
+
+may forgo revenue, customers, or growth opportunities that a corporation managed solely to maximize
+
+stockholder value might pursue.
+
+Further, while directors of traditional corporations typically have a fiduciary duty to focus on maximizing
+
+stockholder value, directors of a PBC have a duty to consider not only the stockholders financial interests but
+
+also the companys specific public benefit purpose and the best interests of those stakeholders materially
+
+affected by the companys actions. Thus, our directors are not merely permitted, but obligated, to consider the
+
+Company Purpose and the interests of other stakeholders. Under Delaware law, directors are shielded from
+
+liability for breach of these obligations if they make informed and disinterested decisions that serve a rational
+
+purpose. In the event of a conflict among the interests of our stockholders, the Company Purpose, or the
+
+interests of our other stakeholders, our directors must only make informed and disinterested decisions that
+
+serve a rational purpose thus, we cannot guarantee that such a conflict would be resolved in favor of our
+
+stockholders monetary interests, which could adversely affect our business, financial condition, and results of
+
+operations and cause the market price of our Class A common stock to decline. In addition, there is very limited
+
+judicial precedent interpreting the balancing requirement applicable to PBCs under Delaware law, particularly
+
+for companies with significant scale or visibility, or with a scope of PBC purpose similar to ours. As a result, the
+
+scope of directors obligations, the standards by which their decisions may be reviewed, and the nature and
+
+availability of stockholder remedies in connection with alleged failures to responsibly balance these interests
+
+remain uncertain. Future judicial interpretations of these provisions could be more expansive than we currently
+
+anticipate and could result in increased litigation risk, greater scrutiny of board decision-making, or outcomes
+
+that differ from our expectations.
+
+Additionally, as a PBC, we are less vulnerable to an unsolicited takeover effort than a traditional company
+
+would be and, therefore, your ability to realize your investment through an acquisition may be limited. We may
+
+also not be an attractive target for activists or hedge fund investors because new directors must consider and
+
+give appropriate weight to the pecuniary interests of our stockholders, the best interests of those materially
+
+affected by our conduct, and the Company Purpose, and stockholders may be able to enforce this obligation
+
+through litigation. Further, by requiring that our board of directors consider additional stakeholders and the
+
+Company Purpose, and not just maximizing stockholder value, Delaware law could make it easier for our board
+
+of directors to reject a hostile bid, even where the acceptance of such a bid would provide the greatest short-
+
+term financial yield to investors.
+
+In addition, we intend to direct a meaningful portion of our resources toward our public benefit initiatives,
+
+which may include contributions to nonprofit organizations, research institutions, underserved communities,
+
+and other third parties that may not otherwise have access to frontier AI capabilities. These initiatives, which
+
+include the Initial Public Benefit Issuance and the future Public Benefit Issuances, have been, and may continue
+
+to be, substantial in scale, and we expect to significantly grow these efforts over time. The benefits of such
+
+expenditures may be difficult or impossible to measure in financial terms and may not result in any direct or
+
+measurable benefit to our business or our stockholders. The amount of resources directed toward these
+
+initiatives may, in any given period, reduce our revenue, increase our expenses, or otherwise affect our results
+
+of operations.
+
+As a Delaware public benefit corporation, we may be subject to increased litigation
+
+concerning our board of directors obligation to balance our stockholders pecuniary
+
+interests, the best interests of those materially affected by our conduct, and the Company
+
+Purpose, the occurrence of which may have an adverse impact on our business, financial
+
+condition, and results of operations.
+
+Section 367 of the DGCL provides that stockholders of a Delaware PBC with shares listed on a national
+
+securities exchange may only file an action to enforce the statutory balancing requirement imposed on the
+
+board of directors by the DGCL if they, individually or collectively, own the lesser of at least two percent of the
+
+corporations outstanding shares or shares of the corporation with a market value of at least $2,000,000 as of
+
+the date the action is instituted and, in the case of a derivative action, such stockholders satisfy any other
+
+conditions applicable to filing a derivative action. This potential liability for enforcement of the statutory
+
+balancing requirement does not exist for traditional corporations. Therefore, we may be subject to the
+
+possibility of increased litigation, which would require the attention of our management, and, as a result, may
+
+113
+
+Table of Contents
+
+adversely affect our managements ability to effectively execute our strategy. There is limited judicial precedent
+
+for this type of balancing litigation, which may create uncertainty around the scope of our directors obligations
+
+or the remedies available to stockholders. Additionally, any such litigation may be costly, which may adversely
+
+affect our business, financial condition, and results of operations.
+
+Our amended and restated bylaws will designate a state or federal court located within the
+
+State of Delaware as the exclusive forum for substantially all disputes between us and our
+
+stockholders, and also provide that the federal district courts will be the exclusive forum for
+
+resolving any complaint asserting a cause of action arising under the Securities Act of 1933, as
+
+amended, each of which may limit our stockholders ability to choose the judicial forum for
+
+disputes with us or our directors, officers, stockholders, or employees.
+
+Our amended and restated bylaws, which will become effective immediately prior to the completion of this
+
+offering, will provide that, unless we consent in writing to the selection of an alternative forum, the Court of
+
+Chancery of the State of Delaware (or, if the Court of Chancery of the State of Delaware does not have
+
+jurisdiction, another State court in Delaware or the federal district court for the District of Delaware) will, to the
+
+fullest extent permitted by law, be the sole and exclusive forum for (i) any derivative action or proceeding
+
+brought on our behalf, (ii) any action asserting a claim of breach of a fiduciary duty owed by any of our current
+
+or former directors, stockholders, or officers or other employees to us or our stockholders, (iii) any action
+
+arising pursuant to any provision of the DGCL, or as to which the DGCL confers jurisdiction upon the Court of
+
+Chancery of the State of Delaware, (iv) any action arising pursuant to or to interpret, apply, enforce, or
+
+determine the validity of our amended and restated certificate of incorporation, or our amended and restated
+
+bylaws, or (v) any action asserting a claim governed by the internal affairs doctrine, except for, in all cases, any
+
+claim as to which such court determines that there is an indispensable party not subject to the jurisdiction of
+
+such court (and the indispensable party does not consent to the personal jurisdiction of such court within 10
+
+days following such determination).
+
+Section 22 of the Securities Act of 1933, as amended (the Securities Act), establishes concurrent jurisdiction
+
+for federal and state courts over Securities Act claims. Accordingly, both state and federal courts have
+
+jurisdiction to hear such claims. To prevent having to litigate claims in multiple jurisdictions and the threat of
+
+inconsistent or contrary rulings by different courts, among other considerations, our amended and restated
+
+bylaws will also provide that, unless we consent in writing to the selection of an alternative forum, the federal
+
+district courts of the United States will, to the fullest extent permitted by applicable law, be the sole and
+
+exclusive forum for resolving any complaint asserting a cause or causes of action arising under the Securities
+
+Act against any person in connection with any offering of our securities, including, without limitation, any
+
+auditor, underwriter, expert, control person, or other defendant. Unless we consent in writing to the selection of
+
+an alternative forum, the United States District Court for the District of Delaware will, to the fullest extent
+
+permitted by applicable law, be the sole and exclusive forum for the resolution of any derivative action or
+
+proceeding brought to enforce any duty or liability created by the Exchange Act or the rules or regulations
+
+thereunder. All other claims arising under the Exchange Act may be brought in any federal court of competent
+
+jurisdiction.
+
+Any person or entity purchasing, holding, or otherwise acquiring any interest in any of our securities shall be
+
+deemed to have notice of and consented to the foregoing bylaw provisions. Although we believe these exclusive
+
+forum provisions benefit us by providing increased consistency in the application of Delaware law and federal
+
+securities laws in the types of lawsuits to which each applies, the exclusive forum provisions may limit a
+
+stockholders ability to bring a claim in a judicial forum of its choosing for disputes with us or our current or
+
+former directors, officers, stockholders, or other employees, which may discourage lawsuits with respect to such
+
+claims against us and our current and former directors, officers, stockholders, or other employees. Our
+
+stockholders will not be deemed to have waived our compliance with the federal securities laws and the rules
+
+and regulations thereunder as a result of our exclusive forum provisions.
+
+114
+
+Table of Contents
+
+Provisions in our amended and restated certificate of incorporation and amended and
+
+restated bylaws could make a merger, tender offer, proxy contest, or other significant
+
+corporate transaction difficult, potentially depressing the market price of our Class A
+
+common stock.
+
+Our amended and restated certificate of incorporation and amended and restated bylaws, which will become
+
+effective immediately prior to the completion of this offering, will contain a number of provisions that may
+
+make the acquisition of our company more difficult. Such provisions will include
+
+a multi-class common stock structure, which will provide the LTBT and the Founder LLC with the
+
+ability to elect all members of our board of directors, and will provide the Founder LLC with the ability
+
+to determine the outcome of all matters submitted to a vote of our stockholders generally (including
+
+the approval of any merger, sale of our company, and other significant corporate transaction requiring
+
+stockholder approval) for the foreseeable future
+
+prior to the Class F Sunset Time, vacant or newly created directorships for any directors who are not
+
+Class T directors can be filled by our board of directors in accordance with a notice from the Founder
+
+LLC or by the holders of our Class A common stock and Class F common stock, voting together or
+
+acting by written consent
+
+prior to the Class T Sunset Time, the number of directors constituting our board of directors will be
+
+permitted to be set only with the approval of 80% of the authorized members of our board of directors
+
+(rounded up or down to the nearest whole number (any exact 0.5 rounding up))
+
+a special meeting of our stockholders may only be called by (i) our board of directors acting pursuant to
+
+a resolution adopted by a majority of the authorized members of our board of directors (ii) the
+
+Chairperson of our board of directors (iii) our Chief Executive Officer (iv) our President (v) following
+
+the Class F Sunset Time, a majority of the directors who are not Class T directors (vi) prior to the Class
+
+F Sunset Time and only with respect to a special meeting at which holders of our Class E common stock
+
+will be asked to vote on a proposal, the secretary of the company or (vii) prior to the Class F Sunset
+
+Time, the Founder LLC as the holder of our Class F common stock
+
+prior to the Class F Sunset Time and the Class T Sunset Time, stockholders may act by written consent
+
+only with respect to (i) any action to nominate, elect, or remove directors or appoint a director to fill
+
+any vacancy or newly created directorship (ii) any action to satisfy certain redemption and protective
+
+provisions in our amended and restated certificate of incorporation related to our Class F common
+
+stock, Class T common stock, and Class E common stock and (iii) any matter in which stockholders
+
+vote together as a single class if such matter is first approved or requested by our board of directors,
+
+and following both the Class F Sunset Time and the Class T Sunset Time, any action required or
+
+permitted to be taken by our stockholders must be effected at a duly called annual or special meeting of
+
+stockholders and may not be effected by any written consent of our stockholders notwithstanding the
+
+foregoing, any action required or permitted to be taken by the holders of our Class E common stock
+
+must be effected at a duly called annual or special meeting of stockholders and may not be effected by
+
+any consent in writing by such stockholders
+
+advance notice procedures required for Class A stockholders to nominate candidates for election as
+
+directors or to bring matters before an annual meeting of stockholders
+
+following the Class F Sunset Time, our board of directors will shift to having a classified board of
+
+directors consisting of three classes of directors with staggered three-year terms
+
+following the Class F Sunset Time, 66 23% of the voting power of our Class A common stock will be
+
+required to amend certain provisions in our amended and restated certificate of incorporation and our
+
+amended and restated bylaws
+
+not providing for cumulative voting and
+
+authorizing undesignated preferred stock, the issuance and terms of which may be established by 80%
+
+of the authorized members of our board of directors (rounded up or down to the nearest whole number
+
+115
+
+Table of Contents
+
+(any exact 0.5 rounding up)) and, prior to the Class F Sunset Time, only with the consent of the
+
+Founder LLC as the holder of our Class F common stock.
+
+These provisions, alone or together, could discourage, delay, or prevent a transaction involving a change in
+
+control of our company. These provisions could also discourage proxy contests and make it more difficult for
+
+stockholders to elect directors of their choosing and to cause us to take other corporate actions they desire, any
+
+of which, under certain circumstances, could limit the opportunity for our stockholders to receive a premium
+
+for their shares of our Class A common stock, and could also affect the price that some investors are willing to
+
+pay for our Class A common stock.
+
+Risks Related to Ownership of our Class A Common Stock
+
+There has been no prior public trading market for our Class A common stock, and an active
+
+trading market may not develop or be sustained following this offering.
+
+We have applied to list our Class A common stock on the Nasdaq Global Select Market under the symbol ANT.
+
+However, prior to this offering, there has been no public trading market for our Class A common stock. We
+
+cannot assure you that an active trading market for our Class A common stock will develop on such exchange or
+
+elsewhere or, if developed, that any market will be sustained. The initial public offering price of our Class A
+
+common stock will be determined through negotiations among us, the selling stockholders, and the
+
+underwriters. This price will not necessarily reflect the price at which investors in the market will be willing to
+
+buy and sell shares of our Class A common stock following this offering.
+
+The market price of our Class A common stock may be volatile, and you may lose all or part of
+
+your investment.
+
+We cannot predict the prices at which our Class A common stock will trade. The initial public offering price of
+
+our Class A common stock will be determined through negotiations among us, the selling stockholders, and the
+
+underwriters. This price will not necessarily reflect the price at which investors in the market will be willing to
+
+buy and sell shares of our Class A common stock following this offering. The market price of our Class A
+
+common stock following this offering may fluctuate substantially, depending on a number of factors, many of
+
+which are beyond our control and may not be related to our operating performance. These fluctuations may
+
+cause you to lose all or part of your investment in our Class A common stock. Factors that may cause
+
+fluctuations in the market price of our Class A common stock include the following
+
+price and volume fluctuations in the overall stock market from time to time, including fluctuations due
+
+to general economic uncertainty or negative market sentiment
+
+volatility in the market and trading volumes of technology stocks
+
+supply chain constraints, particularly those impacting compute, and new and evolving trade
+
+regulations and tariffs, and countermeasures
+
+changes in the operating performance and stock market valuations of other technology companies
+
+generally, or those in our industry in particular
+
+sales of shares of our Class A common stock by us or our stockholders, as well as the anticipation of
+
+lock-up releases
+
+rumors and market speculation involving us or other companies in our industry or related industries
+
+failure of securities analysts to maintain coverage of us, changes in financial estimates by securities
+
+analysts who follow our company, or our failure to meet these estimates or the expectations of
+
+investors
+
+actual or perceived significant data breaches involving our business
+
+the financial or non-financial projections we may provide to the public, any changes in those
+
+projections, or our failure to meet those projections
+
+116
+
+Table of Contents
+
+third-party data published about us or other companies in our industry, whether or not such data is
+
+accurate
+
+announcements by us or our competitors of new models, platforms, or applications
+
+the publics reaction to our press releases, other public announcements, and filings with the SEC
+
+fluctuations in the trading volume of shares of our Class A common stock or the size of our public float
+
+short selling of our Class A common stock or related derivative securities
+
+actual or anticipated changes or fluctuations in our results of operations
+
+actual or anticipated developments in our business, our competitors businesses, or the competitive
+
+landscape generally
+
+changes in the anticipated future size or growth rate of our addressable markets
+
+our issuance of shares of our Class A common stock, including as a result of the conversion of our Class
+
+N common stock in connection with certain transfers
+
+litigation or regulatory action involving us, our industry, or both, or investigations by regulators into
+
+our operations or those of our competitors
+
+developments or disputes concerning our intellectual property or other proprietary rights
+
+announced or completed acquisitions of businesses or technologies, or similar strategic transactions,
+
+by us or our competitors
+
+new laws or regulations or new interpretations of existing laws or regulations applicable to our
+
+business
+
+regulatory enforcement actions or other governmental efforts affecting our models, platform, and
+
+applications
+
+changes in accounting standards, policies, guidelines, interpretations, or principles
+
+major catastrophic events such as war, incidents of terrorism, pandemics, or responses to such events
+
+any additions or departures of founders, board members, management, or key personnel and
+
+general economic conditions and slow or negative growth of our markets.
+
+In addition, if the market for technology stocks or the stock market in general experiences a loss of investor
+
+confidence, the market price of our Class A common stock may decline for reasons unrelated to our business,
+
+financial condition, and results of operations. The market price of our Class A common stock may also decline
+
+in reaction to events that affect other companies in our industry even if these events do not directly affect us.
+
+Accordingly, we cannot assure you of the liquidity of any trading market, your ability to sell your shares of our
+
+Class A common stock when desired, or the prices that you may obtain for your shares of our Class A common
+
+stock.
+
+In the past, stockholders have initiated securities class action lawsuits against companies following periods of
+
+stock price volatility. If the market price of our Class A common stock is volatile, we may become the target of
+
+securities litigation. Such litigation may subject us to substantial costs, divert resources and managements
+
+attention, and adversely affect our business, financial condition, and results of operations.
+
+117
+
+Table of Contents
+
+The issuance of additional stock in connection with financings, acquisitions, investments, our
+
+equity incentive plans, the conversion of our outstanding convertible promissory notes, the
+
+conversion of our outstanding Class N common stock, our public benefit initiatives, or
+
+otherwise will dilute the interests of the holders of our Class A common stock.
+
+Our amended and restated certificate of incorporation that will become effective immediately prior to the
+
+completion of this offering authorizes us to issue up to an aggregate of 300,000,000,000 shares of Class A
+
+common stock, 100,000,000,000 shares of Class N common stock, one share of Class T common stock, one
+
+share of Class F common stock, 30,000,000,000 shares of Class E common stock, and 30,000,000,000 shares
+
+of preferred stock, with such rights, powers, and preferences as may be determined by our board of directors
+
+(subject to limitations in our amended and restated certificate of incorporation, which will become effective
+
+immediately prior to the completion of this offering, or prescribed by Delaware law). Subject to compliance with
+
+applicable rules and regulations, we may issue shares of our capital stock or securities convertible into shares of
+
+our capital stock from time to time in connection with a financing, an acquisition, an investment, our equity
+
+incentive plans, the conversion of our outstanding convertible promissory notes, the conversion of our Class N
+
+common stock, our public benefit initiatives, which may include issuances of equity to third parties such as
+
+nonprofit organizations, research institutions, or other recipients, or otherwise, including the Public Benefit
+
+Issuances. Any such issuances may result in substantial dilution to the holders of our Class A common stock
+
+and cause the market price of our Class A common stock to decline. For a discussion of the dilutive impact of
+
+our Class N common stock on the holders of our Class A common stock, see the section titled A substantial
+
+number of shares of our Class N common stock will be outstanding upon the completion of this offering, which
+
+will dilute the voting power of the holders of our Class A common stock upon conversion.
+
+In addition, registration rights agreements entered into with counterparties to certain of our NPAs provide such
+
+counterparties with rights to cause us to register for resale after this offering (i) shares of our common stock
+
+underlying such notes, (ii) shares of Class A common stock issuable upon conversion of Class N common stock
+
+issued upon conversion of the notes, and (iii) shares of our common stock issued in connection with certain
+
+contractual rights to private placements concurrent with this offering. The exercise of such registration rights
+
+could facilitate sales of large blocks of our Class A common stock into the public market, which could depress
+
+the market price of our Class A common stock or increase its volatility.
+
+A substantial number of shares of our Class N common stock will be outstanding upon the
+
+completion of this offering, which will dilute the voting power of the holders of our Class A
+
+common stock upon conversion.
+
+Immediately prior to the completion of this offering, after giving effect to the Preferred Stock Conversion and
+
+the Convertible Notes Conversion, we will have shares of Class N common stock outstanding,
+
+representing approximately % of our outstanding capital stock prior to this offering and approximately
+
+% of our outstanding capital stock following the completion of this offering (in each case, excluding our
+
+Class T common stock, Class F common stock, and Class E common stock). After giving effect to the Preferred
+
+Stock Conversion and the Convertible Notes Conversion, Amazon and Google will each hold greater than five
+
+percent of our outstanding capital stock. Although our Class N common stock is non-voting, their holdings
+
+represent a significant economic interest in our company, and because our Class N common stock converts into
+
+Class A common stock upon transfer to an unaffiliated third party, these shares could also become significant to
+
+the voting power of our Class A common stock following any such transfer. Immediately prior to the completion
+
+of this offering, after giving effect to the Preferred Stock Conversion and the Convertible Notes Conversion, and
+
+immediately following the offering, Amazon will hold shares of our Class N common stock and Google
+
+will hold shares of our Class N common stock. An aggregate of an additional shares of Class N
+
+common stock will be issuable after this offering upon conversion of remaining outstanding convertible
+
+promissory notes, all of which are held by Amazon, that could not convert immediately prior to the completion
+
+of this offering without exceeding the applicable ownership cap. Additional shares of Class N common stock
+
+may also be issued following this offering pursuant to the Public Benefit Issuances, future drawdowns and
+
+related issuances or conversions under our NPAs, and certain contractual rights. See the sections titled Shares
+
+Eligible for Future SaleClass N Common Stock, Managements Discussion and Analysis of Financial
+
+Condition and Results of OperationsLiquidity and Capital ResourcesConvertible Notes, and Business
+
+Our Commitment to Public Benefit.
+
+118
+
+Table of Contents
+
+Although our Class N common stock is not entitled to vote, it is entitled to economic rights equivalent to those
+
+of our Class A common stock, including the right to participate ratably with our Class A common stock in any
+
+dividends we may declare and in distributions upon a liquidation, dissolution, or winding up. As a result, the
+
+shares of Class N common stock issued in connection with the completion of this offering as a result of the
+
+Preferred Stock Conversion and Convertible Notes Conversion will dilute the economic interests, including any
+
+dividends and any proceeds available for distribution to stockholders, of the holders of our Class A common
+
+stock, and such shares are included together with our Class A common stock in determining net tangible book
+
+value per share. See the section titled Dilution.
+
+The shares of Class N common stock will automatically convert into an equal number of shares of Class A
+
+common stock upon a transfer effected through (i) a registered offering or an open market sale of such shares
+
+or (ii) a transfer to an unaffiliated third party, subject to certain limitations described in the section titled
+
+Description of Capital Stock. While held as Class N common stock, these shares are non-voting and therefore
+
+do not impact the voting power of the holders of our Class A common stock. Upon the conversion of shares of
+
+Class N common stock into Class A common stock, however, the resulting shares of Class A common stock will
+
+be entitled to one vote per share and the issuance of such shares will dilute the voting power of the existing
+
+holders of our Class A common stock. Any shares of Class N common stock that we issue in the future would
+
+have the same effect, diluting the economic interests of the holders of our Class A common stock while
+
+outstanding, as well as diluting their voting power upon conversion into Class A common stock.
+
+Future issuances of our Class A common stock and Class N common stock will not dilute the
+
+voting power of our Class F common stock.
+
+Future issuances of our Class A common stock, including upon conversion of our Class N common stock, and
+
+our Class N common stock will not dilute the voting power of our Class F common stock because our Class F
+
+common stock is entitled to a fixed 50.1% of the total voting power of our outstanding shares of capital stock as
+
+of the applicable record date with respect to matters submitted to stockholders generally. For example, if we
+
+were to issue 1,000,000 additional shares of Class A common stock, our Class F common stock would
+
+automatically be entitled to an incremental number of votes sufficient to cause the aggregate voting power of
+
+our Class F common stock to equal 50.1% of the total voting power of our outstanding shares of capital stock as
+
+of the applicable record date with respect to matters submitted to stockholders generally, or approximately
+
+1,004,008 additional votes. Any future issuances of additional shares of Class A common stock, including upon
+
+conversion of our Class N common stock, and Class N common stock will not be subject to approval by our
+
+stockholders except as required by the listing standards of the Nasdaq Global Select Market.
+
+Future sales of our Class A common stock in the public market could cause the market price of
+
+our Class A common stock to decline.
+
+The market price of our Class A common stock may decline due to sales of a large number of shares of our Class
+
+A common stock in the market after this offering. The potential for such sales to occur may also depress the
+
+market price of our Class A common stock. Following the completion of this offering, based on shares of
+
+our Class A common stock outstanding and shares of Class N common stock outstanding as of September
+
+30, 2026 (after giving effect to the Preferred Stock Conversion, Convertible Notes Conversion, Initial Public
+
+Benefit Issuance, and RSU Settlement), we will have a total of shares of Class A common stock
+
+outstanding and shares of Class N common stock outstanding. Our directors, executive officers, and the
+
+holders of substantially all of our capital stock and securities convertible into or exchangeable for our capital
+
+stock have entered into market standoff agreements with us or have entered or will enter into lock-up
+
+agreements with Goldman Sachs Co. LLC and Morgan Stanley Co. LLC, on behalf of the underwriters,
+
+under which they have agreed, subject to specific exceptions including specified early expiration provisions, to
+
+certain restrictions on their ability to transfer any shares of our Class A common stock or Class N common stock
+
+or securities directly or indirectly convertible into or exchangeable or exercisable for our Class A common stock
+
+or Class N common stock during the period ending (i) in the case of our co-founders and certain of our
+
+stockholders holding more than 0.5% of our fully diluted shares prior to this offering, on the earlier of (A) 600
+
+AM Eastern Time on the second full trading day immediately following the public release of our quarterly
+
+financial results for the fiscal quarter ending September 30, 2027 and (B) immediately after the close of the
+
+trading day on the 365th day after the date of this prospectus, and (ii) in the case of all other such holders, on
+
+the earlier of (A) 600 AM Eastern Time on the second full trading day immediately following the public release
+
+of our quarterly financial results for the fiscal quarter ending March 31, 2027 and (B) immediately after the
+
+119
+
+Table of Contents
+
+close of the trading day on the 180th day after the date of this prospectus. Goldman Sachs Co. LLC and
+
+Morgan Stanley Co. LLC may release stockholders from the lock-up agreements, and we may, generally only
+
+with their consent, release stockholders from the market standoff agreements, in each case prior to the end of
+
+the applicable period. See the sections titled Underwriting and Shares Eligible for Future SaleLock-Up and
+
+Market Standoff Agreements for further information about these agreements, including the specified early
+
+expiration provisions.
+
+As a result of these agreements and the provisions of our amended and restated investors rights agreement,
+
+dated as of May 28, 2026 (our IRA), as described further in the section titled Description of Capital Stock
+
+Registration Rights, and subject to the provisions of Rule 144 or Rule 701 under the Securities Act, additional
+
+shares of our Class A common stock (including shares issuable upon conversion of our Class N common stock)
+
+will become available for sale in the public market at various times after the date of this offering, beginning on
+
+the first trading day following the date of this prospectus. See the section titled Shares Eligible for Future Sale
+
+for additional information.
+
+Upon completion of this offering, stockholders owning an aggregate of up to shares of our Class A
+
+common stock (including those issuable upon conversion of our Class N common stock) will be entitled, under
+
+our IRA, to demand registration rights. In addition, we intend to file a registration statement to register shares
+
+reserved for future issuance under our equity compensation plans. Upon effectiveness of that registration
+
+statement, subject to the satisfaction of applicable exercise periods and the expiration or waiver of the lock-up
+
+and market standoff agreements referred to above, the shares issued upon exercise of outstanding stock options
+
+or settlement of RSUs will be available for immediate resale in the United States in the open market.
+
+In addition, our co-founders have each pledged to dedicate 80% of their personal equity in Anthropic to
+
+philanthropic causes. These commitments are voluntary, revocable expressions of each co-founders
+
+philanthropic intent and do not constitute legally binding obligations. The timing, amount, recipients,
+
+structure, and manner of any donations in furtherance of this pledge are uncertain and will depend on a variety
+
+of factors, including each co-founders individual circumstances, tax and estate planning considerations,
+
+applicable transfer restrictions, market conditions, and philanthropic priorities at the relevant time. The co-
+
+founders may satisfy this pledge over time through a variety of means, including donations to donor-advised
+
+funds, charitable organizations, private foundations, or other philanthropic vehicles, certain of which have
+
+entered into irrevocable proxy agreements with us, as described under the section titled Certain Relationships
+
+and Related Person TransactionsIrrevocable Proxy Agreements. Donations of shares of our Class A common
+
+stock in furtherance of this pledge and any subsequent sales by recipients could, subject to the lock-up and
+
+market standoff agreements described above and applicable securities laws, result in the sale of a significant
+
+number of shares in the public market. Because the timing and amount of any such donations and sales cannot
+
+be predicted, any such sales, or the perception that such sales could occur, could depress the market price of our
+
+Class A common stock. These pledges relate to the co-founders personal economic interests in shares of our
+
+Class A common stock and do not apply to our Class F common stock or alter the Founder LLC voting structure
+
+described under the section titled Our Governance Structure and Its GoalsFounder Voting Structure. As
+
+such, as our co-founders make donations in furtherance of this pledge, their personal economic interests in us
+
+will decrease while their voting control through the Founder LLC will remain unchanged for so long as each co-
+
+founder continues to satisfy the minimum retained ownership condition for continued membership in the
+
+Founder LLC described in the section titled Description of Capital StockFounder LLC Agreement, which
+
+may reduce the alignment between the interests of our co-founders and those of our other stockholders, or
+
+cause those interests to diverge.
+
+Sales of our Class A common stock by stockholders as lock-up restrictions end or pursuant to registration rights
+
+may make it more difficult for us to sell equity securities in the future at a time and at a price that we deem
+
+appropriate. These sales may also cause the market price of our Class A common stock to fall and make it more
+
+difficult for you to sell shares of our Class A common stock.
+
+Because we do not anticipate paying any cash dividends on our capital stock in the
+
+foreseeable future, capital appreciation, if any, will be your sole source of gain.
+
+We do not anticipate paying cash dividends in the foreseeable future. We currently intend to retain future
+
+earnings, if any, to fund the development and growth of our business. In addition, the AR Credit Agreement
+
+contains, and any future credit facility or financing we obtain may contain, terms limiting the amount of cash
+
+120
+
+Table of Contents
+
+dividends that may be declared or paid on our capital stock. Any future determination to pay cash dividends
+
+will be at the discretion of our board of directors and will be dependent upon our financial condition, results of
+
+operations, capital requirements, and applicable contractual restrictions. As a result, stockholders should rely
+
+on sales of their Class A common stock or Class N common stock after price appreciation, if any, as the only way
+
+to realize any future gains on their investment.
+
+If securities or industry analysts do not publish research or publish inaccurate or unfavorable
+
+research about us, our business, or our market, or if they change their recommendation
+
+regarding our Class A common stock adversely, the market price and trading volume of our
+
+Class A common stock could decline.
+
+The market price and trading volume for our Class A common stock will depend in part on the research and
+
+reports that securities or industry analysts publish about us, our business, our market, or our competitors. The
+
+analysts estimates are based upon their own opinions and are often different from our estimates or
+
+expectations. If any of the analysts who cover us change their recommendation regarding our Class A common
+
+stock adversely, provide more favorable relative recommendations about our competitors, or publish inaccurate
+
+or unfavorable research about our business, the price of our securities would likely decline. If few securities
+
+analysts commence coverage of us, or if one or more of these analysts cease coverage of us or fail to publish
+
+reports on us regularly, we could lose visibility in the financial markets and demand for our securities could
+
+decrease, which could cause the price and trading volume of our Class A common stock to decline.
+
+121
+
+Table of Contents
+
+Special Note Regarding Forward-looking
+
+Statements
+
+This prospectus contains forward-looking statements within the meaning of the federal securities laws, which
+
+statements involve substantial risks and uncertainties. All statements contained in this prospectus other than
+
+statements of historical fact, including statements regarding our future results of operations, financial position,
+
+market size and opportunity, our business strategy and plans, the factors affecting our performance, and our
+
+objectives for future operations, are forward-looking statements. In some cases, you can identify forward-
+
+looking statements because they contain words such as may, will, shall, should, expect, plan,
+
+anticipate, could, intend, target, project, contemplate, believe, estimate, predict, potential,
+
+goal, objective, seek, forecast, or continue, or the negative of any of these words or other similar terms
+
+or expressions that concern our expectations, strategy, plans, or intentions. Forward-looking statements
+
+contained in this prospectus include, but are not limited to, statements about
+
+our future financial performance, including our expectations regarding our revenue, compute and
+
+infrastructure expenses, and operating expenses, and our ability to achieve and maintain future
+
+profitability
+
+the sufficiency of our cash, cash equivalents, and investments and amounts available under our AR
+
+Credit Facility to meet our working capital and liquidity needs
+
+the amount, nature, and timing of our capital expenditures and other compute and infrastructure
+
+commitments, our ability to fund such commitments and achieve expected returns, and our ability to
+
+convert compute investments into revenue-generating customer workloads on anticipated timelines
+
+our ability to successfully execute our business and growth strategy, including scaling our operations
+
+and managing costs, timelines, and operational complexity, and pursuing our public benefit initiatives
+
+consistent with our public benefit purpose
+
+our expectations and management of future growth
+
+our ability to raise additional capital through future debt or equity financing on acceptable terms, and
+
+the potential dilutive or restrictive effects of any such financing on our stockholders and operations
+
+our expectations concerning relationships with third parties and access to compute and infrastructure,
+
+including potential conflicts of interest with cloud service providers and chip partners that develop
+
+competing AI offerings
+
+the demand for our offerings and the pricing thereof, including potential changes to our pricing
+
+structure
+
+our ability to attract and retain customers and our expectations regarding revenue concentration
+
+among a limited number of customers and distribution channels
+
+our ability to attract, develop, and retain highly skilled personnel, and to maintain our culture, talent
+
+density, and mission alignment as we grow
+
+our ability to develop new models, platforms, and applications and bring them to market in a timely
+
+manner and make enhancements to our current models, platform, and applications, and to remain at
+
+the frontier of AI
+
+our plans and commitments with respect to AI safety, responsible deployment, and safety-related
+
+access restrictions on frontier models, and the commercial and operational implications of those
+
+commitments
+
+our ability to maintain the availability and operability of our models, platform, and applications
+
+122
+
+Table of Contents
+
+our ability to compete with existing and new competitors in existing and new markets and offerings
+
+our expectations regarding new and evolving markets, including our ability to expand our operations,
+
+customer base, and revenue internationally and to adapt our models, platform, and applications to
+
+local language, regulatory, and market requirements in new jurisdictions
+
+our ability to identify, execute, and integrate beneficial acquisitions, investments, and strategic
+
+partnerships
+
+our ability to manage risk associated with our business, including risks arising from our public benefit
+
+corporation status and the role of the LTBT in our governance
+
+our ability to protect our models, platform, applications, and systems against cybersecurity threats,
+
+including nation-state and other sophisticated threat actors
+
+our expectations regarding the effects of existing and developing laws and regulations, including with
+
+respect to AI, copyright, privacy and data protection, and export controls, economic sanctions, and
+
+other trade controls
+
+our ability to maintain, protect, and enhance our intellectual property
+
+our ability to develop and protect our brand, including the impact of safety, security, or misuse
+
+incidents and of our public positions on AI policy and regulation
+
+the increased expenses associated with being a public company
+
+the outcome of pending or future litigation, regulatory proceedings, and governmental enforcement
+
+actions, and their potential effects on our business, financial condition, and results of operations
+
+our dividend policy, including our current intention not to pay cash dividends and to retain future
+
+earnings for use in our business
+
+the development and maintenance of an active trading market for our Class A common stock and the
+
+potential volatility of our stock price following this offering and
+
+our anticipated uses of net proceeds from this offering.
+
+We caution you that the foregoing list may not contain all of the forward-looking statements made in this
+
+prospectus.
+
+We have based the forward-looking statements contained in this prospectus primarily on our current
+
+expectations, estimates, forecasts, and projections about future events and trends that we believe may affect our
+
+business, financial condition, results of operations, and prospects. The outcome of the events described in these
+
+forward-looking statements is subject to risks, uncertainties, and other factors, including those described in the
+
+section titled Risk Factors and elsewhere in this prospectus. Moreover, we operate in a very competitive and
+
+rapidly changing environment. New risks and uncertainties emerge from time to time and it is not possible for
+
+us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained
+
+in this prospectus. Although we believe that we have a reasonable basis for each forward-looking statement
+
+contained in this prospectus, we cannot assure you that the future results, events, and circumstances reflected
+
+in the forward-looking statements will be achieved or occur at all, and actual future results, events, and
+
+circumstances could differ materially from those described in the forward-looking statements. Accordingly, you
+
+should not place undue reliance upon forward-looking statements as predictions of future events.
+
+The forward-looking statements made in this prospectus relate only to our expectations as of the date on which
+
+the statements are made. We undertake no obligation to update any forward-looking statements made in this
+
+prospectus to reflect events or circumstances after the date of this prospectus or to reflect new information or
+
+the occurrence of unanticipated events, except as required by law.
+
+In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant
+
+subject. These statements are based upon information available to us as of the date of this prospectus, and while
+
+123
+
+Table of Contents
+
+we believe such information forms a reasonable basis for such statements, such information may be limited or
+
+incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry
+
+into, or review of, all potentially available relevant information. These statements are inherently uncertain, and
+
+investors are cautioned not to unduly rely upon these statements.
+
+124
+
+Table of Contents
+
+Industry, Market, and Other Data
+
+Unless otherwise indicated, data, estimates, and other information contained in this prospectus concerning our
+
+industry and the market in which we operate, including our general expectations, market position, market
+
+opportunity, and market size, are based on industry publications and reports generated by third-party
+
+providers, other publicly available studies, and our internal sources and estimates. This information involves a
+
+number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates.
+
+Although we are responsible for all of the disclosure contained in this prospectus and we believe the
+
+information from the industry publications and other third-party sources included in this prospectus is reliable,
+
+we have not independently verified the accuracy or completeness of the data contained in such sources.
+
+Forecasts and other forward-looking information with respect to market and industry data and other data are
+
+subject to the same qualifications and additional uncertainties regarding the other forward-looking statements
+
+in this prospectus. See the section titled Special Note Regarding Forward-looking Statements for more
+
+information. The content of, or accessibility through, the below sources, except to the extent specifically set
+
+forth in this prospectus, does not constitute a portion of this prospectus and is not incorporated herein and any
+
+websites are inactive textual references only.
+
+The sources of the statistical data, estimates, and market and industry data contained in this prospectus are
+
+identified by superscript notations and are provided below
+
+IDC, The Economic Impact of AI 2026 Edition, doc # US54452226, April 2026.
+
+IDC, Worldwide Black Book Live Edition V2 2026 Forecast, July 2026.
+
+IDC, Worldwide Developer Population Growth Forecast, 20252029, doc # US53789825, September
+
+2025.
+
+IQVIA Institute for Human Data Science, Global Medicine Use Trends 2026, February 2026.
+
+U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics, May 2025.
+
+World Bank Group, GDP (current US$), 2025.
+
+The industry in which we operate is subject to a high degree of uncertainty and risk due to a variety of factors,
+
+including those described in the section titled Risk Factors and elsewhere in this prospectus. These and other
+
+factors could cause results to differ materially from those expressed in the reports and estimates made by the
+
+aforementioned third parties and by us.
+
+Certain estimates in this prospectus regarding global knowledge workers wages, which we refer to as the
+
+annual economic value represented by global knowledge workers, are our own, derived from third-party data.
+
+Based on wage data for U.S. workers by occupation classification from the U.S. Bureau of Labor Statistics in
+
+2025, we calculate the total salary for the subset of workers that we believe to represent knowledge workers.
+
+Based on International Labor Organization data for global labor income as a percentage of global GDP, and
+
+based on 2025 global GDP, we estimate a 2025 global wages figure. We calculate the ratio of total U.S. wages in
+
+2025 to the 2025 global wages figure, and apply that ratio to the total U.S. knowledge workers wages figure to
+
+arrive at an estimate of global knowledge workers wages.
+
+125
+
+Table of Contents

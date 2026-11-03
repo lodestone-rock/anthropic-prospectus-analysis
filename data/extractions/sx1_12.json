@@ -1,0 +1,617 @@
+{
+ "chunk": "sx1_12",
+ "section": "underwriting-legal-experts",
+ "filing": "sx1",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 19202,
+  "completion_tokens": 3768,
+  "total_tokens": 22970,
+  "cost": 0.001598488,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.001598488,
+   "upstream_inference_prompt_cost": 0.000844888,
+   "upstream_inference_completions_cost": 0.0007536
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 424,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 49,
+ "records": [
+  {
+   "kind": "blank",
+   "label": "shares offered per underwriter table",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "offering",
+   "category": "offering",
+   "quote": "each underwriter will severally agree to purchase the number of shares of Class A common stock indicated in the following table"
+  },
+  {
+   "kind": "blank",
+   "label": "over-allotment option shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "offering",
+   "category": "offering",
+   "quote": "to purchase up to an additional shares of Class A common stock at the public offering price"
+  },
+  {
+   "kind": "inline",
+   "label": "over-allotment option exercise period",
+   "values": [
+    "30"
+   ],
+   "unit": "days",
+   "period": "offering",
+   "category": "offering",
+   "quote": "an option, exercisable for 30 days from the date of this prospectus, to purchase up to an additional shares"
+  },
+  {
+   "kind": "inline",
+   "label": "discretionary accounts limit",
+   "values": [
+    "five percent"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "offering",
+   "quote": "The underwriters do not expect sales to discretionary accounts to exceed five percent of the total number of shares of Class A common stock offered"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Paid by us",
+    "No Exercise",
+    "Full Exercise",
+    "Per Share",
+    "Total"
+   ],
+   "values": [
+    "Paid by us",
+    "No Exercise",
+    "Full Exercise",
+    "Per Share",
+    "Total"
+   ],
+   "unit": "per-share",
+   "period": "offering",
+   "category": "offering",
+   "quote": "the per share and total underwriting discounts and commissions to be paid to the underwriters by us and the selling stockholders"
+  },
+  {
+   "kind": "table_row",
+   "label": "underwriting discounts paid by us",
+   "values": [
+    "$",
+    "$",
+    "$",
+    "$"
+   ],
+   "unit": "per-share",
+   "period": "offering",
+   "category": "offering",
+   "quote": "Paid by us No Exercise Full Exercise Per Share $ $ Total $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "underwriting discounts paid by selling stockholders",
+   "values": [
+    "$",
+    "$",
+    "$",
+    "$"
+   ],
+   "unit": "per-share",
+   "period": "offering",
+   "category": "offering",
+   "quote": "Paid by the selling stockholders No Exercise Full Exercise Per Share $ $ Total $ $"
+  },
+  {
+   "kind": "blank",
+   "label": "dealer discount from IPO price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "offering",
+   "category": "offering",
+   "quote": "may be sold at a discount of up to $ per share from the initial public offering price"
+  },
+  {
+   "kind": "inline",
+   "label": "market standoff period",
+   "values": [
+    "180"
+   ],
+   "unit": "days",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "for a period of 180 days after the date of this prospectus, they will not, without our prior written consent, sell"
+  },
+  {
+   "kind": "inline",
+   "label": "market standoff enforcement period",
+   "values": [
+    "180"
+   ],
+   "unit": "days",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "similar restrictions during the period of up to 180 days after the date of this prospectus"
+  },
+  {
+   "kind": "inline",
+   "label": "company lock-up end - Q1 earnings",
+   "values": [
+    "March 31, 2027"
+   ],
+   "unit": "count",
+   "period": "Q1'27",
+   "category": "stock_plan",
+   "quote": "quarterly financial results (which for this purpose does not include flash numbers or preliminary, partial earnings) for the fiscal quarter ending March 31, 2027"
+  },
+  {
+   "kind": "inline",
+   "label": "company lock-up end - 180th day",
+   "values": [
+    "180th"
+   ],
+   "unit": "days",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "immediately after the close of the trading day on the 180th day after the date of this prospectus (the 180th Day)"
+  },
+  {
+   "kind": "inline",
+   "label": "lock-up holders fully diluted threshold",
+   "values": [
+    "0.5%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "certain stockholders holding more than 0.5% of our fully diluted shares prior to this offering have executed lock-up agreements"
+  },
+  {
+   "kind": "blank",
+   "label": "lock-up holders fully diluted share percentage",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "The holders that executed lock-up agreements held approximately % of our fully diluted shares immediately prior to this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "founder notice period",
+   "values": [
+    "three business days"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "such founder may publicly announce such action, activity, transaction, or arrangement upon three business days prior written notice"
+  },
+  {
+   "kind": "inline",
+   "label": "non-founder director/officer early release 1",
+   "values": [
+    "10%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "up to 10% of the aggregate number of lock-up securities held by such lock-up parties as of the last day of the month"
+  },
+  {
+   "kind": "inline",
+   "label": "non-founder director/officer early release 2",
+   "values": [
+    "35%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "up to an additional 35% of lock-up securities held by such lock-up parties as of the last day of the month preceding"
+  },
+  {
+   "kind": "inline",
+   "label": "FY26 earnings release reference",
+   "values": [
+    "December 31, 2026"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "quarterly financial results (which for this purpose does not include flash numbers or preliminary, partial earnings) for the fiscal year ending December 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "certain stockholders early release 1",
+   "values": [
+    "27",
+    "48",
+    "6%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "dates that are 27 and 48 days, respectively, after the date of this prospectus, up to 6% of the aggregate number of lock-up securities"
+  },
+  {
+   "kind": "inline",
+   "label": "certain stockholders early release 2",
+   "values": [
+    "62",
+    "76",
+    "7%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "dates that are 62 and 76 days, respectively, after the date of this prospectus, up to an additional 7% of the aggregate number"
+  },
+  {
+   "kind": "inline",
+   "label": "certain stockholders early release 3",
+   "values": [
+    "12.5%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "following the FY26 Earnings Release Date, up to an additional 12.5% of the aggregate number of lock-up securities"
+  },
+  {
+   "kind": "inline",
+   "label": "certain stockholders early release 4",
+   "values": [
+    "13",
+    "27",
+    "41",
+    "55",
+    "69",
+    "9.5%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "dates that are 13, 27, 41, 55, and 69 days, respectively, after the FY26 Earnings Release Date, up to an additional 9.5%"
+  },
+  {
+   "kind": "inline",
+   "label": "stockholders >0.5% lock-up end day",
+   "values": [
+    "365th"
+   ],
+   "unit": "days",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "immediately after the close of the trading day on the 365th day after the date of this prospectus"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 1",
+   "values": [
+    "27",
+    "48",
+    "1.8%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "dates that are 27 and 48 days, respectively, after the date of this prospectus, up to 1.8% of the aggregate number of lock-up securities"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 2",
+   "values": [
+    "62",
+    "76",
+    "2.1%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "dates that are 62 and 76 days, respectively, after the date of this prospectus, up to an additional 2.1% of the aggregate number"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 3",
+   "values": [
+    "3.75%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "following the FY26 Earnings Release Date, up to an additional 3.75% of the aggregate number of lock-up securities"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 4",
+   "values": [
+    "13",
+    "27",
+    "41",
+    "55",
+    "69",
+    "2.85%"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "dates that are 13, 27, 41, 55, and 69 days, respectively, after the FY26 Earnings Release Date, up to an additional 2.85%"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 5",
+   "values": [
+    "180th",
+    "4.2%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "immediately after the close of the trading day on the 180th Day, up to an additional 4.2% of the aggregate number"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 6",
+   "values": [
+    "34",
+    "48",
+    "62",
+    "76",
+    "5.6%"
+   ],
+   "unit": "%",
+   "period": "Q1'27",
+   "category": "stock_plan",
+   "quote": "dates that are 34, 48, 62, and 76 days, respectively, after the Q1 Earnings Release Date, up to an additional 5.6%"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 7",
+   "values": [
+    "7.0%"
+   ],
+   "unit": "%",
+   "period": "Q2'27",
+   "category": "stock_plan",
+   "quote": "fiscal quarter ending June 30, 2027 (the date of such public release, the Q2 Earnings Release Date), up to an additional 7.0%"
+  },
+  {
+   "kind": "inline",
+   "label": ">0.5% holders release 8",
+   "values": [
+    "27",
+    "41",
+    "55",
+    "69",
+    "83",
+    "6.3%"
+   ],
+   "unit": "%",
+   "period": "Q2'27",
+   "category": "stock_plan",
+   "quote": "dates that are 27, 41, 55, 69, and 83 days, respectively, after the Q2 Earnings Release Date, up to an additional 6.3%"
+  },
+  {
+   "kind": "inline",
+   "label": "founders lock-up end day",
+   "values": [
+    "365th"
+   ],
+   "unit": "days",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "immediately after the close of the trading day on the 365th day after the date of this prospectus"
+  },
+  {
+   "kind": "inline",
+   "label": "founder release percentage",
+   "values": [
+    "29%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "stock_plan",
+   "quote": "each founder, together with any other signatories to such founders lock-up agreement, may Transfer up to 29% of the aggregate number"
+  },
+  {
+   "kind": "blank",
+   "label": "our share of offering expenses",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "commitments",
+   "quote": "We estimate that our share of the total expenses of the offering, excluding underwriting discounts and commissions, will be approximately $."
+  },
+  {
+   "kind": "blank",
+   "label": "FINRA expense reimbursement cap",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "commitments",
+   "quote": "reimburse the underwriters for certain Financial Industry Regulatory Authority-related expenses incurred by them in connection with the offering in an amount up to $."
+  },
+  {
+   "kind": "inline",
+   "label": "EEA non-qualified investor limit",
+   "values": [
+    "150"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "to fewer than 150 natural or legal persons (other than qualified investors as defined in the Prospectus Regulation)"
+  },
+  {
+   "kind": "inline",
+   "label": "Israel addressed investors limit",
+   "values": [
+    "35"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "the offer is made, distributed or directed to not more than 35 investors, subject to certain conditions (the Addressed Investors)"
+  },
+  {
+   "kind": "inline",
+   "label": "Israel addressed investors total",
+   "values": [
+    "35"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "may be offered to purchase securities in addition to the 35 Addressed Investors"
+  },
+  {
+   "kind": "inline",
+   "label": "Malaysia transaction threshold",
+   "values": [
+    "RM250,000"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "the shares of Class A common stock may only be acquired at a consideration of not less than RM250,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Malaysia net personal assets threshold",
+   "values": [
+    "RM3 million"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "an individual whose total net personal assets or total net joint assets with his or her spouse exceeds RM3 million"
+  },
+  {
+   "kind": "inline",
+   "label": "Malaysia gross annual income threshold",
+   "values": [
+    "RM300,000"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "an individual who has a gross annual income exceeding RM300,000 (or its equivalent in foreign currencies) per annum"
+  },
+  {
+   "kind": "inline",
+   "label": "Malaysia joint income threshold",
+   "values": [
+    "RM400,000"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "an individual who, jointly with his or her spouse, has a gross annual income of RM400,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Malaysia corporate net assets threshold",
+   "values": [
+    "RM10 million"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "a corporation with total net assets exceeding RM10 million (or its equivalent in foreign currencies) based on the last audited accounts"
+  },
+  {
+   "kind": "inline",
+   "label": "Malaysia partnership net assets threshold",
+   "values": [
+    "RM10 million"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "a partnership with total net assets exceeding RM10 million (or its equivalent in foreign currencies)"
+  },
+  {
+   "kind": "inline",
+   "label": "South Africa acquisition cost threshold",
+   "values": [
+    "ZAR 1,000,000"
+   ],
+   "unit": "count",
+   "period": "offering",
+   "category": "other",
+   "quote": "the total contemplated acquisition cost of the shares of Class A common stock, for any single addressee acting as a principal is equal to or greater than ZAR 1,000,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Wilson Sonsini ownership",
+   "values": [
+    "less than 0.01%"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "other",
+   "quote": "directly or indirectly own less than 0.01% of our outstanding capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "E&Y engagement date",
+   "values": [
+    "October 30, 2025"
+   ],
+   "unit": "count",
+   "period": "2025",
+   "category": "governance",
+   "quote": "On October 30, 2025, we engaged Ernst Young LLP as our independent registered public accounting firm"
+  },
+  {
+   "kind": "inline",
+   "label": "Grant Thornton letter date",
+   "values": [
+    "October 26, 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "A copy of Grant Thornton LLPs letter, dated October 26, 2026, is filed as Exhibit 16.1"
+  },
+  {
+   "kind": "inline",
+   "label": "audited periods - Grant Thornton",
+   "values": [
+    "December 31, 2023",
+    "December 31, 2024"
+   ],
+   "unit": "count",
+   "period": "FY2023-FY2024",
+   "category": "financials",
+   "quote": "report of Grant Thornton LLP on our consolidated financial statements as of and for the years ended December 31, 2023 and December 31, 2024"
+  }
+ ]
+}

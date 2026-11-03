@@ -1,0 +1,364 @@
+{
+ "chunks": [
+  {
+   "id": "sx1a_01",
+   "filing": "sx1a",
+   "section": "cover+TOC",
+   "start_line": 1,
+   "end_line": 360,
+   "n_lines": 359,
+   "file": "chunks/sx1a_01.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_02",
+   "filing": "sx1a",
+   "section": "prospectus-summary",
+   "start_line": 360,
+   "end_line": 3300,
+   "n_lines": 2940,
+   "file": "chunks/sx1a_02.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_03",
+   "filing": "sx1a",
+   "section": "risk-factors-1",
+   "start_line": 3300,
+   "end_line": 7000,
+   "n_lines": 3700,
+   "file": "chunks/sx1a_03.txt",
+   "status": "retry"
+  },
+  {
+   "id": "sx1a_04",
+   "filing": "sx1a",
+   "section": "risk-factors-2",
+   "start_line": 7000,
+   "end_line": 10700,
+   "n_lines": 3700,
+   "file": "chunks/sx1a_04.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_05",
+   "filing": "sx1a",
+   "section": "risk-factors-3",
+   "start_line": 10700,
+   "end_line": 13266,
+   "n_lines": 2566,
+   "file": "chunks/sx1a_05.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_06",
+   "filing": "sx1a",
+   "section": "use-of-proceeds-capitalization-dilution",
+   "start_line": 13266,
+   "end_line": 13982,
+   "n_lines": 716,
+   "file": "chunks/sx1a_06.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_07",
+   "filing": "sx1a",
+   "section": "mda-1",
+   "start_line": 13982,
+   "end_line": 18614,
+   "n_lines": 4632,
+   "file": "chunks/sx1a_07.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_08",
+   "filing": "sx1a",
+   "section": "mda-2-liquidity-commitments",
+   "start_line": 18614,
+   "end_line": 20448,
+   "n_lines": 1834,
+   "file": "chunks/sx1a_08.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_09",
+   "filing": "sx1a",
+   "section": "business-legal-proceedings",
+   "start_line": 20448,
+   "end_line": 25780,
+   "n_lines": 5332,
+   "file": "chunks/sx1a_09.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_10",
+   "filing": "sx1a",
+   "section": "management-execcomp-relationships",
+   "start_line": 25780,
+   "end_line": 29964,
+   "n_lines": 4184,
+   "file": "chunks/sx1a_10.txt",
+   "status": "superseded"
+  },
+  {
+   "id": "sx1a_11",
+   "filing": "sx1a",
+   "section": "capital-stock-shares-eligible",
+   "start_line": 29964,
+   "end_line": 32916,
+   "n_lines": 2952,
+   "file": "chunks/sx1a_11.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_12",
+   "filing": "sx1a",
+   "section": "underwriting-legal-experts",
+   "start_line": 32916,
+   "end_line": 34896,
+   "n_lines": 1980,
+   "file": "chunks/sx1a_12.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_13",
+   "filing": "sx1a",
+   "section": "financial-statements-1",
+   "start_line": 34896,
+   "end_line": 38500,
+   "n_lines": 3604,
+   "file": "chunks/sx1a_13.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_14",
+   "filing": "sx1a",
+   "section": "financial-statements-2-notes",
+   "start_line": 38500,
+   "end_line": 41500,
+   "n_lines": 3000,
+   "file": "chunks/sx1a_14.txt",
+   "status": "superseded"
+  },
+  {
+   "id": "sx1a_15",
+   "filing": "sx1a",
+   "section": "financial-statements-3-notes",
+   "start_line": 41500,
+   "end_line": 44770,
+   "n_lines": 3270,
+   "file": "chunks/sx1a_15.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_16",
+   "filing": "sx1a",
+   "section": "part-ii",
+   "start_line": 44770,
+   "end_line": 45537,
+   "n_lines": 767,
+   "file": "chunks/sx1a_16.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_01",
+   "filing": "sx1",
+   "section": "cover+TOC",
+   "start_line": 1,
+   "end_line": 354,
+   "n_lines": 353,
+   "file": "chunks/sx1_01.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_02",
+   "filing": "sx1",
+   "section": "prospectus-summary",
+   "start_line": 354,
+   "end_line": 2402,
+   "n_lines": 2048,
+   "file": "chunks/sx1_02.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_03",
+   "filing": "sx1",
+   "section": "risk-factors-1",
+   "start_line": 2402,
+   "end_line": 6200,
+   "n_lines": 3798,
+   "file": "chunks/sx1_03.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_04",
+   "filing": "sx1",
+   "section": "risk-factors-2",
+   "start_line": 6200,
+   "end_line": 9700,
+   "n_lines": 3500,
+   "file": "chunks/sx1_04.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_05",
+   "filing": "sx1",
+   "section": "risk-factors-3",
+   "start_line": 9700,
+   "end_line": 13120,
+   "n_lines": 3420,
+   "file": "chunks/sx1_05.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_06",
+   "filing": "sx1",
+   "section": "use-of-proceeds-capitalization-dilution",
+   "start_line": 13120,
+   "end_line": 13798,
+   "n_lines": 678,
+   "file": "chunks/sx1_06.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_07",
+   "filing": "sx1",
+   "section": "mda-1",
+   "start_line": 13798,
+   "end_line": 18000,
+   "n_lines": 4202,
+   "file": "chunks/sx1_07.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_08",
+   "filing": "sx1",
+   "section": "mda-2-liquidity-commitments",
+   "start_line": 18000,
+   "end_line": 19786,
+   "n_lines": 1786,
+   "file": "chunks/sx1_08.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_09",
+   "filing": "sx1",
+   "section": "business-legal-proceedings",
+   "start_line": 19786,
+   "end_line": 25104,
+   "n_lines": 5318,
+   "file": "chunks/sx1_09.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_10",
+   "filing": "sx1",
+   "section": "management-execcomp-relationships",
+   "start_line": 25104,
+   "end_line": 29292,
+   "n_lines": 4188,
+   "file": "chunks/sx1_10.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_11",
+   "filing": "sx1",
+   "section": "capital-stock-shares-eligible",
+   "start_line": 29292,
+   "end_line": 32194,
+   "n_lines": 2902,
+   "file": "chunks/sx1_11.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_12",
+   "filing": "sx1",
+   "section": "underwriting-legal-experts",
+   "start_line": 32194,
+   "end_line": 34152,
+   "n_lines": 1958,
+   "file": "chunks/sx1_12.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_13",
+   "filing": "sx1",
+   "section": "financial-statements-1",
+   "start_line": 34152,
+   "end_line": 37600,
+   "n_lines": 3448,
+   "file": "chunks/sx1_13.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_14",
+   "filing": "sx1",
+   "section": "financial-statements-2-notes",
+   "start_line": 37600,
+   "end_line": 40800,
+   "n_lines": 3200,
+   "file": "chunks/sx1_14.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_15",
+   "filing": "sx1",
+   "section": "financial-statements-3-notes",
+   "start_line": 40800,
+   "end_line": 43916,
+   "n_lines": 3116,
+   "file": "chunks/sx1_15.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1_16",
+   "filing": "sx1",
+   "section": "part-ii",
+   "start_line": 43916,
+   "end_line": 44679,
+   "n_lines": 763,
+   "file": "chunks/sx1_16.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_10a",
+   "filing": "sx1a",
+   "section": "management-execcomp-A",
+   "start_line": 25780,
+   "end_line": 27900,
+   "n_lines": 2120,
+   "file": "chunks/sx1a_10a.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_10b",
+   "filing": "sx1a",
+   "section": "management-execcomp-B",
+   "start_line": 27900,
+   "end_line": 29964,
+   "n_lines": 2064,
+   "file": "chunks/sx1a_10b.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_14a",
+   "filing": "sx1a",
+   "section": "financial-statements-2-notes-A",
+   "start_line": 38500,
+   "end_line": 40000,
+   "n_lines": 1500,
+   "file": "chunks/sx1a_14a.txt",
+   "status": "pending"
+  },
+  {
+   "id": "sx1a_14b",
+   "filing": "sx1a",
+   "section": "financial-statements-2-notes-B",
+   "start_line": 40000,
+   "end_line": 41500,
+   "n_lines": 1500,
+   "file": "chunks/sx1a_14b.txt",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,712 @@
+{
+ "chunk": "sx1a_05",
+ "section": "risk-factors-3",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 23653,
+  "completion_tokens": 4248,
+  "total_tokens": 27901,
+  "cost": 0.00567195,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00567195,
+   "upstream_inference_prompt_cost": 0.00354795,
+   "upstream_inference_completions_cost": 0.002124
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 542,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 61,
+ "records": [
+  {
+   "kind": "inline",
+   "label": "antitrust class action filing date",
+   "values": [
+    "September 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "legal",
+   "quote": "In September 2026, a putative class action was filed against us and other developers of frontier AI models"
+  },
+  {
+   "kind": "inline",
+   "label": "treble damages sought",
+   "values": [
+    "treble damages"
+   ],
+   "unit": "x",
+   "period": "2026",
+   "category": "legal",
+   "quote": "The complaint seeks treble damages, injunctive relief, and other relief"
+  },
+  {
+   "kind": "inline",
+   "label": "adverse antitrust outcome treble damages",
+   "values": [
+    "treble damages"
+   ],
+   "unit": "x",
+   "period": "2026",
+   "category": "legal",
+   "quote": "an adverse outcome could result in treble damages and injunctive relief"
+  },
+  {
+   "kind": "inline",
+   "label": "export restrictions imposed",
+   "values": [
+    "June 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "legal",
+   "quote": "in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable 5 and Mythos 5 models"
+  },
+  {
+   "kind": "inline",
+   "label": "DOJ data security final rule effective",
+   "values": [
+    "April 2025"
+   ],
+   "unit": "date",
+   "period": "2025",
+   "category": "legal",
+   "quote": "the Department of Justice issued a final rule, effective in April 2025, that places limitations"
+  },
+  {
+   "kind": "inline",
+   "label": "global minimum tax rate",
+   "values": [
+    "15%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "a framework that imposes a 15% global minimum tax, which has been implemented into the domestic laws of some jurisdictions in the EU"
+  },
+  {
+   "kind": "inline",
+   "label": "OECD safe harbor announcement date",
+   "values": [
+    "January 5, 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "On January 5, 2026, the OECD announced a side-by-side elective safe harbor"
+  },
+  {
+   "kind": "inline",
+   "label": "OECD safe harbor effective fiscal years",
+   "values": [
+    "beginning on or after January 1, 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "exempts electing U.S.-parented multinational entities from certain provisions of the global minimum tax for fiscal years beginning on or after January 1, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "NOL ownership change threshold",
+   "values": [
+    "5-percent"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "financials",
+   "quote": "owned by one or more 5-percent shareholders increases by more than 50 percentage points over a rolling three-year period"
+  },
+  {
+   "kind": "inline",
+   "label": "ownership change percentage point increase",
+   "values": [
+    "50 percentage points"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "financials",
+   "quote": "increases by more than 50 percentage points over a rolling three-year period"
+  },
+  {
+   "kind": "inline",
+   "label": "NOL 80% taxable income offset limit",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "post-2017",
+   "category": "financials",
+   "quote": "U.S. federal NOLs arising in taxable years beginning after December 31, 2017 may be used to offset only 80% of taxable income in any year"
+  },
+  {
+   "kind": "inline",
+   "label": "NOL rule effective date",
+   "values": [
+    "December 31, 2017"
+   ],
+   "unit": "date",
+   "period": "2017",
+   "category": "financials",
+   "quote": "taxable years beginning after December 31, 2017 may be used to offset only 80% of taxable income"
+  },
+  {
+   "kind": "inline",
+   "label": "PBC derivative action share ownership threshold",
+   "values": [
+    "two percent"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "governance",
+   "quote": "own the lesser of at least two percent of the corporations outstanding shares or shares of the corporation with a market value of at least $2,000,000"
+  },
+  {
+   "kind": "inline",
+   "label": "PBC derivative action market value threshold",
+   "values": [
+    "$2,000,000"
+   ],
+   "unit": "$M",
+   "period": "2026",
+   "category": "governance",
+   "quote": "shares of the corporation with a market value of at least $2,000,000 as of the date the action is instituted"
+  },
+  {
+   "kind": "inline",
+   "label": "indispensable party consent window",
+   "values": [
+    "10 days"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "does not consent to the personal jurisdiction of such court within 10 days following such determination"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F voting power",
+   "values": [
+    "50.1%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "governance",
+   "quote": "Our Class F common stock will be entitled to an aggregate number of votes that equals 50.1% of the total voting power"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT number of Trustees",
+   "values": [
+    "five"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "intended to operate as an independent body of five financially disinterested Trustees"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F Transition Period trigger",
+   "values": [
+    "fewer than three Continuing Founders",
+    "90 consecutive calendar days"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "fewer than three Continuing Founders (not including any successor member who is a Non-Qualifying Member as defined in the Founder LLC limited liability company agreement (the Founder LLC Agreement)) for 90 consecutive calendar days"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founders voting power blanks",
+   "values": [
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "our co-founders will collectively hold approximately (i) % of the total voting power of our outstanding capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "board size approval threshold",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "governance",
+   "quote": "the number of directors constituting our board of directors will be permitted to be set only with the approval of 80% of the authorized members of our board of directors"
+  },
+  {
+   "kind": "inline",
+   "label": "rounding convention",
+   "values": [
+    "0.5"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "rounded up or down to the nearest whole number (any exact 0.5 rounding up)"
+  },
+  {
+   "kind": "inline",
+   "label": "classified board classes",
+   "values": [
+    "three classes",
+    "three-year terms"
+   ],
+   "unit": "years",
+   "period": "2026",
+   "category": "governance",
+   "quote": "classified board of directors consisting of three classes of directors with staggered three-year terms"
+  },
+  {
+   "kind": "inline",
+   "label": "charter amendment supermajority",
+   "values": [
+    "66 23%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "governance",
+   "quote": "following the Class F Sunset Time, 66 23% of the voting power of our Class A common stock will be required to amend certain provisions"
+  },
+  {
+   "kind": "inline",
+   "label": "preferred stock issuance approval threshold",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "governance",
+   "quote": "the issuance and terms of which may be established by 80% of the authorized members of our board of directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Nasdaq ticker",
+   "values": [
+    "ANT"
+   ],
+   "unit": "other",
+   "period": "2026",
+   "category": "offering",
+   "quote": "We have applied to list our Class A common stock on the Nasdaq Global Select Market under the symbol ANT"
+  },
+  {
+   "kind": "inline",
+   "label": "authorized Class A shares",
+   "values": [
+    "300,000,000,000"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "authorizes us to issue up to an aggregate of 300,000,000,000 shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "authorized Class N shares",
+   "values": [
+    "100,000,000,000"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "100,000,000,000 shares of Class N common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "authorized Class T shares",
+   "values": [
+    "one share"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "one share of Class T common stock, one share of Class F common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "authorized Class F shares",
+   "values": [
+    "one share"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "one share of Class T common stock, one share of Class F common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "authorized Class E shares",
+   "values": [
+    "30,000,000,000"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "30,000,000,000 shares of Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "authorized preferred shares",
+   "values": [
+    "30,000,000,000"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "30,000,000,000 shares of preferred stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class N outstanding blank",
+   "values": [
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "%|shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "we will have shares of Class N common stock outstanding, representing approximately % of our outstanding capital stock prior to this offering and approximately % of our outstanding capital stock following the completion of this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon Google ownership",
+   "values": [
+    "greater than five percent"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "Amazon and Google will each hold greater than five percent of our outstanding capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon Class N holdings blank",
+   "values": [
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "Amazon will hold shares of our Class N common stock and Google will hold shares of our Class N common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "additional Class N issuable blank",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "An aggregate of an additional shares of Class N common stock will be issuable after this offering upon conversion of remaining outstanding convertible promissory notes"
+  },
+  {
+   "kind": "inline",
+   "label": "Class N conversion ratio",
+   "values": [
+    "equal number"
+   ],
+   "unit": "x",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "The shares of Class N common stock will automatically convert into an equal number of shares of Class A common stock upon a transfer"
+  },
+  {
+   "kind": "inline",
+   "label": "Class A one vote per share",
+   "values": [
+    "one vote per share"
+   ],
+   "unit": "x",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "the resulting shares of Class A common stock will be entitled to one vote per share"
+  },
+  {
+   "kind": "inline",
+   "label": "example Class A issuance",
+   "values": [
+    "1,000,000"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "if we were to issue 1,000,000 additional shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "example incremental Class F votes",
+   "values": [
+    "approximately 1,004,008 additional votes"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "or approximately 1,004,008 additional votes"
+  },
+  {
+   "kind": "inline",
+   "label": "shares outstanding blanks",
+   "values": [
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "we will have a total of shares of Class A common stock outstanding and shares of Class N common stock outstanding"
+  },
+  {
+   "kind": "inline",
+   "label": "lock-up threshold holders",
+   "values": [
+    "0.5%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "certain of our stockholders holding more than 0.5% of our fully diluted shares prior to this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founder lock-up expiration A",
+   "values": [
+    "600 AM Eastern Time on the second full trading day immediately following the public release of our quarterly financial results for the fiscal quarter ending September 30, 2027"
+   ],
+   "unit": "date",
+   "period": "2027",
+   "category": "stock_plan",
+   "quote": "on the earlier of (A) 600 AM Eastern Time on the second full trading day immediately following the public release of our quarterly financial results for the fiscal quarter ending September 30, 2027"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founder lock-up expiration B",
+   "values": [
+    "365th day"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "(B) immediately after the close of the trading day on the 365th day after the date of this prospectus"
+  },
+  {
+   "kind": "inline",
+   "label": "other holders lock-up expiration A",
+   "values": [
+    "fiscal quarter ending March 31, 2027"
+   ],
+   "unit": "date",
+   "period": "2027",
+   "category": "stock_plan",
+   "quote": "the public release of our quarterly financial results for the fiscal quarter ending March 31, 2027"
+  },
+  {
+   "kind": "inline",
+   "label": "other holders lock-up expiration B",
+   "values": [
+    "180th day"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "the close of the trading day on the 180th day after the date of this prospectus"
+  },
+  {
+   "kind": "inline",
+   "label": "IRA date",
+   "values": [
+    "May 28, 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "governance",
+   "quote": "our amended and restated investors rights agreement, dated as of May 28, 2026 (our IRA)"
+  },
+  {
+   "kind": "inline",
+   "label": "demand registration rights shares blank",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "stockholders owning an aggregate of up to shares of our Class A common stock (including those issuable upon conversion of our Class N common stock) will be entitled, under our IRA, to demand registration rights"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founder philanthropic pledge",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "our co-founders have each pledged to dedicate 80% of their personal equity in Anthropic to philanthropic causes"
+  },
+  {
+   "kind": "inline",
+   "label": "FCPA year",
+   "values": [
+    "1977"
+   ],
+   "unit": "years",
+   "period": "1977",
+   "category": "legal",
+   "quote": "the United States Foreign Corrupt Practices Act of 1977"
+  },
+  {
+   "kind": "inline",
+   "label": "UK Bribery Act year",
+   "values": [
+    "2010"
+   ],
+   "unit": "years",
+   "period": "2010",
+   "category": "legal",
+   "quote": "the United Kingdom Bribery Act 2010"
+  },
+  {
+   "kind": "inline",
+   "label": "PBC biennial report requirement",
+   "values": [
+    "at least biennially"
+   ],
+   "unit": "years",
+   "period": "2026",
+   "category": "governance",
+   "quote": "to disclose to stockholders a report at least biennially on our overall performance in promoting the public benefit"
+  },
+  {
+   "kind": "inline",
+   "label": "Sarbanes-Oxley 404 first report timing",
+   "values": [
+    "second annual report on Form 10-K"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "commencing with our second annual report on Form 10-K"
+  },
+  {
+   "kind": "inline",
+   "label": "IDC source doc",
+   "values": [
+    "US54452226",
+    "April 2026"
+   ],
+   "unit": "other",
+   "period": "2026",
+   "category": "other",
+   "quote": "IDC, The Economic Impact of AI 2026 Edition, doc # US54452226, April 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "IDC Black Book source",
+   "values": [
+    "July 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "other",
+   "quote": "IDC, Worldwide Black Book Live Edition V2 2026 Forecast, July 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "IDC developer population forecast period",
+   "values": [
+    "20252029",
+    "September 2025"
+   ],
+   "unit": "years",
+   "period": "2025-2029",
+   "category": "other",
+   "quote": "IDC, Worldwide Developer Population Growth Forecast, 20252029, doc # US53789825, September 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "IQVIA source",
+   "values": [
+    "February 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "other",
+   "quote": "IQVIA Institute for Human Data Science, Global Medicine Use Trends 2026, February 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "BLS source",
+   "values": [
+    "May 2025"
+   ],
+   "unit": "date",
+   "period": "2025",
+   "category": "other",
+   "quote": "U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics, May 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "World Bank GDP source",
+   "values": [
+    "2025"
+   ],
+   "unit": "years",
+   "period": "2025",
+   "category": "other",
+   "quote": "World Bank Group, GDP (current US$), 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "wage estimate base year",
+   "values": [
+    "2025"
+   ],
+   "unit": "years",
+   "period": "2025",
+   "category": "other",
+   "quote": "Based on wage data for U.S. workers by occupation classification from the U.S. Bureau of Labor Statistics in 2025"
+  },
+  {
+   "kind": "blank",
+   "label": "Class N outstanding count",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "Immediately prior to the completion of this offering, after giving effect to the Preferred Stock Conversion and the Convertible Notes Conversion, we will have shares of Class N common stock outstanding"
+  },
+  {
+   "kind": "blank",
+   "label": "demand registration shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "stockholders owning an aggregate of up to shares of our Class A common stock"
+  }
+ ]
+}

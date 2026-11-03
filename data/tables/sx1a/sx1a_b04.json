@@ -1,0 +1,81 @@
+{
+  "batch": "sx1a_b04",
+  "tables": [
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth our cash, cash equivalents, and short-term investments, as well as our capitalization, as of September 30, 2026",
+      "caption_line": 13370,
+      "start_line": 13422,
+      "end_line": 13582,
+      "column_note": "(in millions, except share and per share amounts)",
+      "columns": ["", "Actual", "Pro Forma(1)", "Pro Forma As Adjusted(2)"],
+      "rows": [
+        {
+          "label": "Cash, cash equivalents, and short-term investments",
+          "cells": ["$131,845", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Convertible notes payable",
+          "cells": ["$130,502", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Redeemable convertible preferred stock, par value $0.00001 per share 1,040,440,652 shares authorized, issued and outstanding, actual no shares authorized, issued, and outstanding, pro forma and pro forma as adjusted",
+          "cells": ["157,510", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Stockholders equity (deficit)",
+          "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Preferred stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted",
+          "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Class A common stock, par value $0.00001 per share 10,906,111,730 shares authorized, shares issued and outstanding, actual 300,000,000,000 shares authorized, shares issued and outstanding, pro forma and 300,000,000,000 shares authorized, shares issued and outstanding, pro forma as adjusted",
+          "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Class N common stock, par value $0.00001 per share 7,128,888,270 shares authorized, shares issued and outstanding, actual 100,000,000,000 shares authorized, shares issued, and shares outstanding, pro forma and 100,000,000,000 shares authorized, shares issued, and shares outstanding, pro forma as adjusted(3)",
+          "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Class T common stock, par value $0.00001 per share 1 share authorized, 1 share issued and outstanding, actual, pro forma, and pro forma as adjusted",
+          "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Class F common stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 1 share authorized, 1 share issued and outstanding, pro forma and pro forma as adjusted",
+          "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Class E common stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted",
+          "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Additional paid-in capital",
+          "cells": ["6,481", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Accumulated other comprehensive income (loss)",
+          "cells": ["(161)", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Accumulated deficit",
+          "cells": ["(156,193)", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Total stockholders equity (deficit)",
+          "cells": ["(149,873)", "[BLANK]", "[BLANK]"]
+        },
+        {
+          "label": "Total capitalization",
+          "cells": ["$138,139", "[BLANK]", "[BLANK]"]
+        }
+      ],
+      "footnotes": [
+        "(1)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, would increase or decrease, as applicable, the amount we would be required to pay to satisfy our tax withholding and remittance obligations related to the RSU Settlement by $.",
+        "(2)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, would increase or decrease, as applicable, the amount of our pro forma as adjusted cash, cash equivalents, and short-term investments, additional paid-in capital, total stockholders equity (deficit), and total capitalization by $, assuming that the number of shares offered by us, as set forth on the cover page of this prospectus, remains the same and after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. Each increase or decrease of 1.0million in the number of shares offered by us would increase or decrease, as applicable, the amount of our pro forma as adjusted cash, cash equivalents, and short-term investments, additional paid-in capital, total stockholders equity (deficit), and total capitalization by $, assuming the assumed initial public offering price remains the same, and after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us.",
+        "(3)The number of shares of Class N common stock issued on a pro forma and pro forma as adjusted basis includes shares issued in the Initial Public Benefit Issuance, which (i) are considered legally outstanding, (ii) are not considered outstanding for accounting purposes while held by our wholly owned subsidiary, and (iii) accordingly are not reflected as outstanding in the table above."
+      ]
+    }
+  ]
+}

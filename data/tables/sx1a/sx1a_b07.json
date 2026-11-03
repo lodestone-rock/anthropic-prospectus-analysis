@@ -1,0 +1,134 @@
+{
+  "batch": "sx1a_b07",
+  "tables": [
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes the notes outstanding under our NPAs as of September 30, 2026, which consist",
+      "caption_line": 18660,
+      "start_line": 18680,
+      "end_line": 18780,
+      "column_note": "(in millions)",
+      "columns": ["Counterparty", "Agreement", "Principal Amount Outstanding (in millions)", "Conversion Price Per Share(1)", "Class N Shares Issuable on Conversion(2)"],
+      "rows": [
+        {"label": "Amazon", "cells": ["Amazon 2023 NPA(3)", "$2,186", "$2.0928", "1,044,716,970"]},
+        {"label": "Amazon", "cells": ["Amazon 2024 NPA(4)", "4,017", "$5.0478", "795,727,992"]},
+        {"label": "Total", "cells": ["[BLANK]", "$6,203", "[BLANK]", "1,840,444,962"]}
+      ],
+      "footnotes": [
+        "(1)In connection with this offering, the notes will convert, subject to Amazons ownership cap, which may be waived at Amazons election, into shares of Class N common stock at the lower of the fixed conversion price per share reflected in the table and the initial price per share of Class A common stock set forth on the cover of this prospectus (IPO Price). Following this offering, any notes that could not convert in connection with this offering due to the holders ownership cap will convert at the end of each fiscal quarter at the lowest of such fixed price, the IPO Price, and the 10-day trailing volume-weighted average price of our Class A common stock, subject to such continued ownership cap.",
+        "(2)Assumes conversion at the applicable price in the column titled Conversion Price Per Share and represents the aggregate number of shares of Class N common stock issuable upon conversion of the notes, without giving effect to the holders ownership cap. The principal amount of any notes that cannot convert without exceeding the applicable ownership cap will be re-issued as a non-interest-bearing rollover note with substantially identical terms (other than any reduction in principal as a result of any partial conversion up to Amazons ownership cap). The remaining rollover notes would remain outstanding following this offering and would automatically convert at the end of each subsequent fiscal quarter as described above, to the extent such conversion would not exceed Amazons ownership cap, which may be waived at Amazons election. The number of shares of Class N common stock issued upon conversion at the completion of this offering, and the aggregate principal amount of notes remaining outstanding as rollover notes following this offering, will be determined based on the final offering size and Amazons election with respect to the ownership cap.",
+        "(3)Matures March 2034, subject to earlier repayment or conversion.",
+        "(4)Reflects the aggregate principal amount of notes outstanding under the Amazon 2024 NPA, which were issued across three tranches and will mature in January 2035, May 2035, and November 2035, as applicable, in each case subject to earlier repayment or conversion."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes the aggregate principal amounts of notes that may be issued and the aggregate",
+      "caption_line": 18784,
+      "start_line": 18790,
+      "end_line": 18880,
+      "column_note": "(in millions)",
+      "columns": ["Counterparty", "Agreement", "Aggregate Amount Available for Issuance (in millions)", "Principal Amount Outstanding (in millions)", "Draw Period Ends"],
+      "rows": [
+        {"label": "Google", "cells": ["Google 2026 NPA", "$ 20,000(1)", "$", "December 2030"]},
+        {"label": "Amazon", "cells": ["Amazon 2026 NPA", "$15,000", "$", "(2)"]},
+        {"label": "Broadcom(3)", "cells": ["Infrastructure Partner 2026 NPA", "$42,000", "$", "(4)"]},
+        {"label": "Total", "cells": ["[BLANK]", "$77,000", "$", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)Subject to reduction by up to $10.0 billion if Google exercises its option to purchase shares of our Class N common stock in a private placement concurrent with this offering at the initial public offering price. See the section titled Google for more information.",
+        "(2)30 months following the completion of this offering, or earlier upon the termination of certain commercial agreements with Amazon.",
+        "(3)Broadcom may assign the Infrastructure Partner 2026 NPA to a designated financial partner, subject to our consent (not to be unreasonably withheld).",
+        "(4)Five years from the start of the draw period, subject to earlier termination. See the section titled Broadcom for more information."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes the principal terms of the Amazon 2026 NPA, which provides for potential",
+      "caption_line": 18884,
+      "start_line": 18896,
+      "end_line": 18990,
+      "column_note": "",
+      "columns": ["Agreement", "Original Principal Amount Available for Issuance", "Remaining Principal Amount Available for Issuance(1)", "Principal Amount Outstanding(1)", "Interest Rate", "Maturity", "At IPO", "Post-IPO"],
+      "rows": [
+        {"label": "Amazon 2026 NPA", "cells": ["$15.0 billion", "$15.0 billion(2)", "$", "NA", "10 years from date of issuance", "NA(2)", "Each draw is settled by issuing shares of our Class N common stock at a price equal to the 30-day trailing volume-weighted average price of our Class A common stock as of the date the relevant compute capacity milestone is achieved, subject to the ownership cap."]}
+      ],
+      "footnotes": [
+        "(1)As of September 30, 2026.",
+        "(2)We do not expect any notes to be issued under the Amazon 2026 NPA prior to the completion of this offering."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes the principal terms of the Infrastructure Partner 2026 NPA under which we",
+      "caption_line": 19026,
+      "start_line": 19036,
+      "end_line": 19194,
+      "column_note": "",
+      "columns": ["Agreement", "Original Principal Amount Available for Issuance", "Remaining Principal Amount Available for Issuance(1)", "Principal Amount Outstanding(1)", "Interest Rate", "Maturity", "At IPO", "Post-IPO"],
+      "rows": [
+        {"label": "Infrastructure Partner 2026 NPA(2)", "cells": ["$42.0 billion", "$42.0 billion(3)", "$", "9.00% per annum(4)", "60 months from the start of the draw period for the first $24.0 billion of notes issued, 63 months for amounts exceeding $24.0 billion but less than $32.0 billion, and 57 months for amounts exceeding $32.0 billion", "NA(3)", "The holder may elect to convert any outstanding notes into shares of our Class N common stock at a conversion price equal to 90% of the 30-day trailing volume-weighted average price of our Class A common stock(4)"]}
+      ],
+      "footnotes": [
+        "(1)As of September 30, 2026.",
+        "(2)Broadcom may assign the Infrastructure Partner 2026 NPA to a designated financial partner, subject to our consent (not to be unreasonably withheld).",
+        "(3)We do not expect any notes to be issued under the Infrastructure Partner 2026 NPA prior to the completion of this offering.",
+        "(4)Interest on the notes is paid in kind by capitalizing accrued interest into principal. Any notes issued during a period in which certain revenue performance conditions are not met bear interest at 13.00% per annum and convert at 85%, rather than 90%, of the applicable price."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes the principal terms of the Google 2026 NPA, which provides for potential",
+      "caption_line": 19250,
+      "start_line": 19254,
+      "end_line": 19372,
+      "column_note": "",
+      "columns": ["Agreement", "Original Principal Amount Available for Issuance", "Remaining Principal Amount Available for Issuance(1)", "Principal Amount Outstanding(1)", "Interest Rate", "Maturity", "At IPO", "Post-IPO"],
+      "rows": [
+        {"label": "Google 2026 NPA", "cells": ["$20.0 billion", "$20.0 billion(2)", "$", "NA(2)", "NA(2)", "NA(2)", "For post-IPO draws, Google may elect to receive either (i) a convertible promissory note on terms to be mutually agreed or (ii) shares of our Class N common stock at the 30-day trailing volume-weighted average price of our Class A common stock.(3)"]}
+      ],
+      "footnotes": [
+        "(1)As of September 30, 2026.",
+        "(2)We do not expect any amounts to be issued under the Google 2026 NPA prior to the completion of this offering. If Google elects to receive any convertible promissory notes following the offering, the terms will be mutually agreed by us and Google. See the Post-IPO column.",
+        "(3)To the extent the terms of a convertible promissory note cannot be agreed by us and Google, the draw is settled in shares of Class N common stock at the 30-day trailing volume-weighted average price of our Class A common stock."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table shows a summary of our cash flows for the periods presented",
+      "caption_line": 19412,
+      "start_line": 19414,
+      "end_line": 19468,
+      "column_note": "(in millions)",
+      "columns": ["", "Year Ended December 31, 2023", "Year Ended December 31, 2024", "Year Ended December 31, 2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026"],
+      "rows": [
+        {"label": "Net cash provided by (used in) Operating activities", "cells": ["$(1,627)", "$(5,692)", "$(2,637)", "$(2,024)", "$6,569"]},
+        {"label": "Investing activities", "cells": ["(2)", "(22)", "(3,077)", "(2,007)", "(36,546)"]},
+        {"label": "Financing activities", "cells": ["2,320", "7,248", "19,960", "18,508", "110,735"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes our contractual obligations as of September30, 2026",
+      "caption_line": 19604,
+      "start_line": 19606,
+      "end_line": 19732,
+      "column_note": "(in millions)",
+      "columns": ["", "Total", "2026", "2027", "2028", "2029", "2030", "Thereafter"],
+      "rows": [
+        {"label": "Operating leases(1)", "cells": ["$4,224", "$57", "$303", "$462", "$445", "$466", "$2,491"]},
+        {"label": "Finance leases(2)", "cells": ["1,950", "121", "438", "422", "406", "390", "173"]},
+        {"label": "Purchase commitments(3)", "cells": ["313,819", "5,053", "28,424", "43,473", "46,901", "44,214", "145,754"]},
+        {"label": "Total(4)(5)", "cells": ["$319,993", "$5,231", "$29,165", "$44,357", "$47,752", "$45,070", "$148,418"]}
+      ],
+      "footnotes": [
+        "(1)Consists of operating leases for corporate offices and compute and infrastructure with a weighted-average remaining lease term of 10.3 years as of September30, 2026. See Note 7 to our consolidated financial statements included elsewhere in this prospectus for more information.",
+        "(2)Consists of finance leases for compute and infrastructure with a weighted-average remaining lease term of 4.8 years as of September30, 2026. See Note 7 to our consolidated financial statements included elsewhere in this prospectus for more information.",
+        "(3)Primarily consists of future minimum payments under CSP hosting and other third-party infrastructure service agreements. The table reflects future minimum payments under our non-cancelable purchase commitments with a remaining term in excess of one year. See Note 13 to our consolidated financial statements included elsewhere in this prospectus for more information.",
+        "(4)Excludes $6.2 billion aggregate principal amount outstanding under the Amazon Notes as of September30, 2026, which are expected to be settled in shares rather than cash. We may issue up to an additional $77.0 billion of convertible promissory notes, subject to applicable conditions. See the section titled Convertible Notes for more information.",
+        "(5)Excludes certain other compute and infrastructure arrangements that do not specify a fixed dollar commitment which are not included in the aggregate above. Payments under these arrangements will depend on the capacity made available and deployed, delivery timing, pricing mechanics, and the satisfaction, or our waiver, of certain other deployment conditions. Because these factors are not yet determinable, the total amount of payments under these arrangements is uncertain, but we currently estimate such payments to be approximately $150 billion to $175 billion. We expect these amounts to be payable over time after the capacity is delivered. See the section titled Infrastructure Service Arrangements below for more information, including a description of the conditions referred to above."
+      ]
+    }
+  ]
+}

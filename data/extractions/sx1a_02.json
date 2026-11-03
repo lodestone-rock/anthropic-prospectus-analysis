@@ -1,0 +1,1150 @@
+{
+ "chunk": "sx1a_02",
+ "section": "prospectus-summary",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 19202,
+  "completion_tokens": 6471,
+  "total_tokens": 25673,
+  "cost": 0.002331108,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.002331108,
+   "upstream_inference_prompt_cost": 0.001036908,
+   "upstream_inference_completions_cost": 0.0012942
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 20,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 89,
+ "records": [
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "(in millions, except share and per share amounts)",
+    "2023",
+    "2024",
+    "2025",
+    "2025",
+    "2026"
+   ],
+   "values": [
+    "Year Ended December 31, Nine Months Ended September 30,"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "(in millions, except share and per share amounts) 2023 2024 2025 2025 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Revenue",
+   "values": [
+    "$41",
+    "$386",
+    "$4,585",
+    "$2,545",
+    "$33,242"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Revenue $41 $386 $4,585 $2,545 $33,242"
+  },
+  {
+   "kind": "table_row",
+   "label": "Compute and infrastructure",
+   "values": [
+    "433",
+    "2,522",
+    "7,326",
+    "4,381",
+    "18,808"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Compute and infrastructure 433 2,522 7,326 4,381 18,808"
+  },
+  {
+   "kind": "table_row",
+   "label": "Personnel",
+   "values": [
+    "95",
+    "454",
+    "1,839",
+    "1,027",
+    "4,863"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Personnel(1) 95 454 1,839 1,027 4,863"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement",
+   "values": [
+    "1,500",
+    "1,500"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Bartz settlement 1,500 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales, marketing, and partnerships",
+   "values": [
+    "2",
+    "43",
+    "568",
+    "322",
+    "5,529"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Sales, marketing, and partnerships 2 43 568 322 5,529"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other operating and administrative",
+   "values": [
+    "62",
+    "347",
+    "1,412",
+    "539",
+    "5,302"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Other operating and administrative 62 347 1,412 539 5,302"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total operating expenses",
+   "values": [
+    "592",
+    "3,366",
+    "12,645",
+    "7,769",
+    "34,502"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Total operating expenses 592 3,366 12,645 7,769 34,502"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating loss",
+   "values": [
+    "(551)",
+    "(2,980)",
+    "(8,060)",
+    "(5,224)",
+    "(1,260)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Operating loss (551) (2,980) (8,060) (5,224) (1,260)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Interest income",
+   "values": [
+    "69",
+    "106",
+    "431",
+    "239",
+    "2,359"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Interest income 69 106 431 239 2,359"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value of convertible notes, derivative liabilities, and SAFEs",
+   "values": [
+    "(1,045)",
+    "(5,434)",
+    "(34,308)",
+    "(20,107)",
+    "(94,324)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Change in fair value of convertible notes, derivative liabilities, and SAFEs (1,045) (5,434) (34,308) (20,107) (94,324)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net",
+   "values": [
+    "(2)",
+    "(8)",
+    "(3)",
+    "(10,397)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Other income (expense), net (2) (8) (3) (10,397)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total other income (expense), net",
+   "values": [
+    "(978)",
+    "(5,328)",
+    "(33,885)",
+    "(19,871)",
+    "(102,362)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Total other income (expense), net (978) (5,328) (33,885) (19,871) (102,362)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Loss before provision for income taxes",
+   "values": [
+    "(1,529)",
+    "(8,308)",
+    "(41,945)",
+    "(25,095)",
+    "(103,622)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Loss before provision for income taxes (1,529) (8,308) (41,945) (25,095) (103,622)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Provision for income taxes",
+   "values": [
+    "2",
+    "1",
+    "20",
+    "12",
+    "417"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Provision for income taxes 2 1 20 12 417"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss",
+   "values": [
+    "$(1,531)",
+    "$(8,309)",
+    "$(41,965)",
+    "$(25,107)",
+    "$(104,039)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Net loss(2) $(1,531) $(8,309) $(41,965) $(25,107) $(104,039)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss per share attributable to common stockholders, basic and diluted",
+   "values": [
+    "$(1.42)",
+    "$(5.43)",
+    "$(23.04)",
+    "$(13.90)",
+    "$(50.10)"
+   ],
+   "unit": "per-share",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Net loss per share attributable to common stockholders, basic and diluted $(1.42) $(5.43) $(23.04) $(13.90) $(50.10)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Weighted-average number of shares outstanding, basic and diluted",
+   "values": [
+    "1,076,880,510",
+    "1,528,994,540",
+    "1,821,084,860",
+    "1,806,802,920",
+    "2,076,810,122"
+   ],
+   "unit": "shares",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Weighted-average number of shares outstanding, basic and diluted 1,076,880,510 1,528,994,540 1,821,084,860 1,806,802,920 2,076,810,122"
+  },
+  {
+   "kind": "inline",
+   "label": "Stock-based compensation expense footnote",
+   "values": [
+    "$29 million",
+    "$192 million",
+    "$1.2 billion",
+    "$591 million",
+    "$3.3 billion"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Includes stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the years ended December 31, 2023, 2024, and 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Change in fair value footnote",
+   "values": [
+    "$1.0 billion",
+    "$5.4 billion",
+    "$34.3 billion",
+    "$20.1 billion",
+    "$94.3 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "were $1.0 billion, $5.4 billion, and $34.3 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $20.1 billion and $94.3 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Revenue growth from launch",
+   "values": [
+    "$0",
+    "$17.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q1'23-Q3'26",
+   "category": "financials",
+   "quote": "revenue growing from $0 at commercial launch in the first quarter of 2023 to $17.0 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Aggregate committed spend",
+   "values": [
+    "approximately $895.4 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "we have entered into purchase commitments and lease agreements... with an aggregate committed spend of approximately $895.4 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Commitments before 2030",
+   "values": [
+    "approximately $447.5 billion"
+   ],
+   "unit": "$B",
+   "period": "through 2030",
+   "category": "commitments",
+   "quote": "These commitments include approximately $447.5 billion expected to be incurred before December 31, 2030"
+  },
+  {
+   "kind": "inline",
+   "label": "Commitments 2031-2045",
+   "values": [
+    "between 2031 and 2045"
+   ],
+   "unit": "years",
+   "period": "2031-2045",
+   "category": "commitments",
+   "quote": "substantially all of the remainder is expected to be incurred between 2031 and 2045"
+  },
+  {
+   "kind": "inline",
+   "label": "Commitments due next 12 months",
+   "values": [
+    "Approximately $69.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Approximately $69.8 billion of these commitments are due in the 12 months following September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Knowledge worker economic value 2025",
+   "values": [
+    "more than $40 trillion"
+   ],
+   "unit": "$B",
+   "period": "2025",
+   "category": "metrics",
+   "quote": "the work that knowledge workers perform represented more than $40 trillion in economic value globally in 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "IDC cumulative AI economic impact",
+   "values": [
+    "$22.5 trillion by 2031"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "metrics",
+   "quote": "investment in AI solutions and services will yield a cumulative global economic impact of $22.5 trillion by 2031"
+  },
+  {
+   "kind": "inline",
+   "label": "Pharma spend 2026",
+   "values": [
+    "exceed $2 trillion in 2026"
+   ],
+   "unit": "$B",
+   "period": "2026",
+   "category": "metrics",
+   "quote": "annual global pharmaceutical spend is expected to exceed $2 trillion in 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Knowledge workers population 2028",
+   "values": [
+    "estimated to exceed one billion in 2028"
+   ],
+   "unit": "count",
+   "period": "2028",
+   "category": "metrics",
+   "quote": "extending them to knowledge workers globally, a population that is estimated to exceed one billion in 2028"
+  },
+  {
+   "kind": "inline",
+   "label": "Customers with $100K+ TTM revenue",
+   "values": [
+    "More than 11,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "More than 11,900 customers with $100,000 or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "Customers with $1M+ TTM revenue",
+   "values": [
+    "More than 1,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "More than 1,900 customers with $1 million or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "Customers with $10M+ TTM revenue",
+   "values": [
+    "Approximately 250"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "Approximately 250 customers with $10 million or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "Net Revenue Retention",
+   "values": [
+    "approximately 900%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "our Net Revenue Retention of approximately 900% as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Opus 5.5 cost per task reduction",
+   "values": [
+    "approximately 40%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "metrics",
+   "quote": "Opus 5.5 reduced customer costs per task by approximately 40% compared to Opus 5"
+  },
+  {
+   "kind": "inline",
+   "label": "Revenue growth YoY Q3'26",
+   "values": [
+    "1,127%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "revenue that grew 1,127% year over year for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Compute and infrastructure expense growth Q3'26",
+   "values": [
+    "382%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "compared to compute and infrastructure expenses that grew 382% during the same period"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee 2026",
+   "values": [
+    "over $6.6 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "TTM revenue per employee of over $6.6 million as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee 2025",
+   "values": [
+    "$1.4 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-09-30",
+   "category": "metrics",
+   "quote": "compared to $1.4 million as of September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Aggregate capital raised",
+   "values": [
+    "$141.1 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "we had raised an aggregate of $141.1 billion of capital"
+  },
+  {
+   "kind": "inline",
+   "label": "Cash and cash equivalents",
+   "values": [
+    "$95.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "had cash and cash equivalents of $95.6 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Short-term investments",
+   "values": [
+    "$36.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "short-term investments of $36.3 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Public Benefit Issuance shares",
+   "values": [
+    "846,840,960"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-06-30",
+   "category": "stock_plan",
+   "quote": "we contributed 846,840,960 shares of our Class N common stock, representing 5% of our fully diluted shares as of June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Public Benefit Issuances additional cap",
+   "values": [
+    "up to an additional 2%"
+   ],
+   "unit": "%",
+   "period": "2026-2033",
+   "category": "stock_plan",
+   "quote": "issue shares of our Class N common stock... representing up to an additional 2% of our then-outstanding shares"
+  },
+  {
+   "kind": "inline",
+   "label": "Share price milestone appreciation",
+   "values": [
+    "50%"
+   ],
+   "unit": "%",
+   "period": "2026-2033",
+   "category": "stock_plan",
+   "quote": "each time our share price appreciates 50% above the prior share price milestone"
+  },
+  {
+   "kind": "inline",
+   "label": "Co-founder pledge",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "governance",
+   "quote": "our co-founders have each pledged to dedicate 80% of their personal equity in Anthropic to philanthropic causes"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT trustees",
+   "values": [
+    "five"
+   ],
+   "unit": "count",
+   "period": "2023",
+   "category": "governance",
+   "quote": "an independent body of five financially disinterested voting trustees"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F voting power",
+   "values": [
+    "50.1%"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "governance",
+   "quote": "entitled to an aggregate number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock"
+  },
+  {
+   "kind": "table_row",
+   "label": "Capital structure votes per share",
+   "values": [
+    "1",
+    "0",
+    "1",
+    "50.1% of outstanding voting power on record date",
+    "1"
+   ],
+   "unit": "x",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "Votes per share 1 0 1 50.1% of outstanding voting power on record date 1"
+  },
+  {
+   "kind": "blank",
+   "label": "Class A common stock offered by us",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "offering",
+   "quote": "Class A common stock offered by us shares"
+  },
+  {
+   "kind": "blank",
+   "label": "Class A common stock offered by selling stockholders",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "offering",
+   "quote": "Class A common stock offered by the selling stockholders shares"
+  },
+  {
+   "kind": "blank",
+   "label": "Underwriters option to purchase additional shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "offering",
+   "quote": "Underwriters option to purchase additional shares of Class A common stock from us shares"
+  },
+  {
+   "kind": "blank",
+   "label": "Net proceeds estimate",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "2026",
+   "category": "offering",
+   "quote": "will be approximately $ (or approximately $ if the underwriters option to purchase additional shares"
+  },
+  {
+   "kind": "blank",
+   "label": "Assumed IPO price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "2026",
+   "category": "offering",
+   "quote": "based upon the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range"
+  },
+  {
+   "kind": "inline",
+   "label": "Proposed trading symbol",
+   "values": [
+    "ANT"
+   ],
+   "unit": "other",
+   "period": "2026",
+   "category": "offering",
+   "quote": "Proposed trading symbol ANT"
+  },
+  {
+   "kind": "blank",
+   "label": "Convertible notes conversion principal amount",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "2026",
+   "category": "offering",
+   "quote": "the conversionof $ in aggregate principal amount of our outstandingconvertiblepromissorynotes"
+  },
+  {
+   "kind": "blank",
+   "label": "Assumed tax withholding rate",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "based upon the assumed initial public offering price of $ per share... and an assumed % tax withholding rate"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T common stock outstanding after offering",
+   "values": [
+    "1 share"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "offering",
+   "quote": "Class T common stock to be outstanding after this offering 1 share"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E common stock outstanding after offering",
+   "values": [
+    "0 shares"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "offering",
+   "quote": "Class E common stock to be outstanding after this offering 0 shares"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F common stock outstanding after offering",
+   "values": [
+    "1 share"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "offering",
+   "quote": "Class F common stock to be outstanding after this offering 1 share"
+  },
+  {
+   "kind": "inline",
+   "label": "Options outstanding with exercise price",
+   "values": [
+    "1,774,342,693",
+    "$2.91 per share"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "1,774,342,693 shares of our Class A common stock issuable upon the exercise of options... with a weighted-average exercise price of $2.91 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Class N shares issued after 9/30/26 acquisitions",
+   "values": [
+    "848,882"
+   ],
+   "unit": "shares",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "and 848,882 shares of our Class N common stock issued after September 30, 2026 in connection with our acquisitions of privately-held companies"
+  },
+  {
+   "kind": "blank",
+   "label": "Exercise proceeds for treasury stock method",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$B",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "assuming aggregate exercise proceeds of approximately $ billion are used to repurchase shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized SBC RSUs",
+   "values": [
+    "$24.1 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "unrecognized stock-based compensation expense not reflected in pro forma net loss per share was $24.1 billion related to RSUs"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized SBC RSUs recognition period",
+   "values": [
+    "approximately 2.0 years"
+   ],
+   "unit": "years",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "expected to be recognized over a weighted-average period of approximately 2.0 years"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized SBC other awards",
+   "values": [
+    "$2.1 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "$2.1 billion related to our other outstanding equity awards"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized SBC other awards recognition period",
+   "values": [
+    "approximately 1.4 years"
+   ],
+   "unit": "years",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "expected to be recognized over a weighted-average period of approximately 1.4 years"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "(in millions, except share and per share amounts)",
+    "Year Ended December 31, 2025",
+    "Nine Months Ended September 30, 2026"
+   ],
+   "values": [
+    "Pro forma net loss per share table"
+   ],
+   "unit": "$M",
+   "period": "FY2025-9M2026",
+   "category": "financials",
+   "quote": "(in millions, except share and per share amounts) Year Ended December 31, 2025 Nine Months Ended September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net loss (pro forma numerator)",
+   "values": [
+    "$(41,965)",
+    "$(104,039)"
+   ],
+   "unit": "$M",
+   "period": "FY2025-9M2026",
+   "category": "financials",
+   "quote": "Net loss $(41,965) $(104,039)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Weighted-average number of shares outstanding, basic and diluted (pro forma denominator)",
+   "values": [
+    "1,821,084,860",
+    "2,076,810,122"
+   ],
+   "unit": "shares",
+   "period": "FY2025-9M2026",
+   "category": "financials",
+   "quote": "Weighted-average number of shares outstanding, basic and diluted 1,821,084,860 2,076,810,122"
+  },
+  {
+   "kind": "blank",
+   "label": "Pro forma SBC adjustment amounts",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "FY2025-9M2026",
+   "category": "stock_plan",
+   "quote": "stock-based compensation expense related to RSUs... of $ and $ for the year ended December 31, 2025"
+  },
+  {
+   "kind": "blank",
+   "label": "Pro forma net loss per share",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "FY2025-9M2026",
+   "category": "financials",
+   "quote": "Pro forma net loss per share, basic and diluted(1)(2) (blank value in table)"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "(in millions)",
+    "Actual",
+    "Pro Forma(1)",
+    "Pro Forma As Adjusted(2)(3)"
+   ],
+   "values": [
+    "Consolidated Balance Sheet Data As of September 30, 2026"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "(in millions) Actual Pro Forma(1) Pro Forma As Adjusted(2)(3)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Cash, cash equivalents, and short-term investments",
+   "values": [
+    "$131,845",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Cash, cash equivalents, and short-term investments $131,845 $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Working capital",
+   "values": [
+    "$129,349",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Working capital(4) $129,349 $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total assets",
+   "values": [
+    "$154,320",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total assets $154,320 $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total liabilities",
+   "values": [
+    "$146,683",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total liabilities $146,683 $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Redeemable convertible preferred stock",
+   "values": [
+    "$157,510",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Redeemable convertible preferred stock $157,510 $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additional paid-in capital",
+   "values": [
+    "$6,481",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Additional paid-in capital $6,481 $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Accumulated deficit",
+   "values": [
+    "$(156,193)",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Accumulated deficit $(156,193) $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total stockholders deficit",
+   "values": [
+    "$(149,873)",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total stockholders deficit $(149,873) $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "(in millions, except for percentages)",
+    "2023",
+    "2024",
+    "2025",
+    "2025",
+    "2026"
+   ],
+   "values": [
+    "Non-GAAP measures table Year Ended December 31, Nine Months Ended September 30,"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "(in millions, except for percentages) 2023 2024 2025 2025 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Operating Income (Loss)",
+   "values": [
+    "$(522)",
+    "$(2,788)",
+    "$(4,854)",
+    "$(3,133)",
+    "$4,081"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Adjusted Operating Income (Loss) $(522) $(2,788) $(4,854) $(3,133) $4,081"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating margin",
+   "values": [
+    "(1,344)%",
+    "(772)%",
+    "(176)%",
+    "(205)%",
+    "(4)%"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Operating margin (1,344)% (772)% (176)% (205)% (4)%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Operating Margin",
+   "values": [
+    "(1,273)%",
+    "(722)%",
+    "(106)%",
+    "(123)%",
+    "12%"
+   ],
+   "unit": "%",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Adjusted Operating Margin (1,273)% (722)% (106)% (123)% 12%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Adjusted Net Income (Loss)",
+   "values": [
+    "$(457)",
+    "$(2,683)",
+    "$(4,455)",
+    "$(2,911)",
+    "$5,591"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2026",
+   "category": "financials",
+   "quote": "Adjusted Net Income (Loss) $(457) $(2,683) $(4,455) $(2,911) $5,591"
+  },
+  {
+   "kind": "inline",
+   "label": "Incorporation date",
+   "values": [
+    "January 2021"
+   ],
+   "unit": "other",
+   "period": "2021",
+   "category": "other",
+   "quote": "We were incorporated as a Delaware PBC in January 2021"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Cowork research preview",
+   "values": [
+    "January 2026"
+   ],
+   "unit": "other",
+   "period": "2026",
+   "category": "metrics",
+   "quote": "which we made available as a research preview in January 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Code research preview",
+   "values": [
+    "February 2025"
+   ],
+   "unit": "other",
+   "period": "2025",
+   "category": "metrics",
+   "quote": "adoption Claude Code achieved at the equivalent point following its research preview release in February 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Founded",
+   "values": [
+    "2021"
+   ],
+   "unit": "other",
+   "period": "2021",
+   "category": "other",
+   "quote": "Anthropic was founded in 2021 by a team of researchers"
+  }
+ ]
+}

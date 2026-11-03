@@ -1,0 +1,283 @@
+{
+  "batch": "sx1a_b05",
+  "tables": [
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth our cash, cash equivalents, and short-term investments, as well as our capitalization, as of September 30, 2026",
+      "caption_line": 13370,
+      "start_line": 13370,
+      "end_line": 13582,
+      "column_note": "(in millions, except share and per share amounts)",
+      "columns": ["", "Actual", "Pro Forma(1)", "Pro Forma As Adjusted(2)"],
+      "rows": [
+        {"label": "Cash, cash equivalents, and short-term investments", "cells": ["$131,845", "$", "$"]},
+        {"label": "Convertible notes payable", "cells": ["$130,502", "[BLANK]", "[BLANK]"]},
+        {"label": "Redeemable convertible preferred stock, par value $0.00001 per share 1,040,440,652 shares authorized, issued and outstanding, actual no shares authorized, issued, and outstanding, pro forma and pro forma as adjusted", "cells": ["157,510", "[BLANK]", "[BLANK]"]},
+        {"label": "Stockholders equity (deficit)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Preferred stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted", "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class A common stock, par value $0.00001 per share 10,906,111,730 shares authorized, shares issued and outstanding, actual 300,000,000,000 shares authorized, shares issued and outstanding, pro forma and 300,000,000,000 shares authorized, shares issued and outstanding, pro forma as adjusted", "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class N common stock, par value $0.00001 per share 7,128,888,270 shares authorized, shares issued and outstanding, actual 100,000,000,000 shares authorized, shares issued, and shares outstanding, pro forma and 100,000,000,000 shares authorized, shares issued, and shares outstanding, pro forma as adjusted(3)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class T common stock, par value $0.00001 per share 1 share authorized, 1 share issued and outstanding, actual, pro forma, and pro forma as adjusted", "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class F common stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 1 share authorized, 1 share issued and outstanding, pro forma and pro forma as adjusted", "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Class E common stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted", "cells": ["[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Additional paid-in capital", "cells": ["6,481", "[BLANK]", "[BLANK]"]},
+        {"label": "Accumulated other comprehensive income (loss)", "cells": ["(161)", "[BLANK]", "[BLANK]"]},
+        {"label": "Accumulated deficit", "cells": ["(156,193)", "[BLANK]", "[BLANK]"]},
+        {"label": "Total stockholders equity (deficit)", "cells": ["(149,873)", "[BLANK]", "[BLANK]"]},
+        {"label": "Total capitalization", "cells": ["$138,139", "$", "$"]}
+      ],
+      "footnotes": [
+        "(1)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, would increase or decrease, as applicable, the amount we would be required to pay to satisfy our tax withholding and remittance obligations related to the RSU Settlement by $.",
+        "(2)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, would increase or decrease, as applicable, the amount of our pro forma as adjusted cash, cash equivalents, and short-term investments, additional paid-in capital, total stockholders equity (deficit), and total capitalization by $, assuming that the number of shares offered by us, as set forth on the cover page of this prospectus, remains the same and after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. Each increase or decrease of 1.0million in the number of shares offered by us would increase or decrease, as applicable, the amount of our pro forma as adjusted cash, cash equivalents, and short-term investments, additional paid-in capital, total stockholders equity (deficit), and total capitalization by $, assuming the assumed initial public offering price remains the same, and after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us.",
+        "(3)The number of shares of Class N common stock issued on a pro forma and pro forma as adjusted basis includes shares issued in the Initial Public Benefit Issuance, which (i) are considered legally outstanding, (ii) are not considered outstanding for accounting purposes while held by our wholly owned subsidiary, and (iii) accordingly are not reflected as outstanding in the table above."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table illustrates this dilution on a per share basis",
+      "caption_line": 13724,
+      "start_line": 13724,
+      "end_line": 13752,
+      "column_note": "",
+      "columns": ["", ""],
+      "rows": [
+        {"label": "Assumed initial public offering price per share", "cells": ["$"]},
+        {"label": "Historical net tangible book value per share as of September 30, 2026", "cells": ["$(68.47)"]},
+        {"label": "Increase per share attributable to the pro forma adjustments described above", "cells": ["[BLANK]"]},
+        {"label": "Pro forma net tangible book value per share as of September 30, 2026", "cells": ["[BLANK]"]},
+        {"label": "Increase in pro forma net tangible book value per share attributable to new investors purchasing shares of Class A common stock in this offering", "cells": ["[BLANK]"]},
+        {"label": "Pro forma as adjusted net tangible book value per share immediately after this offering", "cells": ["[BLANK]"]},
+        {"label": "Dilution in pro forma as adjusted net tangible book value per share to new investors in this offering", "cells": ["$"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table presents, as of September 30, 2026, after giving effect to the Preferred Stock Conversion, Convertible Notes Conversion, Initial Public Benefit Issuance, and RSU Settlement, the differences between the existing stockholders and the new investors purchasing shares of our Class A common stock in this offering with respect to the number of shares purchased from us, the total consideration paid or to be paid to us, which includes net proceeds received from the issuance of our Class A common stock, and the average price per share paid or to be paid to us at the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, before deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us",
+      "caption_line": 13794,
+      "start_line": 13794,
+      "end_line": 13850,
+      "column_note": "",
+      "columns": ["", "Number", "Percent", "Amount", "Percent", "Weighted-Average PricePer Share"],
+      "rows": [
+        {"label": "Existing stockholders", "cells": ["[BLANK]", "%", "$", "%", "$"]},
+        {"label": "New investors", "cells": ["[BLANK]", "[BLANK]", "$", "[BLANK]", "[BLANK]"]},
+        {"label": "Total", "cells": ["[BLANK]", "100%", "$", "100%", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth our consolidated statements of operations data for the periods indicated",
+      "caption_line": 15306,
+      "start_line": 15306,
+      "end_line": 15528,
+      "column_note": "(in millions)",
+      "columns": ["", "2023", "2024", "2025", "2025", "2026"],
+      "rows": [
+        {"label": "Revenue", "cells": ["$41", "$386", "$4,585", "$2,545", "$33,242"]},
+        {"label": "Operating expenses", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Compute and infrastructure", "cells": ["433", "2,522", "7,326", "4,381", "18,808"]},
+        {"label": "Personnel(1)", "cells": ["95", "454", "1,839", "1,027", "4,863"]},
+        {"label": "Bartz settlement", "cells": ["[BLANK]", "[BLANK]", "1,500", "1,500", "[BLANK]"]},
+        {"label": "Sales, marketing, and partnerships", "cells": ["2", "43", "568", "322", "5,529"]},
+        {"label": "Other operating and administrative", "cells": ["62", "347", "1,412", "539", "5,302"]},
+        {"label": "Total operating expenses", "cells": ["592", "3,366", "12,645", "7,769", "34,502"]},
+        {"label": "Operating loss", "cells": ["(551)", "(2,980)", "(8,060)", "(5,224)", "(1,260)"]},
+        {"label": "Interest income", "cells": ["69", "106", "431", "239", "2,359"]},
+        {"label": "Change in fair value of convertible notes, derivative liabilities, and SAFEs", "cells": ["(1,045)", "(5,434)", "(34,308)", "(20,107)", "(94,324)"]},
+        {"label": "Other income (expense), net", "cells": ["(2)", "[BLANK]", "(8)", "(3)", "(10,397)"]},
+        {"label": "Total other income (expense), net", "cells": ["(978)", "(5,328)", "(33,885)", "(19,871)", "(102,362)"]},
+        {"label": "Loss before provision for income taxes", "cells": ["(1,529)", "(8,308)", "(41,945)", "(25,095)", "(103,622)"]},
+        {"label": "Provision for income taxes", "cells": ["2", "1", "20", "12", "417"]},
+        {"label": "Net loss(2)", "cells": ["$(1,531)", "$(8,309)", "$(41,965)", "$(25,107)", "$(104,039)"]}
+      ],
+      "footnotes": [
+        "(1)Includes stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $591 million and $3.3 billion for the nine months ended September 30, 2025 and 2026, respectively.",
+        "(2)Includes change in fair value of convertible notes, derivative liabilities, and SAFEs, which were $1.0 billion, $5.4 billion, and $34.3 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $20.1 billion and $94.3 billion for the nine months ended September 30, 2025 and 2026, respectively. These changes were primarily driven by an increase in the fair value of our outstanding convertible promissory notes resulting from an increase in our enterprise valuation during each of the respective periods."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth our consolidated statements of operations as a percentage of revenue data for the periods indicated",
+      "caption_line": 15534,
+      "start_line": 15534,
+      "end_line": 15732,
+      "column_note": "",
+      "columns": ["", "2023", "2024", "2025", "2025", "2026"],
+      "rows": [
+        {"label": "Revenue", "cells": ["100%", "100%", "100%", "100%", "100%"]},
+        {"label": "Operating expenses", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Compute and infrastructure", "cells": ["1,056", "653", "160", "172", "57"]},
+        {"label": "Personnel", "cells": ["232", "118", "40", "40", "15"]},
+        {"label": "Bartz settlement", "cells": ["[BLANK]", "[BLANK]", "33", "59", "[BLANK]"]},
+        {"label": "Sales, marketing, and partnerships", "cells": ["5", "11", "12", "13", "17"]},
+        {"label": "Other operating and administrative", "cells": ["151", "90", "31", "21", "16"]},
+        {"label": "Total operating expenses", "cells": ["1,444", "872", "276", "305", "104"]},
+        {"label": "Operating loss", "cells": ["(1,344)", "(772)", "(176)", "(205)", "(4)"]},
+        {"label": "Interest income", "cells": ["168", "27", "9", "9", "7"]},
+        {"label": "Change in fair value of convertible notes, derivative liabilities, and SAFEs", "cells": ["(2,549)", "(1,408)", "(748)", "(790)", "(284)"]},
+        {"label": "Other income (expense), net", "cells": ["(5)", "[BLANK]", "[BLANK]", "[BLANK]", "(31)"]},
+        {"label": "Total other income (expense), net", "cells": ["(2,385)", "(1,380)", "(739)", "(781)", "(308)"]},
+        {"label": "Loss before provision for income taxes", "cells": ["(3,729)", "(2,152)", "(915)", "(986)", "(312)"]},
+        {"label": "Provision for income taxes", "cells": ["5", "[BLANK]", "[BLANK]", "[BLANK]", "1"]},
+        {"label": "Net loss", "cells": ["(3,734)%", "(2,153)%", "(915)%", "(987)%", "(313)%"]}
+      ],
+      "footnotes": [
+        "Note Totals of percentage of revenue may not foot due to rounding."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "Revenue",
+      "caption_line": 15736,
+      "start_line": 15736,
+      "end_line": 15760,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Revenue", "cells": ["$2,545", "$33,242", "$30,697", "1,206%"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Compute and Infrastructure",
+      "caption_line": 15788,
+      "start_line": 15788,
+      "end_line": 15818,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Compute and infrastructure", "cells": ["$4,381", "$18,808", "$14,427", "329%"]},
+        {"label": "Percentage of revenue", "cells": ["172%", "57%", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Personnel",
+      "caption_line": 15842,
+      "start_line": 15842,
+      "end_line": 15872,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Personnel", "cells": ["$1,027", "$4,863", "$3,836", "374%"]},
+        {"label": "Percentage of revenue", "cells": ["40%", "15%", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Bartz Settlement",
+      "caption_line": 15882,
+      "start_line": 15882,
+      "end_line": 15912,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Bartz settlement", "cells": ["$1,500", "$", "$(1,500)", "(100)%"]},
+        {"label": "Percentage of revenue", "cells": ["59%", "%", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Sales, Marketing, and Partnerships",
+      "caption_line": 15918,
+      "start_line": 15918,
+      "end_line": 15948,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Sales, marketing, and partnerships", "cells": ["$322", "$5,529", "$5,207", "1,617%"]},
+        {"label": "Percentage of revenue", "cells": ["13%", "17%", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Other Operating and Administrative",
+      "caption_line": 15960,
+      "start_line": 15960,
+      "end_line": 15990,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Other operating and administrative", "cells": ["$539", "$5,302", "$4,763", "884%"]},
+        {"label": "Percentage of revenue", "cells": ["21%", "16%", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Interest Income",
+      "caption_line": 16004,
+      "start_line": 16004,
+      "end_line": 16028,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Interest income", "cells": ["$239", "$2,359", "$2,120", "887%"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Change in Fair Value of Convertible Notes, Derivative Liabilities, and SAFEs",
+      "caption_line": 16038,
+      "start_line": 16038,
+      "end_line": 16064,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Change in fair value of convertible notes, derivative liabilities, and SAFEs", "cells": ["$(20,107)", "$(94,324)", "$(74,217)", "369%"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Other Income (Expense), Net",
+      "caption_line": 16074,
+      "start_line": 16074,
+      "end_line": 16102,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Other income (expense), net", "cells": ["$(3)", "$(10,397)", "$(10,394)", "NM"]}
+      ],
+      "footnotes": [
+        "NM Not meaningful."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "Provision for Income Taxes",
+      "caption_line": 16118,
+      "start_line": 16118,
+      "end_line": 16146,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2025", "2026", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Provision for income taxes", "cells": ["$12", "$417", "$405", "NM"]}
+      ],
+      "footnotes": [
+        "NM Not meaningful."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "Revenue",
+      "caption_line": 16158,
+      "start_line": 16158,
+      "end_line": 16180,
+      "column_note": "(in millions, except for percentages)",
+      "columns": ["", "2024", "2025", "$ Change", "% Change"],
+      "rows": [
+        {"label": "Revenue", "cells": ["$386", "$4,585", "$4,199", "1,088%"]}
+      ],
+      "footnotes": []
+    }
+  ]
+}

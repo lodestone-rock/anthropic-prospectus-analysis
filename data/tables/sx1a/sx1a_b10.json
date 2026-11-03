@@ -1,0 +1,273 @@
+{
+  "batch": "sx1a_b10",
+  "tables": [
+    {
+      "kind": "caption",
+      "caption": "The following table provides information regarding the compensation of our non-employee directors for service as directors for the year ended December 31, 2025",
+      "caption_line": 26524,
+      "start_line": 26528,
+      "end_line": 26560,
+      "column_note": "—",
+      "columns": ["Name(1)", "Fees Earned or Paid in Cash ($)", "Total ($)"],
+      "rows": [
+        {"label": "Reed Hastings", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Jay Kreps(2)", "cells": ["200,000", "200,000"]},
+        {"label": "Christopher Liddell(3)", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Vas Narasimhan(4)", "cells": ["[BLANK]", "[BLANK]"]},
+        {"label": "Yasmin Razavi", "cells": ["[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)None of our non-employee directors held any outstanding equity awards as of December 31, 2025.",
+        "(2)Mr. Kreps resigned from our board of directors in May 2026.",
+        "(3)Mr. Liddell joined our board of directors in February 2026.",
+        "(4)Dr. Narasimhan joined our board of directors in April 2026."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "Compensation Governance Highlights",
+      "caption_line": 26820,
+      "start_line": 26822,
+      "end_line": 26878,
+      "column_note": "—",
+      "columns": ["What We Do", "What We Do Not Do"],
+      "rows": [
+        {"label": "Maintain a competitive, consistent, and simple compensation philosophy to attract, retain, and motivate top executive talent.", "cells": ["Enter into employment agreements that provide for fixed terms, automatic compensation increases, or guaranteed equity grants."]},
+        {"label": "Focus our executive compensation program on at-risk compensation, which aligns stockholder and executive interests.", "cells": ["Provide single-trigger change of control benefits or excessive cash severance."]},
+        {"label": "Deliver a majority of our NEOs compensation opportunities in the form of long-term equity awards.", "cells": ["Provide our NEOs with golden parachute excise tax reimbursement or gross-ups."]},
+        {"label": "Conduct regular compensation reviews to ensure alignment with competitive market practices.", "cells": ["Provide perquisites as a meaningful component of our executive compensation."]},
+        {"label": "Provide for double-trigger change of control severance provisions for only our Chief Financial Officer, and none of our other NEOs.", "cells": ["Maintain any executive pension plans, or any retirement programs that are not generally available to all employees."]},
+        {"label": "[BLANK]", "cells": ["Award option grants at discounted stock prices."]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "The key elements of our 2025 executive compensation program are summarized in the table below.",
+      "caption_line": 26950,
+      "start_line": 26952,
+      "end_line": 27022,
+      "column_note": "—",
+      "columns": ["Compensation Element", "Form of Compensation", "Guaranteed vs. At-Risk", "Philosophy"],
+      "rows": [
+        {"label": "Base Salary", "cells": ["Cash", "Guaranteed", "Provide market-competitive fixed compensation to attract and retain key executives."]},
+        {"label": "Long-Term Equity Incentive Program", "cells": ["Service-Based Options RSUs with Service-Based and Performance-Based Vesting Conditions", "At-Risk", "The value of option and RSU awards is correlated to our stock price, promoting sustainable long-term value creation. Multi-year service vesting schedule promotes retention, long-term ownership, and continuity of leadership."]},
+        {"label": "Other Benefits", "cells": ["Other", "NA", "Aligned with market practices and serve to attract, motivate, and retain key talent. Intended to ensure the safety of our NEOs, enhance productivity, and minimize distractions."]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table shows the compensation awarded, paid to, or earned by each of our NEOs for the year ended December 31, 2025",
+      "caption_line": 27392,
+      "start_line": 27396,
+      "end_line": 27528,
+      "column_note": "Summary Compensation Table",
+      "columns": ["Name and Principal Position", "Year", "Salary ($)", "Stock Awards ($)(1)(2)", "Option Awards ($)(1)", "All Other Compensation($)", "Total ($)"],
+      "rows": [
+        {"label": "Dario Amodei Chief Executive Officer, Co-Founder, and Director", "cells": ["2025", "654,167", "9,264,932", "4,028,558", "4,010,641(3)", "17,958,298"]},
+        {"label": "Daniela Amodei President, Co-Founder, and Director", "cells": ["2025", "654,167", "9,264,932", "4,028,558", "2,461,341(4)", "16,408,998"]},
+        {"label": "Krishna Rao Chief Financial Officer", "cells": ["2025", "706,250", "14,000(5)", "[BLANK]", "[BLANK]", "720,250"]}
+      ],
+      "footnotes": [
+        "(1)The amounts reported represent the aggregate grant-date fair value of the RSUs or options awarded to the NEOs calculated in accordance with FASB ASC Topic 718. These amounts do not reflect the actual economic value that may be realized by each NEO. The assumptions used in determining the grant-date fair value of the RSUs or options, as applicable, reported in this column are set forth in Note 10 to our consolidated financial statements included elsewhere in this prospectus.",
+        "(2)These awards reflect the grant of RSUs subject to both a service-based vesting condition and a performance-based vesting condition, each of which must be satisfied in order for an RSU to vest, as described above in the section titled Elements of Executive CompensationLong-Term Equity Incentive Program. The amount disclosed represents the aggregate grant-date fair value of such RSU award, computed in accordance with FASB ASC Topic 718, based on the probable outcome of the performance-based condition as of the grant date.",
+        "(3)Amounts reported include (i) $14,000 in connection with 401(k) company matching contributions (ii) $2,745,874 in connection with personal security services that we view as an integral part of our risk management program but may be deemed to be perquisites under current relevant disclosure rules (iii) $97,055 in costs related to Dr. Amodeis privateair travelfor personal use as required by Dr. Amodeis overall security program, including the minimal incremental costsfor Dr. Amodeis personal guests who accompanied him on certain trips as approved in advance by our board of directors (iv) $1,153,087, representing the spread between theaggregate purchaseprice and the fair market value of shares repurchased from Dr. Amodei in our June 2025 tender offer and (v) $625 representing a pro rata portion of the cost of a valuation report paid for and obtained by us from an appraisal firm (Valuation Report). The Valuation Report was prepared for the benefit of all employees who participated in our donation matching program, and, although Dr. Amodei did not participate in that program, he used the Valuation Report for tax reporting related to his separate charitable giving.",
+        "(4)Amounts reported include (i) $14,000 in connection with 401(k) company matching contributions (ii) $1,293,629 in connection with company-paid personal protection, home security, and transportation services that we view as an integral part of our risk management program but are considered to convey a personal benefit to Ms. Amodei under the relevant disclosure rules (iii) $1,153,087, representing the spread between theaggregate purchaseprice and the fair market value of shares repurchased from Ms. Amodei in our June 2025 tender offer and (iv) $625 representing a pro rata portion of the cost of the Valuation Report. Although Ms. Amodei did not participate in our donation matching program, she used the Valuation Report for tax reporting related to her separate charitable giving.",
+        "(5)Amounts reported reflect 401(k) company matching contributions."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth information regarding grants of awards made to our NEOs during 2025",
+      "caption_line": 27654,
+      "start_line": 27656,
+      "end_line": 27760,
+      "column_note": "Grants of Plan-Based Awards table; two-level header — 'Estimated Future Payouts Under Equity Incentive Plan Awards' spans the Target column and 'All Other Option Awards' spans the Number of Securities Underlying Options column; threshold and maximum columns omitted per footnote (2). Each of Dario Amodei and Daniela Amodei has two rows: an options row and an RSU row. Krishna Rao received no 2025 grants (blank row). Dates printed as flattened (e.g., 6122025 = 6/12/2025).",
+      "columns": ["Name", "Grant Date(1)", "Estimated Future Payouts Under Equity Incentive Plan Awards: Target (#)(2)", "All Other Option Awards: Number of Securities Underlying Options (#)", "Exercise or Base Price of Option Awards ($sh)", "Grant Date Fair Value of Stock and Option Awards ($)(3)"],
+      "rows": [
+        {"label": "Dario Amodei", "cells": ["6122025", "[BLANK]", "992,500", "2.38", "4,028,558"]},
+        {"label": "Dario Amodei", "cells": ["6122025", "1,717,000", "[BLANK]", "[BLANK]", "9,264,932"]},
+        {"label": "Daniela Amodei", "cells": ["6122025", "[BLANK]", "992,500", "2.38", "4,028,558"]},
+        {"label": "Daniela Amodei", "cells": ["6122025", "1,717,000", "[BLANK]", "[BLANK]", "9,264,932"]},
+        {"label": "Krishna Rao", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)All awards were granted pursuant to our 2021 Plan, the terms of which are described below under the section titled Equity PlansAmended Restated 2021 Stock Plan.",
+        "(2)These awards reflect the grant of RSUs subject to both a service-based vesting condition and a performance-based vesting condition, each of which must be satisfied for the RSU to vest, as described above in the section titled Elements of Executive CompensationLong-Term Equity Incentive Program. The RSUs do not have threshold or maximum achievement levels, so the corresponding columns have been omitted.",
+        "(3)The amounts reported represent the aggregate grant-date fair value of the RSUs or options awarded to the NEOs calculated in accordance with FASB ASC Topic 718. These amounts do not reflect the actual economic value that may be realized by each NEO. The assumptions used in determining the grant-date fair value of the RSUs or options, as applicable, reported in this column are set forth in Note 10 to our consolidated financial statements included elsewhere in this prospectus."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth information regarding outstanding equity awards held by our NEOs as of December 31, 2025",
+      "caption_line": 27764,
+      "start_line": 27768,
+      "end_line": 27934,
+      "column_note": "Outstanding Equity Awards table; two-level header — 'Option Awards(1)' spans Grant Date through Option Expiration Date and 'Stock Awards(1)' spans the last columns (sub-spanned by 'Equity Incentive Plan Awards'). The flattened data rows show a second date cell (e.g., 6122025) between the unearned shares (#) cell and the market/payout value ($) cell, transcribed as the Stock Awards grant date column. Dates printed as flattened (e.g., 6122025 = 6/12/2025, 6112035 = 6/11/2035).",
+      "columns": ["Name", "Grant Date", "Option Awards(1): Number of Securities Underlying Unexercised Options (#) Exercisable", "Option Awards(1): Number of Securities Underlying Unexercised Options (#) Unexercisable", "Option Awards(1): Option Exercise Price($)", "Option Awards(1): Option Expiration Date", "Stock Awards(1): Equity Incentive Plan Awards: Numberof Unearned Shares, Unitsor Other Rights ThatHaveNot Vested (#)", "Stock Awards(1): Equity Incentive Plan Awards: Grant Date", "Stock Awards(1): Equity Incentive Plan Awards: Market orPayout Value of Unearned Shares, Units or Other Rights ThatHaveNot Vested ($)(2)"],
+      "rows": [
+        {"label": "Dario Amodei", "cells": ["6122025", "909,790(3)", "82,710", "2.38", "6112035", "1,717,000(5)", "6122025", "30,317,069"]},
+        {"label": "Daniela Amodei", "cells": ["6122025", "909,790(3)", "82,710", "2.38", "6112035", "1,717,000(5)", "6122025", "30,317,069"]},
+        {"label": "Krishna Rao", "cells": ["5312024", "5,756,350(4)", "8,166,670", "1.30", "5302034", "[BLANK]", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)All awards were granted pursuant to our 2021 Plan, the terms of which are described below under the section titled Equity PlansAmended Restated 2021 Stock Plan.",
+        "(2)Amounts reported represent the fair market value of our Class A common stock of $17.66 per share as of December 31, 2025.",
+        "(3)112th of the total shares subject to the option vested on the one-month anniversary of the vesting commencement date (January 1, 2025), and 112th of the total shares vested in equal monthly installments thereafter, subject to the NEOs continued service with the company through each applicable vest date.",
+        "(4)14th of the total shares subject to the option vested on the first anniversary of the vesting commencement date (April 18, 2024), and 148th of the total shares will vest in equal monthly installments thereafter, subject to the NEOs continued service with the company through each applicable vest date.",
+        "(5)The RSUs vest on the first date upon which both aservice-basedcondition and a performance-based condition are satisfied. The service-based condition is satisfied as to 112th of the RSUs on the 15-month anniversary of the vesting commencement date (November 20, 2024) and on each three-month anniversary thereafter, subject to the NEOs continued service with the company through each applicable service-based vest date. The performance-based condition will be satisfied upon the effectiveness of the registration statement of which this prospectus forms a part."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth the number of shares of Class A common stock acquired during 2025 by our NEOs upon the exercise of stock options and the vesting of stock awards and the value realized upon such exercise or vesting",
+      "caption_line": 27938,
+      "start_line": 27944,
+      "end_line": 28006,
+      "column_note": "Two-level header — 'Option Awards' spans the first two data columns and 'Stock Awards' spans the last two data columns.",
+      "columns": ["Name", "Option Awards: Number of Securities Acquired on Exercise (#)", "Option Awards: Value Realized on Exercise ($)(1)", "Stock Awards: Number of Securities Acquired on Vesting (#)", "Stock Awards: Value Realized on Vesting ($)(2)"],
+      "rows": [
+        {"label": "Dario Amodei", "cells": ["5,058,340", "12,013,558", "[BLANK]", "[BLANK]"]},
+        {"label": "Daniela Amodei", "cells": ["5,058,340", "12,013,558", "[BLANK]", "[BLANK]"]},
+        {"label": "Krishna Rao", "cells": ["76,980", "385,285", "[BLANK]", "[BLANK]"]}
+      ],
+      "footnotes": [
+        "(1)Based on the fair market value of our Class A common stock on the date of exercise, less the option exercise price paid for those shares, multiplied by the number of shares for which the option was exercised.",
+        "(2)Based on the fair market value of our Class A common stock on the vesting date, multiplied by the number of shares that vested."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth quantitative estimates of the benefits that would have accrued to each of our NEOs if any of their employment had been terminated by the NEO for good reason or by us for a reason other than cause (and not due to death or disability) (a Qualifying Termination), the NEO executed a release of claims in favor of the company and complied with the other conditions described above, and such Qualifying Termination had occurred on December 31, 2025",
+      "caption_line": 28070,
+      "start_line": 28080,
+      "end_line": 28144,
+      "column_note": "Potential Payments upon Termination Apart from a Change of Control",
+      "columns": ["Name", "Cash Severance ($)", "Value of Accelerated Equity Awards ($)", "Continuing Health Coverage ($)", "Total ($)"],
+      "rows": [
+        {"label": "Dario Amodei", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Daniela Amodei", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Krishna Rao(1)", "cells": ["425,000(2)", "28,626,500(3)", "16,079(4)", "29,067,579"]}
+      ],
+      "footnotes": [
+        "(1)Good reason, cause, and disability are defined in the Rao Offer Letter.",
+        "(2)This amount is equal to six months of Mr. Raos annual base salary, to be paid in a lump sum.",
+        "(3)This amount represents the value of acceleration of 18th of the total number of shares subject to the Rao Options (1,750,000 shares). This amount is based on the fair market value of our Class A common stock of $17.66 per share as of December 31, 2025, minus the option exercise price of $1.30 per share, multiplied by the number of shares subject to acceleration.",
+        "(4)Amount is based on a payment equal to the premium cost of continued health coverage under COBRA for a period of six months."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table sets forth quantitative estimates of the benefits that would have accrued to each of our NEOs if any of their employment had been terminated by the NEO in a Qualifying Termination in connection with a change of control (as defined in our 2021 Plan), the NEO executed a release of claims in favor of the company and complied with the other conditions described above, and such Qualifying Termination had occurred on December 31, 2025",
+      "caption_line": 28148,
+      "start_line": 28158,
+      "end_line": 28224,
+      "column_note": "Potential Payments upon Termination in Connection with a Change of Control",
+      "columns": ["Name", "Cash Severance ($)", "Value of Accelerated Equity Awards ($)", "Continuing Health Coverage ($)", "Total ($)"],
+      "rows": [
+        {"label": "Dario Amodei", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Daniela Amodei", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Krishna Rao(1)", "cells": ["425,000(2)", "133,590,388(3)", "16,079(4)", "134,031,467"]}
+      ],
+      "footnotes": [
+        "(1)Good reason, cause and disability are defined in the Rao Offer Letter.",
+        "(2)This amount is equal to six months of Mr. Raos annual base salary, to be paid in a lump sum.",
+        "(3)This amount represents the value of acceleration of 100% of the total number of unvested shares subject to the Rao Options (8,166,670 shares), which right to acceleration is triggered (i) upon Mr. Raos Qualifying Termination within 30 days prior to, on, or following a change of control or (ii) if Mr. Raos equity awards otherwise would terminate for no consideration in a change of control (without the requirement of a Qualifying Termination). This amount is based on the fair market value of our Class A common stock of $17.66 per share as of December 31, 2025, as determined by our board of directors in good faith, minus the option exercise price of $1.30 per share, multiplied by the number of shares subject to acceleration.",
+        "(4)Amount is based on a payment equal to the premium cost of continued health coverage under COBRA for a period of six months."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series H-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 28914,
+      "start_line": 28918,
+      "end_line": 28958,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series H-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["747,016", "$439,999,521"]},
+        {"label": "Bodhi LLC (2)", "cells": ["16,977", "$9,999,614"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by Spark Capital Growth Fund VI, L.P. and Spark Capital Growth Fund Holdings 2026, LLC. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each of Spark Capital Growth Fund VI, L.P. and Spark Capital Growth Fund Holdings 2026, LLC.",
+        "(2)Bodhi LLC is wholly owned by Vas Narasimhan, a member of our board of directors, and his wife."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series G-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 28966,
+      "start_line": 28970,
+      "end_line": 29002,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series G-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["96,474", "$24,999,925"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by Spark Capital Growth Founders Fund V, L.P. and Spark Capital Growth Fund V, L.P. (each, a Spark V entity, and collectively, Spark V entities), which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark V entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series F-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29014,
+      "start_line": 29018,
+      "end_line": 29048,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series F-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["439,817", "$61,999,947"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by the Spark V entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark V entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series E-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29056,
+      "start_line": 29060,
+      "end_line": 29090,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series E-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["1,782,959", "$99,999,930"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by the Spark V entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark V entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series D-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29102,
+      "start_line": 29106,
+      "end_line": 29138,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series D-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["2,499,624", "$74,999,968"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by Spark Capital Growth Founders Fund IV, L.P. and Spark Capital Growth Fund IV, L.P. (each, a Spark IV entity, and collectively, Spark IV entities), which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark IV entity."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "The following table summarizes purchases of our Series C-1 redeemable convertible preferred stock by related persons",
+      "caption_line": 29154,
+      "start_line": 29158,
+      "end_line": 29188,
+      "column_note": "—",
+      "columns": ["Stockholder", "Shares of Series C-1 Redeemable Convertible Preferred Stock", "Total Purchase Price"],
+      "rows": [
+        {"label": "Spark Capital (1)", "cells": ["6,680,859", "$74,999,991"]}
+      ],
+      "footnotes": [
+        "(1)Shares purchased by the Spark IV entities, which are affiliates of Spark Capital. Yasmin Razavi, a member of our board of directors, is a managing member of the General Partner of each Spark IV entity."
+      ]
+    }
+  ]
+}

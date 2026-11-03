@@ -1,0 +1,195 @@
+{
+ "chunk": "sx1a_01",
+ "section": "cover+TOC",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 2811,
+  "completion_tokens": 832,
+  "total_tokens": 3643,
+  "cost": 0.000290084,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.000290084,
+   "upstream_inference_prompt_cost": 0.000123684,
+   "upstream_inference_completions_cost": 0.0001664
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 118,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 14,
+ "records": [
+  {
+   "kind": "inline",
+   "label": "Class F voting power",
+   "values": [
+    "50.1%"
+   ],
+   "unit": "%",
+   "period": "at IPO",
+   "category": "governance",
+   "quote": "will be entitled to an aggregate number of votes that equals 50.1% of the total voting power"
+  },
+  {
+   "kind": "inline",
+   "label": "Class A votes per share",
+   "values": [
+    "one vote"
+   ],
+   "unit": "count",
+   "period": "at IPO",
+   "category": "governance",
+   "quote": "Each share of Class A common stock is entitled to one vote"
+  },
+  {
+   "kind": "inline",
+   "label": "Class A shares offered by company",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "We are selling shares of Class A common stock and the selling stockholders"
+  },
+  {
+   "kind": "inline",
+   "label": "Class A shares offered by selling stockholders",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "selling an additional shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "IPO price per share range low",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "the initial public offering price per share will be between $ and $"
+  },
+  {
+   "kind": "inline",
+   "label": "IPO price per share range high",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "the initial public offering price per share will be between $ and $"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Per share",
+    "Total"
+   ],
+   "values": [
+    "Per share",
+    "Total"
+   ],
+   "unit": "$M",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "Per share Total Initial public offering price"
+  },
+  {
+   "kind": "table_row",
+   "label": "Initial public offering price",
+   "values": [
+    "$",
+    "$"
+   ],
+   "unit": "per-share",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "Initial public offering price $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Underwriting discount",
+   "values": [
+    "$",
+    "$"
+   ],
+   "unit": "per-share",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "Underwriting discount(1) $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Proceeds, before expenses, to Anthropic, PBC",
+   "values": [
+    "$",
+    "$"
+   ],
+   "unit": "$M",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "Proceeds, before expenses, to Anthropic, PBC $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Proceeds, before expenses, to selling stockholders",
+   "values": [
+    "$",
+    "$"
+   ],
+   "unit": "$M",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "Proceeds, before expenses, to selling stockholders $ $"
+  },
+  {
+   "kind": "inline",
+   "label": "Underwriters option threshold shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "To the extent that the underwriters sell more than shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Underwriters option additional shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "at IPO",
+   "category": "offering",
+   "quote": "the underwriters have the option to purchase up to an additional shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Risk factors page reference",
+   "values": [
+    "page27"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "other",
+   "quote": "See the section titled Risk Factors beginning on page27"
+  }
+ ]
+}

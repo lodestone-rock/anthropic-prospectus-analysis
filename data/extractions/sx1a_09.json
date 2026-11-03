@@ -1,0 +1,1462 @@
+{
+ "chunk": "sx1a_09",
+ "section": "business-legal-proceedings",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 45138,
+  "completion_tokens": 7946,
+  "total_tokens": 53084,
+  "cost": 0.004026652,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.004026652,
+   "upstream_inference_prompt_cost": 0.002437452,
+   "upstream_inference_completions_cost": 0.0015892
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 11,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 130,
+ "records": [
+  {
+   "kind": "inline",
+   "label": "revenue Q3 2026",
+   "values": [
+    "$17.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "revenue growing from $0 at commercial launch in the first quarter of 2023 to $17.0 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "aggregate committed spend",
+   "values": [
+    "approximately $895.4 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "aggregate committed spend of approximately $895.4 billion, substantially all of which is related to compute and infrastructure"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments before 2030",
+   "values": [
+    "approximately $447.5 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2030",
+   "category": "commitments",
+   "quote": "approximately $447.5 billion expected to be incurred before December 31, 2030"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments 2031-2045",
+   "values": [
+    "2031 and 2045"
+   ],
+   "unit": "years",
+   "period": "2031-2045",
+   "category": "commitments",
+   "quote": "substantially all of the remainder is expected to be incurred between 2031 and 2045"
+  },
+  {
+   "kind": "inline",
+   "label": "commitments due 12 months",
+   "values": [
+    "Approximately $69.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Approximately $69.8 billion of these commitments are due in the 12 months following September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $100K TTM",
+   "values": [
+    "More than 11,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "More than 11,900 customers with $100,000 or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $1M TTM",
+   "values": [
+    "More than 1,900"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "More than 1,900 customers with $1 million or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "customers $10M TTM",
+   "values": [
+    "Approximately 250"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "Approximately 250 customers with $10 million or more of revenue on a TTM basis"
+  },
+  {
+   "kind": "inline",
+   "label": "platform+app cross-use Q3'26",
+   "values": [
+    "over 50%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "over 50% of our customers with $100,000 or more of revenue on a TTM basis used Claude Platform and at least one of our first-party applications"
+  },
+  {
+   "kind": "inline",
+   "label": "platform+app cross-use Q4'25",
+   "values": [
+    "approximately 30%"
+   ],
+   "unit": "%",
+   "period": "Q4'25",
+   "category": "metrics",
+   "quote": "up from approximately 30% for the three months ended December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Net Revenue Retention",
+   "values": [
+    "approximately 900%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "our Net Revenue Retention of approximately 900% as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue growth Q3'26",
+   "values": [
+    "1,127%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "revenue that grew 1,127% year over year for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "compute/infra expense growth Q3'26",
+   "values": [
+    "382%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "compute and infrastructure expenses that grew 382% during the same period"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee 2026",
+   "values": [
+    "over $6.6 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "TTM revenue per employee of over $6.6 million as of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "TTM revenue per employee 2025",
+   "values": [
+    "$1.4 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-09-30",
+   "category": "metrics",
+   "quote": "compared to $1.4 million as of September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue Q3'26",
+   "values": [
+    "$17.0 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "Our revenue was $17.0 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue Q3'25",
+   "values": [
+    "$1.4 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'25",
+   "category": "financials",
+   "quote": "up from $1.4 billion for the three months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "operating margin Q3'26",
+   "values": [
+    "(3)%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "Our operating margin was (3)% and operating loss was $567 million for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "operating loss Q3'26",
+   "values": [
+    "$567 million"
+   ],
+   "unit": "$M",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "operating loss was $567 million for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "operating margin Q3'25",
+   "values": [
+    "(224)%"
+   ],
+   "unit": "%",
+   "period": "Q3'25",
+   "category": "financials",
+   "quote": "compared to an operating margin of (224)% and operating loss of $3.1 billion for the three months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "operating loss Q3'25",
+   "values": [
+    "$3.1 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'25",
+   "category": "financials",
+   "quote": "operating loss of $3.1 billion for the three months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Margin Q3'26",
+   "values": [
+    "15%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "an Adjusted Operating Margin of 15% and Adjusted Operating Income of $2.5 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Income Q3'26",
+   "values": [
+    "$2.5 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "Adjusted Operating Income of $2.5 billion for the three months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Margin Q3'25",
+   "values": [
+    "(93)%"
+   ],
+   "unit": "%",
+   "period": "Q3'25",
+   "category": "financials",
+   "quote": "an Adjusted Operating Margin of (93)% and Adjusted Operating Loss of $1.3 billion for the three months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Adjusted Operating Loss Q3'25",
+   "values": [
+    "$1.3 billion"
+   ],
+   "unit": "$B",
+   "period": "Q3'25",
+   "category": "financials",
+   "quote": "Adjusted Operating Loss of $1.3 billion for the three months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "capital raised",
+   "values": [
+    "$141.1 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "we had raised an aggregate of $141.1 billion of capital"
+  },
+  {
+   "kind": "inline",
+   "label": "cash and cash equivalents",
+   "values": [
+    "$95.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "had cash and cash equivalents of $95.6 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "short-term investments",
+   "values": [
+    "$36.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "short-term investments of $36.3 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Code success rate",
+   "values": [
+    "approximately 90%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "Claudes success rate on these problems reached approximately 90% in September 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Code success rate increase",
+   "values": [
+    "approximately 50 percentage points"
+   ],
+   "unit": "%",
+   "period": "9M 2026",
+   "category": "metrics",
+   "quote": "up approximately 50 percentage points in nine months, based on our internal benchmarks"
+  },
+  {
+   "kind": "inline",
+   "label": "code volume per engineer multiple",
+   "values": [
+    "over 45 times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "was over 45 times the average daily volume in the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "codebase contributions by Claude",
+   "values": [
+    "Over 90%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "Over 90% of the contributions to our codebase in September 2026 were written by Claude"
+  },
+  {
+   "kind": "inline",
+   "label": "headcount growth multiple",
+   "values": [
+    "over five times"
+   ],
+   "unit": "x",
+   "period": "2024-12-31 to 2026-09-30",
+   "category": "metrics",
+   "quote": "From December 31, 2024 to September 30, 2026, our headcount grew over five times"
+  },
+  {
+   "kind": "inline",
+   "label": "revenue growth multiple vs Q4'24",
+   "values": [
+    "86 times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "our revenue for the three months ended September 30, 2026 was 86 times our revenue for the three months ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "internal Claude usage growth",
+   "values": [
+    "over 250 times"
+   ],
+   "unit": "x",
+   "period": "2026-01 to 2026-09",
+   "category": "metrics",
+   "quote": "has grown by over 250 times from January 2026 to September 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "internal usage exceeded personnel expense",
+   "values": [
+    "April 2026"
+   ],
+   "unit": "other",
+   "period": "2026-04",
+   "category": "metrics",
+   "quote": "in April 2026, this monthly value first exceeded our monthly personnel expense, excluding stock-based compensation"
+  },
+  {
+   "kind": "inline",
+   "label": "knowledge worker economic value",
+   "values": [
+    "more than $40 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "the work that knowledge workers perform represented more than $40 trillion in economic value globally in 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "IDC cumulative AI economic impact",
+   "values": [
+    "$22.5 trillion"
+   ],
+   "unit": "$B",
+   "period": "2031",
+   "category": "other",
+   "quote": "yield a cumulative global economic impact of $22.5 trillion by 2031"
+  },
+  {
+   "kind": "inline",
+   "label": "IT spend 2006",
+   "values": [
+    "approximately $1.2 trillion"
+   ],
+   "unit": "$B",
+   "period": "2006",
+   "category": "other",
+   "quote": "information technology spend grew from approximately $1.2 trillion in 2006 to $4.3 trillion in 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "IT spend 2025",
+   "values": [
+    "$4.3 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "to $4.3 trillion in 2025, a CAGR of approximately 7%"
+  },
+  {
+   "kind": "inline",
+   "label": "IT spend CAGR",
+   "values": [
+    "approximately 7%"
+   ],
+   "unit": "%",
+   "period": "2006-2025",
+   "category": "other",
+   "quote": "a CAGR of approximately 7%, as cloud computing spend grew from zero to $1.9 trillion"
+  },
+  {
+   "kind": "inline",
+   "label": "cloud spend 2025",
+   "values": [
+    "$1.9 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "cloud computing spend grew from zero to $1.9 trillion over the same period"
+  },
+  {
+   "kind": "inline",
+   "label": "global GDP 2000",
+   "values": [
+    "approximately $34 trillion"
+   ],
+   "unit": "$B",
+   "period": "2000",
+   "category": "other",
+   "quote": "Global GDP grew from approximately $34 trillion in 2000 to more than $118 trillion in 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "global GDP 2025",
+   "values": [
+    "more than $118 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "to more than $118 trillion in 2025 according to the World Bank, more than tripling"
+  },
+  {
+   "kind": "inline",
+   "label": "top-10 tech revenue 2000s",
+   "values": [
+    "$68 billion"
+   ],
+   "unit": "$B",
+   "period": "other",
+   "category": "other",
+   "quote": "aggregate revenue from $68 billion to more than $2.5 trillion"
+  },
+  {
+   "kind": "inline",
+   "label": "top-10 tech revenue 2025",
+   "values": [
+    "more than $2.5 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "other",
+   "quote": "aggregate revenue from $68 billion to more than $2.5 trillion"
+  },
+  {
+   "kind": "inline",
+   "label": "top-10 tech revenue growth multiple",
+   "values": [
+    "approximately 38 times"
+   ],
+   "unit": "x",
+   "period": "other",
+   "category": "other",
+   "quote": "an increase of approximately 38 times, or approximately 11 times the rate of global GDP growth"
+  },
+  {
+   "kind": "inline",
+   "label": "top-10 tech revenue growth vs GDP",
+   "values": [
+    "approximately 11 times"
+   ],
+   "unit": "x",
+   "period": "other",
+   "category": "other",
+   "quote": "approximately 11 times the rate of global GDP growth"
+  },
+  {
+   "kind": "inline",
+   "label": "pharma spend 2026",
+   "values": [
+    "exceed $2 trillion"
+   ],
+   "unit": "$B",
+   "period": "FY2026",
+   "category": "other",
+   "quote": "annual global pharmaceutical spend is expected to exceed $2 trillion in 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "regrettable attrition",
+   "values": [
+    "approximately 1%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "we have experienced approximately 1% regrettable attrition of our employee base overall in the TTM period ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "ExploitBench Opus 4.8",
+   "values": [
+    "40%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "metrics",
+   "quote": "increasing from 40% with Opus 4.8, to 78% with Mythos 5, and to 91% with Opus 5.5 over a period of approximately four months"
+  },
+  {
+   "kind": "inline",
+   "label": "ExploitBench Mythos 5",
+   "values": [
+    "78%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "metrics",
+   "quote": "to 78% with Mythos 5, and to 91% with Opus 5.5"
+  },
+  {
+   "kind": "inline",
+   "label": "ExploitBench Opus 5.5",
+   "values": [
+    "91%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "metrics",
+   "quote": "to 91% with Opus 5.5 over a period of approximately four months"
+  },
+  {
+   "kind": "inline",
+   "label": "ExploitBench improvement period",
+   "values": [
+    "approximately four months"
+   ],
+   "unit": "other",
+   "period": "other",
+   "category": "metrics",
+   "quote": "over a period of approximately four months"
+  },
+  {
+   "kind": "inline",
+   "label": "knowledge worker population 2028",
+   "values": [
+    "one billion"
+   ],
+   "unit": "count",
+   "period": "2028",
+   "category": "other",
+   "quote": "a population that is estimated to exceed one billion in 2028"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Partner Network commitment",
+   "values": [
+    "$100 million"
+   ],
+   "unit": "$M",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "committing an initial $100 million in 2026 to fund partner training, technical certification, and joint market development"
+  },
+  {
+   "kind": "inline",
+   "label": "partner network practitioners",
+   "values": [
+    "over 150,000"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "comprised over 150,000 practitioners across over 4,000 organizations"
+  },
+  {
+   "kind": "inline",
+   "label": "partner network organizations",
+   "values": [
+    "over 4,000"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "across over 4,000 organizations who have received certifications"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Frontier Academy commitment",
+   "values": [
+    "$100 million"
+   ],
+   "unit": "$M",
+   "period": "2026-10",
+   "category": "financials",
+   "quote": "backed by a $100 million commitment, to address a key constraint on enterprise AI adoption"
+  },
+  {
+   "kind": "inline",
+   "label": "Academy engineers target",
+   "values": [
+    "10,000"
+   ],
+   "unit": "count",
+   "period": "2027",
+   "category": "metrics",
+   "quote": "We aim to train 10,000 engineers through the Academy by the end of 2027"
+  },
+  {
+   "kind": "inline",
+   "label": "customers growth from 2025",
+   "values": [
+    "more than 950"
+   ],
+   "unit": "count",
+   "period": "as of 2025-09-30",
+   "category": "metrics",
+   "quote": "we grew customers with $100,000 or more of revenue on a TTM basis from more than 950 to more than 11,900"
+  },
+  {
+   "kind": "inline",
+   "label": "Claude Enterprise non-Code users spend",
+   "values": [
+    "less than $75 per month"
+   ],
+   "unit": "per-share",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "spent less than $75 per month on average, while the top 5% of Claude Enterprise users who used Claude Code spent approximately 20 times that amount"
+  },
+  {
+   "kind": "inline",
+   "label": "top Claude Code users spend multiple",
+   "values": [
+    "approximately 20 times"
+   ],
+   "unit": "x",
+   "period": "Q3'26",
+   "category": "metrics",
+   "quote": "the top 5% of Claude Enterprise users who used Claude Code spent approximately 20 times that amount"
+  },
+  {
+   "kind": "inline",
+   "label": "Fable 5.1 cost reduction",
+   "values": [
+    "approximately 25%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "reduced the cost of typical workloads by approximately 25% compared to Fable 5"
+  },
+  {
+   "kind": "inline",
+   "label": "Fable 5.1 complex task savings",
+   "values": [
+    "up to 45%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "with savings of up to 45% for complex coding and highly agentic tasks"
+  },
+  {
+   "kind": "inline",
+   "label": "Opus 5.5 cost per task reduction",
+   "values": [
+    "approximately 40%"
+   ],
+   "unit": "%",
+   "period": "2026-09",
+   "category": "metrics",
+   "quote": "reduced customers cost per task by approximately 40% compared to Opus 5"
+  },
+  {
+   "kind": "inline",
+   "label": "QoQ revenue growth Q4'25",
+   "values": [
+    "48%"
+   ],
+   "unit": "%",
+   "period": "Q4'25",
+   "category": "metrics",
+   "quote": "revenue growth accelerated from 48% for the three months ended December 31, 2025 to 132% for the three months ended March 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "QoQ revenue growth Q1'26",
+   "values": [
+    "132%"
+   ],
+   "unit": "%",
+   "period": "Q1'26",
+   "category": "metrics",
+   "quote": "to 132% for the three months ended March 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "other opex growth ex-Bartz",
+   "values": [
+    "729%"
+   ],
+   "unit": "%",
+   "period": "Q3'26",
+   "category": "financials",
+   "quote": "Other operating expenses, excluding the Bartz settlement, increased 729%"
+  },
+  {
+   "kind": "inline",
+   "label": "employees",
+   "values": [
+    "approximately 5,300"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "metrics",
+   "quote": "we had approximately 5,300 employees worldwide, a majority of whom work in research, engineering, and product development functions"
+  },
+  {
+   "kind": "inline",
+   "label": "external reviewer capacity investment",
+   "values": [
+    "at least $1 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2031",
+   "category": "commitments",
+   "quote": "we currently anticipate investing at least $1 billion over the next five years to build external reviewer capacity with Accenture"
+  },
+  {
+   "kind": "inline",
+   "label": "Project Glasswing cyber commitment",
+   "values": [
+    "up to $100 million"
+   ],
+   "unit": "$M",
+   "period": "other",
+   "category": "commitments",
+   "quote": "We have committed up to $100 million in cyberdefense-related initiatives through Project Glasswing"
+  },
+  {
+   "kind": "inline",
+   "label": "qualitative study participants",
+   "values": [
+    "more than 80,000"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "metrics",
+   "quote": "in which more than 80,000 people shared in depth how they see AI shaping their lives"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Public Benefit Issuance shares",
+   "values": [
+    "846,840,960"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-06-30",
+   "category": "stock_plan",
+   "quote": "we contributed 846,840,960 shares of our Class N common stock, representing 5% of our fully diluted shares as of June 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Public Benefit Issuance share %",
+   "values": [
+    "5%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-06-30",
+   "category": "stock_plan",
+   "quote": "representing 5% of our fully diluted shares as of June 30, 2026 (assuming full conversion of the Amazon Notes)"
+  },
+  {
+   "kind": "inline",
+   "label": "additional public benefit shares cap",
+   "values": [
+    "up to an additional 2%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "representing up to an additional 2% of our then-outstanding shares (plus any shares subject to options, RSUs, and other convertible securities"
+  },
+  {
+   "kind": "inline",
+   "label": "share price milestone appreciation",
+   "values": [
+    "50%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "each time our share price appreciates 50% above the prior share price milestone, beginning with our initial public offering price"
+  },
+  {
+   "kind": "inline",
+   "label": "share price milestone test days",
+   "values": [
+    "at least 90"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "has exceeded the applicable threshold on at least 90 of the trailing 120 consecutive trading days"
+  },
+  {
+   "kind": "inline",
+   "label": "trailing trading days",
+   "values": [
+    "120"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "on at least 90 of the trailing 120 consecutive trading days"
+  },
+  {
+   "kind": "inline",
+   "label": "milestone average test days",
+   "values": [
+    "10"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "our average closing share price over the 10 trading days prior to such issuance also exceeds that threshold"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founder pledge",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "our co-founders have each pledged to dedicate 80% of their personal equity in Anthropic to philanthropic causes"
+  },
+  {
+   "kind": "inline",
+   "label": "issued US patents",
+   "values": [
+    "40"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "we held 40 issued U.S. patents, with an additional 67 U.S. patent applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "US patent applications pending",
+   "values": [
+    "67"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "an additional 67 U.S. patent applications pending (including 32 nonprovisional and 35 provisional)"
+  },
+  {
+   "kind": "inline",
+   "label": "nonprovisional applications",
+   "values": [
+    "32"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "including 32 nonprovisional and 35 provisional"
+  },
+  {
+   "kind": "inline",
+   "label": "provisional applications",
+   "values": [
+    "35"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "32 nonprovisional and 35 provisional"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign issued patents",
+   "values": [
+    "26"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "26 issued patents in foreign jurisdictions, with an additional 12 patent applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign patent applications pending",
+   "values": [
+    "12"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "an additional 12 patent applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "US registered trademarks",
+   "values": [
+    "29"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "we held 29 registered trademarks in the United States, with an additional 11 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "US trademark applications pending",
+   "values": [
+    "11"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "an additional 11 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign registered trademarks",
+   "values": [
+    "237"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "237 registered trademarks in foreign jurisdictions, with an additional 261 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "foreign trademark applications pending",
+   "values": [
+    "261"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "other",
+   "quote": "an additional 261 applications pending"
+  },
+  {
+   "kind": "inline",
+   "label": "Bartz settlement",
+   "values": [
+    "$1.5 billion"
+   ],
+   "unit": "$B",
+   "period": "2025-09",
+   "category": "legal",
+   "quote": "we entered into a settlement agreement with the plaintiffs to settle the case for $1.5 billion, which was approved by the district court in July 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "prompt caching cost reduction",
+   "values": [
+    "approximately 97%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "metrics",
+   "quote": "reducing cost by up to approximately 97% and latency by approximately 60% for long prompts"
+  },
+  {
+   "kind": "inline",
+   "label": "prompt caching latency reduction",
+   "values": [
+    "approximately 60%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "metrics",
+   "quote": "and latency by approximately 60% for long prompts, compared with processing the same requests without caching"
+  },
+  {
+   "kind": "inline",
+   "label": "prompt cache duration",
+   "values": [
+    "up to one hour"
+   ],
+   "unit": "other",
+   "period": "other",
+   "category": "other",
+   "quote": "Large, reused prompt components can be cached for up to one hour"
+  },
+  {
+   "kind": "inline",
+   "label": "scientific databases queried",
+   "values": [
+    "more than 60"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "other",
+   "quote": "Claude Science queries more than 60 scientific databases to complete it end to end"
+  },
+  {
+   "kind": "inline",
+   "label": "Enterprise Frontier Safeguards customers",
+   "values": [
+    "more than 100"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "other",
+   "quote": "We developed Enterprise Frontier Safeguards with more than 100 customers in industries including financial services"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT payment 2023",
+   "values": [
+    "$2,716,750"
+   ],
+   "unit": "$",
+   "period": "FY2023",
+   "category": "governance",
+   "quote": "In the years ended December 31, 2023, 2024, and 2025, we paid $2,716,750, $0, and $906,089 to the LTBT, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT payment 2024",
+   "values": [
+    "$0"
+   ],
+   "unit": "$",
+   "period": "FY2024",
+   "category": "governance",
+   "quote": "we paid $2,716,750, $0, and $906,089 to the LTBT, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT payment 2025",
+   "values": [
+    "$906,089"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "governance",
+   "quote": "$0, and $906,089 to the LTBT, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT payment 9M 2026",
+   "values": [
+    "$8,425,213"
+   ],
+   "unit": "$",
+   "period": "9M 2026",
+   "category": "governance",
+   "quote": "During the nine months ended September 30, 2026, we paid $8,425,213 to the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee annual compensation",
+   "values": [
+    "$400,000"
+   ],
+   "unit": "$",
+   "period": "other",
+   "category": "governance",
+   "quote": "Each Trustee receives annual cash compensation of $400,000 for their service as a Trustee"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT Chair compensation",
+   "values": [
+    "$25,000"
+   ],
+   "unit": "$",
+   "period": "other",
+   "category": "governance",
+   "quote": "Dr. Shah receives annual cash compensation of $25,000 for his service as the Chair of the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "CNAS donation",
+   "values": [
+    "$450,000"
+   ],
+   "unit": "$",
+   "period": "2026-08",
+   "category": "governance",
+   "quote": "in August 2026, we made a $450,000 charitable donation to CNAS, of which Mr. Fontaine is the Chief Executive Officer"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F voting power",
+   "values": [
+    "50.1%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "governance",
+   "quote": "entitled to an aggregate number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Founder LLC succession window",
+   "values": [
+    "tenth anniversary"
+   ],
+   "unit": "years",
+   "period": "other",
+   "category": "governance",
+   "quote": "a successor member may be admitted to the Founder LLC until the tenth anniversary of the completion of this offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Founder loss trigger period",
+   "values": [
+    "90 consecutive calendar days"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "governance",
+   "quote": "fewer than three Continuing Founders (not including any successor member who is a Non-Qualifying Member as defined in the Founder LLC Agreement) for 90 consecutive calendar days"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F Transition Period",
+   "values": [
+    "450-day"
+   ],
+   "unit": "other",
+   "period": "other",
+   "category": "governance",
+   "quote": "a 450-day transition period will commence (the Class F Transition Period)"
+  },
+  {
+   "kind": "inline",
+   "label": "Continuing Founder minimum ownership",
+   "values": [
+    "at least 2%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "governance",
+   "quote": "equal to at least 2% of the shares of Class A common stock held by such original co-founder and their related holders"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC nomination notice",
+   "values": [
+    "at least 30 days"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "governance",
+   "quote": "must provide at least 30 days notice to our NGC, which notice period is waivable by our NGC"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC concurrence window",
+   "values": [
+    "15 days"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "governance",
+   "quote": "If our NGC does not concur with such nomination, removal, or change in designation within 15 days of receiving notice"
+  },
+  {
+   "kind": "inline",
+   "label": "removal for cause notice",
+   "values": [
+    "30 calendar days"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "governance",
+   "quote": "the LTBT and the Founder LLC has agreed to provide 30 calendar days notice to the other stockholder and our NGC"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT amendment threshold",
+   "values": [
+    "80%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "governance",
+   "quote": "upon approval of 80% of the authorized members of our board of directors and 80% of the Trustees then in office"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E quorum under Class F unanimity",
+   "values": [
+    "40%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "governance",
+   "quote": "majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our outstanding Class E common stock)"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E approval threshold",
+   "values": [
+    "75%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "governance",
+   "quote": "75% of the votes cast by our Class E common stock (subject to a quorum of a majority of outstanding Class E common stock)"
+  },
+  {
+   "kind": "inline",
+   "label": "Continuing Founders Class F threshold",
+   "values": [
+    "66 23%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "governance",
+   "quote": "acting by decision of 66 23% of the Continuing Founders (rounded up to the nearest whole number)"
+  },
+  {
+   "kind": "inline",
+   "label": "Class A amendment threshold no Class F",
+   "values": [
+    "85%"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "governance",
+   "quote": "upon approval of 85% of our outstanding shares of Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee count",
+   "values": [
+    "five"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "governance",
+   "quote": "The LTBT is governed by five Trustees"
+  },
+  {
+   "kind": "inline",
+   "label": "Trustee seats vacant",
+   "values": [
+    "one is currently vacant"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "governance",
+   "quote": "Of the five authorized seats for Trustees, one is currently vacant"
+  },
+  {
+   "kind": "inline",
+   "label": "Shah LTBT tenure start",
+   "values": [
+    "June 2023"
+   ],
+   "unit": "other",
+   "period": "other",
+   "category": "governance",
+   "quote": "Dr. Neil Buddy Shah has served as a Trustee and Chair of the LTBT since June 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E issuance accrual",
+   "values": [
+    "one share for each six months"
+   ],
+   "unit": "shares",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "one share of Class E common stock for each six months of employment completed with us"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E donation matching issuance",
+   "values": [
+    "one share for each share"
+   ],
+   "unit": "shares",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "one share of Class E common stock for each share of Class A common stock that such employee has pledged to donate"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E redemption on separation",
+   "values": [
+    "one-half annually"
+   ],
+   "unit": "%",
+   "period": "other",
+   "category": "stock_plan",
+   "quote": "one-half of such employees then-outstanding shares of Class E common stock will be automatically redeemed by us annually"
+  },
+  {
+   "kind": "inline",
+   "label": "state AG letter date",
+   "values": [
+    "September 24, 2026"
+   ],
+   "unit": "other",
+   "period": "2026-09-24",
+   "category": "legal",
+   "quote": "on September 24, 2026, state attorneys general in New York and New Jersey, together with a coalition of other state and territorial attorneys general"
+  },
+  {
+   "kind": "inline",
+   "label": "export restrictions on Fable 5/Mythos 5",
+   "values": [
+    "June 2026"
+   ],
+   "unit": "other",
+   "period": "2026-06",
+   "category": "legal",
+   "quote": "in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable 5 and Mythos 5 models"
+  },
+  {
+   "kind": "inline",
+   "label": "D.C. Circuit review denial date",
+   "values": [
+    "September 25, 2026"
+   ],
+   "unit": "other",
+   "period": "2026-09-25",
+   "category": "legal",
+   "quote": "On September 25, 2026, in a 2-1 split decision, the D.C. Circuit Court of Appeals denied our petition for review"
+  },
+  {
+   "kind": "inline",
+   "label": "D.C. Circuit split",
+   "values": [
+    "2-1"
+   ],
+   "unit": "other",
+   "period": "2026-09-25",
+   "category": "legal",
+   "quote": "in a 2-1 split decision, the D.C. Circuit Court of Appeals denied our petition for review"
+  },
+  {
+   "kind": "inline",
+   "label": "summary judgment order date",
+   "values": [
+    "August 27, 2026"
+   ],
+   "unit": "other",
+   "period": "2026-08-27",
+   "category": "legal",
+   "quote": "on August 27, 2026, obtained an order from the United States District Court for the Northern District of California that largely granted summary judgment in our favor"
+  },
+  {
+   "kind": "inline",
+   "label": "co-founders count",
+   "values": [
+    "seven"
+   ],
+   "unit": "count",
+   "period": "other",
+   "category": "governance",
+   "quote": "All seven of Anthropics co-founders remain active leaders in the organization"
+  },
+  {
+   "kind": "inline",
+   "label": "RSP published",
+   "values": [
+    "September 2023"
+   ],
+   "unit": "other",
+   "period": "2023-09",
+   "category": "other",
+   "quote": "After we published the first version of our Responsible Scaling Policy in September 2023, two other leading frontier AI labs adopted similar frameworks"
+  }
+ ]
+}

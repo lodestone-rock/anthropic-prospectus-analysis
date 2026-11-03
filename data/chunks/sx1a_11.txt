@@ -1,0 +1,2951 @@
+Description of Capital Stock
+
+General
+
+The following description summarizes certain important terms of our capital stock, as they are expected to be in
+
+effect immediately prior to the completion of this offering. We expect to adopt an amended and restated
+
+certificate of incorporation and amended and restated bylaws that will become effective immediately prior to
+
+the completion of this offering, and this description summarizes the provisions that are expected to be included
+
+in such documents. Because it is only a summary, it does not contain all the information that may be important
+
+to you. For a complete description of the matters set forth in this section titled Description of Capital Stock,
+
+you should refer to our amended and restated certificate of incorporation, amended and restated bylaws, the
+
+Trust Agreement, the Founder LLC Agreement, the IRA, and the Stockholders Agreement, which are included
+
+as exhibits to the registration statement of which this prospectus forms a part, and to the applicable provisions
+
+of Delaware law. Immediately following the completion of this offering, our authorized capital stock will consist
+
+of 460,000,000,002 shares of capital stock, $0.00001 par value per share, of which
+
+300,000,000,000 shares are designated as Class A common stock (the Class A common stock)
+
+100,000,000,000 shares are designated as Class N common stock (the Class N common stock)
+
+one share is designated as Class T common stock (the Class T common stock)
+
+one share is designated as Class F common stock (the Class F common stock)
+
+30,000,000,000 shares are designated as Class E common stock (the Class E common stock) and
+
+30,000,000,000 shares are designated as preferred stock.
+
+As of September 30, 2026, assuming the Preferred Stock Conversion, Convertible Notes Conversion, Class F
+
+Stock Issuance, Initial Public Benefit Issuance, and RSU Settlement occurred as of such date, there were
+
+shares of our Class A common stock outstanding, held by stockholders of record, shares of our
+
+Class N common stock outstanding, held by stockholders of record, one share of our Class T common
+
+stock outstanding, held by one stockholder of record, one share of our Class F common stock outstanding, held
+
+by one stockholder of record, and no shares of our Class E common stock or preferred stock outstanding.
+
+As more fully described below, the following table summarizes certain key terms of each class or series of our
+
+common stock that will be authorized following the completion of this offering
+
+Category of Rights
+
+Class A Common
+
+Stock
+
+Class N Common
+
+Stock
+
+Class T Common
+
+Stock
+
+Class F Common
+
+Stock
+
+Class E Common
+
+Stock
+
+Votes per share
+
+1
+
+0
+
+1
+
+50.1% of outstanding
+
+voting power on
+
+record date
+
+1
+
+Matters on which
+
+entitled to vote
+
+All matters submitted
+
+to stockholders
+
+generally election of
+
+non-Class T directors
+
+certain amendments
+
+to the terms of the
+
+LTBT or the rights of
+
+our Class T common
+
+stock redemption of
+
+our Class T common
+
+stock
+
+Not entitled to vote
+
+except as required by
+
+law, in which case our
+
+Class N common stock
+
+will have one vote per
+
+share
+
+Election of Class T
+
+directors, which
+
+constitute a majority
+
+of our board of
+
+directors redemption
+
+of our Class E
+
+common stock
+
+certain amendments
+
+to the rights of our
+
+Class F common stock
+
+All matters submitted
+
+to stockholders
+
+generally election of
+
+non-Class T directors
+
+certain amendments
+
+to the terms of the
+
+LTBT or the rights of
+
+our Class T common
+
+stock redemption of
+
+our Class T common
+
+stock redemption of
+
+our Class E common
+
+stock
+
+Nomination, change
+
+in designation, or
+
+removal of the
+
+Specified Class T
+
+Director (only if our
+
+NGC does not concur
+
+with the LTBTs
+
+nomination, change in
+
+designation, or
+
+removal) certain
+
+amendments to the
+
+terms of the LTBT or
+
+the rights of our Class
+
+T common stock
+
+redemption of our
+
+Class T common stock
+
+Conversion rights
+
+None
+
+Converts into Class A
+
+common stock upon a
+
+sale or transfer to an
+
+unaffiliated third
+
+party
+
+None
+
+None
+
+None
+
+297
+
+Table of Contents
+
+Category of Rights
+
+Class A Common
+
+Stock
+
+Class N Common
+
+Stock
+
+Class T Common
+
+Stock
+
+Class F Common
+
+Stock
+
+Class E Common
+
+Stock
+
+Transferability
+
+Generally transferable
+
+Generally
+
+transferable converts
+
+into Class A common
+
+stock upon transfer as
+
+described above
+
+Transferable only
+
+upon approval of
+
+persons comprising
+
+the Trust Amendment
+
+Threshold
+
+Not transferable
+
+except in the case of a
+
+reorganization or
+
+redomiciliation of the
+
+Founder LLC that is
+
+approved by our
+
+board of directors and
+
+does not result in a
+
+change to the
+
+members of the
+
+Founder LLC
+
+Not transferable
+
+Dividend rights
+
+Entitled to participate
+
+pro rata in dividends
+
+and distributions
+
+Entitled to participate
+
+pro rata in dividends
+
+and distributions
+
+None
+
+None
+
+None
+
+Right to receive
+
+liquidation
+
+distributions
+
+Entitled to participate
+
+pro rata in liquidation
+
+distributions
+
+Entitled to participate
+
+pro rata in liquidation
+
+distributions
+
+Entitled to par value
+
+per share
+
+Entitled to par value
+
+per share
+
+Entitled to par value
+
+per share
+
+Redeemable by
+
+company
+
+No
+
+No
+
+Redeemable by us for
+
+no consideration upon
+
+occurrence of certain
+
+events
+
+Redeemable by us for
+
+no consideration upon
+
+occurrence of certain
+
+events
+
+Redeemable by us for
+
+no consideration upon
+
+occurrence of certain
+
+events
+
+Common Stock
+
+We have four classes of authorized common stock
+
+the class designated as Participating Common Stock, which is divided into two series Class A common
+
+stock and Class N common stock
+
+Class T common stock, which is a special class of common stock that is issued to the LTBT
+
+Class F common stock, which is a special class of common stock that will be issued to the Founder LLC
+
+and
+
+Class E common stock, which is a special class of common stock that will be issued to our employees,
+
+excluding our co-founders.
+
+Voting Rights
+
+Class A common stock. Holders of our Class A common stock are entitled to one vote for each share
+
+held on all matters submitted to a vote of stockholders generally, including the election of the directors
+
+other than the Class T directors.
+
+Class N common stock. Holders of our Class N common stock are not entitled to vote on any matter
+
+that is submitted to a vote of stockholders, except as otherwise required by law, such as certain
+
+amendments to our amended and restated certificate of incorporation that would adversely affect the
+
+powers, preferences, or special rights of our Class N common stock without so adversely affecting our
+
+Class A common stock, on which the DGCL entitles such holders to vote separately as a series.
+
+Class T common stock. The holder of our Class T common stock has no voting rights with respect to
+
+matters submitted to stockholders, except as set forth within our amended and restated certificate of
+
+incorporation with respect to the election of a majority of our board of directors, the redemption of our
+
+Class E common stock, certain amendments to the rights of our Class F common stock, or as otherwise
+
+required by law, such as certain amendments to our amended and restated certificate of incorporation
+
+that would adversely affect the powers, preferences, or special rights of our Class T common stock, on
+
+which the DGCL entitles such holder to vote separately as a class.
+
+Class F common stock. The holder of our Class F common stock will be entitled to an aggregate
+
+number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock
+
+as of the applicable record date on matters submitted to a vote of stockholders generally, including the
+
+election of the directors other than the Class T directors. Our Class F common stock will be voted in the
+
+manner provided by the Founder LLC Agreement. See the section titled Class F Common Stock
+
+Voting Mechanics.
+
+298
+
+Table of Contents
+
+Class E common stock. The holders of our Class E common stock have no voting rights with respect to
+
+matters submitted to stockholders, except as set forth within our amended and restated certificate of
+
+incorporation with respect to the proposed nomination, removal, or change in designation of the
+
+Specified Class T Director (in circumstances where our NGC does not concur with the LTBTs proposed
+
+action), certain changes to the terms of the LTBT or the rights of our Class T common stock, the
+
+redemption of our Class T common stock, or as otherwise required by law, such as certain amendments
+
+to our amended and restated certificate of incorporation that would adversely affect the powers,
+
+preferences, or special rights of our Class E common stock, on which the DGCL entitles such holders to
+
+vote separately as a class.
+
+Conversion and Transferability
+
+Class A common stock. Our Class A common stock will not be convertible into any other class or series
+
+of capital stock. Subject to compliance with applicable law and the restrictions described in the section
+
+titled Shares Eligible for Future SaleLock-Up and Market Standoff Agreements, our Class A
+
+common stock can be transferred.
+
+Class N common stock. The holders of our Class N common stock are primarily strategic business
+
+partners. Subject to compliance with applicable law and the restrictions described in the section titled
+
+Shares Eligible for Future SaleLock-Up and Market Standoff Agreements, our Class N common
+
+stock can be transferred. The shares of Class N common stock will automatically convert into an equal
+
+number of shares of Class A common stock upon a transfer effected through (i) a registered offering or
+
+an open market sale of such shares or (ii) a transfer to a third party (A) that is not a holder of Class N
+
+common stock (or an affiliate of a holder of Class N common stock) and (B) that will not beneficially
+
+own or control more than 9.99% of the shares of any class or series of our equity securities after giving
+
+effect to the transfer.
+
+Class T common stock. Our Class T common stock will not be convertible into any other class or series
+
+of capital stock. Our Class T common stock is transferable only upon the approval of persons
+
+comprising the Trust Amendment Threshold. Because the persons comprising the Trust Amendment
+
+Threshold have the power to modify or terminate the LTBT and the rights of our Class T common stock
+
+entirely, there is no separate restriction on the identity of a permissible transferee of our Class T
+
+common stock.
+
+Class F common stock. Our Class F common stock will not be convertible into any other class or series
+
+of capital stock. Our Class F common stock is not transferable except in the case of a reorganization or
+
+redomiciliation of the Founder LLC that is approved by our board of directors and does not result in a
+
+change to the members of the Founder LLC.
+
+Class E common stock. Our Class E common stock will not be convertible into any other class or series
+
+of capital stock and is not transferable.
+
+Redemption
+
+Class A common stock. Our Class A common stock will not be redeemable at our option or at the
+
+option of the holder.
+
+Class N common stock. Our Class N common stock will not be redeemable at our option or at the
+
+option of the holder.
+
+Class T common stock. Our Class T common stock will be redeemable for no consideration
+
+if the Trustees are voting in favor of such redemption, upon approval of 80% of the authorized
+
+members of our board of directors and 80% of the Trustees then in office (in each case, rounded
+
+up or down to the nearest whole number (any exact 0.5 rounding up))
+
+299
+
+Table of Contents
+
+if our Class F common stock remains outstanding and the Trustees are not voting in favor of such
+
+redemption
+
+until the third anniversary of the completion of this offering, upon approval by (i) our Class F
+
+common stock acting pursuant to the unanimous approval of the Continuing Founders, (ii) a
+
+majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our
+
+outstanding Class E common stock), and (iii) a majority of the votes cast by our outstanding
+
+Class A common stock (subject to a quorum of a majority of outstanding Class A common
+
+stock) or
+
+at any time, upon approval by (i) our Class F common stock acting by decision of 66 23% of
+
+the Continuing Founders (rounded up to the nearest whole number), (ii) 75% of the votes cast
+
+by our Class E common stock (subject to a quorum of a majority of outstanding Class E
+
+common stock), and (iii) a majority of the votes cast by our Class A common stock (subject to a
+
+quorum of a majority of outstanding Class A common stock) or
+
+if no Class F common stock remains outstanding and the Trustees are not voting in favor of such
+
+redemption, upon approval of 85% of the outstanding shares of Class A common stock.
+
+Class F common stock. Our Class F common stock will be redeemable for no consideration (i) at the
+
+option of the Founder LLC, acting upon Supermajority approval of the Continuing Founders, (ii) upon
+
+the dissolution of the Founder LLC, or (iii) upon completion of the Class F Transition Period, which
+
+will commence when there have been fewer than three Continuing Founders (not including any
+
+successor member who is a Non-Qualifying Member as defined in the Founder LLC Agreement) for
+
+90 consecutive calendar days.
+
+Class E common stock. Our Class E common stock will not be redeemable at the option of the holder.
+
+Following an employees separation from employment with us other than for cause, one-half of such
+
+employees then-outstanding shares of Class E common stock will be automatically redeemed by us for
+
+no consideration annually, except that all shares of Class E common stock held by an employee will
+
+also be automatically redeemed by us for no consideration upon such employees death, incapacity,
+
+termination for cause, or commencement of service with a direct competitor. All shares of Class E
+
+common stock will also be automatically redeemed by us for no consideration (i) at such time as no
+
+Class F common stock remains outstanding, or (ii) upon the approval of (A) 80% of authorized
+
+members of our board of directors (rounded up or down to the nearest whole number (any exact 0.5
+
+rounding up)), (B) the holder of our Class F common stock, and (C) the holder of our Class T common
+
+stock.
+
+Dividend Rights
+
+Subject to preferences that may apply to any shares of preferred stock outstanding at the time, the holders of
+
+our Class A common stock and Class N common stock are entitled to receive dividends out of funds legally
+
+available if our board of directors, in its discretion, determines to issue dividends and then only at the times and
+
+in the amounts that our board of directors may determine. Our Class T common stock, Class F common stock,
+
+and Class E common stock are not entitled to receive dividends. See the section titled Dividend Policy for
+
+more information.
+
+No Preemptive or Similar Rights
+
+Our common stock is not entitled to preemptive rights and is not subject to redemption or sinking fund
+
+provisions (other than those providing for the redemption of our Class T common stock, Class F common stock,
+
+and Class E common stock for no consideration described above).
+
+Right to Receive Liquidation Distributions
+
+If we become subject to a liquidation, dissolution, or winding up, the assets legally available for distribution to
+
+our stockholders would be distributable ratably among the holders of our Class A common stock and Class N
+
+common stock and any participating preferred stock outstanding at that time, subject to prior satisfaction of all
+
+outstanding debt and liabilities and the preferential rights of and the payment of liquidation preferences, if any,
+
+300
+
+Table of Contents
+
+on any outstanding shares of our capital stock. In the event of our liquidation, dissolution, or winding up,
+
+holders of our Class T common stock, Class F common stock, and Class E common stock shall be entitled to
+
+receive par value ($0.00001) per share but shall not otherwise participate in such distributions.
+
+Fully Paid and Non-Assessable
+
+In connection with this offering, our legal counsel will opine that the shares of our Class A common stock to be
+
+issued in this offering will be fully paid and non-assessable.
+
+Sunset Provisions
+
+Class T Sunset Time
+
+Class F Sunset Time
+
+Trigger
+
+The Class T Sunset Time occurs when no Class T
+
+common stock remains outstanding, including due
+
+to the redemption of our Class T common stock or
+
+an amendment to the rights of our Class T common
+
+stock that eliminates our Class T common stock,
+
+which in each case requires the approval of persons
+
+comprising the Trust Amendment Threshold. The
+
+Trust Amendment Threshold may be satisfied as
+
+follows
+
+if the Trustees are voting in favor of the action,
+
+upon approval of 80% of the authorized
+
+members of our board of directors and 80% of
+
+the Trustees then in office (in each case,
+
+rounded up or down to the nearest whole
+
+number (any exact 0.5 rounding up))
+
+if our Class F common stock remains
+
+outstanding and the Trustees are not voting in
+
+favor of the action
+
+until the third anniversary of the completion
+
+of this offering, upon approval by (i) our
+
+Class F common stock acting pursuant to the
+
+unanimous approval of the Continuing
+
+Founders, (ii) a majority of the votes cast by
+
+our Class E common stock (subject to a
+
+quorum of 40% of our outstanding Class E
+
+common stock), and (iii) a majority of the
+
+votes cast by outstanding Class A common
+
+stock (subject to a quorum of a majority of
+
+outstanding Class A common stock) or
+
+at any time, upon approval by (i) our Class F
+
+common stock acting by decision of 66 23%
+
+of the Continuing Founders (rounded up to
+
+the nearest whole number), (ii) 75% of the
+
+votes cast by our Class E common stock
+
+(subject to a quorum of a majority of
+
+outstanding Class E common stock), and (iii)
+
+a majority of the votes cast by our Class A
+
+common stock (subject to a quorum of a
+
+majority of outstanding Class A common
+
+stock) or
+
+The Class F Sunset Time occurs on the earlier
+
+of (i) the time when no Class F common stock
+
+remains outstanding, including due to the
+
+redemption of our Class F common stock
+
+agreed to by a Supermajority of the
+
+Continuing Founders or upon the dissolution
+
+of the Founder LLC, and (ii) the completion
+
+of the Class F Transition Period. The Class F
+
+Transition Period commences when there
+
+have been fewer than three Continuing
+
+Founders (not including any successor
+
+member who is a Non-Qualifying Member
+
+as defined in the Founder LLC Agreement)
+
+for 90 consecutive calendar days.
+
+A Continuing Founder will be removed from
+
+the Founder LLC upon the earliest to occur of
+
+(i) such Continuing Founders resignation as
+
+a member of the Founder LLC (ii) such
+
+Continuing Founders death or incapacity
+
+(iii) with respect to each of our seven original
+
+co-founders, such original co-founders
+
+ceasing to hold (together with such original
+
+co-founders related holders) on any record
+
+date for a vote of our stockholders a number
+
+of shares of Class A common stock (including
+
+shares subject to options, RSUs, and other
+
+convertible securities) equal to at least 2% of
+
+the shares of Class A common stock held by
+
+such original co-founder and their related
+
+holders as of the completion of this offering
+
+(iv) such Continuing Founders removal for
+
+cause, which includes specified competitive
+
+activities described in the Founder LLC
+
+Agreement (v) with respect to any successor
+
+member admitted to the Founder LLC prior
+
+to the commencement of the Class F
+
+Transition Period, other than a successor
+
+member who is a member during the Class F
+
+Transition Period, the tenth anniversary of
+
+the completion of this offering or (vi) with
+
+respect to each of our seven original co-
+
+founders, the commencement of a leave of
+
+absence approved by a Supermajority of the
+
+other Continuing Founders, which may not
+
+be approved during the Class F Transition
+
+Period or if the grant of the leave of absence
+
+would itself cause the Class F Transition
+
+Period to commence.
+
+301
+
+Table of Contents
+
+Class T Sunset Time
+
+Class F Sunset Time
+
+if no Class F common stock remains
+
+outstanding and the Trustees are not voting in
+
+favor of the action, upon approval of 85% of the
+
+outstanding Class A common stock.
+
+The Class T Sunset Time does not occur
+
+automatically upon the lapse of time or the
+
+occurrence of specific events. Any action resulting
+
+in the occurrence of the Class T Sunset Time
+
+requires approval of persons comprising the Trust
+
+Amendment Threshold.
+
+The Class T Sunset Time, once triggered, is not
+
+subject to extension, delay, or waiver.
+
+Removals due to resignation, death, or the
+
+occurrence of the tenth anniversary of the
+
+completion of this offering occur
+
+automatically without any determination by
+
+any other person. Removals due to incapacity
+
+require determination by a qualified
+
+physician jointly selected by the affected
+
+Continuing Founder and a majority of the
+
+other Continuing Founders (in the case of
+
+physical or mental impairment) or
+
+determination by a Supermajority of the
+
+other Continuing Founders (in the case of
+
+wrongful imprisonment, unlawful detention,
+
+or captivity or restraint), subject to the
+
+affected Continuing Founders right to
+
+contest such determination. Removals due to
+
+cause require an affirmative determination
+
+by a Supermajority of the other Continuing
+
+Founders, subject to the affected Continuing
+
+Founders right to contest such
+
+determination or, in the case of specified
+
+categories of cause, to cure the basis for such
+
+removal.
+
+Removals due to incapacity, cause, or the
+
+failure to maintain the minimum ownership
+
+threshold require prior written notice from
+
+the Founder LLC by action of a majority of
+
+the other Continuing Founders.
+
+If a Continuing Founder is removed due to
+
+death or incapacity during the first ten years
+
+following the completion of this offering, a
+
+successor member may be admitted to the
+
+Founder LLC and will count toward the three
+
+Continuing Founders required to avoid
+
+triggering the Class F Transition Period until
+
+the tenth anniversary of the completion of
+
+this offering.
+
+The Class F Sunset Time, once triggered, is
+
+not subject to extension, delay, or waiver.
+
+302
+
+Table of Contents
+
+Class T Sunset Time
+
+Class F Sunset Time
+
+Changes in
+
+Voting Power
+
+and Director
+
+Election and
+
+Removal
+
+Rights
+
+Prior to the Class T Sunset Time, the LTBT, as the
+
+sole holder of Class T common stock, will generally
+
+have the authority to elect and remove the Class T
+
+directors, who constitute a majority of the
+
+authorized members of our board of directors. The
+
+share of our Class T common stock has no voting
+
+rights with respect to matters submitted to
+
+stockholders generally, except as set forth within
+
+our amended and restated certificate of
+
+incorporation, including with respect to the election
+
+of a majority of our board of directors or as required
+
+by law.
+
+Following the Class T Sunset Time, if our Class F
+
+common stock remains outstanding, our Class A
+
+common stock and Class F common stock, voting
+
+together as a single class, will elect all of our
+
+directors. Because our Class F common stock is
+
+entitled to an aggregate number of votes equal to
+
+50.1% of the total voting power of our outstanding
+
+shares of capital stock, the Founder LLC would have
+
+the ability to determine the outcome of all matters
+
+submitted to a vote of stockholders generally,
+
+including the election of all directors.
+
+If neither our Class T common stock nor Class F
+
+common stock remains outstanding, our Class A
+
+common stock would have the ability to determine
+
+the outcome of all matters submitted to a vote of
+
+stockholders generally, including the election of all
+
+directors.
+
+Prior to the Class F Sunset Time, our Class F
+
+common stock will be entitled to an
+
+aggregate number of votes that equals 50.1%
+
+of the total voting power of our outstanding
+
+shares of capital stock as of the applicable
+
+record date and, together with our Class A
+
+common stock, voting together as a single
+
+class, will elect the directors other than the
+
+Class T directors and decide all other matters
+
+put to a vote of stockholders generally.
+
+Immediately after the Class F Sunset Time, if
+
+our Class T common stock remains
+
+outstanding, the LTBT would continue to
+
+have the authority to elect and remove the
+
+Class T directors, who would constitute a
+
+majority of the authorized members of our
+
+board of directors. However, the LTBT would
+
+no longer need to comply with the
+
+procedures for nomination, removal, or
+
+change in the Class T director designated as
+
+the Specified Class T Director. In such a case,
+
+our Class A common stock would elect and
+
+remove the remaining directors and decide
+
+all other matters put to a vote of stockholders
+
+generally.
+
+If neither our Class T common stock nor
+
+Class F common stock remains outstanding,
+
+our Class A common stock would have the
+
+ability to determine the outcome of all
+
+matters submitted to a vote of stockholders
+
+generally, including the election of all
+
+directors.
+
+Preferred Stock
+
+After the completion of this offering, no shares of our preferred stock will be outstanding. Pursuant to our
+
+amended and restated certificate of incorporation that will become effective immediately prior to the
+
+completion of this offering, our board of directors (if 80% of the authorized members of our board of directors
+
+(rounded up or down to the nearest whole number (any exact 0.5 rounding up)) approve) will have the
+
+authority, subject to limitations set forth in such amended and restated certificate of incorporation or
+
+prescribed by Delaware law, to issue preferred stock in one or more series, to establish from time to time the
+
+number of shares to be included in each series and to fix the designation, powers, preferences, and rights of the
+
+shares of each series and any of its qualifications, limitations, or restrictions, in each case without further vote
+
+or action by our stockholders provided that prior to the Class F Sunset Time, our board of directors shall not
+
+designate or issue any series of preferred stock without the affirmative vote or consent of the Founder LLC. Our
+
+board of directors (if 80% of the authorized members of our board of directors (rounded up or down to the
+
+nearest whole number (any exact 0.5 rounding up)) approve) can also increase or decrease the number of
+
+shares of any series of preferred stock, but not below the number of shares of that series then outstanding,
+
+without any further vote or action by our stockholders. Subject to limitations set forth in our amended and
+
+restated certificate of incorporation that will become effective immediately prior to the completion of this
+
+offering, or prescribed by Delaware law, we may authorize the issuance of preferred stock with voting or
+
+conversion rights that could adversely affect the voting power or other rights of the holders of our common
+
+stock, including the likelihood that such holders will receive dividend payments and payments upon
+
+liquidation. If we were to issue shares of preferred stock with the right to vote on matters submitted to our
+
+stockholders generally, the voting power of our outstanding Class A common stock would be diluted, while the
+
+voting power of our Class F common stock would remain fixed at an aggregate of 50.1% of the total voting
+
+power of our outstanding shares of capital stock as of the applicable record date with respect to such matters.
+
+The issuance of preferred stock, while providing flexibility in connection with possible acquisitions and other
+
+corporate purposes, could, among other things, have the effect of delaying, deferring, or preventing a change in
+
+control of our company and might adversely affect the market price of our Class A common stock and the voting
+
+303
+
+Table of Contents
+
+and other rights of the holders of our Class A common stock. We have no current plan to issue any shares of
+
+preferred stock.
+
+Options
+
+As of September 30, 2026, we had outstanding options to purchase an aggregate of 1,774,342,693 shares of our
+
+Class A common stock, with a weighted-average exercise price of $2.91 per share, under our 2021 Plan.
+
+RSUs
+
+As of September 30, 2026, we had outstanding 1,127,993,950 shares of our Class A common stock issuable
+
+upon the vesting and settlement of RSUs under our 2021 Plan.
+
+Registration Rights
+
+After the completion of this offering, certain holders of our Class A common stock (including those issuable
+
+upon conversion of our Class N common stock) will be entitled to rights with respect to the registration of their
+
+shares under the Securities Act. These registration rights are contained in our IRA. We and certain holders of
+
+our stock are parties to our IRA. In addition, we are party to separate registration rights agreements with each
+
+of Google (the Google RRA) and Broadcom (the Infrastructure Partner RRA) that we entered into in
+
+connection with NPAs with those parties, which provide Google and Broadcom with registration rights separate
+
+from the registration rights under our IRA, as described below under Registration Rights of Google and
+
+Registration Rights of Broadcom. The registration rights set forth in our IRA will expire upon the earliest to
+
+occur of (i) the second anniversary of the date of completion of this offering, (ii) with respect to any particular
+
+holder, when such stockholder is able to sell all of its shares pursuant to Rule 144 under the Securities Act or
+
+any similar exemption during any three-month period, or (iii) the termination of our IRA. We will pay the
+
+registration expenses (other than underwriting discounts and commissions) of the holders of the shares
+
+registered pursuant to the registrations described below. In an underwritten offering, the managing
+
+underwriter, if any, has the right, subject to specified conditions, to limit the number of shares such holders
+
+may include. The registration rights described in this section do not entitle any holder to notice of, or to include
+
+shares in, this offering. The exercise of these registration rights is subject to the lock-up agreements described
+
+in the section titled Shares Eligible for Future SaleLock-Up and Market Standoff Agreements.
+
+Demand Registration Rights
+
+After the completion of this offering, the holders of up to shares of our Class A common stock (including
+
+those issuable upon conversion of our Class N common stock) will be entitled to certain demand registration
+
+rights. At any time beginning six months after the effective date of this offering, the holders of at least 60% of
+
+the shares registrable under our IRA that are entitled to vote can request that we register the offer and sale of
+
+their shares. Such a request for registration must cover securities, the anticipated aggregate offering price of
+
+which, net of underwriting discounts and commissions, is at least $200,000,000. We are obligated to effect
+
+only two such registrations. If we determine that it would be seriously detrimental to us and our stockholders to
+
+effect such a demand registration, we have the right to defer such registration, not more than twice in any 12-
+
+month period, for a period of up to 120 days. Additionally, we will not be required to effect a demand
+
+registration during the period beginning 90 days prior to our good faith estimate of the date of filing of, and
+
+ending on a date 90 days following the effective date of, a registration statement relating to an offering by us
+
+(or, in the case of this offering, ending on a date 180 days following the effective date of this registration
+
+statement), provided that we are actively employing in good faith all reasonable efforts to cause such
+
+registration statement to become effective. We are also not obligated to effect a demand registration if the
+
+initiating holders propose to dispose of shares that may be immediately registered on Form S-3 pursuant to the
+
+Form S-3 registration rights described below.
+
+Piggyback Registration Rights
+
+After the completion of this offering, if we propose to register the offer and sale of our Class A common stock
+
+(including shares issuable upon conversion of our Class N common stock) under the Securities Act, in
+
+connection with the public offering of such Class A common stock, the holders of up to shares of our Class
+
+A common stock will be entitled to certain piggyback registration rights allowing the holders to include their
+
+304
+
+Table of Contents
+
+shares in such registration, subject to certain marketing and other limitations and the registration rights of
+
+lenders under our convertible note agreements, which consist of the Google RRA and the Infrastructure Partner
+
+RRA described below. As a result, whenever we propose to file a registration statement under the Securities Act,
+
+other than with respect to (i) a registration related to any employee benefit plan or a corporate reorganization
+
+or other transaction covered by Rule 145 promulgated under the Securities Act, (ii) a registration on any
+
+registration form that does not include substantially the same information as would be required to be included
+
+in a registration statement covering the sale of the shares, or (iii) a registration in which the only Class A
+
+common stock being registered is Class A common stock issuable upon conversion of debt securities that are
+
+also being registered, the holders of these shares are entitled to notice of the registration and have the right,
+
+subject to certain limitations andor cutbacks, to include their shares in the registration. If the underwriters
+
+limit the number of shares to be included in an underwritten offering, the number of registrable shares included
+
+may not be reduced below 20% of the total securities included in the offering, and shares held by our co-
+
+founders may not be included if any registrable shares held by other selling holders are excluded.
+
+S-3 Registration Rights
+
+After the completion of this offering, the holders of up to shares of our Class A common stock (including
+
+those issuable upon conversion of our Class N common stock) will be entitled to certain Form S-3 registration
+
+rights. The holders of at least 60% of the shares registrable under our IRA that are entitled to vote may make a
+
+written request that we register the offer and sale of their shares on a registration statement on Form S-3 if we
+
+are eligible to file a registration statement on Form S-3 so long as the request covers securities the anticipated
+
+aggregate public offering price of which is at least $2,000,000, net of any underwriting discounts and
+
+commissions. These stockholders may make an unlimited number of requests for registration on Form S-3
+
+however, we will not be required to effect a registration on Form S-3 if we have effected two such registrations
+
+within the 12-month period preceding the date of the request. Additionally, if we determine that it would be
+
+seriously detrimental to us and our stockholders to effect such a registration, we have the right to defer such
+
+registration, not more than once in any 12-month period, for a period of up to 120 days. We are also not
+
+required to effect a registration on Form S-3 during the period ending 180 days after the effective date of a
+
+registration statement subject to the piggyback registration rights described above.
+
+Registration Rights of Google
+
+We entered into the Google RRA in May 2026 in connection with our Google 2026 NPA, pursuant to which
+
+Google may acquire shares of our capital stock. Under the Google RRA, shares of our capital stock held by
+
+Google that are not covered by the registration rights under our IRA are registrable, subject to customary
+
+exceptions. During the one-year period following the effective date of the registration statement of which this
+
+prospectus forms a part, Google may make a single demand that we register the resale of all of its registrable
+
+shares that are not then salable pursuant to Rule 144. In addition, once we are eligible to use Form S-3, we are
+
+required to register on Form S-3, within 60 days of each quarterly closing under the Google 2026 NPA, the
+
+resale of the registrable shares acquired at such closing and of any registrable shares not previously registered,
+
+and to keep such registrations effective for so long as Google holds registrable shares. Registrations under the
+
+Google RRA are subject to customary deferral and blackout provisions, and Google may not exercise its
+
+registration rights under the Google RRA after February 7, 2033 or, if earlier, the date that is 12 months
+
+following the final quarterly closing under the Google 2026 NPA.
+
+Registration Rights of Broadcom
+
+We entered into the Infrastructure Partner RRA in June 2026 in connection with the Infrastructure Partner
+
+2026 NPA that may be assigned by Broadcom, subject to our consent (not to be unreasonably withheld), to a
+
+designated financial partner, pursuant to which we may issue convertible promissory notes to Broadcom or a
+
+designated financial partner. Registrable shares under the Infrastructure Partner RRA generally consist of the
+
+shares of our Class A common stock issuable upon conversion of our Class N common stock issued upon
+
+conversion of the notes, subject to customary exceptions. Once we are eligible to use Form S-3, we are required
+
+to file, within 60 days, a shelf registration statement covering resales of these registrable shares, and to keep it
+
+effective and effect takedowns at the request of the holder of these shares for so long as these registrable shares
+
+are held. The holder of these registrable shares also has demand registration rights following the listing of our
+
+securities, limited to one demand registration for every $5.0 billion of notes issued and subject to a
+
+$500,000,000 minimum offering size (unless the holder of these registrable shares is selling all of its
+
+305
+
+Table of Contents
+
+remaining registrable shares), and piggyback registration rights subject to exceptions substantially similar to
+
+those described above with respect to our IRA. The holder of these registrable shares may effect up to three
+
+underwritten offerings, including block trades, in any 12-month period, subject to the same $500,000,000
+
+minimum, and registrations under the Infrastructure Partner RRA are subject to customary deferral and
+
+blackout provisions. If the underwriters impose a cutback in an underwritten offering, shares held by our co-
+
+founders will not be included if any shares held by the holder of these registrable shares are excluded. If we
+
+grant registration rights to other securityholders, or amend their existing registration rights, on terms more
+
+favorable than those provided to the holder of these registrable shares, we must offer to amend the rights of the
+
+holder of these registrable shares to be at least as favorable, and the holder of these registrable shares is entitled
+
+to proportionate treatment if lock-up or similar restrictions are waived for other stockholders in connection
+
+with a registration, in each case subject to specified exceptions. The Infrastructure Partner RRA terminates
+
+upon the earlier of the date on which the holder of these registrable shares and its permitted transferees no
+
+longer hold registrable shares and the date that is nine months after the latest maturity date of any outstanding
+
+note issued under the Infrastructure Partner 2026 NPA. As of the date of this prospectus, no notes have been
+
+issued under the Infrastructure Partner 2026 NPA and, accordingly, no registrable shares are outstanding
+
+under the Infrastructure Partner RRA.
+
+Anti-Takeover Provisions
+
+Certain provisions of Delaware law, our amended and restated certificate of incorporation and our amended
+
+and restated bylaws, which will become effective immediately prior to the completion of this offering that are
+
+summarized below, may have the effect of delaying, deferring, or discouraging another person from acquiring
+
+control of us. They are also designed, in part, to encourage persons seeking to acquire control of us to negotiate
+
+first with our board of directors. We believe that the benefits of increased protection of our potential ability to
+
+negotiate with an unsolicited acquirer outweigh the disadvantages of discouraging a proposal to acquire us
+
+because negotiation of these proposals could result in an improvement of their terms.
+
+Delaware Law
+
+We have elected not to be governed by the provisions of Section 203 of the DGCL prior to the later to occur of
+
+the Class F Sunset Time and the Class T Sunset Time, but our amended and restated certificate of incorporation
+
+will provide that the restrictions contained in Section 203 will apply to us immediately following the later to
+
+occur of either the Class F Sunset Time or the Class T Sunset Time. Following the later to occur of the Class F
+
+Sunset Time or the Class T Sunset Time, we will thereafter be governed by Section 203, which generally
+
+prohibits a public Delaware corporation from engaging in a business combination with an interested
+
+stockholder for a period of three years after the date of the transaction in which the person became an
+
+interested stockholder, unless
+
+the business combination or transaction which resulted in the stockholder becoming an interested
+
+stockholder was approved by the board of directors prior to the time that the stockholder became an
+
+interested stockholder
+
+upon consummation of the transaction which resulted in the stockholder becoming an interested
+
+stockholder, the interested stockholder owned at least 85% in voting power of the voting stock of the
+
+corporation outstanding at the time the transaction commenced, excluding shares owned by directors
+
+who are also officers of the corporation and shares owned by employee stock plans in which employee
+
+participants do not have the right to determine confidentially whether shares held subject to the plan
+
+will be tendered in a tender or exchange offer or
+
+at or subsequent to the time the stockholder became an interested stockholder, the business
+
+combination was approved by the board of directors and authorized at an annual or special meeting of
+
+the stockholders, and not by written consent, by the affirmative vote of at least two-thirds of the
+
+outstanding voting stock which is not owned by the interested stockholder.
+
+In general, Section 203 defines a business combination to include mergers, asset sales, and other transactions
+
+resulting in financial benefit to a stockholder and an interested stockholder as a person who, together with
+
+affiliates and associates, owns, or is an affiliate or associate of the corporation and within three years did own,
+
+15% or more in voting power of the corporations outstanding voting stock.
+
+306
+
+Table of Contents
+
+Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws
+
+Provisions
+
+Our amended and restated certificate of incorporation and our amended and restated bylaws, which will
+
+become effective immediately prior to the completion of this offering, will include a number of provisions that
+
+could deter hostile takeovers or delay or prevent changes in control of our board of directors or management
+
+team, including but not limited to the following
+
+Multi-Class Common Stock
+
+As described above in the section titled Common StockVoting Rights, our amended and restated
+
+certificate of incorporation provides for a multi-class common stock structure. Under this governance structure,
+
+we expect that the LTBT and the Founder LLC will collectively have the ability to elect all members of our board
+
+of directors, and the Founder LLC will have the ability to determine the outcome of all matters submitted to a
+
+vote of our stockholders generally for the foreseeable future, including the approval by our stockholders of
+
+significant corporate transactions such as a merger or other sale of our company or its assets. Such transactions
+
+also require approval of our board of directors, a majority of whom are elected by the LTBT. Holders of our
+
+Class A common stock generally will not be able to affect the outcome of any matter submitted to a vote of our
+
+stockholders or the election of our directors, regardless of how they vote, unless a majority of the Continuing
+
+Founders cannot agree on how our Class F common stock will be voted (in which case our Class F common
+
+stock will generally be voted proportionately with the votes of our Class A common stock cast on the matter).
+
+Classified Board
+
+Our amended and restated certificate of incorporation that will become effective immediately prior to the
+
+completion of this offering will provide that prior to the Class F Sunset Time, we will not have a classified board
+
+of directors, and all directors will be elected for annual terms. Each directors term will continue until the next
+
+annual meeting and until the election and qualification of their successor, or their earlier death, resignation, or
+
+removal.
+
+Following the Class F Sunset Time, our board of directors will shift to having a classified board of directors
+
+consisting of three classes of approximately equal size, each serving staggered three-year terms. At such time,
+
+our directors would be assigned by the then-current board of directors to a class. If our Class T common stock
+
+remains outstanding, the Class T directors and the remaining directors shall be allocated among the classes so
+
+that each class includes a proportionate number of Class T directors and other directors. Upon expiration of the
+
+term of a class of directors, directors for that class would each be elected for a three-year term at the annual
+
+meeting of stockholders in the year in which that term expires. As a result, only one class of directors would be
+
+elected at each annual meeting of our stockholders, with the other classes continuing for the remainder of their
+
+respective three-year terms. Each directors term would continue until the third annual meeting of stockholders
+
+following their election and until their successor has been elected and qualified, or until their earlier death,
+
+resignation, or removal. Any increase or decrease in the number of directors would be distributed among the
+
+three classes so that, as nearly as practicable, each class would consist of one-third of our directors.
+
+Board Vacancies
+
+Our amended and restated certificate of incorporation and amended and restated bylaws will provide that (i)
+
+prior to the Class T Sunset Time, only the holder of our Class T common stock can fill vacant directorships of
+
+any Class T director, subject to the nomination procedures for the Specified Class T Director and (ii) prior to
+
+the Class F Sunset Time, vacant or newly created directorships for any directors other than our Class T directors
+
+can be filled by (A) our board of directors, in accordance with, and following receipt of written notice from, the
+
+Founder LLC recommending the person proposed to fill such director seat or (B) the holders of our Class A
+
+common stock and Class F common stock, voting together or acting by written consent. Following the Class F
+
+Sunset Time, only our board of directors will be permitted to fill vacant or newly created directorships for any
+
+directors other than our Class T directors. Prior to the Class T Sunset Time, the number of directors
+
+constituting our board of directors will be permitted to be set only with the approval of 80% of the authorized
+
+members of our board of directors (rounded up or down to the nearest whole number (any exact 0.5 rounding
+
+up)) provided that until the earlier to occur of the Class F Sunset Time or the Class T Sunset Time, such total
+
+number of authorized directors must be an odd number. Following the Class T Sunset Time, the number of
+
+307
+
+Table of Contents
+
+directors constituting our board of directors will be permitted to be set with the approval of a majority of the
+
+authorized members of our board of directors. These provisions would prevent a stockholder from increasing
+
+the size of our board of directors and then gaining control of our board of directors by filling the resulting
+
+vacancies with its own nominees. This will make it more difficult to change the composition of our board of
+
+directors.
+
+Advance Notice Requirements for Stockholder Proposals and Director Nominations
+
+Our amended and restated bylaws will provide advance notice procedures for stockholders, other than holders
+
+of Class T common stock or Class F common stock nominating directors in accordance with nomination
+
+procedures in our certificate of incorporation or the Stockholders Agreement, seeking to bring business before
+
+our annual meeting of stockholders or to nominate candidates for election as directors at a meeting of
+
+stockholders. Our amended and restated bylaws will also specify certain requirements regarding the form and
+
+content of a stockholders notice. These provisions might preclude our stockholders from bringing matters
+
+before our annual meeting of stockholders or from making nominations for directors at a meeting of
+
+stockholders if the proper procedures are not followed. In addition, our NGC will have the right to receive 30
+
+days prior written notice of any nomination of persons to serve as a director by the LTBT or the Founder LLC
+
+or the proposed removal of such directors, as well as appointments and removals of the Trustees. Our NGC may
+
+waive such notice periods in its discretion. We expect that these provisions may also discourage or deter a
+
+potential acquirer from conducting a solicitation of proxies to elect the acquirers own slate of directors or
+
+otherwise attempting to obtain control of our company.
+
+Special Meetings of Stockholders
+
+Our amended and restated certificate of incorporation and amended and restated bylaws will provide that
+
+special meetings of stockholders may be called only by (i) our board of directors acting pursuant to a resolution
+
+adopted by a majority of the authorized members of our board of directors (ii) the chairperson of our board of
+
+directors (iii) our Chief Executive Officer (iv) our President (v) following the Class F Sunset Time, a majority
+
+of the directors who are not Class T directors (vi) prior to the Class F Sunset Time and only with respect to a
+
+special meeting at which holders of our Class E common stock will be asked to vote on a proposal, the secretary
+
+of the company or (vii) prior to the Class F Sunset Time, the Founder LLC as the holder of our Class F common
+
+stock.
+
+No Cumulative Voting
+
+The DGCL provides that stockholders are not entitled to cumulate votes in the election of directors unless a
+
+corporations certificate of incorporation provides otherwise. Our amended and restated certificate of
+
+incorporation does not provide for cumulative voting.
+
+Action by Written Consent
+
+Prior to the Class F Sunset Time and the Class T Sunset Time, stockholders may act by written consent only
+
+with respect to (i) any action to nominate, elect, or remove directors or appoint a director to fill any vacancy or
+
+newly created directorship (ii) any action to satisfy certain redemption and protective provisions in our
+
+amended and restated certificate of incorporation related to our Class F common stock, Class T common stock,
+
+and Class E common stock and (iii) any matter on which stockholders vote together as a single class if such
+
+matter is first approved or requested by our board of directors. From and after the Class T Sunset Time, only
+
+the holder of the share of Class F common stock may act by written consent, and from and after the Class F
+
+Sunset Time, only the holder of the share of Class T common stock may act by written consent, in each case,
+
+only with respect to the actions described above. From and after the occurrence of both the Class F Sunset Time
+
+and the Class T Sunset Time, any action required or permitted to be taken by the stockholders must be effected
+
+at a duly called annual or special meeting of stockholders and may not be effected by any consent in writing by
+
+such stockholders. Notwithstanding the foregoing, any action required or permitted to be taken by the holders
+
+of Class E common stock must be effected at a duly called annual or special meeting of stockholders and may
+
+not be effected by any consent in writing by such stockholders.
+
+308
+
+Table of Contents
+
+Amendment of Certificate of Incorporation and Bylaws Provisions
+
+Prior to the Class F Sunset Time, a majority of the voting power of our Class A common stock and Class F
+
+common stock, voting together as a single class, can amend certain provisions in our amended and restated
+
+certificate of incorporation and our amended and restated bylaws. Following the Class F Sunset Time, 66 23%
+
+of the voting power of our Class A common stock can amend certain provisions in our amended and restated
+
+certificate of incorporation and our amended and restated bylaws.
+
+Issuance of Undesignated Preferred Stock
+
+Subject to limitations in our amended and restated certificate of incorporation, which will become effective
+
+immediately prior to the completion of this offering, or prescribed by Delaware law, our board of directors will
+
+have the authority, if 80% of the authorized members of our board of directors (rounded up or down to the
+
+nearest whole number (any exact 0.5 rounding up)) approve, and without further action by our stockholders, to
+
+issue up to 30,000,000,000 shares of undesignated preferred stock with rights and preferences, including
+
+voting rights, designated from time to time by our board of directors, provided that, prior to the Class F Sunset
+
+Time, our board of directors shall not designate or issue any series of preferred stock without the affirmative
+
+vote or consent of the Founder LLC. The existence of authorized but unissued shares of preferred stock would
+
+enable our board of directors to render more difficult or to discourage an attempt to obtain control of us by
+
+means of a merger, tender offer, proxy contest, or other means.
+
+Exclusive Forum
+
+Our amended and restated bylaws, which will become effective immediately prior to the completion of this
+
+offering, will provide that, unless we consent in writing to the selection of an alternative forum, the Court of
+
+Chancery of the State of Delaware (or, if the Court of Chancery of the State of Delaware does not have
+
+jurisdiction, another State court in Delaware or the federal district court for the District of Delaware) will, to the
+
+fullest extent permitted by law, be the sole and exclusive forum for (i) any derivative action or proceeding
+
+brought on our behalf, (ii) any action asserting a claim of breach of a fiduciary duty owed by any of our current
+
+or former directors, stockholders, or officers or other employees to us or our stockholders, (iii) any action
+
+arising pursuant to any provision of the DGCL or as to which the DGCL confers jurisdiction upon the Court of
+
+Chancery of the State of Delaware, (iv) any action arising pursuant to or to interpret, apply, enforce, or
+
+determine the validity of our amended and restated certificate of incorporation or our amended and restated
+
+bylaws, or (v) any action asserting a claim governed by the internal affairs doctrine, except for, in all cases, any
+
+claim as to which such court determines that there is an indispensable party not subject to the jurisdiction of
+
+such court (and the indispensable party does not consent to the personal jurisdiction of such court within 10
+
+days following such determination).
+
+Section 22 of the Securities Act establishes concurrent jurisdiction for federal and state courts over Securities
+
+Act claims. Accordingly, both state and federal courts have jurisdiction to hear such claims. To prevent having
+
+to litigate claims in multiple jurisdictions and the threat of inconsistent or contrary rulings by different courts,
+
+among other considerations, our amended and restated bylaws will also provide that, unless we consent in
+
+writing to the selection of an alternative forum, the federal district courts of the United States will, to the fullest
+
+extent permitted by applicable law, be the sole and exclusive forum for resolving any complaint asserting a
+
+cause or causes of action arising under the Securities Act against any person in connection with any offering of
+
+our securities, including, without limitation, any auditor, underwriter, expert, control person, or other
+
+defendant. Unless we consent in writing to the selection of an alternative forum, the United States District
+
+Court for the District of Delaware will, to the fullest extent permitted by applicable law, be the sole and
+
+exclusive forum for the resolution of any derivative action or proceeding brought to enforce any duty or liability
+
+created by the Exchange Act or the rules or regulations thereunder. All other claims arising under the Exchange
+
+Act may be brought in any federal court of competent jurisdiction. Any person or entity purchasing, holding, or
+
+otherwise acquiring any interest in our securities shall be deemed to have notice of and consented to these
+
+provisions. We note that stockholders cannot waive compliance (or consent to non-compliance) with the federal
+
+securities laws and the rules and regulations thereunder.
+
+309
+
+Table of Contents
+
+Founder LLC Agreement
+
+Our co-founders intend to enter into the Founder LLC Agreement. We expect the Founder LLC Agreement to
+
+become effective substantially concurrently with the filing and acceptance of our amended and restated
+
+certificate of incorporation with the Secretary of State of the State of Delaware.
+
+Our Class F common stock will be held by the Founder LLC. Our Class F common stock will be voted by the
+
+Founder LLC in a manner determined pursuant to the Founder LLC Agreement. Generally, the Founder LLC
+
+will vote as determined by a majority of the Continuing Founders. Our seven co-founders will each initially be a
+
+Continuing Founder. Upon the incapacity or death of any of our co-founders, a successor member may be
+
+admitted to the Founder LLC as a Continuing Founder until the tenth anniversary of the completion of this
+
+offering.
+
+When there have been fewer than three Continuing Founders (not including any successor member who is a
+
+Non-Qualifying Member as defined in the Founder LLC Agreement) for 90 consecutive calendar days, the
+
+450-day Class F Transition Period will commence. Upon completion of the Class F Transition Period, all of our
+
+Class F common stock and Class E common stock then issued and outstanding will be redeemed by us for no
+
+consideration and certain other governance changes will take effect.
+
+Regardless of the length of time that has elapsed since the completion of this offering or the circumstances that
+
+resulted in the removal of a Continuing Founder, one or more successor members may be admitted to the
+
+Founder LLC during the Class F Transition Period as needed to ensure that there are three Continuing
+
+Founders serving until completion of the Class F Transition Period. The admission of any successor member
+
+during the Class F Transition Period will not cure the event that commenced the Class F Transition Period or
+
+extend the Class F Transition Period.
+
+A Continuing Founder will be removed from the Founder LLC upon the earliest to occur of (i) such Continuing
+
+Founders resignation as a member of the Founder LLC (ii) such Continuing Founders death or incapacity (iii)
+
+with respect to each of our seven original co-founders, such original co-founders ceasing to hold (together with
+
+such original co-founders related holders) on any record date for a vote of our stockholders a number of shares
+
+of Class A common stock (including shares subject to options, RSUs, and other convertible securities) equal to
+
+at least 2% of the shares of Class A common stock held by such original co-founder and their related holders as
+
+of the completion of this offering (iv) such Continuing Founders removal for cause (as defined in the
+
+Founder LLC Agreement), which includes specified competitive activities described in the Founder LLC
+
+Agreement (v) with respect to any successor member admitted to the Founder LLC prior to the commencement
+
+of the Class F Transition Period, other than a successor member who is a member during the Class F Transition
+
+Period, the tenth anniversary of the completion of this offering or (vi) with respect to each of our seven original
+
+co-founders, the commencement of a leave of absence approved by a Supermajority of the other Continuing
+
+Founders, which may not be approved during the Class F Transition Period or if the grant of the leave of
+
+absence would itself cause the Class F Transition Period to commence.
+
+Each Continuing Founder will be entitled to one vote when determining how our Class F common stock will be
+
+voted. If a majority of the Continuing Founders cannot agree on how our Class F common stock will be voted,
+
+then our Class F common stock will generally be voted proportionately with the votes of our Class A common
+
+stock cast on the matter (subject to a quorum of a majority of outstanding Class A common stock). With respect
+
+to certain matters, our Class F common stock will be voted for the proposal only if a greater threshold of
+
+Continuing Founders agree, and if the greater threshold is not met, our Class F common stock will be voted
+
+against the proposal. See the section titled Class F Common Stock Voting Mechanics.
+
+The Founder LLC Agreement will not govern the voting of any shares of our Class A common stock held by the
+
+co-founders or their related holders. Each co-founder (or their related holders) will be able to vote shares of our
+
+Class A common stock held by them in their discretion, regardless of the manner in which the Founder LLC will
+
+vote our Class F common stock.
+
+310
+
+Table of Contents
+
+Class F Common Stock Voting Mechanics
+
+Under the terms of the Founder LLC Agreement, the manner in which our Class F common stock will be voted
+
+will be determined as follows
+
+Matter
+
+Threshold(1)
+
+If threshold is met
+
+Otherwise
+
+General
+
+stockholder
+
+matters
+
+Majority(2)
+
+Class F common stock
+
+is voted accordingly.
+
+Class F common stock is voted
+
+proportionately with the votes
+
+of Class A common stock cast
+
+(subject to a quorum of a
+
+majority of outstanding Class A
+
+common stock).
+
+Amendments to
+
+Class F rights
+
+Supermajority(3)(4)
+
+Class F common stock
+
+is voted for the
+
+proposal.
+
+Class F common stock is voted
+
+against (or withhold as to)
+
+the proposal.
+
+Amendments to
+
+LTBT Class T
+
+rights
+
+Trust Amendment
+
+Supermajority(4)(5)
+
+Class F common stock
+
+is voted for the
+
+proposal.
+
+Class F common stock is voted
+
+against (or withhold as to)
+
+the proposal.
+
+Written consent
+
+The applicable majority,
+
+Supermajority(3), or Trust
+
+Amendment Supermajority(5)
+
+if action were taken at a
+
+meeting.
+
+Consent is delivered
+
+with respect to our
+
+Class F common stock.
+
+No consent is delivered with
+
+respect to our Class F common
+
+stock.
+
+______________
+
+(1)Each Continuing Founder will be entitled to one vote when determining how our Class F common stock will be voted.
+
+(2)If a majority of the Continuing Founders deliver the same instruction as to how the votes corresponding to our Class F common
+
+stock shall be cast, including for, against, or withhold, but excluding an instruction to abstain, our Class F common
+
+stock will be voted accordingly. If a majority of the Continuing Founders deliver instructions to abstain or do not deliver the
+
+same or any instructions, our Class F common stock will be voted proportionately with the votes of Class A common stock cast
+
+(subject to a quorum of a majority of outstanding Class A common stock).
+
+(3)Supermajority means the total number of Continuing Founders entitled to vote, minus one, delivers instructions to vote for
+
+the proposal. If there are fewer than three Continuing Founders, a Supermajority requires unanimity of Continuing Founders.
+
+(4)If a proposal requires both a Supermajority and a Trust Amendment Supermajority, both thresholds must be satisfied.
+
+(5)A Trust Amendment Supermajority will be satisfied if (i) 66 23% of the Continuing Founders, rounded up to the nearest
+
+whole number, deliver instructions to vote for the proposal, and approval by 75% of the votes cast by our Class E common
+
+stock (subject to a quorum of a majority of outstanding Class E common stock) and a majority of the votes cast by our Class A
+
+common stock (subject to a quorum of a majority of the outstanding shares of Class A common stock) is also obtained or (ii)
+
+until the third anniversary of the completion of this offering, the Continuing Founders unanimously deliver instructions to vote
+
+for the proposal, and approval by a majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our
+
+outstanding Class E common stock) and a majority of the votes cast by our outstanding Class A common stock (subject to a
+
+quorum of a majority of outstanding shares of Class A common stock) is also obtained. Pursuant to the Stockholders
+
+Agreement, the Founder LLC will also vote or consent the share of Class F common stock in favor of amendments that are
+
+approved by 80% of the authorized members of our board of directors and 80% of the Trustees then in office (in each case,
+
+rounded up or down to the nearest whole number (any exact 0.5 rounding up)).
+
+Transfer Agent and Registrar
+
+Upon the completion of this offering, the transfer agent and registrar for our Class A common stock will be
+
+Computershare Trust Company, N.A. The transfer agents address is 150 Royall Street, Canton, MA 02021.
+
+Limitation of Liability and Indemnification
+
+See the section titled Certain Relationships and Related Person TransactionsLimitation of Liability and
+
+Indemnification of Officers and Directors.
+
+Listing
+
+We have applied to list our Class A common stock on the Nasdaq Global Select Market under the symbol ANT.
+
+311
+
+Table of Contents
+
+Shares Eligible for Future Sale
+
+Prior to this offering, there has been no public market for our Class A common stock, and we cannot predict the
+
+effect, if any, that market sales of shares of our Class A common stock or the availability of shares of our Class A
+
+common stock for sale will have on the market price of our Class A common stock prevailing from time to time.
+
+Future sales of our Class A common stock in the public market, or the availability of such shares for sale in the
+
+public market, could adversely affect market prices prevailing from time to time. As described below, only a
+
+limited number of shares of our Class A common stock will be available for sale shortly after this offering due to
+
+contractual and legal restrictions on resale. Nevertheless, sales of our Class A common stock in the public
+
+market after such restrictions lapse, or the perception that those sales may occur, could adversely affect the
+
+prevailing market price at such time and our ability to raise equity capital in the future.
+
+Following the completion of this offering, based on the number of shares of our capital stock outstanding as of
+
+September 30, 2026 and assuming the Preferred Stock Conversion, Convertible Notes Conversion, Class F
+
+Stock Issuance, Initial Public Benefit Issuance, and RSU Settlement occurred as of September 30, 2026, we will
+
+have a total of shares of our Class A common stock, shares of our Class N common stock, one share
+
+of our Class T common stock, and one share of our Class F common stock outstanding. Of these outstanding
+
+shares, all shares of our Class A common stock sold by us and the selling stockholders in this offering will
+
+be freely tradable, except that any shares purchased in this offering by our affiliates, as that term is defined in
+
+Rule 144 under the Securities Act, would only be able to be sold in compliance with the Rule 144 limitations
+
+described below.
+
+The remaining outstanding shares of our Class A common stock (including shares issued upon conversion of
+
+our Class N common stock) will be, and shares underlying outstanding RSUs, and shares subject to stock
+
+options will be upon issuance, deemed restricted securities as defined in Rule 144 under the Securities Act.
+
+Restricted securities may be sold in the public market only if they are registered under the Securities Act or if
+
+they qualify for an exemption from registration under Rule 144 or Rule 701 under the Securities Act, which
+
+rules are summarized below.
+
+As a result of the lock-up and market standoff agreements described below, as well as undertakings in the
+
+underwriting agreement to be executed in connection with this offering, and subject to such agreements and the
+
+provisions of Rules 144 and 701 under the Securities Act (including, with respect to shares held by affiliates,
+
+Rule 144 volume limitations), based on information available to us, these restricted securities will be available
+
+for sale in the public market as follows (assuming no exercise of outstanding stock options subsequent to
+
+September 30, 2026 and no settlement of RSUs other than the RSU Settlement, and assuming that, where a
+
+date below is a specified number of days after another date and such day is not a trading day, such shares
+
+become available for sale on the next trading day)
+
+Earliest Date Available for Sale in the Public Market
+
+Approximate Number of Shares of Class A Common Stock
+
+The first trading day following the date of this prospectus
+
+Up to shares of Class A common stock held by our non-founder
+
+directors and officers and certain of our current and former
+
+employees and consultants, representing% of the shares
+
+subject to the 180-day lock-up and market standoff period, as to
+
+which the restrictions under the lock-up and market standoff
+
+agreements expire on such date.
+
+27th day after the date of this prospectus
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+48th day after the date of this prospectus
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+62nd day after the date of this prospectus
+
+Up toshares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+76th day after the date of this prospectus
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+312
+
+Table of Contents
+
+Earliest Date Available for Sale in the Public Market
+
+Approximate Number of Shares of Class A Common Stock
+
+The second full trading day on Nasdaq immediately following the
+
+public release of our annual financial results for the fiscal year
+
+ending December 31, 2026 (the date of such public release, the
+
+FY26 Earnings Release Date)
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+13th day after the FY26 Earnings Release Date
+
+Up to shares of Class A common stock,
+
+representing % of the shares subject to the 180-day lock-up
+
+and market standoff period and % of the shares subject to the
+
+extended 365-day lock-up period.
+
+27th day after the FY26 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+41st day after the FY26 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+55th day after the FY26 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+69th day after the FY26 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the 180-day lock-up and market standoff
+
+period and % of the shares subject to the extended 365-day
+
+lock-up period.
+
+The earlier of (x) the second full trading day on Nasdaq immediately
+
+following the public release of our quarterly financial results for the
+
+fiscal quarter ending March 31, 2027 (the date of such public release,
+
+the Q1 Earnings Release Date) and (y) immediately after the close
+
+of trading on the 180th day after the date of this prospectus
+
+Up to shares of Class A common stock, representing the
+
+remaining shares subject to the 180-day lock-up and market
+
+standoff period and % of the shares subject to the extended
+
+365-day lock-up period.
+
+34th day after the Q1 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+48th day after the Q1 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+62nd day after the Q1 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+76th day after the Q1 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+The second full trading day on Nasdaq immediately following the
+
+public release of our quarterly financial results for the fiscal quarter
+
+ending June 30, 2027 (the date of such public release, the Q2
+
+Earnings Release Date)
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+27th day after the Q2 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+41st day after the Q2 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+55th day after the Q2 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+69th day after the Q2 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+83rd day after the Q2 Earnings Release Date
+
+Up to shares of Class A common stock, representing % of
+
+the shares subject to the extended 365-day lock-up period.
+
+The earlier of (x) the second full trading day on Nasdaq immediately
+
+following the public release of our quarterly financial results for the
+
+fiscal quarter ending September 30, 2027 (the date of such public
+
+release, the Q3 Earnings Release Date) and (y) immediately after
+
+the close of trading on the 365th day after the date of this prospectus
+
+Up to shares of Class A common stock, representing the
+
+remaining shares subject to the extended 365-day lock-up period.
+
+Lock-Up and Market Standoff Agreements
+
+All of our directors and officers and substantially all of our stockholders are subject to lock-up agreements with
+
+the underwriters or market standoff agreements with us that restrict their ability to transfer shares of our Class
+
+A common stock and Class N common stock and securities convertible into or exercisable or exchangeable for
+
+such shares for
+
+(1)Our non-founder directors, officers, and certain of our current and former employees and consultants,
+
+during the period ending upon the earlier to occur of (x) 600 AM Eastern Time on the second full
+
+313
+
+Table of Contents
+
+trading day immediately following the Q1 Earnings Release Date or (y) immediately after the close of
+
+the trading day on the 180th day after the date of this prospectus or, if the 180th day is not a trading
+
+day, immediately after the close of the last trading day immediately preceding the 180th day
+
+(2)For certain stockholders holding approximately % of our fully diluted shares immediately prior to
+
+this offering, during the period ending upon the earlier to occur of (x) 600 AM Eastern Time on the
+
+second full trading day immediately following the Q1 Earnings Release Date or (y) immediately after
+
+the close of the trading day on the 180th day after the date of this prospectus or, if the 180th day is not
+
+a trading day, immediately after the close of the last trading day immediately preceding the 180th day
+
+(3)For certain stockholders holding approximately % of our fully diluted shares immediately prior to
+
+this offering, during the period ending upon the earlier to occur of (x) 600 AM Eastern Time on the
+
+second full trading day immediately following the Q3 Earnings Release Date or (y) immediately after
+
+the close of the trading day on the 365th day after the date of this prospectus or, if the 365th day is not
+
+a trading day, immediately after the close of the last trading day immediately preceding the 365th day
+
+and
+
+(4)Our seven co-founders, during the period ending upon the earlier to occur of (x) 600 AM Eastern
+
+Time on the second full trading day immediately following the Q3 Earnings Release Date or (y)
+
+immediately after the close of the trading day on the 365th day after the date of this prospectus or, if
+
+the 365th day is not a trading day, immediately after the close of the last trading day immediately
+
+preceding the 365th day,
+
+subject to timed automatic expirations described in the UnderwritingLock-Up and Market Standoff
+
+Agreements section of this prospectus.
+
+The lock-up agreements and market standoff agreements described above are subject to a number of
+
+exceptions.
+
+See the section titled UnderwritingLock-Up and Market Standoff Agreements for more information about
+
+these transfer restrictions and related expirations and exceptions.
+
+Class N Common Stock
+
+Shares of our Class N common stock are not listed on a stock exchange and are not registered under the
+
+Securities Act. Shares of our Class N common stock will automatically convert into shares of Class A common
+
+stock upon a qualifying transfer, which shares would be subject to the resale restrictions and registration rights
+
+described in this section. See the section titled Description of Capital Stock for a complete description of the
+
+conversion mechanics applicable to our Class N common stock.
+
+Following the completion of this offering, shares of Class N common stock will consist of
+
+shares, representing shares outstanding as of September 30, 2026 and shares to be issued
+
+immediately prior to the completion of this offering pursuant to the Preferred Stock Conversion with
+
+respect to all outstanding shares of our non-voting redeemable convertible preferred stock
+
+the Initial Public Benefit Issuance
+
+the Convertible Notes Conversion
+
+shares issuable at certain intervals following the completion of this offering pursuant to the
+
+conversion of any remaining outstanding convertible promissory notes at the applicable fixed
+
+conversion price that could not be converted immediately prior to the completion of this offering
+
+without exceeding such ownership cap
+
+shares issued after September 30, 2026 under our Donation Matching Plan and
+
+any shares issuable in connection with (i) the conversion of any convertible promissory notes that may
+
+be issued under our NPAs following the completion of this offering, (ii) draws under our NPAs that are
+
+314
+
+Table of Contents
+
+settled directly in shares of Class N common stock following the completion of this offering, (iii) the
+
+Public Benefit Issuances, (iv) donations that we match under our Donation Matching Plan, and (v)
+
+certain contractual rights to private placements, whether concurrent with or following the completion
+
+of this offering.
+
+For a description of the conversion mechanics of the outstanding notes and the rights to future issuances of
+
+notes and Class N common stock, see the section titled Managements Discussion and Analysis of Financial
+
+Condition and Results of OperationsLiquidity and Capital ResourcesConvertible Notes.
+
+Additionally, certain holders of our Class N common stock are entitled to registration rights with respect to
+
+their shares, the exercise of which could facilitate sales of large blocks of our shares into the public market
+
+following any applicable lock-up period. See the section titled Description of Capital StockRegistration
+
+Rights for a description of these registration rights.
+
+Rule 144
+
+In general, Rule 144 provides that once we have been subject to the public company reporting requirements of
+
+Section13 or Section15(d) of the Exchange Act for at least 90 days, a person who is not deemed to have been
+
+one of our affiliates for purposes of the Securities Act at any time during the 90 days preceding a sale and who
+
+has beneficially owned the shares of our Class A common stock proposed to be sold for at least six months is
+
+entitled to sell those shares without complying with the manner of sale, volume limitation, or notice provisions
+
+of Rule 144, subject to compliance with the public information requirements of Rule 144. If such a person has
+
+beneficially owned the shares proposed to be sold for at least one year, including the holding period of any prior
+
+owner other than our affiliates, then that person would be entitled to sell those shares without complying with
+
+any of the requirements of Rule 144.
+
+In general, Rule 144 provides that our affiliates or persons selling shares of our Class A common stock on behalf
+
+of our affiliates are entitled to sell upon expiration of the lock-up and market standoff agreements described
+
+above, within any three-month period, a number of shares of our Class A common stock that does not exceed
+
+the greater of
+
+1% of the number of shares of our Class A common stock then outstanding, which will equal
+
+shares immediately after the completion of this offering or
+
+the average weekly trading volume of our Class A common stock during the four calendar weeks
+
+preceding the filing of a notice on Form 144 with respect to that sale.
+
+Sales of our Class A common stock made in reliance upon Rule 144 by our affiliates or persons selling shares of
+
+our Class A common stock on behalf of our affiliates are also subject to certain manner of sale provisions and
+
+notice requirements and to the availability of current public information about us.
+
+Rule 701
+
+Rule 701 generally allows a stockholder who purchased shares of our capital stock pursuant to a written
+
+compensatory plan or contract and who is not deemed to have been an affiliate of our company during the
+
+immediately preceding 90 days to sell these shares in reliance upon Rule 144, but without being required to
+
+comply with the public information, holding period, volume limitation, or notice provisions of Rule 144.
+
+Rule701 also permits affiliates of our company to sell their Rule 701 shares under Rule 144 without complying
+
+with the holding period requirements of Rule 144. All holders of Rule 701 shares, however, are required to wait
+
+until 90 days after the date of this prospectus before selling those shares pursuant to Rule 701.
+
+Registration Rights
+
+Pursuant to our IRA and the Google RRA, after the completion of this offering, the holders of up to shares
+
+of our Class A common stock, or certain transferees, will be entitled to certain rights with respect to the
+
+registration of the offer and sale of those shares under the Securities Act. See the section titled Description of
+
+Capital StockRegistration Rights for a description of these registration rights. If the offer and sale of these
+
+shares of our Class A common stock are registered, the shares will be freely tradable without restriction under
+
+315
+
+Table of Contents
+
+the Securities Act, subject to the Rule 144 limitations applicable to affiliates, and a large number of shares may
+
+be sold into the public market.
+
+Registration Statements on Form S-8
+
+We intend to file one or more registration statements on Form S-8 under the Securities Act promptly after the
+
+effectiveness of this offering to register shares of our Class A common stock subject to RSUs and options
+
+outstanding, as well as reserved for future issuance, under our 2021 Plan, 2026 Plan, and ESPP, as well as the
+
+resale of certain shares of our Class A common stock previously issued under our 2021 Plan. Such registration
+
+statements on Form S-8 are expected to become effective immediately upon filing, and shares of our Class A
+
+common stock covered by such registration statements will then become eligible for sale in the public market,
+
+subject to applicable limitations under Rule144, vesting restrictions, and any applicable lock-up and market
+
+standoff agreements. See the section titled Executive CompensationEquity Plans for a description of our
+
+equity compensation plans.
+
+316
+
+Table of Contents
+
+Material U.S. Federal Income Tax Consequences
+
+to Non-U.S. Holders of Our Class A Common
+
+Stock
+
+The following is a summary of the material U.S. federal income tax consequences to certain non-U.S. holders
+
+(as defined below) of the ownership and disposition of our Class A common stock acquired in this offering but
+
+does not purport to be a complete analysis of all the potential tax considerations relating thereto. This summary
+
+is based upon the provisions of the Code, the Treasury regulations promulgated thereunder, administrative
+
+rulings, and judicial decisions, all as of the date hereof. These authorities may be changed, possibly
+
+retroactively, so as to result in U.S. federal income tax consequences different from those set forth below.
+
+This summary does not address the tax considerations arising under the laws of any state, local, or non-U.S.
+
+jurisdiction, or under U.S. federal non-income tax laws (such as gift and estate tax laws), except to the limited
+
+extent set forth below. In addition, this discussion does not address tax considerations applicable to a non-U.S.
+
+holders particular circumstances or non-U.S. holders that may be subject to special tax rules, including,
+
+without limitation
+
+banks, insurance companies, or other financial institutions (except to the extent specifically set forth
+
+below), regulated investment companies, or real estate investment trusts
+
+persons subject to the alternative minimum tax or Medicare contribution tax on net investment
+
+income
+
+tax-exempt organizations or governmental organizations
+
+pension plans or tax-exempt retirement plans
+
+controlled foreign corporations, foreign controlled foreign corporations, passive foreign investment
+
+companies, and corporations that accumulate earnings to avoid U.S. federal income tax
+
+brokers or dealers in securities
+
+traders in securities or other persons that elect to use a mark-to-market method of accounting for their
+
+holdings in our stock
+
+persons that own, or are deemed to own, more than five percent of our capital stock (except to the
+
+extent specifically set forth below)
+
+certain former citizens or long-term residents of the United States
+
+partnerships or entities classified as partnerships for U.S. federal income tax purposes or other pass-
+
+through entities (and investors therein)
+
+persons who hold our Class A common stock as a position in a hedging transaction, straddle,
+
+conversion transaction, or other risk reduction transaction or integrated investment
+
+persons who hold or receive our Class A common stock pursuant to the exercise of any employee stock
+
+option or otherwise as compensation
+
+persons subject to special tax accounting rules as a result of any item of gross income with respect to
+
+our Class A common stock being taken into account in an applicable financial statement (as defined
+
+in Section451(b) of the Code)
+
+persons who do not hold our Class A common stock as a capital asset within the meaning of
+
+Section1221 of the Code (generally, property held for investment) or
+
+persons deemed to sell our Class A common stock under the constructive sale provisions of the Code.
+
+317
+
+Table of Contents
+
+In addition, if a partnership, arrangement, or entity classified as a partnership or other pass-through entity for
+
+U.S. federal income tax purposes holds our Class A common stock, the tax treatment of a partner in such
+
+partnership or owner in such pass-through entity generally will depend on the status of the partner or owner
+
+and upon the activities of the partnership or other pass-through entity. Accordingly, partnerships and other
+
+pass-through entities that hold our Class A common stock, and partners in such partnerships and owners in
+
+such other pass-through entities, should consult their tax advisors.
+
+This discussion is for informational purposes only and is not tax advice. You are urged to
+
+consult your tax advisor with respect to the application of the U.S. federal income tax laws to
+
+your particular situation, as well as any tax consequences of the purchase, ownership, and
+
+disposition of our Class A common stock arising under the U.S. federal non-income tax laws
+
+(such as gift and estate tax laws) or under the laws of any state, local, non-U.S., or other taxing
+
+jurisdiction or under any applicable tax treaty.
+
+Non-U.S. Holder Defined
+
+For purposes of this discussion, you are a non-U.S. holder if you are a beneficial owner of our Class A common
+
+stock that is not a partnership, arrangement, or entity classified as a partnership or other pass-through entity
+
+for U.S. federal income tax purposes and are not, for U.S. federal income tax purposes, treated as any of the
+
+following
+
+an individual who is a citizen or resident of the United States
+
+a corporation (or any other entity treated as a corporation for U.S. federal income tax purposes)
+
+created or organized in the United States or under the laws of the United States, any state thereof, or
+
+the District of Columbia
+
+an estate whose income is subject to U.S. federal income tax regardless of its source or
+
+a trust (x)whose administration is subject to the primary supervision of a U.S. court and which has one
+
+or more United States persons (within the meaning of Section7701(a)(30) of the Code) (U.S.
+
+persons) who have the authority to control all substantial decisions of the trust or (y)which has made
+
+a valid election to be treated as a U.S. person.
+
+Distributions
+
+Distributions on our Class A common stock will constitute dividends for U.S. federal income tax purposes to the
+
+extent paid from our current or accumulated earnings and profits, as determined under U.S. federal income tax
+
+principles. To the extent those distributions exceed both our current and our accumulated earnings and profits,
+
+the excess will constitute a return of capital and will first reduce your basis in our Class A common stock, but
+
+not below zero, and then will be treated as gain from the sale or other disposition of stock as described below
+
+under the section titled Gain on Disposition of Our Class A Common Stock.
+
+Except as otherwise described below in the paragraph on effectively connected income and the sections titled
+
+Backup Withholding and Information Reporting and FATCA, any dividend paid to you will generally be
+
+subject to U.S. federal withholding tax either at a rate of 30% of the gross amount of the dividend or such lower
+
+rate as may be specified by an applicable income tax treaty between the United States and your country of
+
+residence. Under applicable Treasury regulations, the applicable withholding agent may withhold up to 30% of
+
+the gross amount of the entire distribution even if the amount constituting a dividend, as described above, is
+
+less than such amount. If we or another withholding agent over-withhold or if you do not timely provide us with
+
+the required certification, you may be entitled to a refund or credit of any excess amounts withheld by timely
+
+filing an appropriate claim with the Internal Revenue Service (IRS).
+
+In order to receive a reduced treaty rate, you must provide the applicable withholding agent with an IRS Form
+
+W-8BEN, IRS Form W-8BEN-E, or other appropriate version of IRS Form W-8, including any required
+
+attachments and your taxpayer identification number, certifying qualification for the reduced rate. Additionally,
+
+you will be required to update such forms and certifications from time to time as required by law. If you are
+
+eligible for a reduced rate of U.S. withholding tax pursuant to an income tax treaty, you may obtain a refund of
+
+318
+
+Table of Contents
+
+any excess amounts withheld by timely filing an appropriate claim for refund with the IRS. If you hold our stock
+
+through a financial institution or other agent acting on your behalf, you will be required to provide appropriate
+
+documentation to the agent, which then will be required to provide certification to us or our paying agent,
+
+either directly or through other intermediaries. You should consult your tax advisor regarding entitlement to
+
+benefits under any applicable income tax treaties.
+
+Dividends received by you that are effectively connected with your conduct of a U.S. trade or business (and, if
+
+required by an applicable income tax treaty, that are attributable to a permanent establishment or fixed base
+
+maintained by you in the United States) are generally exempt from such withholding tax, subject to the
+
+discussions below on backup withholding and FATCA (as defined below) withholding. To obtain this
+
+exemption, you must provide us with an IRS Form W-8ECI, including any required attachments and your
+
+taxpayer identification number, certifying qualification for the exemption. Additionally, you will be required to
+
+update such forms and certifications from time to time as required by law. Such effectively connected
+
+dividends, although not subject to U.S. federal withholding tax, are includable on your U.S. federal income tax
+
+return and taxed to you at the same rates applicable to U.S. persons, net of certain deductions and credits. If
+
+you are a corporate non-U.S. holder, dividends you receive that are effectively connected with your conduct of a
+
+U.S. trade or business may also be subject to a branch profits tax at a rate of 30% or such lower rate as may be
+
+specified by an applicable income tax treaty between the United States and your country of residence. You
+
+should consult your tax advisor regarding the application of tax treaties in light of your particular
+
+circumstances.
+
+Gain on Disposition of Our Class A Common Stock
+
+Except as otherwise described below in the sections titled Backup Withholding and Information Reporting,
+
+and FATCA, you will generally not be subject to U.S. federal income tax on any gain realized upon the sale
+
+or other disposition of our Class A common stock unless
+
+the gain is effectively connected with your conduct of a U.S. trade or business (and, if required by an
+
+applicable income tax treaty, the gain is attributable to a permanent establishment or fixed base
+
+maintained by you in the United States)
+
+you are a non-resident alien individual who is present in the United States for a period or periods
+
+aggregating 183 days or more during the calendar year in which the sale or other disposition occurs
+
+and certain other conditions are met or
+
+our Class A common stock constitutes a U.S. real property interest by reason of our status as a
+
+UnitedStates real property holding corporation (USRPHC) for U.S. federal income tax purposes at
+
+any time within the shorter of the five-year period preceding your disposition of, or your holding
+
+period for, our Class A common stock, and, in the case where shares of our Class A common stock are
+
+regularly traded on an established securities market, you own, or are treated as owning, more than 5%
+
+of our Class A common stock at any time during the foregoing period.
+
+Generally, a corporation is a USRPHC if the fair market value of its U.S. real property interests equals or
+
+exceeds 50% of the sum of the fair market value of its worldwide property interests and its other assets used or
+
+held for use in a trade or business (all as determined for U.S. federal income tax purposes). We believe that we
+
+are not currently and will not become a USRPHC for U.S. federal income tax purposes, and the remainder of
+
+this discussion so assumes, although, there can be no assurance in this regard. You are encouraged to consult
+
+your own tax advisor regarding the possible consequences to you if we are, or were to become, a USRPHC.
+
+If you are a non-U.S. holder described in the first bullet above, you will generally be subject to U.S. federal
+
+income tax on the net gain derived from the sale under regular graduated U.S. federal income tax rates, and if
+
+you are a corporate non-U.S. holder described in the first bullet above, you also may be subject to the branch
+
+profits tax at a 30% rate, in each case unless otherwise provided by an applicable income tax treaty between the
+
+United States and your country of residence. If you are a non-U.S. holder described in the second bullet above,
+
+you will generally be subject to U.S. federal income tax at a 30% rate (or such lower rate specified by an
+
+applicable income tax treaty between the United States and your country of residence) on the gain derived from
+
+the sale or other disposition of our stock, which gain may be offset by certain U.S. source capital losses
+
+319
+
+Table of Contents
+
+(provided you have timely filed U.S. federal income tax returns with respect to such losses). You should consult
+
+your tax advisor regarding the application of tax treaties in light of your particular circumstances.
+
+Backup Withholding and Information Reporting
+
+Generally, we must report annually to the IRS the amount of dividends paid to you, your name and address,
+
+and the amount of tax withheld, if any. A similar report will be sent to you. Pursuant to applicable income tax
+
+treaties or other agreements, the IRS may make these reports available to tax authorities in your country of
+
+residence.
+
+Payments of dividends on or of proceeds from the sale or other disposition of our Class A common stock made
+
+to you may be subject to information reporting and backup withholding (currently at a rate of 24%) unless you
+
+establish an exemption, for example, by properly certifying your non-U.S. status on an IRS Form W-8BEN, IRS
+
+Form W-8BEN-E, or another appropriate version of IRS Form W-8. Any documentation provided to an
+
+applicable withholding agent may need to be updated in certain circumstances.
+
+Information reporting and backup withholding will generally apply to the proceeds of a sale or other disposition
+
+by you of our Class A common stock effected by or through the U.S. office of any broker, U.S. or foreign, unless
+
+you certify your status as a non-U.S. holder and satisfy certain other requirements, or otherwise establish an
+
+exemption. Generally, information reporting and backup withholding will not apply to a payment of the
+
+proceeds from a sale or other disposition of our stock to you where the transaction is effected outside the United
+
+States through a foreign broker. However, for information reporting purposes, sales or other dispositions
+
+effected through a non-U.S. office of a broker with substantial U.S. ownership or operations will generally be
+
+treated in a manner similar to sales or other dispositions effected through a U.S. office of a broker.
+
+Notwithstanding the foregoing, backup withholding and information reporting may apply if either we or our
+
+paying agent has actual knowledge, or reason to know, that you are a U.S. person. You should consult your own
+
+tax advisors regarding the application of the information reporting and backup withholding rules in light of
+
+your particular circumstances.
+
+Backup withholding is not an additional tax. Rather, the U.S. federal income tax liability of persons subject to
+
+backup withholding will be reduced by the amount of tax withheld. If withholding results in an overpayment of
+
+taxes, a refund or credit may generally be obtained from the IRS, provided that the required information is
+
+furnished to the IRS in a timely manner.
+
+FATCA
+
+Sections 1471 through 1474 of the Code, and the Treasury regulations and administrative guidance issued
+
+thereunder (collectively, FATCA), generally impose a U.S. federal withholding tax at a rate of 30% on
+
+dividends on and, subject to certain proposed Treasury regulations discussed below, the gross proceeds from a
+
+sale or other disposition of our Class A common stock if paid to a foreign financial institution (as defined in
+
+the Code), unless otherwise provided by the Treasury Secretary or such institution enters into an agreement
+
+with the U.S. government to withhold on certain payments and to collect and provide to the U.S. tax authorities
+
+substantial information regarding the U.S. account holders of such institution (which includes certain equity
+
+and debt holders of such institution, as well as certain account holders that are non-U.S. entities with U.S.
+
+owners) or otherwise establishes an exemption. FATCA also generally imposes a U.S. federal withholding tax of
+
+30% on dividends paid on and, subject to certain proposed Treasury regulations discussed below, the gross
+
+proceeds from a sale or other disposition of our Class A common stock if paid to a non-financial foreign
+
+entity (as defined in the Code) unless otherwise provided by the Treasury Secretary or such entity provides the
+
+withholding agent with a certification identifying, and information with respect to certain direct and indirect
+
+substantial United States owners (as defined in the Code) of the entity, certifies that it does not have any such
+
+substantial United States owners or otherwise establishes and certifies to an exemption. The withholding
+
+provisions under FATCA generally apply to dividends on our Class A common stock. The Treasury Secretary has
+
+issued proposed regulations providing that the withholding provisions under FATCA do not apply with respect
+
+to the gross proceeds from a sale or other disposition of our Class A common stock, which may be relied upon
+
+by taxpayers until final regulations are issued. An intergovernmental agreement between the United States and
+
+your country of tax residence may modify the requirements described in this paragraph. You should consult
+
+320
+
+Table of Contents
+
+your own tax advisors regarding the possible implications of FATCA on your investment in our Class A common
+
+stock.
+
+This preceding discussion is for informational purposes only and is not tax advice. Each
+
+prospective investor should consult its own tax advisor regarding the particular U.S. federal,
+
+state, and local and non-U.S. tax consequences of purchasing, holding, and disposing of our
+
+Class A common stock, including the consequences of any proposed change in applicable laws.
+
+321
+
+Table of Contents

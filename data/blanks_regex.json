@@ -1,0 +1,1143 @@
+[
+ {
+  "filing": "sx1a",
+  "line": 184,
+  "pattern": "dated_blank",
+  "text": "Subject to Completion. Dated .",
+  "chunk": "sx1a_01"
+ },
+ {
+  "filing": "sx1a",
+  "line": 200,
+  "pattern": "price_range",
+  "text": "per share will be between $ and $. We have applied to list our Class A common stock on the Nasdaq Global Select Market under the",
+  "chunk": "sx1a_01"
+ },
+ {
+  "filing": "sx1a",
+  "line": 302,
+  "pattern": "dated_blank",
+  "text": "The underwriters expect to deliver the shares against payment in New York, New York, on or about .",
+  "chunk": "sx1a_01"
+ },
+ {
+  "filing": "sx1a",
+  "line": 1490,
+  "pattern": "percent_blank",
+  "text": "to an additional 2% of our then-outstanding shares (plus any shares subject to options, restricted stock units",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2298,
+  "pattern": "blank_proceeds",
+  "text": "approximately $ (or approximately $ if the",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2304,
+  "pattern": "blank_per_share",
+  "text": "assumed initial public offering price of $ per share,",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2470,
+  "pattern": "blank_per_share",
+  "text": "remittance obligations (based upon the assumed initial public offering price of $ per share, which",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2652,
+  "pattern": "blank_per_share",
+  "text": "(1)Reflects the net reduction in shares issuable upon exercise of outstanding stock options, which have a weighted-average exercise price of $ per share, assuming aggregate",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2654,
+  "pattern": "blank_proceeds",
+  "text": "exercise proceeds of approximately $ billion are used to repurchase shares of Class A common stock at the assumed initial public offering price of $ per share, which is",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2654,
+  "pattern": "blank_per_share",
+  "text": "exercise proceeds of approximately $ billion are used to repurchase shares of Class A common stock at the assumed initial public offering price of $ per share, which is",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2654,
+  "pattern": "blank_billion",
+  "text": "exercise proceeds of approximately $ billion are used to repurchase shares of Class A common stock at the assumed initial public offering price of $ per share, which is",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 2688,
+  "pattern": "blank_up_to_shares",
+  "text": "no exercise by the underwriters of their option to purchase up to an additional shares of our Class A common stock from us in this offering.",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 3172,
+  "pattern": "blank_per_share",
+  "text": "of shares of our Class A common stock in this offering, based upon the assumed initial public offering price of $ per",
+  "chunk": "sx1a_02"
+ },
+ {
+  "filing": "sx1a",
+  "line": 6492,
+  "pattern": "percent_blank",
+  "text": "represented more than 10% of our revenue for the nine months ended September 30, 2026, our top five",
+  "chunk": "sx1a_03"
+ },
+ {
+  "filing": "sx1a",
+  "line": 6494,
+  "pattern": "percent_blank",
+  "text": "customers represented approximately 25% of our revenue for the nine months ended September 30, 2026.",
+  "chunk": "sx1a_03"
+ },
+ {
+  "filing": "sx1a",
+  "line": 6670,
+  "pattern": "percent_blank",
+  "text": "approximately % of our Class N common stock and % of our total outstanding common stock.",
+  "chunk": "sx1a_03"
+ },
+ {
+  "filing": "sx1a",
+  "line": 7956,
+  "pattern": "percent_blank",
+  "text": "represented, in aggregate, less than 2% of our revenue in each of the periods presented in this prospectus",
+  "chunk": "sx1a_04"
+ },
+ {
+  "filing": "sx1a",
+  "line": 12698,
+  "pattern": "percent_blank",
+  "text": "representing approximately % of our outstanding capital stock prior to this offering and approximately",
+  "chunk": "sx1a_05"
+ },
+ {
+  "filing": "sx1a",
+  "line": 12700,
+  "pattern": "percent_blank",
+  "text": "% of our outstanding capital stock following the completion of this offering (in each case, excluding our",
+  "chunk": "sx1a_05"
+ },
+ {
+  "filing": "sx1a",
+  "line": 12834,
+  "pattern": "percent_blank",
+  "text": "stockholders holding more than 0.5% of our fully diluted shares prior to this offering, on the earlier of (A) 600",
+  "chunk": "sx1a_05"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13270,
+  "pattern": "blank_proceeds",
+  "text": "be approximately $, based upon the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13270,
+  "pattern": "blank_per_share",
+  "text": "be approximately $, based upon the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13276,
+  "pattern": "blank_proceeds",
+  "text": "or approximately $ if the underwriters option to purchase additional shares of our Class A common stock",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13282,
+  "pattern": "blank_per_share",
+  "text": "Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13286,
+  "pattern": "blank_proceeds",
+  "text": "decrease, as applicable, the net proceeds that we receive from this offering by approximately $, assuming",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13296,
+  "pattern": "blank_proceeds",
+  "text": "this offering by approximately $, assuming the assumed initial public offering price remains the same and",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13322,
+  "pattern": "blank_per_share",
+  "text": "assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13326,
+  "pattern": "blank_per_share",
+  "text": "increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13394,
+  "pattern": "blank_per_share",
+  "text": "assumed initial public offering price of $ per share, which is the midpoint of the estimated",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13544,
+  "pattern": "blank_per_share",
+  "text": "(1)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13552,
+  "pattern": "blank_per_share",
+  "text": "(2)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13706,
+  "pattern": "blank_per_share",
+  "text": "Class A common stock in this offering at the assumed initial public offering price of $ per share, which is",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13718,
+  "pattern": "blank_per_share",
+  "text": "an immediate increase in pro forma as adjusted net tangible book value of $ per share to our existing",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13720,
+  "pattern": "blank_per_share",
+  "text": "stockholders and an immediate dilution in pro forma as adjusted net tangible book value of $ per share to",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13758,
+  "pattern": "blank_per_share",
+  "text": "offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13804,
+  "pattern": "blank_per_share",
+  "text": "paid or to be paid to us at the assumed initial public offering price of $ per share, which is the midpoint of",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13856,
+  "pattern": "percent_blank",
+  "text": "shares, or approximately % of the total number of shares of our Class A common stock and Class N",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13860,
+  "pattern": "percent_blank",
+  "text": "shares, or approximately % of the total number of shares of our Class A common stock and Class N",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 13864,
+  "pattern": "blank_per_share",
+  "text": "Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1a_06"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14120,
+  "pattern": "percent_blank",
+  "text": "September 30, 2026, over 50% of our customers with $100,000 or more of revenue on a TTM basis used",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14380,
+  "pattern": "blank_proceeds",
+  "text": "the net proceeds to us from this offering will be approximately $, based upon the assumed initial public",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14382,
+  "pattern": "blank_per_share",
+  "text": "offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14386,
+  "pattern": "blank_proceeds",
+  "text": "estimated offering expenses payable by us, or approximately $ if the underwriters option to purchase",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14866,
+  "pattern": "percent_blank",
+  "text": "Claude adoption is broad-based. No single customer represented more than 10% of our revenue for the nine",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14868,
+  "pattern": "percent_blank",
+  "text": "months ended September 30, 2026. Approximately 79% of our revenue came from customers outside of our top",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14886,
+  "pattern": "percent_blank",
+  "text": "September 30, 2026 accounted for over 80% of our revenue for the three months ended September 30, 2026.",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 14952,
+  "pattern": "percent_blank",
+  "text": "(or other designee) representing up to an additional 2% of our then-outstanding shares (plus any shares subject",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 15082,
+  "pattern": "percent_blank",
+  "text": "revenue from such customers represented approximately 5% to 7% of our revenue for the nine months ended",
+  "chunk": "sx1a_07"
+ },
+ {
+  "filing": "sx1a",
+  "line": 18668,
+  "pattern": "percent_blank",
+  "text": "the extent that, immediately following the conversion, Amazon would hold more than 12% of our capitalization,",
+  "chunk": "sx1a_08"
+ },
+ {
+  "filing": "sx1a",
+  "line": 19386,
+  "pattern": "percent_blank",
+  "text": "us to exceed 14.99% of our outstanding capitalization on a post-money, as-converted basis as calculated in",
+  "chunk": "sx1a_08"
+ },
+ {
+  "filing": "sx1a",
+  "line": 20144,
+  "pattern": "blank_proceeds",
+  "text": "record cumulative stock-based compensation expense of approximately $ related to RSUs outstanding as",
+  "chunk": "sx1a_08"
+ },
+ {
+  "filing": "sx1a",
+  "line": 20628,
+  "pattern": "percent_blank",
+  "text": "our first-party applications. For the three months ended September 30, 2026, over 50% of our customers with",
+  "chunk": "sx1a_09"
+ },
+ {
+  "filing": "sx1a",
+  "line": 23844,
+  "pattern": "percent_blank",
+  "text": "(or other designee) representing up to an additional 2% of our then-outstanding shares (plus any shares subject",
+  "chunk": "sx1a_09"
+ },
+ {
+  "filing": "sx1a",
+  "line": 24720,
+  "pattern": "percent_blank",
+  "text": "majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our",
+  "chunk": "sx1a_09"
+ },
+ {
+  "filing": "sx1a",
+  "line": 24738,
+  "pattern": "percent_blank",
+  "text": "amendments, upon approval of 85% of our outstanding shares of Class A common stock.",
+  "chunk": "sx1a_09"
+ },
+ {
+  "filing": "sx1a",
+  "line": 25226,
+  "pattern": "percent_blank",
+  "text": "Class E common stock (subject to a quorum of 40% of our outstanding Class E common stock) or",
+  "chunk": "sx1a_09"
+ },
+ {
+  "filing": "sx1a",
+  "line": 25392,
+  "pattern": "percent_blank",
+  "text": "quorum of 40% of our outstanding Class E",
+  "chunk": "sx1a_09"
+ },
+ {
+  "filing": "sx1a",
+  "line": 28662,
+  "pattern": "percent_blank",
+  "text": "50% of our then-outstanding capital stock (each, a Corporate Transaction), the administrator may, in its sole",
+  "chunk": "sx1a_10"
+ },
+ {
+  "filing": "sx1a",
+  "line": 28848,
+  "pattern": "percent_blank",
+  "text": "becomes the beneficial owner, directly or indirectly, of more than 50% of our then-outstanding capital stock, a",
+  "chunk": "sx1a_10"
+ },
+ {
+  "filing": "sx1a",
+  "line": 29366,
+  "pattern": "blank_proceeds",
+  "text": "approximately $.",
+  "chunk": "sx1a_10"
+ },
+ {
+  "filing": "sx1a",
+  "line": 30514,
+  "pattern": "percent_blank",
+  "text": "majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our",
+  "chunk": "sx1a_11"
+ },
+ {
+  "filing": "sx1a",
+  "line": 30674,
+  "pattern": "percent_blank",
+  "text": "quorum of 40% of our outstanding Class E",
+  "chunk": "sx1a_11"
+ },
+ {
+  "filing": "sx1a",
+  "line": 31952,
+  "pattern": "percent_blank",
+  "text": "for the proposal, and approval by a majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our",
+  "chunk": "sx1a_11"
+ },
+ {
+  "filing": "sx1a",
+  "line": 32304,
+  "pattern": "percent_blank",
+  "text": "(2)For certain stockholders holding approximately % of our fully diluted shares immediately prior to",
+  "chunk": "sx1a_11"
+ },
+ {
+  "filing": "sx1a",
+  "line": 32314,
+  "pattern": "percent_blank",
+  "text": "(3)For certain stockholders holding approximately % of our fully diluted shares immediately prior to",
+  "chunk": "sx1a_11"
+ },
+ {
+  "filing": "sx1a",
+  "line": 32990,
+  "pattern": "blank_up_to_shares",
+  "text": "purchase up to an additional shares of Class A common stock at the initial public offering price set forth",
+  "chunk": "sx1a_12"
+ },
+ {
+  "filing": "sx1a",
+  "line": 33226,
+  "pattern": "percent_blank",
+  "text": "holding more than 0.5% of our fully diluted shares prior to this offering) have executed lock-up agreements that",
+  "chunk": "sx1a_12"
+ },
+ {
+  "filing": "sx1a",
+  "line": 33230,
+  "pattern": "percent_blank",
+  "text": "executed lock-up agreements held approximately % of our fully diluted shares immediately prior to this",
+  "chunk": "sx1a_12"
+ },
+ {
+  "filing": "sx1a",
+  "line": 33606,
+  "pattern": "percent_blank",
+  "text": "Certain of our stockholders holding more than 0.5% of our fully diluted shares prior to this offering have agreed",
+  "chunk": "sx1a_12"
+ },
+ {
+  "filing": "sx1a",
+  "line": 33808,
+  "pattern": "blank_proceeds",
+  "text": "commissions, will be approximately $. We will agree to reimburse the underwriters for certain Financial",
+  "chunk": "sx1a_12"
+ },
+ {
+  "filing": "sx1a",
+  "line": 34762,
+  "pattern": "percent_blank",
+  "text": "associated with, Wilson Sonsini Goodrich Rosati, P.C., directly or indirectly own less than 0.01% of our",
+  "chunk": "sx1a_12"
+ },
+ {
+  "filing": "sx1a",
+  "line": 44790,
+  "pattern": "expense_star",
+  "text": "$*",
+  "chunk": "sx1a_16"
+ },
+ {
+  "filing": "sx1a",
+  "line": 44822,
+  "pattern": "expense_star",
+  "text": "$*",
+  "chunk": "sx1a_16"
+ },
+ {
+  "filing": "sx1",
+  "line": 180,
+  "pattern": "dated_blank",
+  "text": "Subject To Completion. Dated .",
+  "chunk": "sx1_01"
+ },
+ {
+  "filing": "sx1",
+  "line": 196,
+  "pattern": "price_range",
+  "text": "per share will be between $ and $. We have applied to list our Class A common stock on the Nasdaq Global Select Market under the",
+  "chunk": "sx1_01"
+ },
+ {
+  "filing": "sx1",
+  "line": 296,
+  "pattern": "dated_blank",
+  "text": "The underwriters expect to deliver the shares against payment in New York, New York, on or about .",
+  "chunk": "sx1_01"
+ },
+ {
+  "filing": "sx1",
+  "line": 836,
+  "pattern": "blank_for_period",
+  "text": "2023 to $ for the three months ended September 30, 2026. This rapid and growing adoption generates",
+  "chunk": "sx1_02"
+ },
+ {
+  "filing": "sx1",
+  "line": 906,
+  "pattern": "blank_proceeds",
+  "text": "compute and infrastructure. These commitments include approximately $ expected to be incurred before",
+  "chunk": "sx1_02"
+ },
+ {
+  "filing": "sx1",
+  "line": 1484,
+  "pattern": "percent_blank",
+  "text": "to an additional 2% of our then-outstanding shares (plus any shares subject to options, restricted stock units,",
+  "chunk": "sx1_02"
+ },
+ {
+  "filing": "sx1",
+  "line": 2292,
+  "pattern": "blank_proceeds",
+  "text": "approximately $ (or approximately $ if the",
+  "chunk": "sx1_02"
+ },
+ {
+  "filing": "sx1",
+  "line": 2298,
+  "pattern": "blank_per_share",
+  "text": "assumed initial public offering price of $ per share,",
+  "chunk": "sx1_02"
+ },
+ {
+  "filing": "sx1",
+  "line": 2466,
+  "pattern": "blank_per_share",
+  "text": "the assumed initial public offering price of $ per share, which is the midpoint of the estimated",
+  "chunk": "sx1_03"
+ },
+ {
+  "filing": "sx1",
+  "line": 2484,
+  "pattern": "blank_per_share",
+  "text": "price of $ per share",
+  "chunk": "sx1_03"
+ },
+ {
+  "filing": "sx1",
+  "line": 2576,
+  "pattern": "blank_up_to_shares",
+  "text": "no exercise by the underwriters of their option to purchase up to an additional shares of our",
+  "chunk": "sx1_03"
+ },
+ {
+  "filing": "sx1",
+  "line": 2924,
+  "pattern": "price_range",
+  "text": "condition had been satisfied on January 1, 2025, of $ and $ for the year ended December 31, 2025 and the six",
+  "chunk": "sx1_03"
+ },
+ {
+  "filing": "sx1",
+  "line": 3046,
+  "pattern": "blank_per_share",
+  "text": "of shares of our Class A common stock in this offering, based upon the assumed initial public offering price of $ per",
+  "chunk": "sx1_03"
+ },
+ {
+  "filing": "sx1",
+  "line": 3708,
+  "pattern": "blank_proceeds",
+  "text": "commitments include approximately $ expected to be incurred before December 31, 2030, and",
+  "chunk": "sx1_03"
+ },
+ {
+  "filing": "sx1",
+  "line": 6344,
+  "pattern": "percent_blank",
+  "text": "represented more than 10% of our revenue for the nine months ended September 30, 2026, our top five",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 6346,
+  "pattern": "percent_blank",
+  "text": "customers represented approximately 25% of our revenue for the nine months ended September 30, 2026.",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 6520,
+  "pattern": "blank_per_share",
+  "text": "and an assumed initial public offering price of $ per share (which is the midpoint of the estimated offering",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 6524,
+  "pattern": "percent_blank",
+  "text": "notes would collectively hold in the aggregate approximately % of our Class N common stock, which",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 6526,
+  "pattern": "percent_blank",
+  "text": "represents % of our total outstanding common stock following this offering. Pursuant to the terms of the",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 7046,
+  "pattern": "blank_for_period",
+  "text": "and our revenue increased from $197 million for the three months ended December 31, 2024 to $ for the",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 7208,
+  "pattern": "blank_per_share",
+  "text": "and a performance-based condition as described above. Assuming a grant-date fair value of $ per share,",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 7806,
+  "pattern": "percent_blank",
+  "text": "represented, in aggregate, approximately 1% of our revenue in each of the periods presented in this prospectus",
+  "chunk": "sx1_04"
+ },
+ {
+  "filing": "sx1",
+  "line": 12550,
+  "pattern": "percent_blank",
+  "text": "representing approximately % of our outstanding capital stock prior to this offering and approximately",
+  "chunk": "sx1_05"
+ },
+ {
+  "filing": "sx1",
+  "line": 12552,
+  "pattern": "percent_blank",
+  "text": "% of our outstanding capital stock following the completion of this offering (in each case, excluding our",
+  "chunk": "sx1_05"
+ },
+ {
+  "filing": "sx1",
+  "line": 12686,
+  "pattern": "percent_blank",
+  "text": "stockholders holding more than 0.5% of our fully diluted shares prior to this offering, on the earlier of (A) 600",
+  "chunk": "sx1_05"
+ },
+ {
+  "filing": "sx1",
+  "line": 13124,
+  "pattern": "blank_proceeds",
+  "text": "be approximately $, based upon the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13124,
+  "pattern": "blank_per_share",
+  "text": "be approximately $, based upon the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13130,
+  "pattern": "blank_proceeds",
+  "text": "or approximately $ if the underwriters option to purchase additional shares of our Class A common stock",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13136,
+  "pattern": "blank_per_share",
+  "text": "Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13140,
+  "pattern": "blank_proceeds",
+  "text": "decrease, as applicable, the net proceeds that we receive from this offering by approximately $, assuming",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13150,
+  "pattern": "blank_proceeds",
+  "text": "this offering by approximately $, assuming the assumed initial public offering price remains the same and",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13176,
+  "pattern": "blank_per_share",
+  "text": "assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13180,
+  "pattern": "blank_per_share",
+  "text": "increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13248,
+  "pattern": "blank_per_share",
+  "text": "assumed initial public offering price of $ per share, which is the midpoint of the estimated",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13384,
+  "pattern": "blank_per_share",
+  "text": "(1)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13392,
+  "pattern": "blank_per_share",
+  "text": "(2)Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13440,
+  "pattern": "blank_per_share",
+  "text": "price of $ per share",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13530,
+  "pattern": "blank_per_share",
+  "text": "Class A common stock in this offering at the assumed initial public offering price of $ per share, which is",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13542,
+  "pattern": "blank_per_share",
+  "text": "an immediate increase in pro forma as adjusted net tangible book value of $ per share to our existing",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13544,
+  "pattern": "blank_per_share",
+  "text": "stockholders and an immediate dilution in pro forma as adjusted net tangible book value of $ per share to",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13582,
+  "pattern": "blank_per_share",
+  "text": "offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13598,
+  "pattern": "blank_proceeds",
+  "text": "approximately $ per share and increase or decrease, as applicable, the dilution to new investors",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13628,
+  "pattern": "blank_per_share",
+  "text": "paid or to be paid to us at the assumed initial public offering price of $ per share, which is the midpoint of",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13680,
+  "pattern": "percent_blank",
+  "text": "shares, or approximately % of the total number of shares of our Class A common stock outstanding",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13684,
+  "pattern": "percent_blank",
+  "text": "approximately % of the total number of shares of our Class A common stock outstanding after this",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13688,
+  "pattern": "blank_per_share",
+  "text": "Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13738,
+  "pattern": "blank_per_share",
+  "text": "price of $ per share",
+  "chunk": "sx1_06"
+ },
+ {
+  "filing": "sx1",
+  "line": 13838,
+  "pattern": "blank_for_period",
+  "text": "2023 to $ for the three months ended September 30, 2026.",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 13934,
+  "pattern": "percent_blank",
+  "text": "September 30, 2026, over 50% of our customers with $100,000 or more of revenue on a TTM basis used",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14136,
+  "pattern": "blank_proceeds",
+  "text": "committed spend of more than $. These commitments include approximately $ expected to be",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14166,
+  "pattern": "blank_proceeds",
+  "text": "this offering will be approximately $, based upon the assumed initial public offering price of $ per",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14166,
+  "pattern": "blank_per_share",
+  "text": "this offering will be approximately $, based upon the assumed initial public offering price of $ per",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14172,
+  "pattern": "blank_proceeds",
+  "text": "payable by us, or approximately $ if the underwriters option to purchase additional shares of our Class A",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14652,
+  "pattern": "percent_blank",
+  "text": "Claude adoption is broad-based. No single customer represented more than 10% of our revenue for the nine",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14654,
+  "pattern": "percent_blank",
+  "text": "months ended September 30, 2026. Approximately 79% of our revenue came from customers outside of our top",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14672,
+  "pattern": "percent_blank",
+  "text": "September 30, 2026 accounted for over 80% of our revenue for the three months ended September 30, 2026.",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14734,
+  "pattern": "percent_blank",
+  "text": "(or other designee) representing up to an additional 2% of our then-outstanding shares (plus any shares subject",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14802,
+  "pattern": "percent_blank",
+  "text": "matching program were $541 million, representing approximately 4% of our total operating expenses. However,",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 14866,
+  "pattern": "percent_blank",
+  "text": "revenue from such customers represented approximately 5% to 7% of our revenue for the nine months ended",
+  "chunk": "sx1_07"
+ },
+ {
+  "filing": "sx1",
+  "line": 18126,
+  "pattern": "percent_blank",
+  "text": "the extent that, immediately following the conversion, Amazon would hold more than 12% of our capitalization,",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 18840,
+  "pattern": "percent_blank",
+  "text": "us to exceed 14.99% of our outstanding capitalization on a post-money, as-converted basis as calculated in",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19034,
+  "pattern": "blank_proceeds",
+  "text": "as well as leases not yet commenced, each described in the paragraphs below are approximately $,",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19102,
+  "pattern": "price_range",
+  "text": "to be approximately $ to $. We expect these amounts to be payable over time after the capacity is delivered. See",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19102,
+  "pattern": "blank_proceeds",
+  "text": "to be approximately $ to $. We expect these amounts to be payable over time after the capacity is delivered. See",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19118,
+  "pattern": "blank_proceeds",
+  "text": "such contracts were approximately $ as of .",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19122,
+  "pattern": "blank_proceeds",
+  "text": "estimated future undiscounted lease obligations of approximately $. Generally, these lease obligations will",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19128,
+  "pattern": "blank_proceeds",
+  "text": "minimum payment obligations of approximately $. We also entered into certain agreements after",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19130,
+  "pattern": "blank_proceeds",
+  "text": "that are short term in nature. Minimum payments under such contracts are approximately $. See Note 17",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19478,
+  "pattern": "blank_proceeds",
+  "text": "record cumulative stock-based compensation expense of approximately $ related to RSUs outstanding as",
+  "chunk": "sx1_08"
+ },
+ {
+  "filing": "sx1",
+  "line": 19818,
+  "pattern": "blank_for_period",
+  "text": "2023 to $ for the three months ended September 30, 2026. This rapid and growing adoption generates",
+  "chunk": "sx1_09"
+ },
+ {
+  "filing": "sx1",
+  "line": 19916,
+  "pattern": "blank_proceeds",
+  "text": "compute and infrastructure. These commitments include approximately $ expected to be incurred before",
+  "chunk": "sx1_09"
+ },
+ {
+  "filing": "sx1",
+  "line": 19966,
+  "pattern": "percent_blank",
+  "text": "our first-party applications. For the three months ended September 30, 2026, over 50% of our customers with",
+  "chunk": "sx1_09"
+ },
+ {
+  "filing": "sx1",
+  "line": 21382,
+  "pattern": "blank_proceeds",
+  "text": "committed spend of more than $. These commitments include approximately $ expected to be",
+  "chunk": "sx1_09"
+ },
+ {
+  "filing": "sx1",
+  "line": 23164,
+  "pattern": "percent_blank",
+  "text": "(or other designee) representing up to an additional 2% of our then-outstanding shares (plus any shares subject",
+  "chunk": "sx1_09"
+ },
+ {
+  "filing": "sx1",
+  "line": 24060,
+  "pattern": "percent_blank",
+  "text": "amendments, upon approval of 85% of our outstanding shares of Class A common stock.",
+  "chunk": "sx1_09"
+ },
+ {
+  "filing": "sx1",
+  "line": 24548,
+  "pattern": "percent_blank",
+  "text": "Class E common stock (subject to a quorum of 40% of our outstanding Class E common stock) or",
+  "chunk": "sx1_09"
+ },
+ {
+  "filing": "sx1",
+  "line": 27988,
+  "pattern": "percent_blank",
+  "text": "50% of our then outstanding capital stock (each, a Corporate Transaction), the administrator may, in its sole",
+  "chunk": "sx1_10"
+ },
+ {
+  "filing": "sx1",
+  "line": 28174,
+  "pattern": "percent_blank",
+  "text": "becomes the beneficial owner, directly or indirectly, of more than 50% of our then outstanding capital stock, a",
+  "chunk": "sx1_10"
+ },
+ {
+  "filing": "sx1",
+  "line": 28692,
+  "pattern": "blank_proceeds",
+  "text": "approximately $.",
+  "chunk": "sx1_10"
+ },
+ {
+  "filing": "sx1",
+  "line": 30448,
+  "pattern": "blank_proceeds",
+  "text": "common stock, with a weighted-average exercise price of approximately $ per share, under our 2021 Plan.",
+  "chunk": "sx1_11"
+ },
+ {
+  "filing": "sx1",
+  "line": 31582,
+  "pattern": "percent_blank",
+  "text": "(2)For certain stockholders holding approximately % of our fully diluted shares immediately prior to",
+  "chunk": "sx1_11"
+ },
+ {
+  "filing": "sx1",
+  "line": 31592,
+  "pattern": "percent_blank",
+  "text": "(3)For certain stockholders holding approximately % of our fully diluted shares immediately prior to",
+  "chunk": "sx1_11"
+ },
+ {
+  "filing": "sx1",
+  "line": 32266,
+  "pattern": "blank_up_to_shares",
+  "text": "purchase up to an additional shares of Class A common stock at the public offering price listed on the",
+  "chunk": "sx1_12"
+ },
+ {
+  "filing": "sx1",
+  "line": 32504,
+  "pattern": "percent_blank",
+  "text": "holding more than 0.5% of our fully diluted shares prior to this offering) have executed lock-up agreements that",
+  "chunk": "sx1_12"
+ },
+ {
+  "filing": "sx1",
+  "line": 32508,
+  "pattern": "percent_blank",
+  "text": "executed lock-up agreements held approximately % of our fully diluted shares immediately prior to this",
+  "chunk": "sx1_12"
+ },
+ {
+  "filing": "sx1",
+  "line": 32882,
+  "pattern": "percent_blank",
+  "text": "Certain of our stockholders holding more than 0.5% of our fully diluted shares prior to this offering have agreed",
+  "chunk": "sx1_12"
+ },
+ {
+  "filing": "sx1",
+  "line": 33086,
+  "pattern": "blank_proceeds",
+  "text": "commissions, will be approximately $. We will agree to reimburse the underwriters for certain Financial",
+  "chunk": "sx1_12"
+ },
+ {
+  "filing": "sx1",
+  "line": 34020,
+  "pattern": "percent_blank",
+  "text": "associated with, Wilson Sonsini Goodrich Rosati, P.C., directly or indirectly own less than 0.01% of our",
+  "chunk": "sx1_12"
+ },
+ {
+  "filing": "sx1",
+  "line": 43936,
+  "pattern": "expense_star",
+  "text": "$*",
+  "chunk": "sx1_16"
+ },
+ {
+  "filing": "sx1",
+  "line": 43968,
+  "pattern": "expense_star",
+  "text": "$*",
+  "chunk": "sx1_16"
+ }
+]

@@ -1,0 +1,3499 @@
+effectively in our prioritized areas, it also creates the risk that significant market opportunities or the largest
+
+addressable markets may emerge in areas outside our current strategic focus. Many of our competitors offer
+
+diverse product portfolios across multiple business lines or pursue broader development across AI modalities,
+
+enabling them to offset weaknesses in a particular area. In contrast, any decline in demand for our core
+
+offerings, whether due to competition, technological changes, pricing pressure, changes in customer demand,
+
+or other factors, would have a direct and disproportionate impact on our revenue and ability to achieve and
+
+sustain profitability. Our concentration also reflects a strategy that prioritizes model capability as a principal
+
+source of differentiation and relies substantially on organic adoption rather than a large direct sales
+
+organization. The risks of that strategy, including the risks that differentiation among advanced models
+
+narrows, that customers select providers based on factors other than capability, or that competitors capture the
+
+individual users from whom our enterprise adoption often originates, are described in the sections titled We
+
+face intense competition, and if we are unable to compete effectively, our business, financial condition, and
+
+results of operations could be adversely affected and We have a limited history under our current go-to-
+
+market strategy, and our efforts to scale and evolve our customer acquisition, engagement, and retention model
+
+may not be successful.
+
+The AI industry is rapidly evolving, and it is difficult to predict which modalities or applications will capture the
+
+most durable commercial value or how the competitive landscape will shift. If the market for AI models,
+
+platforms, and applications develops in ways that do not align with our chosen areas of focus, or if competitors
+
+are better positioned to address the areas where the market opportunity ultimately proves largest, our ability to
+
+sustain revenue growth and compete effectively could be adversely affected. If we experience a decline in
+
+demand for our core offerings, we may not be able to successfully expand our product and application portfolio,
+
+and even if we do, our new products and applications may not achieve market acceptance or generate sufficient
+
+revenue to offset any decline in our existing business. Further, technical issues, security incidents, regulatory
+
+restrictions, or reputational harm affecting our models, platform, and applications could have an immediate
+
+and disproportionate impact on our business due to our product concentration where alternative revenue
+
+streams may not be available to offset such impact.
+
+The market for AI models, platforms, and applications is evolving quickly, and customer requirements and
+
+expectations are changing rapidly. Customers may increasingly demand specialized solutions or specialized
+
+integration and tooling that we do not currently offer and may not plan to offer, or may seek AI solutions
+
+embedded more deeply into enterprise workflows. Enterprises may prefer to develop their own AI capabilities
+
+internally or choose competitors that offer more comprehensive product suites. Moreover, because
+
+substantially all of our models and applications are built on top of our frontier models, any defect, vulnerability,
+
+safety issue, or performance degradation in an underlying frontier model could simultaneously affect multiple
+
+products and applications and customer deployments, amplifying the impact of any such issue across our
+
+business. If we fail to anticipate or respond effectively to these evolving customer needs, we may lose customers
+
+to competitors or fail to acquire new customers.
+
+In addition, we currently compete, and may increasingly compete, with some of our own customers. As we
+
+expand our product portfolio or introduce new capabilities, our offerings may overlap with or directly compete
+
+with the models, platforms, and applications that our customers provide. This risk is particularly acute with
+
+software-as-a-service and other software companies, whose offerings may incorporate AI functionality similar
+
+to, or dependent on, the capabilities we provide. These customers may view our product expansion as a
+
+competitive threat to their business models and may reduce their purchases from us, limit their adoption of new
+
+offerings, terminate their relationships with us, seek alternative providers, restrict our access to the compute we
+
+56
+
+Table of Contents
+
+obtain from them, initiate intellectual property or other litigation against us, or accelerate efforts to develop
+
+competing solutions internally in order to avoid relying on a direct competitor. This dynamic could result in
+
+customer attrition, reduced expansion within our existing customer base, pricing pressure, or reputational
+
+challenges, any of which could adversely affect our revenue growth and business prospects.
+
+Expanding our product portfolio requires substantial time and investment. We must make significant
+
+investments in research and development, compute infrastructure, engineering talent, sales and marketing, and
+
+go-to-market capabilities to develop new models, platforms, and applications and enable continued adoption.
+
+We may seek to expand into new products and markets, including areas outside of our current core
+
+competencies or where we have limited experience, and we may not successfully develop, commercialize, or
+
+support such offerings. Development timelines for AI models, platforms, and applications are uncertain, and
+
+new capabilities, even when continuously improved and released into our models, platform, and applications,
+
+may take significant time to achieve commercial scale. We may invest significant resources in products or
+
+services that fail to gain market traction, experience technical difficulties, face unexpected competition, lead to
+
+unexpected harm or societal impacts that do not align with our values, or generate insufficient returns to justify
+
+the investment. Additionally, we face other constraints on our ability to expand our offerings, including the
+
+ability to hire, retain, and motivate qualified AI researchers, engineers, and technical personnel the capital
+
+intensity of developing and operating AI models, platforms, and applications which require substantial
+
+compute and infrastructure investment and our limited portfolio may make it difficult to provide the
+
+comprehensive, integrated solutions that customers may expect.
+
+If we are unable to successfully expand our product and service portfolio, if we fail to compete effectively with
+
+our current offerings, or if customer preferences shift away from our models, platform, and applications, our
+
+business, financial condition, and results of operations could be adversely affected.
+
+A substantial portion of our revenue and accounts receivable is driven by a limited number of
+
+customers and distribution channels, and the loss of, or a significant reduction in, spend from
+
+one or more of our top customers or disruption through those channels could adversely affect
+
+our prospects, business, and financial condition.
+
+A substantial portion of our revenue is driven by a limited number of customers. While no single customer
+
+represented more than 10% of our revenue for the nine months ended September 30, 2026, our top five
+
+customers represented approximately 25% of our revenue for the nine months ended September 30, 2026.
+
+Many of our top customers are not subject to long-term contracts with us or have contracts with near-term
+
+expiration dates and are able to reduce or in some cases cease spending at any time and for any reason. Further,
+
+we have agreements with certain large customers which provide flexibility around financial commitments,
+
+termination rights, indemnification, and security obligations. Our top customers may vary spend levels period
+
+to period, and there can be no assurances that our large customers will continue to spend at levels similar to
+
+prior periods.
+
+We anticipate that we will continue to derive a significant portion of our revenue from a limited number of
+
+customers for the foreseeable future, and in some cases, the portion of our revenue attributable to certain
+
+customers may increase in the future. The composition of our customer base, including our top customers, may
+
+fluctuate from period to period given that our customer composition has evolved and is expected to continue to
+
+evolve significantly as our business continues to evolve and scale and as the use cases for AI continue to
+
+develop.
+
+In addition, a significant portion of our revenue and accounts receivable is associated with transactions
+
+conducted with a limited number of CSPs that act as distribution and billing channels for our models. During
+
+the years ended December 31, 2023, 2024, and 2025 and the six months ended June 30, 2026, revenue
+
+generated from sales to customers through CSP marketplaces represented approximately 11%, 32%, 47%, and
+
+48%, respectively, of total revenue. As of December 31, 2024 and 2025 and June 30, 2026, net accounts
+
+receivable from sales through CSP marketplaces to customers represented 42%, 60%, and 58%, respectively, of
+
+our net accounts receivable. These platforms bill end customers, collect payments on our behalf, and remit such
+
+amounts to us, net of applicable platform and other fees. Any change to, or termination of, one of our significant
+
+distribution relationships could adversely affect our business by disrupting customer access to our models,
+
+reducing usage, or increasing customer acquisition, onboarding, and migration costs. In these third-party
+
+arrangements, we generally maintain separate contractual arrangements with end customers governing access
+
+57
+
+Table of Contents
+
+to, and pricing for, our models, independent of the applicable platform, and changes in, or termination of, a
+
+particular distribution relationship would not independently eliminate those contractual relationships.
+
+However, customers may be unwilling or unable to transition to alternative access points on commercially
+
+acceptable terms or timelines, or at all, following a disruption, which could result in revenue loss, increased
+
+costs, or adverse impacts to our growth, margins, and results of operations. In addition, any delay, dispute, or
+
+operational issue affecting a platforms collection or remittance of customer payments could adversely affect
+
+our cash flows and working capital.
+
+We may not be able to maintain or increase revenue from our top customers for a variety of reasons, including
+
+but not limited to the following
+
+customers may develop their own solutions that compete with our models, platform, and applications
+
+some of our customers may redesign their systems to require fewer of our services with limited notice
+
+to us and may choose not to renew or increase their purchases of our models, platform, and
+
+applications
+
+changes to our models, platform, and applications may not align with the needs or expectations of our
+
+customers and such changes may reduce customer trust in us
+
+our customers may have pre-existing or concurrent relationships with, or may be, current or potential
+
+competitors that may affect such customers decisions to purchase our models, platform, and
+
+applications
+
+our customers and partners that heavily rely on our offerings may want to reduce such levels of
+
+reliance, seek out competing offerings, or transition to other providers altogether and
+
+our customers, particularly early-stage and high-growth companies, may depend on venture capital or
+
+other external financing to fund their operations, and may reduce or cease spending with us if such
+
+funding is delayed, reduced, or unavailable or if their access to capital becomes more costly.
+
+Any adverse change in demand from our largest customers, in their ability or willingness to perform under their
+
+contracts with us, in applicable laws or regulations, or in our broader strategic relationships with such
+
+customers could adversely affect our business and prospects. As a result, a significant reduction in spending by,
+
+or the loss of, one or more of our largest customers, if not offset by new customer relationships or increased
+
+business from our other existing customers, could adversely affect our business, financial condition, and results
+
+of operations. For additional risks related to our reliance on enterprise customers and government customers,
+
+including longer sales cycles, complex procurement processes, heightened contractual, compliance, and security
+
+requirements, and budgetary and policy constraints, see the sections titled Sales to enterprise customers
+
+involve complexities and risks that could adversely affect our business, financial condition, and results of
+
+operations and Our sales to government entities and highly regulated organizations are subject to
+
+challenges and risks.
+
+We have incurred significant indebtedness in order to operate and grow our business,
+
+including to fund our substantial compute commitments, and our ability to service this
+
+indebtedness may be constrained by our cash flows and liquidity.
+
+In order to operate and grow our business, including to fund our substantial compute commitments, we have
+
+incurred a substantial amount of debt, which requires significant interest and principal payments. As of June
+
+30, 2026, our total indebtedness was $6.2 billion, reflecting the aggregate principal amount outstanding under
+
+the convertiblepromissorynotes issued to Amazon (through Amazon Web Services, Inc.) pursuant to the
+
+Convertible Note Purchase Agreement, dated as of September 19, 2023, by and between us and Amazon (the
+
+Amazon 2023 NPA) and the New Convertible Note Purchase Agreement, dated as of November 22, 2024, by
+
+and between us and Amazon (the Amazon 2024 NPA) (all such notes issued thereunder, collectively, the
+
+Amazon Notes). We may also incur additional indebtedness to meet our future financing needs. We have
+
+guaranteed the obligations of certain of our subsidiaries that are party to AI infrastructure arrangements, as
+
+well as pursuant to agreements we entered into in connection with an equipment lease with a third-party
+
+partner, Broadcom Inc. (Broadcom) in March 2026 to procure specialized AI accelerators and associated
+
+components (under which Broadcom intends to assign to a designated financial partner) (the 2026 Lease
+
+58
+
+Table of Contents
+
+Arrangement). In addition, we have the ability to issue, if needed, up to $42.0 billion in aggregate principal
+
+amount of convertible promissory notes to Broadcom or, subject to our consent (not to be unreasonably
+
+withheld), a designated financial partner pursuant to a note purchase agreement that we entered into with
+
+Broadcom in March 2026 (the Infrastructure Partner 2026 NPA) to finance obligations under the 2026 Lease
+
+Arrangement. We may be required to use a substantial portion of our cash flows from operations to pay
+
+interest, principal, or other required payments on our indebtedness.
+
+The delivery of shares of our Class N common stock upon conversion of our outstanding convertible promissory
+
+notes could result in dilution to our existing stockholders. Following this offering, assuming the conversion of
+
+our outstanding convertible promissory notes into an aggregate of shares of our Class N common stock,
+
+based upon the aggregate principal and accrued and unpaid interest on such notes as of September 30, 2026,
+
+and an assumed initial public offering price of $ per share (which is the midpoint of the estimated offering
+
+price range set forth on the cover page of this prospectus), holders of our outstanding convertible promissory
+
+notes would collectively hold in the aggregate approximately % of our Class N common stock, which
+
+represents % of our total outstanding common stock following this offering. Pursuant to the terms of the
+
+Amazon Notes, to the extent that the full amount of such notes cannot convert into shares of our Class N
+
+common stock in connection with this offering as a result of the ownership cap applicable to the Amazon Notes,
+
+which may be waived at Amazons election, the remaining balance of such notes will automatically convert,
+
+subject to Amazons ownership cap, into shares of our ClassN common stock at the applicable conversion price
+
+at the end of each fiscal quarter following this offering or, if such remaining balance of such notes does not
+
+convert before the applicable maturity date because of the applicable ownership cap, such balance will be repaid
+
+in cash at such maturity date. For more information about our convertible promissory notes, see the section
+
+titled Managements Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and
+
+Capital ResourcesConvertible Notes.
+
+Our ability to make scheduled payments in respect of, to pay interest on, or to refinance our indebtedness,
+
+including the AR Credit Agreement and our outstanding convertible promissory notes, depends on our future
+
+performance, which is subject to economic, financial, competitive, and other factors beyond our control. Such
+
+payments will reduce the funds available to us for working capital, capital expenditures, and other corporate
+
+purposes and may limit our ability to obtain additional financing for working capital, capital expenditures,
+
+expansion plans, and other investments. Our business may not be able to generate cash flows from operations
+
+in the future that are sufficient to service our debt and make necessary capital expenditures. If we are unable to
+
+generate such cash flows, we may be required to adopt one or more alternatives, such as selling assets or
+
+obtaining additional debt financing or equity capital on terms that may be onerous or highly dilutive. Our
+
+ability to refinance our indebtedness will depend on the capital markets and our financial condition at such
+
+time. We may not be able to engage in any of these activities or engage in these activities on desirable terms,
+
+which could result in a default on our debt obligations and adversely affect our financial condition. Further, the
+
+terms of the AR Credit Agreement and the Infrastructure Partner 2026 NPA include a number of covenants
+
+that limit our ability and our subsidiaries ability to, among other things, incur additional indebtedness, create
+
+liens, make asset sales or investments, engage in mergers or other fundamental changes, pay dividends or
+
+distributions, repurchase or redeem equity interests, and enter into transactions with affiliates. The terms of the
+
+AR Credit Agreement may restrict our current and future operations and could adversely affect our ability to
+
+finance our future operations or capital needs. For more information, see the sections titled We may require
+
+additional capital to meet our substantial ongoing obligations and support our business growth, and our ability
+
+to generate sufficient revenue and secure additional capital on acceptable terms is critical to our continued
+
+operations and competitive position and If the market for our models, platform, and applications develops
+
+more slowly than we expect or declines, our growth may slow or stall, and our business, financial condition, and
+
+results of operations could be adversely affected.
+
+We are also subject to variable interest rate risk because the interest rate under the AR Credit Agreement
+
+varies based on a margin over an indexed rate or an adjusted base rate. If interest rates associated with our
+
+floating rate debt increase, our debt service obligations in connection with the AR Credit Agreement would
+
+increase even though the amount borrowed remained the same, and our available cash would correspondingly
+
+decrease. Our substantial amount of debt, combined with variable interest rates, could limit our flexibility in
+
+planning for, or reacting to, changes in our business and the markets in which we operate, including limiting
+
+our future investments or our ability to enter into acquisitions and strategic partnerships, and obtain financing
+
+for such transactions.
+
+59
+
+Table of Contents
+
+In addition, our indebtedness, combined with our other financial obligations and contractual commitments,
+
+could have other important consequences. For example, they could
+
+make us more vulnerable to adverse changes in general U.S. and non-U.S. economic, industry, and
+
+competitive conditions and adverse changes in government regulation
+
+limit our flexibility in planning for, or reacting to, changes in our business and our industry
+
+place us at a disadvantage compared to our competitors that have less or fixed rate indebtedness
+
+limit our ability to borrow additional amounts to fund acquisitions, for working capital, and for other
+
+general corporate purposes and
+
+make an acquisition of our company less attractive or more difficult.
+
+Any of these factors could adversely affect our business, financial condition, and results of operations. In
+
+addition, if we incur additional indebtedness, the risks related to our business and our ability to service or repay
+
+our indebtedness would increase.
+
+A failure by us to comply with the covenants, including those tied, in part, to operational and performance-
+
+based metrics, or payment obligations under the AR Credit Agreement or our outstanding convertible
+
+promissory notes, as applicable, whether as a result of financial constraints, operational challenges,
+
+inexperience managing complex infrastructure and large-scale capital commitments, or otherwise, could result
+
+in an event of default under these instruments. Upon an event of default under the AR Credit Agreement, the
+
+lenders would have the right to accelerate all amounts outstanding and exercise other remedies available to
+
+them, including enforcing their rights against the collateral securing the AR Credit Agreement. An event of
+
+default under our outstanding convertible promissory notes would similarly give the noteholders the right to
+
+declare all amounts outstanding under our outstanding convertible promissory notes immediately due and
+
+payable. If the indebtedness under the AR Credit Agreement andor outstanding convertible promissory notes
+
+were to be accelerated, we may not have sufficient cash or be able to borrow sufficient funds to refinance such
+
+indebtedness or sell sufficient assets to repay such indebtedness, which could adversely affect our business,
+
+cash flows, financial condition, and results of operations. Even if we were able to obtain new financing, it may
+
+not be on commercially reasonable terms or on terms that are acceptable to us.
+
+We may not have the ability to raise the funds necessary to repay the principal and accrued
+
+interest of our outstanding convertible promissory notes or the AR Credit Agreement in cash
+
+when required by the terms of the notes or the AR Credit Agreement, as applicable, or at
+
+their maturity.
+
+In connection with the completion of this offering, the Amazon Notes will convert into Class N common stock,
+
+subject, in each case, to an ownership cap as set forth in the Amazon Notes, which may be waived at Amazons
+
+election. In the event that any of the notes comprising the Amazon Notes cannot be fully converted without
+
+exceeding the ownership cap applicable to such notes, the balance of any such notes will remain outstanding
+
+and will automatically convert, subject to Amazons ownership cap, into shares of our Class N common stock at
+
+the applicable conversion price at the end of each fiscal quarter following the completion of this offering. To the
+
+extent any of our convertible promissory notes remain outstanding, or if we issue any additional convertible
+
+promissory notes following the completion of this offering, we will be required to repay such note in cash at its
+
+maturity, unless earlier converted or repaid pursuant to the terms of such note. In addition, we will be required
+
+to repay in full all amounts outstanding under the AR Credit Agreement upon its maturity. However, we may
+
+not have enough available cash on hand or be able to obtain financing at the time we are required to make any
+
+repayments on outstanding convertible promissory notes or under the AR Credit Agreement.
+
+Our failure to repay any outstanding convertible promissory notes or amounts outstanding under the AR
+
+Credit Agreement, as applicable, at a time when the repayment is required, or to pay cash upon any conversion
+
+of outstanding convertible promissory notes, as applicable, as required pursuant to the terms of each note or
+
+the applicable NPA, would constitute a default thereunder. A default under an outstanding convertible
+
+promissory note andor the applicable NPA as well as the AR Credit Agreement could also lead to a default
+
+under agreements governing our existing and future indebtedness. If the payment of the related indebtedness
+
+were to be accelerated after any applicable notice or grace periods, we may not have sufficient funds to repay
+
+60
+
+Table of Contents
+
+such indebtedness and repay the amounts outstanding under the AR Credit Agreement or outstanding
+
+convertible promissory notes at the applicable maturity, or when repayment is otherwise required pursuant to
+
+the terms of the note.
+
+Our pricing structures for our models, platform, and applications change from time to time,
+
+which could adversely affect our business, financial condition, and results of operations.
+
+We have in the past changed, and we expect that in the future we may change, our pricing models, including as
+
+a result of competition, macroeconomic conditions, compliance with increased regulatory hurdles, the
+
+maturation of the market for AI models, platforms, and applications, or changes in how our models, platform,
+
+and applications are broadly consumed. As a result, we may be required to reduce our prices, offer shorter
+
+contract durations or offer alternative pricing models, such as outcome or task-based pricing, any of which
+
+could adversely affect our business. In addition, our agentic offerings are structurally more compute-intensive
+
+than our non-agentic offerings. If we are unable to implement pricing models that adequately reflect the higher
+
+compute intensity of these agentic workloads, or if competitive dynamics constrain our ability to price these
+
+products at levels sufficient to cover their costs, our compute efficiency could deteriorate as agentic usage
+
+grows, which could adversely affect our ability to achieve or sustain profitability.
+
+Additionally, as we continue to target selling our models, platform, and applications to our enterprise
+
+customers, these customers may demand different pricing structures, price concessions, or additional
+
+functionality at the same price levels. If we are unable to modify or develop effective pricing models and
+
+strategies that are attractive to existing and prospective customers, our business, financial condition, and
+
+results of operations may be adversely affected.
+
+If we are unable to attract, retain, or motivate highly skilled personnel, we may not be able to
+
+grow or operate effectively.
+
+Our performance and ability to grow our business depend on the talents and efforts of highly skilled
+
+individuals, and our future success depends on our continuing ability to identify, hire, develop, motivate, and
+
+retain highly skilled personnel for all areas of our organization. Our business is particularly dependent on a
+
+limited pool of researchers, engineers, and technical personnel with specialized experience in designing,
+
+training, deploying, and operating frontier models and the underlying infrastructure that supports them. We
+
+have from time to time experienced, and we expect to continue to experience, difficulty in hiring and retaining
+
+highly skilled employees with appropriate qualifications at the pace that our operations require. Competition in
+
+our industry relating to hiring and retaining employees with appropriate qualifications and on competitive
+
+economic terms is exceptionally intense and has escalated significantly in recent periods, especially in the San
+
+Francisco Bay Area, where our headquarters is located and where we have a substantial presence and need for
+
+highly skilled personnel. A small number of well-capitalized AI labs, large technology companies, and new
+
+market entrants compete aggressively for a relatively fixed supply of individuals with the requisite expertise.
+
+Certain of our competitors have directly solicited, and continue to directly solicit, our employees. Our former
+
+employees are also generally able to join or found competing companies immediately following their departure,
+
+and, subject to their confidentiality and other legal obligations, use the general skills, know-how, and
+
+experience they developed while employed by us. In addition, we have in the past, and may in the future, be
+
+subject to claims or disputes relating to the solicitation or hiring of employees, including allegations that such
+
+hires violated non-compete, non-solicitation, intellectual property, confidentiality, or other employment-
+
+related obligations.
+
+As our company continues to grow and our industry evolves, the incentives to attract, retain, and motivate
+
+employees provided by our cash and equity awards or by future arrangements may not be as effective as in the
+
+past. Many of the companies with which we compete for highly qualified personnel have greater resources than
+
+we have and may be willing to offer more attractive compensation packages. We may need to invest significant
+
+amounts of cash and equity to attract and retain employees, resulting in substantial additional share-based
+
+compensation expense and dilution to the ownership of our existing stockholders, and we may never realize
+
+returns on these investments that are commensurate with the level of our expenditures. If the perceived value
+
+of our compensatory package declines or is subject to significant value fluctuations, it may adversely affect our
+
+ability to attract and retain highly skilled employees. In addition, we have a number of current employees,
+
+including our co-founders, who hold equity in our company or whose equity awards are or will become
+
+substantially vested upon the completion of this offering. This may be particularly true for certain of our longer-
+
+61
+
+Table of Contents
+
+tenured and early employees, whose equity holdings may represent a significant portion of their personal
+
+wealth. As a result, it may be difficult for us to continue to retain and motivate these employees, and the value
+
+of their holdings could affect their decisions about whether or not they continue to work for us.
+
+Historically, our ability to successfully attract, retain, and motivate our personnel has in large part been due to
+
+our company culture and commitment to safety and responsible scaling and development. If we are unable to
+
+maintain our culture, if we make decisions as a company that our employees do not believe align with our
+
+values, or if events take place, regardless of fault, that call into question whether we have operated in
+
+accordance with our values, our ability to attract, retain, and motivate our personnel may be adversely affected.
+
+Rapid growth has also created workforce-planning and execution challenges, including limitations in our ability
+
+to accurately forecast headcount needs, periods of accelerated hiring followed by corrective actions that may
+
+disrupt operations or reduce morale, and increased reliance on managers operating at greater scale than in
+
+their prior experience, which introduces additional operational, legal, reputational, and execution risk as the
+
+organization continues to expand. If we move into new geographies, we will need to attract and recruit skilled
+
+personnel in those geographic areas, but it may be challenging for us to compete with traditional local
+
+employers in these regions for talent. If we fail to attract new personnel or fail to retain and motivate our
+
+current personnel who are capable of meeting our growing technical, operational, and managerial
+
+requirements, our business may be adversely affected.
+
+In addition, heightened public attention on AI has increased physical and informational security risks, and we
+
+have experienced threats to employee safety and attempts to obtain confidential information through physical
+
+or digital means, which, despite the security measures we have implemented at certain facilities, may be
+
+exacerbated by our global and flexible working arrangements and could adversely affect employee morale,
+
+productivity, and our ability to attract, retain, and motivate highly skilled personnel. Addressing these risks also
+
+requires us to attract and retain additional specialized security personnel, and difficulties in recruiting qualified
+
+security engineers could further exacerbate these challenges.
+
+Further, changes to immigration policies that restrain the flow of professional and technical talent, including
+
+but not limited to U.S. immigration policies, may inhibit our ability to recruit and retain highly qualified
+
+employees. If we are unable to effectively manage the foregoing risks, our prospects, business, financial
+
+condition, and results of operations could be adversely affected.
+
+We have a limited operating history in an evolving and nascent industry, which makes it
+
+difficult to evaluate our future prospects and may increase the risk that we will not be
+
+successful.
+
+We were founded in 2021 and launched our first commercial product, Claude, publicly in the first quarter of
+
+2023. During this time, our business has grown rapidly. We operate in an industry characterized by rapid and
+
+unpredictable technological change, evolving safety and regulatory expectations, significant capital and
+
+compute requirements, and uncertain commercial adoption patterns. Our limited operating history and our
+
+evolving and nascent business and industry make it difficult to evaluate our future prospects and the risks and
+
+challenges we may encounter. These risks and challenges include our ability to
+
+develop and release new models and products on a timely and cost-effective basis
+
+accurately forecast our revenue, operating expenses, and compute requirements in an environment
+
+characterized by rapid technological change and usage patterns that may scale in nonlinear or
+
+exponential ways
+
+secure access to sufficient compute to meet the needs of all our workloads and manage the risks related
+
+to securing compute
+
+effectively manage our growth, including our cash flows and capital needs
+
+accurately predict customer demands, expectations, or requirements
+
+maintain and enhance our brand and reputation
+
+attract, retain, utilize, and motivate our highly skilled personnel
+
+62
+
+Table of Contents
+
+build and maintain our strategic partnerships
+
+anticipate and respond to macroeconomic changes and changes in the industry and markets in which
+
+we operate
+
+anticipate and respond to evolving regulatory requirements and political dynamics
+
+maintain our safety-focused approach while meeting market demands
+
+successfully monetize our models, platform, and applications and
+
+respond effectively to competitive threats.
+
+If we fail to effectively address the risks and challenges we face, including those described elsewhere in this
+
+Risk Factors section, our business, financial condition, and results of operations could be adversely affected.
+
+We have encountered in the past, and will encounter in the future, risks and uncertainties frequently
+
+experienced by growing companies with limited operating histories in rapidly changing industries. If our
+
+assumptions regarding these risks and uncertainties, which we use to plan and operate our business, are
+
+incorrect or change, or if we do not address these risks successfully, our results of operations could differ
+
+materially from our expectations and our business, financial condition, and results of operations could be
+
+adversely affected.
+
+We are at an early stage of our revenue growth, we have experienced rapid growth in recent
+
+periods, and our historical growth rates are not indicative of future performance or our
+
+ability to sustain or forecast future revenue growth.
+
+We have grown rapidly over the last several years, and therefore our recent revenue growth and financial
+
+performance should not be considered indicative of our future performance. In 2023, 2024, and 2025, our
+
+revenue was $41 million, $386 million, and $4.6 billion, respectively, representing year-over-year growth rates
+
+of 841% and 1,088%, respectively. In the six months ended June 30, 2026, our revenue was $16.3 billion,
+
+representing a year-over-year growth rate of 1,300%. We do not expect our revenue will continue to grow at
+
+comparable rates, and we cannot assure you that it will continue to grow at all. Our recent growth may reflect
+
+early-stage adoption dynamics, the nascency of the AI market, and rapid initial customer expansion that may
+
+not be sustainable over time, and it may decline significantly and more rapidly than we anticipate, as our
+
+revenue base increases, as the market matures, and as a result of the other factors described below. We expect
+
+our revenue growth rate to decline over time. In addition, because the AI industry is very nascent, we have
+
+struggled to accurately forecast our revenue in the past and may struggle to do so in the future.
+
+We may experience declines in our revenue growth rate as a result of a number of factors, including
+
+the slowing or shifting demand for our models, platform, and applications or the market as a whole
+
+our inability to secure sufficient compute and direct it efficiently across our organization
+
+insufficient growth in the number of users and paying customers of our models, platform, and
+
+applications or the failure to increase sales of our models, platform, and applications to existing
+
+customers
+
+failures, errors, or performance limitations in our models, including unexpected behavior, degraded
+
+outputs, outages, or inability to meet customer expectations or use-case requirements
+
+increasing competition among existing competitors and new market entrants
+
+the safety and risk mitigation measures we implement in developing and releasing our models,
+
+including any resulting delays in model development or release, or the adoption of laws, regulations, or
+
+standards that affect how and when frontier AI models may be developed or released
+
+our failure to continue to capitalize on growth opportunities
+
+63
+
+Table of Contents
+
+our ability to collect amounts owed to us from customers, including as a result of customer credit risk,
+
+billing disputes, or delays in payment
+
+our reliance on, and the terms of, relationships with key partners and distribution channels, and any
+
+changes to, or termination of, such arrangements
+
+new or more restrictive laws, regulations, or regulatory actions affecting AI development, deployment,
+
+or use, including taxes, fees, or other measures specifically applicable to AI companies or AI-related
+
+labor displacement and
+
+reputational harm, adverse publicity, or heightened scrutiny that reduces customer adoption or
+
+expansion.
+
+We expect to continue to make investments in the development and expansion of our business, which may not
+
+result in increased revenue or growth.If our revenue or revenue growth rate declines, or our revenue growth
+
+rate declines with respect to certain markets or customer categories, our business, results of operations, and
+
+investors perceptions of our business could be adversely affected, which could in turn negatively impact the
+
+market price of our Class A common stock.
+
+If we fail to manage our growth effectively, our brand, business, financial condition, and
+
+results of operations could be adversely affected.
+
+Since 2021, we have experienced rapid growth in our employee headcount, number of customers, geographic
+
+reach, and our operations, and we expect this growth to continue. For example, the number of our employees
+
+increased from approximately 940 as of December 31, 2024 to approximately 5,300 as of September 30, 2026,
+
+and our revenue increased from $197 million for the three months ended December 31, 2024 to $ for the
+
+three months ended September 30, 2026. This growth has placed, and may continue to place, a significant
+
+strain on our management and our operational and financial resources.
+
+Our ability to successfully manage this growth depends on our ability to scale and integrate our operations,
+
+workforce, technologies, models, platform, and applications, and any future acquisitions while preserving the
+
+beneficial aspects of our company culture. Continued growth may strain our ability to develop and enhance our
+
+operational, compliance, technical, financial, and management controls, improve our reporting systems and
+
+procedures, recruit, train, and retain highly skilled personnel, and maintain customer satisfaction. If we are
+
+unable to do so, our operations, compliance with applicable laws, development and deployment of our models,
+
+platform, and applications, and customer experience could be adversely affected.
+
+As we expand, we must also manage an increasing number of relationships with strategic partners, customers,
+
+vendors, and other third parties that are critical to our business, including those that provide compute, data
+
+center infrastructure, networking, software tools, and other services necessary to develop, train, deploy, and
+
+operate our models. If these relationships deteriorate, or if our third-party providers are unable to scale their
+
+services in line with our growth, we may experience delays, service disruptions, reduced sales to new customers,
+
+or the loss of existing customers, which could adversely affect our revenue growth and reputation. In addition,
+
+our ability to manage our growth depends in part on our ability to accurately plan for and efficiently manage the
+
+compute required to develop, train, deploy, and operate our models. Any material underinvestment or
+
+overinvestment in such resources could result in service limitations, increased costs, operational inefficiencies,
+
+or delays in model development, any of which could adversely affect our business.
+
+If we fail to effectively manage the growth of our business and operations, we may be unable to maintain
+
+effective internal controls, reporting systems, and compliance processes, may face increased regulatory
+
+scrutiny, and may suffer harm to our brand and our ability to attract and retain customers. As a result, our
+
+business, financial condition, and results of operations could be adversely affected.
+
+We have a history of net losses and may not generate sufficient revenue to achieve or sustain
+
+profitability in the future.
+
+We have incurred net losses in each year since our founding, including a net loss of $1.5 billion, $8.3 billion,
+
+and $42.0 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $80.7 billion for
+
+the six months ended June 30, 2026, and we may not achieve or sustain profitability in the future. These net
+
+64
+
+Table of Contents
+
+losses included change in fair value of convertible notes, derivative liabilities, and SAFEs of $1.0 billion, $5.4
+
+billion, and $34.3 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $72.4
+
+billion for the six months ended June 30, 2026, primarily driven by an increase in the fair value of our
+
+outstanding convertible promissory notes resulting from an increase in our enterprise valuation during each of
+
+the respective periods. While we have experienced significant revenue growth in recent periods, our business is
+
+highly capital intensive, and our ability to remain at the frontier of AI capabilities and secure sufficient compute
+
+depends in meaningful part on our ability to generate and sustain substantial revenue and improve our
+
+operating efficiencies. Further, our revenue growth may not be sustainable, and our rate of growth may
+
+decrease. We expect our costs will increase over time and our losses will continue as we expect to invest
+
+significant resources towards growing our business and operating as a public company.
+
+We have expended and expect to continue to expend substantial financial and other resources related to the
+
+growth of our business, including
+
+investments to enhance our access and ability to secure compute
+
+continued investments in research and development to remain at the frontier of AI model development
+
+and introduce new features and enhancements to our models, platform, and applications
+
+expansion of our sales and marketing activities
+
+hiring additional employees
+
+expansion of our operations across our multiple geographies
+
+investments in our expanding general and administrative organization
+
+costs associated with complying with existing and evolving laws, regulations, and industry standards
+
+applicable to AI, data protection, privacy, and security, among other things
+
+investments in AI safety, risk management, monitoring, evaluation, and mitigation efforts
+
+additional expenses associated with operating as a public company and
+
+costs related to legal proceedings.
+
+For example, as of and subsequent to September 30, 2026, we have entered into purchase commitments and
+
+lease agreements, including short-term commitments, as well as leases not yet commenced, with an aggregate
+
+committed spend of more than $, which may substantially increase our operating expenses and cash
+
+requirements. These expenditures and investments may be more costly than we expect and may not result in
+
+increased revenue or growth in our business. If we are unable to successfully address these risks and challenges
+
+as we encounter them, our business, financial condition, and results of operations could be adversely affected.
+
+In addition, we have granted RSUs to our employees and other service providers, which vest upon the
+
+satisfaction of both a service-based condition and a performance-based condition. The service-based condition
+
+for a majority of such RSUs is satisfied over a period of four years. The performance-based condition of such
+
+RSUs will be satisfied upon the effectiveness of the registration statement of which this prospectus forms a part.
+
+We account for award forfeitures as they occur. As of June 30, 2026, no stock-based compensation expense had
+
+been recognized for such RSUs because a qualifying event as described above was not probable. In the quarter
+
+in which this offering is completed, we will begin recording stock-based compensation expense based on the
+
+grant-date fair value of the RSUs using the accelerated attribution method. If this offering had been completed
+
+on June 30, 2026, we would have recorded $2.9 billion of cumulative stock-based compensation expense
+
+related to the RSUs on that date, and an additional $23.7 billion of unrecognized stock-based compensation
+
+expense related to the RSUs, would be recognized over a weighted-average period of approximately 2.1 years. In
+
+addition to stock-based compensation expense associated with the RSUs, as of June 30, 2026, we had
+
+unrecognized stock-based compensation expense of approximately $3.1 billion related to other outstanding
+
+equity awards, which we expect to recognize over a weighted-average period of approximately1.3 years.
+
+Subsequent to June 30, 2026, our board of directors approved the grant of RSUs, which grants will
+
+become effective as of the day prior to the effectiveness of the registration statement of which this prospectus
+
+65
+
+Table of Contents
+
+forms a part. The grant-date fair value of each RSU subject to these awards will be equal to the price per share
+
+of the shares sold in this offering. These RSUs will vest upon the satisfaction of both a service-based condition
+
+and a performance-based condition as described above. Assuming a grant-date fair value of $ per share,
+
+which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, we
+
+would expect to record stock-based compensation expense of $billion related to such RSUs, over a
+
+weighted-average period of approximately years, commencing in the quarter in which this offering is
+
+completed. Following the completion of this offering, the stock-based compensation expense related to RSUs
+
+and other outstanding equity awards will result in increases in our expenses in future periods, in particular, in
+
+the quarter in which this offering is completed.
+
+If we fail to generate adequate revenue to offset increases in our operating expenses, improve our operating
+
+efficiencies, or otherwise manage our costs as we invest in our business, we may continue to incur significant
+
+losses in the future and may not be able to achieve or sustain profitability.
+
+Our results of operations may fluctuate significantly on a period-to-period basis, including as
+
+a result of strategic investment decisions and substantial compute-related expenditures,
+
+which could cause the market price of our Class A common stock to decline.
+
+Our results of operations have historically varied from period to period, and we expect that our results of
+
+operations will continue to vary significantly fromquarter to quarterand fromyear to year in the future,such
+
+that the results of any one period should not be relied upon as an indication of future performance. In
+
+particular, our financial performance may be significantly influenced by strategic decisions we make regarding
+
+the allocation of resources and the amount and timing of operating expenses and capital expenditures that we
+
+may incur to maintain and expand our business and operations and to remain competitive. We may make
+
+significant and, at times, discrete investments in areas such as research and development, compute and related
+
+infrastructure, product development, safety and security initiatives, and go-to-market expansion, which may be
+
+uneven in size and timing. These investments may materially increase our expenses in a given period and cause
+
+our results of operations to fluctuate significantly or vary meaningfully from period to period, and may result in
+
+periods of reduced margins or increased losses even if our underlying business trends remain unchanged or
+
+continue to improve. As a result, our financial performance may not follow any consistent pattern, and prior or
+
+interim periods of improved results of operations should not be viewed as indicative of our future performance.
+
+Our revenue in any period has also included, and we expect will continue to include, amounts from customers
+
+that we subsequently determine are using our models, platform, and applications in violation of our usage
+
+policy or commercial terms, and whose revenue would not be expected to recur following restriction or
+
+termination of their access. We believe this dynamic is common in our industry. Detection, investigation, and
+
+enforcement take time, and we cannot assure you that we will identify such usage, or restrict or terminate a
+
+customers access, on a timely basis or at all. Customers may evade our controls, and customers whose access is
+
+restricted or terminated may re-register under new accounts. As a result, revenue from such customers may
+
+continue or recur notwithstanding our enforcement efforts. Our continued detection and enforcement efforts,
+
+and in particular, the enhancement of such efforts in August and September 2026, and the timing of any
+
+resulting restrictions or terminations, are expected to reduce the percentage of revenue from customers using
+
+our models, platform, and applications in violation of our usage policy or commercial terms, and may reduce
+
+our overall revenue and growth rates in future periods and contribute to variability in our results from period to
+
+period.
+
+Our results of operations are also affected by seasonal variations in the usage of our models, platform, and
+
+applications. Because our revenue is primarily consumption-based, we have experienced, and expect to
+
+continue to experience, lower usage around holiday and vacation periods in the summer and winter, when
+
+certain customer workflows slow down and overall customer activity declines. Our results of operations may
+
+also vary with the timing and cadence of our model and product releases, which are uneven from period to
+
+period and may cause usage, and therefore revenue, to increase or decline between periods. Our historical
+
+growth rates may have masked the impact of seasonal trends on our results. As our growth rate declines over
+
+time, we expect seasonal effects to become more apparent in, and to have a greater effect on, our period-to-
+
+period results. In addition, other seasonal trends may develop, and the seasonal trends that we currently
+
+experience may become more pronounced, as we continue to scale.
+
+66
+
+Table of Contents
+
+Our results of operations may also fluctuate due to a variety of additional factors, many of which are outside of
+
+our control and difficult to predict, including, but not limited to
+
+the level of demand for our models, platform, and applications, and our ability to forecast such
+
+demand
+
+our ability to forecast required compute and to obtain additional compute as needed, and any increase
+
+in costs thereof
+
+our ability to expand usage within organizations
+
+our ability to attract and retain customers and increase sales of our models, platform, and applications
+
+to existing customers
+
+our ability to effectively manage our relationships with our third-party service providers and our
+
+reliance on such providers for critical infrastructure and services
+
+the timing and success of new features, integrations, capabilities, and enhancements by us to our
+
+models, platform, and applications, or by our competitors to their products
+
+the safety and risk mitigation measures we implement in developing and releasing our models,
+
+including any resulting delays in model development or release, or the adoption of laws, regulations, or
+
+standards that affect how and when frontier AI models may be developed or released
+
+our ability to achieve widespread acceptance and use of our models, platform, and applications
+
+changes in the competitive landscape and introduction of competitive companies, models, platforms,
+
+and applications
+
+security breaches, technical difficulties, or interruptions to our models, platform, or application
+
+real or perceived improper or unauthorized use of, disclosure of, or access to confidential, proprietary,
+
+personal, or sensitive data
+
+pricing pressure as a result of competition or otherwise
+
+adverse litigation judgments, other dispute-related settlement payments, or other litigation-related
+
+costs
+
+the number of employees hired
+
+the timing of the grant or vesting of equity awards to employees, directors, or consultants
+
+the vesting and settlement of equity awards, including any cash used to remit taxes on behalf of
+
+employees in connection with the settlement of RSUs and the recognition of stock-based compensation
+
+expense
+
+our ability to maintain, protect, and enhance our brand
+
+declines in the values of foreign currencies relative to the U.S. dollar
+
+changes in, and continuing uncertainty in relation to, the legislative or regulatory environment with
+
+respect to our industry
+
+enforcement by government regulators, including investigations, proceedings, fines, orders,
+
+designations, or consent decrees
+
+increased legal and regulatory compliance costs in new and existing markets
+
+costs and timing of expenses related to the potential acquisition of businesses, talent, technologies, or
+
+intellectual property, including potentially significant amortization costs and possible write-downs
+
+67
+
+Table of Contents
+
+catastrophic events, and resulting interruptions in the availability of our models, platform, and
+
+applications and
+
+general economic conditions in either U.S. or non-U.S. markets, including geopolitical uncertainty and
+
+instability and their effects on software spending.
+
+Any one or more of the factors above, or other factors in this Risk Factors section, may result in significant
+
+fluctuations in our results of operations or other key metrics, which may cause such results to fall below our
+
+financial guidance or other projections or the expectations of analysts or investors, and cause the market price
+
+of our Class A common stock to decline.
+
+Certain of our operating metrics are subject to assumptions and limitations. As a result, these
+
+metrics may not provide an accurate indication of our actual performance or future results.
+
+Certain of our operating metrics, such as Run-Rate Revenue, Net Revenue Retention, customer counts, and
+
+Claudes success rate, are based on numerous assumptions and limitations, are calculated using data from
+
+internal systems and tools, have not been independently verified by third parties, are subject to inherent
+
+limitations in measurement, and may not accurately reflect actual results or provide an accurate indication of
+
+future or expected results.
+
+Run-Rate Revenue is not a substitute for revenue prepared in accordance with GAAP or a forecast of revenue.
+
+Because Run-Rate Revenue annualizes our consumption-based fees for a trailing 28-day period and our
+
+subscription-based fees for a single month, it assumes that activity during those measurement periods has
+
+continued at the same rate for a full year. Because it annualizes a short measurement period, Run-Rate Revenue
+
+measured during a period of seasonally higher or lower usage, such as the reduced usage we have typically
+
+experienced around holiday and vacation periods in the summer and winter, may differ significantly from Run-
+
+Rate Revenue measured at other times, and in each case may not correspond to the revenue we ultimately
+
+recognize over any quarter or fiscal year. Our actual historical revenue and future revenue may differ materially
+
+from this measure. Both our consumption-based and subscription-based revenue may fluctuate from period to
+
+period, and in particular, our consumption-based revenue may fluctuate significantly or decline if customers
+
+reduce, limit, or do not expand their usage or spend, or shift usage to lower-priced models, including in
+
+response to competitive offerings, pricing changes, changes in customer budgets or strategic priorities
+
+regarding AI investment, seasonality, or general economic conditions. In addition, sustaining and growing this
+
+revenue depends on our ability to continue to offer models at the frontier of AI capability, which we may not be
+
+able to do. Our ability or decision to remain at the frontier may also be affected by the safety and risk mitigation
+
+measures we implement in developing and releasing our models. Our recent Run-Rate Revenue growth has also
+
+been driven in part by rapid initial customer adoption and expansion often characteristic of an early-adoption
+
+period and the nascency of the AI market that may not be sustainable, and we expect our Run-Rate Revenue
+
+growth rate to decline over time, and it may decline significantly and more rapidly than we anticipate, as our
+
+revenue base increases, as the market matures, and as a result of other factors. In addition, our Run-Rate
+
+Revenue has included, and we expect will continue to include, amounts from customers that we subsequently
+
+determine are using our models, platform, and applications in violation of our usage policy or commercial
+
+terms. When we identify such usage, we seek to restrict or terminate the customers access however, because
+
+our detection, investigation, and enforcement take time, our Run-Rate Revenue as of any measurement date
+
+includes amounts from customers that have not yet been restricted or terminated and whose revenue would not
+
+be expected to recur following restriction or termination of their access. Our continued enforcement efforts may
+
+reduce our revenue, Run-Rate Revenue, and growth rates in future periods. See Our results of operations
+
+may fluctuate significantly on a period-to-period basis, including as a result of strategic investment decisions
+
+and substantial compute-related expenditures, which could cause the market price of our Class A common
+
+stock to decline. Accordingly, our Run-Rate Revenue as of any measurement date is not indicative of historical
+
+revenue and may not be indicative of our revenue for any future period.
+
+The determination of the number of customers with $100,000 or more of revenue on a TTM basis is based on
+
+our internal records and involves judgment, including in determining which accounts should be aggregated and
+
+treated as belonging to the same organization. We apply our most current customer records in calculating this
+
+metric, and our determination of which accounts belong to a single organization may change over time,
+
+including as a result of acquisitions and account consolidations. We do not separately define or internally track
+
+a category of enterprise customers, and our customers are not segmented or measured internally by reference
+
+68
+
+Table of Contents
+
+to whether a given customer is an enterprise. Because spending $100,000 or more on our products is
+
+generally characteristic of organizational rather than individual usage, we use the number of and revenue from
+
+customers with $100,000 or more of revenue on a TTM basis as our measure of enterprise adoption and
+
+engagement with Claude throughout this prospectus, including in references to enterprise customers and
+
+enterprise adoption. As a result, this measure may not precisely correspond to the population of organizations
+
+that would otherwise be characterized as enterprises, and may over- or understate that population.
+
+Certain success rates and similar AI performance metrics with respect to Claude referenced in this prospectus
+
+are measured using internal benchmarks developed and maintained by us. These benchmarks reflect our
+
+proprietary testing methodology and are based on tasks, data sets, and evaluation criteria selected by us.
+
+Performance results derived from these internal benchmarks may not be replicable by customers, researchers,
+
+or other third parties who evaluate our models using different tasks, data sets, evaluation criteria, or computing
+
+environments. Accordingly, such metrics may differ materially from performance outcomes experienced by any
+
+particular customer or user in their specific deployment environment or use case, and should not be relied upon
+
+as indicative of the results any customer or user will achieve. Because AI performance benchmarking
+
+methodologies vary significantly across developers, such performance metrics as we measure them may also not
+
+be comparable to similarly titled or analogous metrics reported by other AI developers, and direct comparison
+
+of such metrics across companies may be misleading.
+
+Investors should consider these metrics in light of the assumptions and processes used in calculating such
+
+metrics and the limitations as a result thereof. In addition, our internal systems and tools have a number of
+
+limitations, which could result in unexpected changes to our metrics, including the metrics we publicly disclose.
+
+Further, certain of our operating metrics are based in part on data reported to us by our third-party partners. If
+
+the internal systems and tools we use to track these metrics or if the data reported to us by our third-party
+
+partners undercount or overcount performance, or contain algorithmic or other technical errors, the data we
+
+report may not be accurate. While our operating metrics are based on what we believe to be reasonable
+
+estimates for the applicable period of measurement, there are inherent challenges in these measurements. We
+
+may also refine or change our methodology for tracking certain operating metrics from time to time, to the
+
+extent practicable, including to improve overall accuracy and alignment with managements view of business
+
+and operating performance and as a result of acquisitions. Any of these updates may result in changes in certain
+
+business and operating trends and may impact comparability of these metrics across periods. Investors should
+
+not place undue reliance on these metrics as an indicator of our future or expected results. Moreover, these
+
+metrics may differ from similarly titled metrics presented by other companies and may not be comparable to
+
+such other metrics. See the sections titled Managements Discussion and Analysis of Financial Condition and
+
+Results of Operations and Business for more information regarding our operating metrics.
+
+Our business is subject to an evolving and uncertain regulatory and political environment,
+
+which could increase our costs, restrict our operations, or adversely affect demand for our
+
+models, platform, and applications.
+
+The development, deployment, and use of AI technologies are subject to rapidly evolving and increasingly
+
+complex laws, regulations, and governmental scrutiny across multiple jurisdictions. Governments and
+
+regulatory authorities in the United States and in other countries in which we operate or distribute our models,
+
+platform, and applications have proposed, enacted, or are considering legislation, regulations, and guidance
+
+relating to AI model development and deployment, data usage and privacy, transparency, safety, consumer
+
+protection, content generation, intellectual property, cybersecurity, export controls, and competition. For
+
+example, the EU AI Regulation 20241689 (EU AI Act), which came into force in August 2024 and will
+
+become fully applicable following a transitional period, imposes a range of obligations on AI systems and
+
+general-purpose AI models placed on the market or put into service in the EU, including transparency, risk
+
+management, and governance requirements, and provides for significant penalties for non-compliance. In the
+
+United States, the regulatory framework for AI remains fragmented and uncertain, with evolving federal policy
+
+initiatives, continued debate regarding the scope and durability of executive actions, and a growing number of
+
+state-level laws and proposals addressing the development and use of AI. For example, several U.S. states,
+
+including New York and California, have passed AI safety laws. More generally, proposed legislation in the
+
+United States contemplates more expansive governmental oversight of AI, including potential nationalization,
+
+mandatory shutdown or discontinuation requirements for frontier AI systems or other strategic measures to
+
+prevent or manage the development of artificial superintelligence. Further, in June 2026, the U.S. federal
+
+69
+
+Table of Contents
+
+government issued an executive order establishing a voluntary framework for developers of frontier AI models
+
+to engage with the government prior to the deployment of such AI technologies, directing federal agencies to
+
+strengthen cyber defenses, and prioritizing enforcement against criminal misuse of AI although that
+
+framework is voluntary and does not establish a mandatory governmental licensing, preclearance, or permitting
+
+requirement for the development or deployment of AI models, it reflects increasing federal attention to the
+
+national security implications of frontier AI and the order may be followed by further executive or legislative
+
+action. If executive or legislative action of this nature were enacted to regulate AI technologies, it could
+
+constrain how we operate our business.
+
+We have also advocated, and expect to continue to advocate, for regulation and oversight of frontier AI,
+
+including industry-wide standards primarily relevant to the use of AI to accelerate AI development, so that AI
+
+capabilities do not advance faster than the safety, alignment, and security practices needed to support them,
+
+and we have proposed working with the U.S. government and other frontier AI developers to establish safety
+
+standards. Regulatory or other measures of the kind we advocate, if adopted, would apply to us and could
+
+increase our compliance burdens, limit our product development or deployment flexibility, affect how and
+
+when we develop or release new models, or otherwise slow our growth. The effect that any such measures would
+
+have on the rate at which AI capabilities advance, and on our business, is uncertain and would depend on the
+
+specific requirements adopted and on the extent to which safety, alignment, and security practices advance
+
+together with model capabilities. There is no assurance that policymakers will adopt the approaches we
+
+support, and our advocacy has in the past drawn, and may continue to draw, criticism, heightened scrutiny, or
+
+other challenges.
+
+Regulatory approaches to AI also vary significantly by geography and may be influenced by local political,
+
+economic, social, or environmental considerations. In some jurisdictions, public concern regarding the
+
+potential displacement of labor by AI systems, the perceived societal impacts of automation, or the
+
+environmental footprint associated with AI development and deployment, has led, or could lead, to restrictive
+
+legislation or other governmental actions. In particular, to the extent the rate of job displacement rapidly
+
+increases due to the adoption of AI or for related reasons, whether actual or perceived, governments or other
+
+regulatory authorities may intervene to slow the rate of adoption of AI, restrict its use, or take other actions that
+
+increase the cost of developing, deploying, or commercializing AI systems. Even in the absence of any legal or
+
+regulatory requirements, we may from time to time voluntarily elect to take actions intended to ameliorate the
+
+impact of such displacement. Any such actions would represent additional costs and expenditures for which we
+
+may not receive a corresponding commercial benefit, and there can be no assurance that any such actions
+
+would be effective in reducing displacement-related harms or in mitigating the associated reputational,
+
+regulatory, or political risks.
+
+Increasingly restrictive AI regulation in the United States and other western jurisdictions could enable
+
+competitors operating in less regulated environments to innovate, scale, and deploy AI technologies more
+
+rapidly, potentially allowing such competitors to become more advanced and pose greater competitive or
+
+strategic threats over time. In particular, increasing strategic competition between the United States and China
+
+in AI development may lead to divergent regulatory approaches, with the potential for the United States to
+
+impose restrictions on AI companies interactions with Chinese entities or markets, and for China to impose
+
+reciprocal measures that limit access to or demand for U.S.-origin AI models, platforms, and applications.
+
+As a result of these and other regulatory developments, our business could be subject to a wide range of
+
+regulatory limitations, obligations, or restrictions, including, among other things
+
+limitations, conditions, or prohibitions on certain AI use cases, applications, or deployment contexts
+
+requirements to modify, restrict, delay, or withdraw specific models, features, or functionalities in
+
+particular markets or for specific customers for example, in early 2026, the U.S. Department of War
+
+suggested it could invoke the Defense Production Act to compel us to remove the limitations we have
+
+placed on the use of our models for autonomous weapons and mass surveillance
+
+heightened transparency, documentation, auditing, governance, or human-oversight obligations
+
+restrictions on the collection, use, transfer, localization, or retention of data used to train or operate AI
+
+systems, based on intellectual property, privacy, or other frameworks
+
+70
+
+Table of Contents
+
+mandated safety, risk-management, or evaluation frameworks, certifications, or approvals, including
+
+requirements for independent, third-party review or approval prior to model development, training, or
+
+release for example, in September 2026, a state attorney general asked a court, in pending litigation
+
+alleging harm to minors, to enjoin an AI company from developing new AI models without
+
+independent, third-party guardrails and approval
+
+restrictions on data center development or expansion, including permitting, zoning, or limits on energy
+
+or water usage
+
+heightened energy efficiency, sustainability, or environmental compliance requirements
+
+limitations on cross-border deployment, access, or commercialization of AI models, including through
+
+export controls, national security determinations, or other governmental measures that could restrict
+
+our ability to sell our models, platform, and applications in certain markets or to certain customers for
+
+example, in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on
+
+our Fable 5 and Mythos 5 models, which were subsequently lifted after we updated our safeguards, and
+
+other models may be subject to these or similar export restrictions in the future for more information,
+
+see the section titled Governmental trade controls, including export and import controls, sanctions,
+
+customs requirements, and related regimes, could subject us to liability or loss of contracting privileges
+
+or limit our ability to compete in certain markets.
+
+AI-specific taxes, fees, reporting obligations, or other financial burdens or
+
+outright bans or moratoria on activities material to our business or the businesses of our customers
+
+and partners.
+
+Because AI regulation is developing rapidly and in a fragmented manner, including as a result of political
+
+considerations, public sentiment, and geopolitical dynamics, we will not be able to fully anticipate how existing
+
+laws will be interpreted or enforced, how new legal frameworks will evolve, or whether regulatory regimes
+
+across jurisdictions will converge or diverge over time. Compliance with new or changing requirements may
+
+require substantial investment in research and development, compliance systems, operational processes, or
+
+localized offerings, and we may need to adjust or limit our activities in certain jurisdictions to address
+
+conflicting or inconsistent legal obligations. In addition, regulatory actions affecting our customers or partners,
+
+including restrictions on their ability to develop, deploy, or commercialize AI-enabled models, platforms, or
+
+applications, could indirectly reduce demand for our models, platform, and applications. Any failure, or
+
+perceived failure, to comply with applicable laws and regulations, or any significant increase in the cost or
+
+complexity of compliance, could result in litigation, enforcement actions, penalties, reputational harm, delayed
+
+or reduced adoption of our offerings, or other adverse effects on our business, financial condition, and results of
+
+operations.
+
+Additionally, as AI systems become more sophisticated, emerging debates regarding whether AI systems
+
+possess or could develop forms of sentience or moral status may lead to regulatory requirements, public
+
+pressure, or advocacy efforts that could constrain how we develop, train, deploy, or modify our models, increase
+
+our costs, or affect our reputation, regardless of the ultimate resolution of these philosophical and scientific
+
+questions. In addition, given our focus on developing frontier AI, and the way we approach model sentience and
+
+moral status, we may face heightened scrutiny or pressure in connection with these debates and could elect to
+
+adopt policies, safeguards, or limitations regarding model development, deployment, or modification that go
+
+beyond existing legal requirements, which could constrain our operations, increase costs, or limit the
+
+commercial potential of our models, platform, and applications. If we are unable to manage the foregoing risks,
+
+our business, financial condition, and results of operations could be adversely affected.
+
+Our sales to government entities and highly regulated organizations are subject to challenges
+
+and risks.
+
+Our customers include U.S. and non-U.S. government agencies. Revenue from government agency contracts
+
+represented, in aggregate, approximately 1% of our revenue in each of the periods presented in this prospectus
+
+however, the risks described below, including the governmental actions described in this risk factor, are not
+
+limited to revenue generated directly from government agencies and could affect our relationships with
+
+71
+
+Table of Contents
+
+commercial customers and partners. Sales to government agencies involve additional risks, including, but not
+
+limited to
+
+changes in government fiscal or procurement policies, or decreases in government funding available
+
+for procurement of goods and services generally, or for our federal government contracts specifically
+
+changes in government programs or applicable requirements
+
+our ability to agree on commercial terms with government entities, including with respect to the
+
+permitted use of our models, platform, and applications
+
+restrictions in the grant of personnel security clearances to our employees
+
+our ability to maintain facility clearances required to perform on classified contracts for U.S.
+
+government and non-U.S. government agencies, as applicable
+
+changes in the political environment, including before or after a change to the leadership within the
+
+government administration, and any resulting uncertainty or changes in policy or priorities and
+
+resultant funding
+
+changes in the governments attitude towards us as a company or our technology
+
+appeals, disputes, or litigation relating to government procurement, including but not limited to bid
+
+protests by unsuccessful bidders on potential or actual awards of contracts to us or our partners by the
+
+government
+
+the adoption of new laws or regulations or changes to existing laws or regulations
+
+budgetary constraints, reductions in government spending, operating under continuing resolutions,
+
+disruptions from government shutdowns, or similar measures and constraints imposed by any lapses
+
+in appropriations for the federal government or certain of its departments and agencies
+
+influence by, or competition from, third parties with respect to pending, new, or existing contracts with
+
+government customers
+
+changes in legal obligations or political or social attitudes with respect to security or privacy issues
+
+potential delays or changes in the government appropriations or procurement processes, including as a
+
+result of events such as war, incidents of terrorism, natural disasters, and public health concerns and
+
+increased or unexpected costs or unanticipated delays caused by other factors outside of our control.
+
+Any such event or activity, among others, could cause governments and government agencies to delay, pause, or
+
+cancel contracts or seek to modify their contracts, or refrain from entering into contracts with us or purchasing
+
+our models, platform, and applications in the future, undermine our ability to pursue future contracts, damage
+
+our relationships with partners and customers who also sell models, platforms, or applications to governments,
+
+or reduce the size or timing of payment with respect to our services to or purchases from existing or new
+
+government customers. Any of the foregoing could have an adverse effect on our prospects, business, financial
+
+condition, and results of operations.
+
+For example, in February 2026, in response to our publicly stated position that our technology should not be
+
+used for mass domestic surveillance or fully autonomous weapons, the President of the United States stated
+
+that he had directed that all federal executive agencies cease using our technology. At the same time, the
+
+Secretary of War directed the Department of War to designate us as a supply-chain risk to national security
+
+and stated that effective immediately, no contractor, supplier, or partner that does business with the United
+
+States military may conduct any commercial activity with us. On March 4, 2026, the Department of War sent
+
+us two lettersone pursuant to 10 U.S.C. 3252 and the other pursuant to Section 4713 of the Federal
+
+Acquisition Supply Chain Security Act (FASCSA)asserting that our models, platform, and applications
+
+present a supply-chain risk. These actions referenced above are defined herein as Challenged Actions. We
+
+vigorously challenged these Challenged Actions in Anthropic PBC v. Department of War, et al. (N.D. Cal.) and
+
+72
+
+Table of Contents
+
+Anthropic PBC v. Department of War, et al. (D.C. Cir.). After first obtaining an order from the United States
+
+District Court for the Northern District of California that preliminarily enjoined the Department of Wars
+
+directive and Section 3252 supply-chain risk designation of us and preliminarily enjoined the other defendant
+
+agencies from implementing the Presidential directive until final resolution of the lawsuit, we subsequently, on
+
+August 27, 2026, obtained an order from the United States District Court for the Northern District of California
+
+that largely granted summary judgment in our favor. The court ruled that the Challenged Actions were
+
+retaliatory acts meant to punish us for speech protected under the First Amendment to the United States
+
+Constitution and violated our rights under the Due Process Clause of the Fifth Amendment to the United States
+
+Constitution. The court also held that the Secretary of Wars actions, particularly with respect to 10 U.S.C.
+
+3252, violated the Administrative Procedure Act because they were in excess of statutory authority, contrary to
+
+law, and arbitrary and capricious. The court entered final judgment largely in our favor. The defendants filed a
+
+notice of appeal of the preliminary injunction. The D.C. Circuit Court of Appeals, however, denied our motion to
+
+stay the Secretary of Wars Section 4713 designation of us as a supply-chain risk pending review on the merits.
+
+On September 25, 2026, in a 2-1 split decision, the D.C. Circuit Court of Appeals denied our petition for review,
+
+ruling that the Department of Wars Section 4713 supply-chain risk designation was proper, and that our rights
+
+under the First Amendment and Due Process Clause of the Fifth Amendment were not violated. We filed a
+
+petition for rehearing en banc asking the full D.C. Circuit to review the panels decision. We cannot predict the
+
+ultimate outcome of these lawsuits. While we continue to work with government agencies, we cannot be certain
+
+that the resolution of these lawsuits will not adversely affect our ability to sell to government agencies and other
+
+customers that sell products and services to the U.S. government, and in turn adversely affect our business,
+
+financial condition, and results of operations.
+
+Further, in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable
+
+5 and Mythos 5 models, which we disabled for all customers until those restrictions were lifted, as described in
+
+the section titled Governmental trade controls, including export and import controls, sanctions, customs
+
+requirements, and related regimes, could subject us to liability or loss of contracting privileges or limit our
+
+ability to compete in certain markets. Similar restrictions could be imposed again in the future.
+
+Each of the foregoing may result in significant reputational harm, including adverse media coverage, public
+
+scrutiny, and negative perceptions among existing and prospective customers, partners, employees, and
+
+investors, regardless of the ultimate outcome of the litigation. Such perceptions may lead customers, including
+
+commercial enterprises and international customers, to delay or forgo purchasing our models, platform, and
+
+applications, or to impose additional diligence, contractual restrictions, or termination rights in connection
+
+with engagements with us. Further, these developments may create uncertainty in the broader market
+
+regarding our long-term ability to operate in certain sectors, which could result in increased volatility in
+
+demand for our models, platform, and applications, reduced willingness of counterparties to enter into long-
+
+term or strategic arrangements with us, and fluctuations in investor sentiment, any of which could adversely
+
+affect our business, financial condition, and results of operations.
+
+The bidding process for government contracts can be highly competitive, expensive, and time-consuming, often
+
+requiring significant upfront time and expense without any assurance that these efforts will generate revenue.
+
+Government agencies often undertake a significant evaluation process that results in a lengthy sales cycle. Some
+
+contracts with government agencies are structured in phases or include options, where each phase is subject to
+
+satisfaction of certain conditions and where the exercise of options is discretionary. As a result, the actual scope
+
+of work performed pursuant to any such contracts, in addition to related contract revenue, could be less than
+
+total contract value. In addition, product purchases by such organizations are frequently subject to budget
+
+constraints, multiple approvals, and unanticipated administrative, processing, and other delays. All of these
+
+factors can add further risk to business conducted with these customers and could lead to lower revenue results
+
+than originally anticipated.
+
+We also must comply with both local and international laws and regulations relating to the formation,
+
+administration, and performance of contracts. Contracts with government agencies are subject to extensive,
+
+evolving, and sometimes complex regulations which provide public sector customers rights, many of which are
+
+not typically found in commercial contracts. For example, government contracts generally include the ability of
+
+government agencies to terminate for convenience, which if exercised, would result in a lower contract value
+
+and lower than anticipated revenue generated by such arrangement. Any changes to the government
+
+73
+
+Table of Contents
+
+regulations applicable to government contracts could affect our ability to enter into, or the profitability of,
+
+contracts with government entities.
+
+Our subsidiary, Anthropic Public Institutions, LLC, is required to maintain a facility security clearance to
+
+perform on classified contracts for the U.S. federal government and must comply with National Industrial
+
+Security Program requirements. Failure to comply with these requirements may result in Anthropic Public
+
+Institutions, LLCs facility clearance being revoked. To the extent Anthropic Public Institutions, LLC, is not able
+
+to maintain its facility security clearance, we may not be able to bid on or win new classified contracts, and
+
+existing contracts requiring a facility security clearance could be terminated, either of which could have an
+
+adverse impact on our business, financial condition, and results of operations.
+
+Contracts with government agencies are also subject to audits and reviews of contractors administrative
+
+processes and other contract-related compliance obligations. Breaches of government contracts, failure to
+
+comply with applicable regulations, failure to obtain and maintain required facility andor security clearances,
+
+or unfavorable findings from government audits or reviews could result in contract terminations, reputational
+
+harm, or other adverse consequences, including ineligibility to sell to government agencies in the future,
+
+government refusal to continue buying our subscriptions, or fines or civil or criminal liability, which could
+
+adversely affect our results of operations.
+
+Our reliance on a limited number of CSPs and suppliers, some of which have strategic and
+
+investment relationships with us and are our customers, creates complex dynamics that could
+
+give rise to conflicts of interest and adversely affect our access to compute.
+
+We rely on a limited number of CSPsAmazon.com, Inc. (together with its affiliates, Amazon), Google, and
+
+Microsoft Corporation (Microsoft)and suppliers, such as Broadcom, for compute and critical components of
+
+our compute infrastructure. These relationships are governed by contractual arrangements that, while
+
+providing us with significant committed compute, also create dependencies and potential vulnerabilities. These
+
+CSPs may experience service outages, security incidents, or capacity constraints that affect our operations. The
+
+terms of our arrangements, including pricing, compute commitments, and service levels, are subject to
+
+negotiation upon renewal, and we may be unable to secure renewals on terms as favorable as our current
+
+arrangements. Migrating workloads to alternative providers would be costly, time-consuming, and
+
+operationally complex, and may not be feasible within timeframes that would avoid material disruption to our
+
+model development roadmap or our ability to serve customers. The engineering investment required to
+
+maintain the performance of our unified compute platform across new hardware environments means that any
+
+such migration could degrade our compute efficiency, increasing the compute and infrastructure costs required
+
+to support a given level of business activity during and following any such migration period.
+
+Our relationships with these CSPs are multifaceted and complex. Amazon, Google, and Microsoft, through their
+
+respective affiliates, have made significant equity investments in our company. At the same time, they may have
+
+made, and may in the future make, equity investments in, provide financing to, or otherwise support companies
+
+whose models, platforms, or applications compete with ours. These CSPs are also our customers, purchasing
+
+our intelligence service for internal use or for their own products and services. Their purchasing decisions may
+
+be influenced by their own competing offerings, which could affect their demand for our intelligence service.
+
+Additionally, Amazon, Google, and Microsoft are among the largest technology companies in the world, each
+
+with substantial AI research and development programs, AI-powered models, platforms, and applications that
+
+compete with ours, and strategic interests that may not be fully aligned with our own. Amazon, Google, and
+
+Microsoft each offer AI services and develop and deploy competing AI models through their respective cloud
+
+platforms. We make certain of our models available through these cloud platforms, and our distribution
+
+relationships with Amazon, Google, and Microsoft generate revenue for us, but they also create dependencies,
+
+give them visibility into our pricing and commercial terms across the platforms they operate, and may influence
+
+their incentives regarding pricing, compute allocation, service quality, sales prioritization, and compensation
+
+structures. To the extent these CSPs promote, integrate, prioritize, or provide customer access to our models,
+
+platform, and applications on terms that are less favorable than those applicable to their own competing
+
+offerings or to the offerings of other companies, including with respect to pricing, commercial terms, product
+
+placement, integration, or access to compute or sales incentives, our competitive position, customer adoption,
+
+and business results could be adversely affected.
+
+74
+
+Table of Contents
+
+Our relationships with our strategic partnerswhether with these CSPs, who simultaneously serve as our
+
+investors, customers, distribution partners, and competitors, or with Broadcom, which simultaneously serves as
+
+a supplier and lessorcreate potential conflicts of interest that are difficult to fully anticipate or mitigate. These
+
+CSPs may prioritize their own compute needs or those of their other customers, including competitors in which
+
+they have invested, may gain insight into our operations and compute requirements through their roles as
+
+providers that could inform their competitive strategies, or may make business decisions regarding their
+
+platforms that disadvantage our models, platform, and applications relative to their own offerings or the
+
+offerings of other companies they support. Similarly, Broadcom may prioritize the supply of AI accelerators and
+
+infrastructure capacity to other customers, alter the terms of our equipment lease or the operation of our
+
+dedicated facilities, or make decisions regarding the availability or pricing of hardware that adversely affect our
+
+access to the compute infrastructure they provide. Any deterioration in these relationships, or any decision by
+
+Amazon, Google, Microsoft, or Broadcom to reduce their support for our models, platform, and applications or
+
+limit our access to compute, could adversely affect our business. In addition, such relationships, including any
+
+exclusive or preferential arrangements, investment ties, bundling of services, or cooperative initiatives, have
+
+attracted and may in the future attract antitrust or competition law scrutiny from regulators and private
+
+plaintiffs in the United States or other non-U.S. jurisdictions, and any resulting investigations, enforcement
+
+actions, or required modifications to our business arrangements could be costly, distracting, and harmful to our
+
+business.
+
+If we are unable to manage the foregoing risks, our business, financial condition, and results of operations
+
+could be adversely affected.
+
+We are pursuing initiatives to develop our own data center infrastructure, which involves
+
+significant capital commitments, operational complexities, and execution risks that could
+
+adversely affect our business, financial condition, and results of operations.
+
+To help reduce our dependence on CSPs, address constraints on available compute, and secure access to
+
+compute at the scale necessary for frontier model development, we are pursuing initiatives to develop our own
+
+dedicated on-premise data center infrastructure. These efforts include long-term leases and partnerships with
+
+third-party partners to procure the underlying real estate, power, and data center facilities while we lease
+
+capacity in those facilities and contract with specialized third-party operators for ongoing facility management.
+
+We also procure certain compute and infrastructure equipment directly and operate them in dedicated data
+
+center facilities leased and operated on our behalf, to our specification. For example, under the 2026 Lease
+
+Arrangement, the rent payments over the five-year equipment lease are equal to an aggregate of approximately
+
+$125.2 billion excluding interest, with rent payable in quarterly installments and payment obligations typically
+
+commencing upon AI infrastructure equipment becoming ready for service at the applicable data center
+
+facility. The 2026 Lease Arrangement is non-cancelable by the parties to such agreement during the applicable
+
+lease period except in the case of a default. In addition, we deposited cash into a restricted account in April
+
+2026 for the benefit of Broadcom to secure compute capacity, which amount may be released or applied toward
+
+obligations under the lease depending on the satisfaction of specified conditions. Under certain circumstances,
+
+we may be required to place additional cash into this restricted account for future amounts due under the 2026
+
+Lease Arrangement. Upon the occurrence of certain uncured events of default, such as certain payment or
+
+performance failures pursuant to the terms of the 2026 Lease Arrangement, a substantial portion of our
+
+obligations under the 2026 Lease Arrangement would be accelerated and, while we have access to multiple
+
+sources of capital and are not dependent on the potential financing capacity provided in the Infrastructure
+
+Partner 2026 NPA that we entered into in connection with the 2026 Lease Arrangement, we may not be
+
+permitted to elect to issue the convertible promissory notes under the Infrastructure Partner 2026 NPA to
+
+finance such obligations. Furthermore, we may in the future continue to directly procure such data center
+
+infrastructure and we may also undertake other efforts to build out our own compute and infrastructure and
+
+invest more deeply in the compute supply chain, which could result in significantly higher upfront costs and
+
+adversely affect our financial condition and results of operations. For more information about such lease
+
+arrangements, see the sections titled Managements Discussion and Analysis of Financial Condition and
+
+Results of OperationsLiquidity and Capital ResourcesContractual Obligations and If our actual compute
+
+requirements differ materially from our projections, we may fail to secure sufficient compute to meet our needs
+
+or we may be committed to excess compute that remains underutilized. We have limited experience in
+
+managing such data center infrastructure projects at scale. Successfully executing on these data center
+
+75
+
+Table of Contents
+
+infrastructure initiatives requires us to recruit personnel with relevant experience and manage complex multi-
+
+year deployment timelines and relationships with developers, contractors, and service providers.
+
+As we continue to build out our own compute and infrastructure and further vertically integrate across the
+
+compute supply chain, these multi-party structures will become more prevalent and will expose us to a
+
+structural timing and liquidity risk in our payment obligations that differs from our historical compute
+
+arrangements. Historically, we have generally obtained compute from a limited number of CSPs under
+
+arrangements in which our compute and infrastructure expenses are paid as compute becomes available to us.
+
+In the future, we expect we will increasingly enter into separate arrangements with a greater number of
+
+different counterparties, each responsible for discrete services or inputs across the compute supply chain.
+
+Under many of these arrangements, we may be obligated to pay a counterparty once it performs its discrete
+
+obligation, even if delays or failures by others prevent us from assembling those discrete services or inputs into
+
+usable compute we can deploy to generate revenue. In addition, counterparties may deliver their services or
+
+inputs later than scheduled, or may fail to deliver them at all, and any such delay or non-delivery by a single
+
+counterparty could postpone or prevent our deployment of the associated compute. As a result, we could incur
+
+significant cash outflows without obtaining usable compute on a timely basis, which could adversely affect our
+
+liquidity, financial condition, and results of operations.
+
+Certain of our data center infrastructure arrangements involve complex multi-party structures in which chips
+
+are procured from or through our CSPs, leased to us by third-party financing entities, installed in data center
+
+facilities procured by or through other third-party partners, and operated by yet another set of third-party
+
+service providers. The complexity of these arrangements increases execution risk, as delays or failures by any
+
+participant in the chain could affect the availability or performance of the resulting compute.
+
+In addition, to meet the substantial energy demands of large-scale AI workloads, we have entered into, and may
+
+in the future enter into, arrangements involving dedicated power generation assets andor the development,
+
+operation, or control of power stations or other energy infrastructure. Such arrangements expose us to new
+
+operational, regulatory, and environmental liabilities, and require expertise and capabilities that differ from our
+
+core competencies. Successfully executing on these power infrastructure projects requires us to recruit
+
+personnel with relevant experience and manage complex multi-year deployment timelines and relationships
+
+with developers, contractors, service providers, and regulators, including aligning project completion schedules
+
+with the data centers such projects are expected to serve in order to avoid timing delays that constrain our
+
+ability to utilize this compute and to generate revenue and recoup costs from such investments.
+
+Deployment of our data center and power infrastructure projects involves execution risks, including delays due
+
+to permitting issues, change in law, force majeure, lack of network connectivity between facilities, supply chain
+
+disruptions, labor shortages, or contractor performance cost overruns due to equipment pricing changes,
+
+design modifications, or unanticipated requirements and technical risks that facilities may not perform as
+
+specified or achieve expected reliability or efficiency levels. Certain of our arrangements are also subject to
+
+conditions precedent that must be satisfied before construction can commence, and completion guarantees that
+
+may terminate upon a lender foreclosure before construction is complete, leaving us without contractual
+
+recourse to compel completion. Certain of these arrangements also depend on the continued performance of
+
+credit support provided by a third party that is also a competitor, the loss or impairment of which could
+
+jeopardize the underlying arrangements. Such credit support provided to third-party data center developers or
+
+hardware providers, from which we derive no direct contractual rights or obligations, may also affect the
+
+availability and cost of data center capacity and hardware generally. Additionally, new tariffs or import fees
+
+enacted after the effective date of certain arrangements may be passed through to us as additional costs. Any
+
+delay in or limitation on the amount of compute delivered to us could adversely affect our business.
+
+The capital-intensive and long-term nature of leasing and equipping data center capacity creates financial risk,
+
+as large upfront investments and long-term payment commitments must be made months before facilities
+
+become fully operational. If our compute requirements or technology needs change, we may find ourselves with
+
+leased or dedicated infrastructure that is poorly suited to our actual needs, and technological changes in AI
+
+hardware or training methodologies could render such infrastructure less efficient than newer alternatives.
+
+Unlike CSP arrangements where compute can be adjusted relatively dynamically, long-term leases, reserved
+
+compute, and dedicated infrastructure investments are much less flexible and create long-term financial
+
+obligations regardless of whether the capacity continues to meet our needs. For example, certain of our
+
+dedicated power and data center infrastructure arrangements have initial terms of 20 years with annual
+
+76
+
+Table of Contents
+
+escalators and include take-or-pay compute payment obligations and uncapped fuel cost pass-throughs that
+
+apply for the duration of the term regardless of actual utilization.
+
+Our increasing efforts to build out our compute and infrastructure require substantial capital expenditures and
+
+are changing the cash flow profile of our business. Whereas the compute purchased through our CSP
+
+arrangements is generally paid as the compute becomes available to us, we expect an increasing portion of our
+
+compute and infrastructure investment to take the form of capital expenditures and other commitments,
+
+including lease obligations, that require significant upfront payments well in advance of the related compute
+
+becoming operational. Our existing commitments are substantial, and we expect our capital expenditures to
+
+increase significantly as we continue to expand our compute and infrastructure build-out. See the section titled
+
+Managements Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and
+
+Capital Resources for more information. As a result, we expect these investments to result in significant net
+
+cash used in operating and investing activities for the foreseeable future, and our net cash used in these
+
+activities may increase regardless of whether our financial performance improves. The magnitude and timing of
+
+these investments are inherently uncertain and may change materially over short periods, including as a result
+
+of decisions to accelerate or expand our build-out, and such changes could rapidly and significantly alter our
+
+expected results of operations and cash flows for a given period. If our cash flows from operations and available
+
+capital are insufficient to fund these investments, we may be required to raise additional capital on unfavorable
+
+terms or to reduce, defer, or forgo planned investments, any of which could adversely affect our business,
+
+financial condition, and results of operations.
+
+If we are unable to successfully execute on our data center infrastructure initiatives, experience significant
+
+delays or cost overruns, or find that the infrastructure we lease, deploy, or build does not meet our evolving
+
+needs, we may not realize the expected benefits of these investments, which could adversely affect our business,
+
+financial condition, and results of operations.
+
+We may not successfully build, expand, and deploy our sales and marketing organization in a
+
+timely manner, or we may not successfully hire, retain, train, and motivate our sales
+
+personnel.
+
+We have grown, and will continue to grow, our direct sales force. Whether we are able to increase our sales to
+
+existing customers, identify and engage new customers, and enter new U.S. and non-U.S. markets, each with a
+
+focus on broadening use of our models, platform, and applications across departments and entire
+
+organizations, will depend, among other things, on our ability to successfully test new market segments and
+
+customer types, validate product-market fit through early customer engagement, timely and effectively scale
+
+our sales motions, and adapt quickly when market conditions change. We have limited experience building,
+
+managing, and scaling a direct sales force. We have dedicated and plan to continue to dedicate significant
+
+resources to sales and marketing programs and to expand our sales and marketing capabilities to target
+
+potential customers and achieve broader market adoption of our models, platform, and applications, but there
+
+is no guarantee that we will be successful in attracting and maintaining additional customers. Moreover,
+
+identifying, recruiting, training, and managing sales personnel requires significant time, expense, and attention,
+
+including from our senior management and other key personnel, as there is significant competition for sales
+
+personnel with the skills and technical knowledge that we require, including the ability to understand and
+
+communicate complex and evolving AI use cases, regulatory considerations, customer risk sensitivities, and
+
+rapidly changing product capabilities. These challenges are particularly acute for international expansion,
+
+which requires qualified personnel with international experience, language skills, cultural competencies in the
+
+geographic markets which we target, and an aligned mission-oriented culture. If we are unable to successfully
+
+manage the foregoing risks, our prospects, business, financial condition, and results of operations could be
+
+adversely affected.
+
+We periodically make adjustments to our sales and marketing organization in response to market
+
+opportunities, product introductions or enhancements, acquisitions, and other internal and external
+
+considerations. Any future sales and marketing organization changes may result in a temporary reduction of
+
+productivity, which could negatively affect our rate of growth. In addition, any significant change to the way we
+
+structure and implement the compensation of our sales and marketing organization may be disruptive or may
+
+not be effective and may adversely affect our revenue growth. If we are unable to attract, hire, develop, retain,
+
+and motivate qualified sales and marketing personnel, if our new sales personnel are unable to achieve
+
+sufficient sales productivity levels in a reasonable period of time or at all, if our marketing programs are not
+
+77
+
+Table of Contents
+
+effective, or if we are unable to effectively build, expand, and manage our sales organization and operations, our
+
+sales and revenue may grow more slowly than expected or decline, and our prospects, business, financial
+
+condition, and results of operations could be adversely affected.
+
+We have a limited history under our current go-to-market strategy, and our efforts to scale
+
+and evolve our customer acquisition, engagement, and retention model may not be successful.
+
+We have a limited history selling consumption-based access and subscriptions to our models, platform, and
+
+applications under our current business model, and we are continuing to scale our operations and go-to-market
+
+strategy. Our future success depends in part on our ability to continue attracting, onboarding, expanding, and
+
+retaining customers under this model, including determining whether, when, and how to target, develop, and
+
+deepen relationships with individual customers over time. Scaling our operations, including hiring, training,
+
+and retaining additional sales, sales engineering, and customer-facing personnel, and evolving our go-to-
+
+market strategy may take more time and require more effort than anticipated, and the results of these efforts
+
+are difficult to predict. Our business and operating models have not been fully proven, and our limited history
+
+with our current approach makes it difficult to evaluate our prospects, plan for future growth, and forecast our
+
+results of operations.
+
+In addition, our strategy and customer mix expose us to competitive and execution risks as the AI market
+
+continues to evolve. We have organized our research priorities, our product roadmap, and our go-to-market and
+
+Applied AI teams around enterprise use cases, and much of the diffusion of Claude to date has been organic
+
+driven by individual users, including software developers and prosumers, who adopt Claude and often serve as
+
+internal champions for its broader adoption within their organizationsrather than by a large direct sales
+
+organization. This approach has allowed us to scale with a smaller team relative to other large enterprise
+
+technology companies, but it assumes that our applications and distribution will be sufficient to deliver the
+
+capabilities of our models to customers and that individual adoption will continue to translate into
+
+organizational adoption and expansion. Companies with stronger consumer-facing businesses, larger consumer
+
+user bases, more established brands, broader distribution, or deeper customer relationships may choose to
+
+increase their focus on enterprise customers or enterprise use cases and could leverage their scale, resources,
+
+and market presence to compete more effectively with us. In particular, if such competitors capture the
+
+individual users from whom our enterprise adoption often originates, whether through their consumer
+
+applications, by integrating AI functionality into products those users already use, or otherwise, our pipeline of
+
+enterprise opportunities could be reduced in ways that a direct sales organization of our current scale may not
+
+be able to offset. Building a substantially larger sales organization, or shifting investment toward consumer and
+
+application-layer products to compete for those users, would require significant time and resources beyond our
+
+current plans and would involve the trade-offs described in the section titled We face intense competition,
+
+and if we are unable to compete effectively, our business, financial condition, and results of operations could be
+
+adversely affected. Because we have a limited operating history with our current business model and go-to-
+
+market strategy, we have less experience predicting customer adoption, expansion, and retention patterns, and
+
+customers may be slower than expected to adopt our models, platform, and applications or expand usage. Any
+
+failure to successfully scale our operations or effectively execute on and refine our go-to-market strategy could
+
+adversely affect our business, financial condition, and results of operations.
+
+Sales to enterprise customers involve complexities and risks that could adversely affect our
+
+business, financial condition, and results of operations.
+
+We derive a large portion of our revenue from sales to enterprise customers. Our ability to attract, retain, and
+
+expand relationships with enterprise customers depends in significant part on our ability to meet their
+
+generally heightened operational, technical, security, reliability, and compliance requirements. Enterprises
+
+typically expect high levels of system uptime, performance consistency, data security, auditability, internal
+
+controls, and scalability, as well as robust support and service levels. These requirements may be heightened for
+
+our agentic offerings, where enterprise customers may require detailed logs of each action taken by an
+
+autonomous agent within their environment, including the agents reasoning, tool invocations, and interactions
+
+with external systems. Any inability on our part to provide such logs at the level of granularity customers
+
+require could limit adoption of our agentic offerings by enterprises or result in customer attrition. If we are
+
+unable to deliver models, platforms, and applications that satisfy these enterprise-grade requirements, or if we
+
+experience outages, performance degradation, security incidents, or other operational failures, our ability to
+
+retain and expand with enterprise customers could be adversely affected. In particular, as we deploy our Virtual
+
+78
+
+Table of Contents
+
+Collaborators, like Claude Code and Claude Cowork, within enterprise environments, these systems will require
+
+broad permissions and deep integrations with customers internal tools, data, and workflows in order to operate
+
+effectively. The scope of access required for extended autonomous operation within enterprise environments
+
+increases the potential consequences of any security incident, unauthorized action, or system error, and
+
+customers may be reluctant to grant the level of access necessary for these systems to operate as designed if
+
+they are unable to satisfy themselves regarding the security, reliability, and controllability of such systems.
+
+Our sales efforts targeted at enterprise customers also involve risks and challenges that may not be present, or
+
+that are present to a lesser extent, with sales to individuals or smaller organizations. These customers typically
+
+have longer decision-making cycles, require greater security, functionality, and scalability, expect a broader
+
+range of services, demand that providers take on a larger share of risks, require higher levels of customer
+
+service and support, and expect greater payment flexibility from vendors. We are often required to spend
+
+significant time and resources to familiarize potential customers with the value proposition of our models,
+
+platform, and applications, and this process can take substantially longer with enterprise customers.
+
+Enterprises may also require extensive customization, integration support, and vendor evaluations and demand
+
+more features than we currently offer or than we can deliver within their expected timeframes, including
+
+enterprise-grade functionality such as audit logs, compliance features, security controls, and monitoring tools,
+
+which may require us to make additional investments in product development or services capabilities, before
+
+committing to a purchase. As a result of these factors, sales opportunities with enterprises require us to devote
+
+greater sales and administrative support and professional services resources to each such enterprise customer,
+
+which increases our costs, lengthens our sales cycle, and diverts our sales and customer service resources to a
+
+smaller number of enterprise customers. We may spend substantial time, effort, and money in our sales efforts
+
+without successfully producing any sales. In addition, many enterprise customers procure and deploy our
+
+models, platform, and applications through third-party CSP marketplaces, which can introduce additional
+
+complexity into the sales and deployment process, including reliance on the CSPs procurement, security, and
+
+billing workflows and coordination with multiple counterparties. As a result, our ability to attract, retain, and
+
+expand relationships with enterprise customers may also depend in part on factors outside of our direct control,
+
+including the policies, priorities, and operational requirements of such CSPs.
+
+A number of factors influence the length and variability of our sales cycle. The need to educate potential
+
+customers about the uses and benefits of our models, platform, and applications, the discretionary nature of
+
+purchasing and budget cycles, competitive evaluation and purchasing approval processes, procurement
+
+requirements, legal review of contract terms, and internal budget authorization procedures all contribute to
+
+sales cycle variability. The length of our sales cycle, from identification of the opportunity to deal closure, may
+
+vary significantly from customer to customer. Sales to enterprises typically take longer to complete than sales to
+
+individuals or smaller organizations.
+
+A meaningful portion of our revenue is attributable to a relatively small number of such enterprise customer
+
+relationships, which increases the variability of our financial results. Our revenue in any given quarter could be
+
+substantially affected if these customers decide to significantly reduce their spend.
+
+Enterprises may have deep existing relationships with our competitors for models, platforms, and applications
+
+we do not offer, or relationships with others in the ecosystem, which may delay our sales process or cause us to
+
+not succeed with such enterprises.
+
+Enterprise customers are particularly sensitive to our ability to maintain the uptime of our models, platform,
+
+and applications, and any degradation in uptime could adversely affect our ability to retain and expand with our
+
+enterprise customers. Sustaining the uptime, performance, and scale that enterprise customers expect can place
+
+additional demands on our overall compute, and any failure of our capacity management systems to direct
+
+sufficient compute to support such demands could adversely affect our ability to serve all workloads. For more
+
+information about the foregoing, see the section titled If we fail to manage our technical operations
+
+infrastructure, or experience service outages, interruptions, or delays in the deployment of our models,
+
+platform, and applications, our results of operations may be adversely affected.
+
+Our sales strategy for these enterprise customers also depends on our ability to build and maintain an effective
+
+sales organization. If we fail to effectively manage these risks associated with sales to enterprises, our business,
+
+financial condition, and results of operations could be adversely affected. For additional discussion of our
+
+personnel related risks, see the section titled We may not successfully build, expand, and deploy our sales
+
+79
+
+Table of Contents
+
+and marketing organization in a timely manner, or we may not successfully hire, retain, train, and motivate our
+
+sales personnel.
+
+If our marketing strategies, such as our free trials and free tiers, fail to generate the benefits
+
+we expect, or if their costs exceed those benefits, our ability to grow our revenue could be
+
+adversely affected.
+
+A portion of our users access our models, platform, and applications through free tiers or promotional offerings,
+
+and we seek to convert these users into paying customers over time. We may not always be successful in doing
+
+so, as free users may be satisfied with the limited functionality available in free tiers, may not have budgets to
+
+support paid subscriptions, or may choose to use our free offerings indefinitely without converting to paid
+
+plans. The availability of free tiers may cannibalize potential paid subscriptions, as some users who would have
+
+otherwise paid for our services may instead rely exclusively on free access. Additionally, providing free access to
+
+our models, platform, and applications involves costs, including compute and infrastructure, customer support,
+
+and other operational costs. In addition, we offer free access in significant part to build awareness of, familiarity
+
+with, and engagement with our products, and as a means of reaching individuals engaged in knowledge work
+
+outside of a business or organizational context. However, these benefits are inherently difficult to measure, free
+
+usage may not generate the awareness or advocacy we expect, and individual adoption of our products may not
+
+translate into organizational adoption or expansion. See the section titled We have a limited history under
+
+our current go-to-market strategy, and our efforts to scale and evolve our customer acquisition, engagement,
+
+and retention model may not be successful. If the costs of supporting free users exceed the value we derive
+
+from their eventual conversion or other benefits such as network effects and word-of-mouth referrals, our
+
+business, financial condition, and results of operations could be adversely affected.
+
+If we fail to maintain high-quality customer support, our ability to retain and expand
+
+customers could suffer, which may adversely affect our prospects, business, financial
+
+condition, and results of operations.
+
+Our customers rely on our customer support services to resolve issues and realize the full benefits that our
+
+models, platform, and applications provide. In order to deliver high-quality customer support and engagement,
+
+we must successfully assist our customers in deploying and continuing to use our models, platform, and
+
+applications, resolve performance issues, discover and deploy our models, platform, and applications in new
+
+use cases, provide hands-on technical implementation, customization and solution engineering support,
+
+provide training and guidance to help customers effectively adopt and scale their use of our models, platform,
+
+and applications, address interoperability challenges, and respond to security threats and cyberattacks and
+
+performance and reliability problems that may arise from time to time. The importance of our support function
+
+will increase as we expand our business and pursue new customers. Many enterprises have complex internal
+
+systems and require high levels of focused support to fully realize the benefits of our models, platform, and
+
+applications. If we do not help our customers quickly resolve issues and provide effective ongoing support and
+
+enablement, or a market perception develops that we do not maintain high-quality customer support and
+
+experience, our ability to maintain and expand our subscriptions to existing and new customers could suffer,
+
+particularly with respect to our enterprise customers.
+
+In addition, our growth model depends significantly on driving deeper adoption and expanded use cases within
+
+our existing customer base. If we are unable to effectively provide support and integration efforts that enable
+
+customers to identify, deploy, and scale additional high-value use cases, demonstrate measurable return on
+
+investment, or integrate our models, platform, and applications into their core workflows, customers may limit
+
+usage, fail to renew at expected levels, or reduce their spend, which could materially slow our revenue growth.
+
+Further, there can be no assurance that we will be able to hire sufficient support personnel as and when needed,
+
+particularly if our sales exceed our internal forecasts. We expect to continue to increase our customer base, and
+
+that growth may put additional pressure on our customer support teams, which may require additional
+
+personnel to respond to customer demand. We may be unable to respond quickly enough to accommodate
+
+short-term increases in customer demand for services. To the extent that we are unsuccessful in hiring,
+
+training, and retaining adequate support personnel, our ability to provide high-quality and timely support to
+
+our customers will be negatively impacted, and our customers satisfaction and their use and subscription of our
+
+models, platform, and applications could be adversely affected.
+
+80
+
+Table of Contents
+
+In addition, as we continue to grow our operations and reach a larger and increasingly global customer base, we
+
+need to be able to provide efficient services that meet our customers needs globally at scale, and our customer
+
+support teams may face additional challenges, including those associated with delivering support, training, and
+
+documentation in languages other than English and providing services across expanded time-zones. If we are
+
+unable to manage the foregoing risks, our business, financial condition, and results of operations could be
+
+adversely affected.
+
+Our product and investment decisions may not prioritize short-term financial results and may
+
+not align with investor expectations or preferences, which could adversely affect the market
+
+price of our Class A common stock.
+
+Our product and investment decisions are informed in large part by our commitment to AI safety, expanding
+
+our models, platform, and applications securely and responsibly, and providing high quality customer support,
+
+all of which, in addition to our status as a PBC, may not necessarily maximize short term financial results. While
+
+we generally believe that our product and investment strategy will improve our long-term financial results, we
+
+regularly make product and investment decisions that may or may be perceived to negatively impact our short-
+
+term revenue or ability to achieve and sustain profitability. For example, we have in the past delayed the release
+
+of new models or features, limited their availability, imposed usage restrictions, or constrained certain
+
+functionality until we determined that sufficient safety testing, evaluations, or mitigations were completed, such
+
+as with Mythos through Project Glasswing, which may have had a negative impact on our short-term revenue,
+
+and we may do so again in the future.
+
+Our focus on AI safety and responsible deployment may also require us to incur significant additional costs,
+
+including increased research and development expenses, additional personnel and infrastructure, and foregone
+
+or delayed revenue opportunities relative to competitors that may prioritize speed to market, broader access, or
+
+more permissive use of their products. These decisions may reduce customer adoption, limit usage by certain
+
+customers or use cases, or make our offerings less attractive, particularly when compared to competitors that do
+
+not adopt similar constraints.
+
+In addition, as we focus on responsibly growing our customer base and engagement across our models,
+
+platform, and applications, we may make product, pricing, or access decisions that lead to less short-term
+
+profits or engagement compared to our competitors. Customers, partners, or investors may not agree with or
+
+fully understand these decisions and may perceive them as limiting our competitiveness or commercial
+
+potential, which could adversely affect our reputation, customer relationships, market adoption, or valuation.
+
+We cannot assure you that our long-term strategy will ultimately result in superior financial performance or
+
+that the anticipated long-term benefits of these decisions will be realized on the timeline we expect, or at all.
+
+Any of the foregoing risks could adversely affect our business, financial condition, and results of operations.
+
+Our investments in new products, technologies, and business initiatives may not produce the
+
+expected benefits and could adversely affect our business.
+
+We regularly make decisions to invest in new products, technologies, business lines, and strategic initiatives,
+
+including in areas outside our current core offerings, and the outcomes of these investments are inherently
+
+uncertain. These initiatives often require significant upfront investments of capital, research and development
+
+resources, and management attention, and their outcomes may not achieve widespread market adoption, may
+
+not generate revenue at anticipated levels, may take longer than expected to mature, or may fail entirely. In
+
+addition, reallocating resources from our core offerings to pursue new initiatives could slow growth in existing
+
+products, reduce operating efficiency, or weaken our competitive position if those initiatives do not succeed. If
+
+our investments in new products or business lines do not produce the long-term benefits we anticipate, our
+
+business, financial condition, results of operations, and prospects could be adversely affected.
+
+Certain of these initiatives, including our life sciences research program, which involves operating laboratory
+
+facilities, and our research in robotics and physical AI, require us to engage in activities outside our historical
+
+experience as a software and research organization, such as handling biological and chemical materials,
+
+operating laboratory and robotic equipment, and complying with biosafety, occupational health and safety,
+
+environmental, hazardous materials, and, potentially, preclinical and clinical research regulations. These
+
+activities expose us to categories of liability, including for workplace injury and environmental contamination,
+
+that differ from those associated with our core business, and any drug candidates or other discoveries resulting
+
+81
+
+Table of Contents
+
+from these efforts would face the lengthy, costly, and uncertain development and regulatory pathways
+
+characteristic of the life sciences industry, and may never generate revenue.
+
+If we fail to manage our technical operations infrastructure, or experience service outages,
+
+interruptions, or delays in the deployment of our models, platform, and applications, our
+
+results of operations may be adversely affected.
+
+Our systems and operations are subject to disruptions resulting from changes to our technology infrastructure.
+
+We have experienced, and may continue to experience, service interruptions or degraded performance due to
+
+software deployments, configuration changes, system updates, and new model introductions. These disruptions
+
+may adversely affect our ability to service customers and could result in lost revenue, customer attrition, or
+
+reputational harm. Further, our mitigation efforts and processes may be insufficient to prevent or minimize the
+
+impact of system changes on service availability, and we may lack adequate testing, rollback procedures, or
+
+monitoring capabilities to detect and remediate issues arising from system changes in a timely manner. For
+
+example, in March 2026, we experienced a service outage and periods of degraded performance resulting from
+
+a combination of factors, including a significant and rapid increase in usage demand, compute constraints in
+
+certain components of our infrastructure, and other factors. Although we have taken and continue to take steps
+
+to address these issues, including migrating to more scalable infrastructure and enhancing our operational
+
+processes, similar incidents may occur in the future.
+
+In addition, continued growth in our customer base could place additional demands on our models, platform,
+
+and applications and could cause or exacerbate slowdowns or interrupt the availability of our models, platform,
+
+and applications. If there is a substantial increase in the volume of usage of our models, platform, and
+
+applications, we will be required to further expand and upgrade our technology and infrastructure. Any
+
+substantial increase in usage will also require increased compute. Because our compute is procured well in
+
+advance based on projected demand across all workloads, a significant acceleration in customer demand could
+
+cause aggregate capacity to fall short of the levels required to support all of our workloads concurrently at the
+
+scale we intend. If our committed compute proves insufficient, or the composition of our committed compute
+
+portfolio differs materially from our demand forecasts, we may experience service disruptions, degraded
+
+response times, or limitations on customer and user access to our models, platform, and applications, while also
+
+experiencing constraints on the compute available to support ongoing model development. There can be no
+
+assurance that we will be able to accurately project the rate or timing of increases, if any, in the use of our
+
+models, platform, and applications or expand and upgrade our systems and infrastructure to accommodate
+
+such increases on a timely basis. If our users are not able to access our models, platform, and applications or
+
+encounter slowdowns, we may lose customers or partners. In order to remain competitive, we must continue to
+
+enhance and improve the responsiveness, functionality, and features of our models, platform, and applications
+
+and the underlying compute infrastructure supporting them. Our disaster recovery plan may not be sufficient to
+
+address all aspects or any unanticipated consequence or incidents, and our insurance may not be sufficient to
+
+compensate us for the losses that could occur.
+
+Moreover, Amazon, Google, and Microsoft provide substantial portions of the compute infrastructure that we
+
+use to host our models, platform, and applications and many of the internal tools we use to operate our
+
+business. Any significant disruption of, limitation of our access to, or other interference with this infrastructure
+
+would negatively impact our operations, degrade the availability and performance of our models, platform, and
+
+applications, and could cause us to lose customers who are unable to access or experience difficulties accessing
+
+our models, platform, and applications. Even absent a full disruption, the level of service provided by Amazon,
+
+Google, and Microsoft could affect the availability or speed of our models, platform, and applications, which
+
+may also impact the usage of, and our customers satisfaction with, our models, platform, and applications and
+
+could seriously harm our business and reputation.
+
+Any transition of the services and infrastructure currently provided by Amazon, Google, and Microsoft to
+
+another CSP would require significant time and expense and could further disrupt or degrade delivery of our
+
+models, platform, and applications. Such a transition could require us to re-architect portions of our
+
+infrastructure, retrain or migrate models and large datasets, incur data transfer and duplication costs, and
+
+adapt our systems to new tools and configurations, which could result in operational delays and reduced
+
+performance during the transition period. If Amazon, Google, or Microsoft increases pricing terms, terminates
+
+or seeks to terminate our contractual relationship, whether for competitive reasons or otherwise, establishes
+
+more favorable relationships with our competitors, or changes or interprets its terms of service or policies in a
+
+82
+
+Table of Contents
+
+manner that is unfavorable with respect to us, our business, financial condition, and results of operations could
+
+be adversely affected.
+
+In addition, an increasing portion of our compute is hosted in dedicated data center facilities that are leased
+
+and operated on our behalf by third parties rather than by our CSPs, and we expect this portion to grow. Certain
+
+of these operators have a limited operating history, and these facilities may have less geographic redundancy,
+
+failover capacity, or operational tooling than those of large-scale cloud environments, such that an equipment
+
+failure, cooling or network disruption, or operator error at a single facility could affect a meaningful portion of
+
+our available capacity. Moreover, the continuous availability of our models, platform, and applications depends
+
+on the reliable supply of electrical power and water to the facilities that host our infrastructure, whether
+
+operated by our CSPs or on our behalf. Utility outages, shortages, price increases, or required curtailment of
+
+power during periods of peak demand, whether in connection with or outside of natural disasters or other
+
+catastrophic events, could interrupt or degrade the provision of our services in the ordinary course of our
+
+business. See the sections titled Constraints on the critical inputs supporting compute could limit our ability
+
+to secure adequate compute. and Our business, financial condition, and results of operations may be
+
+adversely affected by war, terrorism, natural disasters, public health crises, political crises, or other unexpected
+
+events.
+
+If we are unable to make acquisitions and investments, or successfully integrate them into our
+
+business, our business, financial condition, and results of operations could be adversely
+
+affected.
+
+As part of our business strategy, we will continue to consider a wide array of potential strategic transactions,
+
+including acquisitions of businesses, new technologies, services, and other assets and strategic investments that
+
+complement our business. We have previously acquired and continue to evaluate targets that operate in
+
+relatively nascent markets, and there is no assurance that such acquired businesses will be successfully
+
+integrated into our business or generate substantial revenue.In addition, we may overpay for acquisition
+
+targets or make investments at valuations that do not ultimately prove justified by the targets performance,
+
+strategic value, or market conditions, which could adversely affect our financial condition.
+
+We may be unable to identify or complete prospective and attractive strategic transactions for many reasons,
+
+including competition from other potential acquirers, the effects of consolidation in our industry, and
+
+potentially high valuations of acquisition candidates. Even if we identify strategic transactions or enter into
+
+agreements with respect to such transactions, applicable antitrust laws and other regulations may limit our
+
+ability to acquire targets or force us to divest all or a portion of our business or an acquired business. If we are
+
+unable to identify suitable targets or complete acquisitions, our growth prospects may suffer, and we may not
+
+be able to realize sufficient scale and technological advantages to compete effectively.
+
+Acquisitions involve many risks, any of which could adversely affect our business, financial condition, and
+
+results of operations, including
+
+intense competition for suitable acquisition targets, which could increase prices and adversely affect
+
+our ability to consummate deals on favorable or acceptable terms
+
+failure or material delay in closing a transaction
+
+transaction-related lawsuits or claims
+
+difficulties in integrating the technologies, operations, existing contracts, and personnel of an acquired
+
+company
+
+difficulties in retaining key employees, business partners, or customers of an acquired company
+
+challenges with integrating the brand identity of an acquired company with our own
+
+diversion of financial and management resources from existing operations or alternative acquisition
+
+opportunities
+
+83
+
+Table of Contents
+
+failure to realize the anticipated benefits or synergies of a transaction at all or within the expected
+
+timeframe
+
+the incurrence of debt or dilution related to equity issuances in connection with a transaction
+
+failure to identify or address the problems, liabilities, or other shortcomings or challenges of an
+
+acquired company or technology, including issues related to copyrights and other intellectual property,
+
+regulatory compliance practices, litigation, revenue recognition, or other accounting practices, or
+
+employee or user issues
+
+risks that the acquired company could have a negative impact on our company culture
+
+risks that regulatory bodies may enact new laws or promulgate new regulations that are adverse to an
+
+acquired company or business
+
+risks that regulatory bodies do not approve our acquisitions or business combinations or delay such
+
+approvals
+
+theft of our trade secrets or confidential information that we share with potential acquisition
+
+candidates
+
+risk that an acquired company or investment in new services cannibalizes a portion of our existing
+
+business and
+
+adverse market reaction to an acquisition.
+
+If we fail to address the foregoing risks or other problems encountered in connection with past or future
+
+acquisitions of businesses, new technologies, services, and other assets, strategic investments, and other
+
+strategic transactions, or if we otherwise fail to realize the expected benefits of such acquisitions or investments,
+
+our business, financial condition, and results of operations could be adversely affected.
+
+Unfavorable media coverage regarding our business, our models, platform, and applications,
+
+the impacts of AI, and the AI industry more broadly could adversely affect our business,
+
+financial condition, and results of operations.
+
+As our business has grown and as interest in us and the AI industry overall has increased, we have attracted,
+
+and may continue to attract, significant media coverage, public commentary, and scrutiny from time to time.
+
+This coverage and commentary have included, and we expect will continue to include, recurring narratives
+
+concerning the potential adverse societal impacts of AI, including that AI may displace or eliminate jobs, may
+
+be misused or otherwise cause harm, and may pose catastrophic or existential risks to humanity. We have been,
+
+and may continue to be, a particular focus of such narratives, and unfavorable coverage of the AI industry
+
+generally may be attributed to us, in each case regardless of whether the underlying concerns are well-founded
+
+or specifically applicable to our models, platform, or applications. Unfavorable publicity regarding us, our
+
+partners, or the AI industry more broadly could adversely affect our reputation and brand, as described in the
+
+section titled If we are unable to maintain and enhance our brand and reputation, our business, financial
+
+condition, and results of operations may be adversely affected. Negative media coverage, including public
+
+figures making negative or threatening statements about our company, whether accurate or not, could also
+
+adversely affect our brand and reputation and may reduce market acceptance of our models, platform, and
+
+applications or impair our ability to attract and retain customers. As public awareness of our brand increases,
+
+any issues that draw media attention may have an amplified adverse effect on our reputation. If unfavorable
+
+media coverage or adverse public perceptions persist or intensify, the demand for our models, platform, and
+
+applications could decline and our brand, business, financial condition, and results of operations could be
+
+adversely affected.
+
+84
+
+Table of Contents
+
+We will incur increased costs and demands upon management as a result of complying with
+
+the laws and regulations affecting public companies, which may adversely affect our
+
+business, financial condition, and results of operations.
+
+As a public company, we will incur greater legal, accounting, and other expenses than we incurred as a private
+
+company. For example, we are subject to the reporting requirements of the Securities Exchange Act of 1934, as
+
+amended (Exchange Act), the Sarbanes-Oxley Act of 2002 (Sarbanes-Oxley Act), the Dodd-Frank Wall
+
+Street Reform and Consumer Protection Act, the rules and regulations of the SEC, and the listing standards of
+
+the Nasdaq Global Select Market. The Exchange Act requires, among other things, that we file annual,
+
+quarterly, and current reports with respect to our business and results of operations. Compliance with these
+
+requirements will increase our legal, accounting, and financial compliance costs, and increase demand on our
+
+systems, making some activities more time-consuming and costly. In addition, changing laws, regulations, and
+
+standards relating to reporting obligations and corporate governance disclosure are creating uncertainty for
+
+public companies, which could result in continued uncertainty regarding compliance matters and higher costs.
+
+We expect these rules and regulations to make it more expensive for us to obtain director and officer liability
+
+insurance, and we may be required to accept reduced policy limits and coverage or incur substantially higher
+
+costs to maintain the same or similar coverage. As a result, it may be more difficult for us to attract and retain
+
+qualified individuals to serve on our board of directors or as our executive officers.
+
+As a public company, we expect to incur significant expenses and devote substantial management effort toward
+
+ensuring compliance with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act. In
+
+that regard, we will need to hire additional accounting and financial staff with appropriate public company
+
+experience and technical accounting knowledge. In addition, as a public company, we may be subject to
+
+stockholder activism, which can lead to substantial costs, distract management, and impact the manner in
+
+which we operate our business in ways we cannot currently anticipate.
+
+As a result of disclosure of information in this prospectus and in our public filings with the SEC as required of a
+
+public company, our business and financial condition will become more visible, which we believe may result in
+
+threatened or actual litigation, including by competitors and other third parties. If such claims are successful,
+
+our business, financial condition, and results of operations may be adversely affected, and even if the claims do
+
+not result in litigation or are resolved in our favor, these claims, and the time and resources necessary to resolve
+
+them, may divert the resources of our management and our board of directors, and adversely affect our
+
+business, financial condition, and results of operations.
+
+Further, many members of our management team have limited experience managing a publicly traded
+
+company, interacting with public company investors, and complying with the increasingly complex laws and
+
+regulations pertaining to public companies. Our management team may not successfully or efficiently manage
+
+our transition to being a public company subject to significant regulatory oversight and reporting obligations
+
+under the federal securities laws and the continuous scrutiny of securities analysts and investors. These new
+
+obligations and constituents will require significant attention from our management and may divert their
+
+attention away from the day-to-day management of our business, which may adversely affect our business,
+
+financial condition, and results of operations.
+
+Our business, financial condition, and results of operations may be adversely affected by war,
+
+terrorism, natural disasters, public health crises, political crises, or other unexpected events.
+
+War, terrorist attacks, and other acts of political violence, or any significant natural disaster, such as an
+
+earthquake, fire, hurricane, tornado, flood, or significant power outage, may disrupt our operations, mobile
+
+networks, the internet, data centers, or the operations of our partners or third-party service providers, and the
+
+impact of climate change may increase these risks. In particular, our corporate headquarters are located in the
+
+San Francisco Bay Area, a region known for seismic activity and increasingly for the threat of fires. In addition,
+
+any public health crises, pandemics, political crises, terrorist attacks, war and other political or social
+
+instability, other geopolitical developments, or other catastrophic events, whether in the United States or in
+
+non-U.S. geographies, may adversely affect our operations or macroeconomic conditions. For example, an act of
+
+terrorism, armed conflict, or escalation of geopolitical tensions could result in physical damage to or
+
+destruction of data centers and other critical infrastructure, whether owned or operated by us or our third-party
+
+providers, as well as disruptions to power, cooling, or network connectivity necessary to operate such facilities.
+
+The impact of any of the foregoing or other disruption to us, our partners, or other third parties may result in
+
+85
+
+Table of Contents
+
+system interruptions and degradation, reputational harm, delays in our product development, lengthy
+
+interruptions in our services, data breaches, malware, and other security or hacking incidents, all of which may
+
+adversely affect our business, financial condition, and results of operations. All of the aforementioned risks may
+
+be further increased if our disaster recovery plans prove to be inadequate. Further, the insurance we maintain
+
+may be insufficient to cover our losses resulting from such business interruptions, and any incidents may result
+
+in loss of, or increased costs of, such insurance.
+
+If we are unable to ensure that our models, platform, and applications interoperate with a
+
+variety of software applications that are developed by others, including our integration
+
+partners, we may become less competitive and our business, financial condition, and results
+
+of operations may be adversely affected.
+
+Our models, platform, and applications must integrate with a variety of hardware and software platforms, and
+
+we need to continuously modify and enhance our models, platform, and applications to adapt to changes in
+
+hardware, software, and browser technologies. In particular, we have developed our models, platform, and
+
+applications to be able to easily integrate with third-party applications, including the applications of software
+
+providers that compete with us as well as our partners, through the interaction of APIs. In general, we rely on
+
+the providers of such software systems to allow us access to their APIs to enable these integrations. We are
+
+typically subject to standard terms and conditions of such providers, which govern the distribution, operation,
+
+and fees of such software systems, and which are subject to change by such providers from time to time. Our
+
+business will be harmed if any provider of such software systems
+
+discontinues or limits our access to its software or APIs
+
+modifies its terms of service or other policies, including fees charged to, or other restrictions on us, or
+
+other software developers
+
+changes how information is accessed by us or our customers
+
+establishes more favorable relationships with one or more of our competitors or
+
+develops or otherwise favors its own competitive offerings over our models, platform, and applications.
+
+Further, we depend in part on operating systems, including mobile operating systems such as iOS and Android,
+
+and their respective application stores, such as Apples App Store and Googles Play Store, to drive downloads of
+
+our Claude app. If such operating systems or application stores limit the availability of our app, make changes
+
+that degrade the functionality of our app, increase the cost of using our app, impose terms of use unsatisfactory
+
+to us, or modify their search or ratings algorithms in ways that are detrimental to us, or if our competitors
+
+placement in such mobile operating systems application store is more prominent than the placement of our
+
+app, our user growth could be adversely affected. Any changes in such operating systems and application stores
+
+that degrade the functionality of our app or give preferential treatment to our competitors apps could adversely
+
+affect our platforms usage across devices. Some marketplaces have explored changing their policies regarding
+
+what content is acceptable within an application. If we are unable to adapt to such changes, this could adversely
+
+affect our platforms access to and usage within those ecosystems. As new mobile devices and mobile platforms
+
+are released, there is no guarantee that certain mobile devices will continue to support our platform or
+
+effectively roll out updates to our apps. Additionally, in order to deliver a high-quality app, we need to ensure
+
+that our models, platform, and applications are designed to work effectively with a range of mobile
+
+technologies, systems, networks, and standards. We may not be successful in developing or maintaining
+
+relationships with key participants in the mobile industry that enhance users experience. If users encounter
+
+any difficulty accessing or using our apps on their mobile devices or if we are unable to adapt to changes in
+
+popular mobile operating systems, our prospects, business, financial condition, and results of operations could
+
+be adversely affected.
+
+Third-party models, platforms, and applications are constantly evolving, and we may not be able to modify our
+
+models, platform, and applications to assure their compatibility with that of other third parties. In addition,
+
+some of our competitors may be able to disrupt the operations or compatibility of our models, platform, and
+
+applications with their models, platforms, or applications, or exert strong business influence on our ability to,
+
+and terms on which we operate our models, platform, and applications. Should any of our competitors modify
+
+86
+
+Table of Contents
+
+their products or standards in a manner that degrades the functionality of our models, platform, and
+
+applications or gives preferential treatment to competitive models, platforms, or applications, whether to
+
+enhance their competitive position or for any other reason, the interoperability of our models, platform, and
+
+applications with these products could decrease and our business, financial condition, and results of operations
+
+could be adversely affected. Further, if we are not permitted or able to integrate with these and other third-
+
+party applications in the future, our business, financial condition, and results of operations could be adversely
+
+affected.
+
+Many of the risks we face are interconnected and may compound or trigger cascading adverse
+
+effects across our business, which could amplify their overall impact.
+
+Our business and operations are subject to numerous risks and uncertainties, as described in this Risk
+
+Factors section, many of which are interrelated, such that the occurrence of one risk event may exacerbate or
+
+trigger additional risk events, and the combined effect may be materially greater than the impact of any
+
+individual risk event in isolation. For example, unfavorable developments in intellectual property laws or
+
+adverse outcomes in copyright or other litigation could require us to modify, retrain, or limit the capabilities of
+
+our models, increasing costs and reducing the performance or competitiveness of our models, platform, and
+
+applications, which could in turn harm customer demand, revenue, and our reputation and brand. In addition,
+
+constraints on the availability or cost of compute could similarly limit our ability to develop and deploy
+
+advanced models, delay product launches, reduce service reliability, and adversely affect our revenue growth,
+
+while also affecting customer trust and perception of our offerings. If our revenue growth is limited and we do
+
+not have sufficient additional sources of capital, we may be unable to acquire necessary compute or invest in
+
+our talent to remain at the technological frontier or to support our customers, or we may face breaches of
+
+covenants or defaults under the AR Credit Agreement and certain of our commercial agreements. If we were
+
+to breach covenants or default under the AR Credit Agreement or certain of our commercial agreements, such
+
+an event could trigger cross-defaults, accelerate repayment obligations, restrict our access to capital, and
+
+further constrain our operations and growth, potentially magnifying other financial, operational, and
+
+reputational risks. Because these and other risks may interact in complex and unpredictable ways, particularly
+
+in a fast-moving industry characterized by technological change, evolving regulation, and emerging business
+
+models, we may not be able to foresee or effectively manage all potential consequences. If one risk triggers or
+
+intensifies others, or if multiple adverse events occur concurrently or in close succession, our prospects,
+
+reputation, business, financial condition, and results of operations could be adversely affected.
+
+Risks Related to Privacy, Cybersecurity, and Intellectual Property
+
+The application of certain copyright law doctrines and contractual interpretations of open-
+
+source licenses to modern AI model training are uncertain.
+
+The application of certain copyright law doctrines and contractual interpretations of open-source licenses to
+
+modern AI model training has not been authoritatively resolved by U.S. and non-U.S. courts as of this date. We
+
+have a good faith belief that we own or possess all sufficient legal rights andor defenses to the training data
+
+used in or with our AI models, platform, and applications, which is based in part on our belief that our use or
+
+acquisition of the training data used in or with our AI models, platform, and applications constitutes fair use
+
+of such training data under copyright law doctrine. In addition, copyright laws in some jurisdictions outside the
+
+United States generally do not recognize fair use, and our reliance on analogous exceptions is subject to
+
+evolving conditions and to adverse or unsettled judicial interpretation in those jurisdictions. If a court of law
+
+disagrees with our belief that our use or acquisition of such training data constitutes fair use or otherwise
+
+concludes that it violates copyright law, for example, by adopting the reasoning in Bartz (as defined below),
+
+including without limitation in currently active litigation against us or another company in our industry, our
+
+business may be adversely affected. In particular, adverse rulings in litigation involving other AI developers,
+
+regardless of the specific facts, data practices, or legal theories at issue in those cases, could establish legal
+
+precedents or interpretations of copyright law that apply broadly across the industry and limit our ability to
+
+train, develop, or deploy AI models, even if our own data procurement and usage practices differ. Such
+
+outcomes could restrict access to certain categories of training data, narrow the scope of available legal
+
+defenses, or impose new licensing, compliance, or operational requirements across the AI industry. For
+
+example, if we cannot rely on the fair use doctrine to access copyrighted work for training our models, we may
+
+be required to pay significant fees to obtain a license to such training data or our ability to further develop our
+
+87
+
+Table of Contents
+
+models, platform, and applications and distribute models trained on such data at issue could be adversely
+
+affected. In addition, an adverse ruling against us or another company in our industry could result in injunctive
+
+relief that restricts our ability to use or distribute models trained on the data at issue or could require us to
+
+retrain affected models from scratch at substantial cost. If we are unable to manage the foregoing risks, our
+
+business, financial condition, and results of operations could be adversely affected.
+
+We are subject to complex and evolving laws, regulations, and other legal obligations related
+
+to privacy and data protection, and any actual or perceived failure to comply with such
+
+obligations could adversely affect our business, financial condition, and results of operations.
+
+We are subject to a range of laws and regulations in the EU, the United States, and other jurisdictions, and
+
+other legal obligations relating to privacy, data protection, and the collection, use, transfer, storage, and other
+
+processing of data. These laws, regulations, and other legal obligations vary across jurisdictions, and include
+
+comprehensive frameworks such as the General Data Protection Regulation 2016679 (GDPR), laws that
+
+impose sector-specific obligations, and those that impose specific requirements or restrictions on the handling
+
+of particular types of data, such as personal data that is considered sensitive. These obligations are not
+
+harmonized, continue to evolve in scope, present technical and operational complexities and challenges, and
+
+may conflict or impose overlapping or inconsistent obligations. Further, these laws and regulations, as well as
+
+other laws and regulations not originally enacted to address privacy or data protection, continue to evolve as
+
+they are applied to new technologies, including AI, and may be interpreted or enforced in ways that are
+
+inconsistent, unclear, novel, or subject to significant regulatory discretion. Additionally, plaintiffs, class action
+
+counsel, state Attorneys General, and other claimants continue to pursue claims against artificial intelligence
+
+companies relating to data handling, privacy, and cybersecurity similar disputes could arise against us and they
+
+could take the form of privacy, cybersecurity, breach of contract, tort, or other claims. New or evolving laws,
+
+regulations, regulatory interpretations, claims, and novel or inconsistent application of existing laws and
+
+regulations to us, or our evolving contractual or other legal obligations, including those that arise as we seek to
+
+enter into new markets or product offerings, may require us to modify our models, platform, and applications,
+
+policies, and practices, delay or limit the development or deployment of certain features, increase compliance
+
+and litigation costs, and result in fines or penalties.
+
+Our compliance obligations and expenditures, and our exposure thereunder, may vary depending on both how
+
+customers access and use our models, platform, and applications, including through our first-party offerings or
+
+third-party distribution channels, and on the nature of data processed in connection with those offerings. For
+
+example, our costs and regulatory exposure may vary based on the demands we receive from individuals,
+
+regulators, and other parties seeking to exercise rights under privacy or data protection laws. We may be subject
+
+to additional obligations, restrictions, or exposure in connection with the processing of data that is considered
+
+sensitive under applicable laws. In connection with the development, deployment, and improvement of our
+
+services, including model training, improvement, and inference, we have faced, and may face in the future,
+
+operational errors or claims or assertions that our use or processing of data, such as personal, sensitive, or
+
+confidential data, is inconsistent with our obligations.
+
+Failure to secure data against risks to its confidentiality, integrity, or availability may result in legal obligations,
+
+such as notification obligations to individuals, regulators, or customers, which could result in additional legal
+
+and reputational risk.
+
+Any actual or perceived failure or inability by us, our personnel, or third parties acting on our behalf to comply
+
+with applicable privacy or data protection requirements, our contractual commitments, or our public
+
+statements regarding our data practices could result in investigations, litigation, fines, penalties, or other
+
+liability require us to change our models, platform, and applications, policies, or practices reduce customer
+
+demand or harm our reputation require us to make public disclosures that could expose us to reputational and
+
+legal risks and otherwise adversely affect our business, financial condition, and results of operations.
+
+We process personal and sensitive data for AI safety, and any actual or perceived failure to
+
+comply with the legal and regulatory obligations applicable to such processing could
+
+adversely affect our business, financial condition, and results of operations.
+
+Our commitment to AI safety requires us in some cases to access, collect, and process personal and sensitive
+
+data. While our approach and mechanisms relating to handling personal and sensitive data are designed to
+
+88
+
+Table of Contents
+
+improve AI safety, they also subject us to compliance with evolving industry practices, laws and regulations, and
+
+increased risks related to the processing of sensitive data, such as increased risks of harm or litigation if we
+
+experience a security incident or unauthorized access to or processing of data. Further, laws and regulations not
+
+originally enacted to address AI safety are being applied to AI safety and may be increasingly interpreted or
+
+enforced in ways that are inconsistent, unclear, novel, or subject to significant regulatory discretion. Any actual
+
+or perceived failure to comply with AI safety requirements or our processing of personal or sensitive data for AI
+
+safety, or any actual or perceived security incident involving such data, could result in investigations, litigation,
+
+fines, penalties, or other liability require us to change our policies or practices reduce customer demand or
+
+harm our reputation require us to make public disclosures that could expose us to reputational and legal risks
+
+and otherwise adversely affect our business, financial condition, and results of operations.
+
+Any security breaches or other incidents, including those that affect our networks, systems, or
+
+data, or the networks, systems, or data of our service providers, suppliers, or customers,
+
+could adversely affect our business, financial condition, and results of operations.
+
+We store, handle, and otherwise process confidential, proprietary, and personal information, and our
+
+customers use our models, platform, and applications to process similarly sensitive information. We experience
+
+security risks, unintended exposure of or access to data, cyberattacks, and other attempts to gain unauthorized
+
+access to our information, sites, networks, systems, models, platform, and applications. These have resulted in,
+
+and may in the future result in, breaches of our security measures or those of our third-party service providers
+
+unauthorized access to our sites, networks, systems, and accounts unauthorized access to, and
+
+misappropriation of, personal, confidential, or proprietary information belonging to us, our customers, or
+
+others viruses, worms, spyware, or other malware being served from our models, platform, and applications,
+
+networks, or systems deletion or modification of content the display of unauthorized content on our models,
+
+platform, and applications interruption, disruption, or malfunction of operations and other risks.
+
+We have in the past faced and in the future may face risks of phishing schemes and other cyberattacks,
+
+including by nation-states and state-sponsored actors, that continue to evolve in sophistication and volume,
+
+and may inherently be difficult to detect. Our proprietary model weights, corporate and financial data, and
+
+other core intellectual property represent particularly high-value targets for state-sponsored espionage and
+
+theft, and security researchers have identified frontier AI companies as priority targets for non-U.S. intelligence
+
+services. The efforts of such state-sponsored actors to target us will likely increase over time, especially as we
+
+develop models with next-generation capabilities, and they may specifically target models which have not, or
+
+have not yet, been released to the general public. For example, in light of its advanced cyber vulnerability
+
+discovery capabilities, state-sponsored actors may conduct cyberattacks specifically targeting Mythos.
+
+Our security capabilities continue to evolve, and certain aspects of our security program may not be sufficient to
+
+fully address the most sophisticated malicious actors, including well-resourced nation-state or state-sponsored
+
+groups, especially as those groups develop or obtain more powerful technology, which may include AI
+
+technology with offensive capabilities similar to those displayed by Mythos. While we are actively investing in
+
+and enhancing our security infrastructure and controls, we have operated in the past, and may in the future
+
+operate, for periods of time with known limitations or gaps in our defenses as we continue to mature our
+
+security posture, and no information security program can be expected to prevent all possible incidents. There
+
+can be no assurances that we will be able to prevent or adequately detect and defend against all cyberattacks or
+
+other cybersecurity incidents affecting our systems, including incidents caused by nation-state and state-
+
+sponsored actors. An unauthorized exfiltration of our model weights could enable adversaries to bypass
+
+significant research investment, eliminate key competitive advantages, and potentially raise national security
+
+concerns if such technology is acquired by malicious actors. Further, if our model weights were obtained by
+
+unauthorized actors, such actors may be able to deploy such models outside of our usage policies, safety
+
+mechanisms, or monitoring frameworks, which could enable harmful or misuse scenarios that our safeguards
+
+are designed to prevent and could subject us to regulatory, reputational, or public scrutiny for having developed
+
+such capabilities.
+
+We have faced and expect to face insider threat risks and vulnerabilities related to hiring processes, identity
+
+verification, remote work environments, and compromised devices that could enable unauthorized access to
+
+sensitive systems or information. We have been and expect that we will continue to be targeted by individuals

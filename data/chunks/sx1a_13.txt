@@ -1,0 +1,3603 @@
+F-1
+
+Table of Contents
+
+Anthropic, PBC
+
+Index to Consolidated Financial Statements
+
+Table of Contents
+
+Page
+
+Reports of Independent Registered Public Accounting Firms
+
+F-2
+
+Consolidated Balance Sheets
+
+F-5
+
+Consolidated Statements of Operations
+
+F-7
+
+Consolidated Statements of Comprehensive Loss
+
+F-8
+
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders Deficit
+
+F-9
+
+Consolidated Statements of Cash Flows
+
+F-12
+
+Notes to Consolidated Financial Statements
+
+F-14
+
+F-2
+
+Table of Contents
+
+Report Of Independent Registered Public
+
+Accounting Firm
+
+To the Stockholders and the Board of Directors of Anthropic, PBC
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheet of Anthropic, PBC (the Company) as of
+
+December 31, 2025, the related consolidated statement of operations, comprehensive loss, redeemable
+
+convertible preferred stock and stockholders deficit and cash flows for the year then ended, and the related
+
+notes (collectively referred to as the consolidated financial statements). In our opinion, the consolidated
+
+financial statements present fairly, in all material respects, the financial position of the Company at December
+
+31, 2025, and the results of its operations and its cash flows for the year then ended, in conformity with U.S.
+
+generally accepted accounting principles.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Companys management. Our responsibility is to
+
+express an opinion on the Companys financial statements based on our audit. We are a public accounting firm
+
+registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to
+
+be independent with respect to the Company in accordance with the U.S. federal securities laws and the
+
+applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan
+
+and perform the audit to obtain reasonable assurance about whether the financial statements are free of
+
+material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+
+engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are
+
+required to obtain an understanding of internal control over financial reporting but not for the purpose of
+
+expressing an opinion on the effectiveness of the Companys internal control over financial reporting.
+
+Accordingly, we express no such opinion.
+
+Our audit included performing procedures to assess the risks of material misstatement of the financial
+
+statements, whether due to error or fraud, and performing procedures that respond to those risks. Such
+
+procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+
+statements. Our audit also included evaluating the accounting principles used and significant estimates made
+
+by management, as well as evaluating the overall presentation of the financial statements. We believe that our
+
+audit provides a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the
+
+financial statements that were communicated or required to be communicated to the audit committee and that
+
+(1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+
+challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any
+
+way our opinion on the consolidatedfinancial statements, taken as a whole, and we are not, by communicating
+
+the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or
+
+disclosuresto which they relate.
+
+F-3
+
+Table of Contents
+
+Loss Contingencies
+
+Description
+
+of the
+
+Matter
+
+As further described in Note 13 to the consolidated financial statements, the Company is
+
+involved in various legal claims, proceedings and other regulatory and administrative
+
+proceedings, certain of which may include claims for substantial or indeterminate
+
+amounts of damages. The Companys assessment of loss contingency matters requires
+
+significant judgment in determining both the likelihood and estimated amount of
+
+potential losses.
+
+Auditing the Companys accounting for and disclosure of certain loss contingencies was
+
+especially challenging due to the significant judgment required to evaluate
+
+managements assessments of the probability of loss and its estimate of the potential
+
+amounts or range of such losses.
+
+How We
+
+Addressed
+
+the Matter
+
+in Our
+
+Audit
+
+We performed audit procedures that included, among others, obtaining an
+
+understanding of the identification and evaluation of loss contingencies, including the
+
+Companys assessment of the likelihood that a loss will be incurred and its ability to
+
+reasonably estimate the loss or range of possible losses. We read the Companys board
+
+minutes, requested and received legal counsel confirmation letters, met with legal
+
+counsel to discuss the nature of certain matters and obtained representations from
+
+management on these matters. We also evaluated the appropriateness of the related
+
+disclosures included in the consolidated financial statements.
+
+Fair Value of Convertible Notes
+
+Description
+
+of the
+
+Matter
+
+The Company accounts for its convertible promissory notes at fair value. As discussed in
+
+Note 4 to the consolidated financial statements, the estimated fair value of convertible
+
+promissory notes as of December 31, 2025, was $41.7 billion and the recognized loss for
+
+the change in the fair value of the convertible promissory notes for the year ended
+
+December 31, 2025, was $34.5 billion. The Company estimated the fair value of the
+
+convertible promissory notes using a hybrid approach comprising a contingent claims
+
+analysis method and a common stock equivalent method which involved the use of
+
+complex and subjective estimates, judgments and assumptions.
+
+Auditing the Companys estimated fair value of convertible notes was especially
+
+challenging due to the significant judgment required to assess managements selection
+
+of the valuation methodology, determination of the relative weight applied to the
+
+contingent claims analysis and the common stock equivalent methods, which involved
+
+key judgments and assumptions, including the Companys stage of development,
+
+likelihood of an initial public offering (IPO), need for and terms of financings, and
+
+secondary and other market transactions. The estimated fair value of the convertible
+
+notes is particularly sensitive to changes in the relative weight applied to the two
+
+valuation methods.
+
+How We
+
+Addressed
+
+the Matter
+
+in Our
+
+Audit
+
+We performed audit procedures that included, among others, evaluating the Companys
+
+selection of the valuation methodology, evaluating the key judgments and assumptions
+
+noted above used by the Companys valuation specialist, and evaluating the
+
+completeness and accuracy of the underlying data supporting the key judgments and
+
+assumptions. We involved our valuation specialists to assist with our evaluation of the
+
+methodology used by the Company and the key judgments and assumptions.
+
+Specifically, we focused on the Companys determination of the relative weight applied
+
+to the contingent claims analysis and common stock equivalent methods and the key
+
+judgments and assumptions that affected the weighting. For example, we evaluated the
+
+stage of the Companys development, inspected the Companys written plans and
+
+internal presentations relating to an IPO process, and evaluated secondary and other
+
+market transactions during the period and their impact on the relative weight applied to
+
+the two valuation methods by the Company.
+
+s Ernst Young LLP
+
+We have served as the Companys auditor since 2025.
+
+San Jose, California
+
+June 1, 2026, except for the effects of the stock split described in Note 1, which is as of September 30, 2026
+
+F-4
+
+Table of Contents
+
+Report Of Independent Registered Public
+
+Accounting Firm
+
+Board of Directors and Stockholders
+
+Anthropic, PBC
+
+Opinion on the financial statements
+
+We have audited the accompanying consolidated balance sheet of Anthropic, PBC (a Delaware public benefit
+
+corporation) and subsidiaries (the Company) as of December 31, 2024, the related consolidated statements of
+
+operations, comprehensive loss, redeemable convertible preferred stock and stockholders deficit, and cash
+
+flows for each of the years ended December 31, 2024 and 2023, and the related notes (collectively referred to as
+
+the consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in
+
+all material respects, the financial position of the Company as of December 31, 2024, and the results of its
+
+operations and its cash flows for the years ended December 31, 2024 and 2023, in conformity with accounting
+
+principles generally accepted in the United States of America.
+
+Basis for opinion
+
+These consolidated financial statements are the responsibility of the Companys management. Our
+
+responsibility is to express an opinion on the Companys consolidated financial statements based on our audits.
+
+We are a public accounting firm registered with the Public Company Accounting Oversight Board (United
+
+States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S.
+
+federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and
+
+the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan
+
+and perform the audit to obtain reasonable assurance about whether the financial statements are free of
+
+material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are
+
+required to obtain an understanding of internal control over financial reporting but not for the purpose of
+
+expressing an opinion on the effectiveness of the Companys internal control over financial reporting.
+
+Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial
+
+statements, whether due to error or fraud, and performing procedures that respond to those risks. Such
+
+procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+
+statements. Our audits also included evaluating the accounting principles used and significant estimates made
+
+by management, as well as evaluating the overall presentation of the financial statements. We believe that our
+
+audits provide a reasonable basis for our opinion.
+
+s GRANT THORNTON LLP
+
+We have served as the Companys auditor from 2023 to 2025.
+
+San Francisco, California
+
+June 1, 2026 (except for the effects of the stock split described in Note 1, as to which the date is September 30,
+
+2026)
+
+F-5
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Balance Sheets
+
+(In millions, except share amounts which are in thousands, and per share data)
+
+As of December 31,
+
+As of
+
+September 30,
+
+2024
+
+2025
+
+2026
+
+(unaudited)
+
+Assets
+
+Current assets
+
+Cash and cash equivalents
+
+$3,141
+
+$17,388
+
+$95,562
+
+Short-term investments
+
+2,889
+
+36,283
+
+Accounts receivable, net
+
+95
+
+909
+
+7,892
+
+Prepaid expenses and other current assets
+
+2,076
+
+2,560
+
+1,283
+
+Total current assets
+
+5,312
+
+23,746
+
+141,020
+
+Restricted cash
+
+13
+
+13
+
+2,540
+
+Property and equipment, net
+
+19
+
+146
+
+3,061
+
+Operating lease right-of-use assets
+
+35
+
+126
+
+2,839
+
+Goodwill
+
+154
+
+595
+
+Other assets, noncurrent
+
+2,373
+
+476
+
+4,265
+
+Total assets
+
+$7,752
+
+$24,661
+
+$154,320
+
+Liabilities, Redeemable Convertible Preferred Stock, and
+
+Stockholders Deficit
+
+Current liabilities
+
+Accounts payable, accrued expenses, and other current
+
+liabilities
+
+$333
+
+$2,511
+
+$9,426
+
+Operating lease liabilities, current
+
+13
+
+37
+
+274
+
+Deferred revenue
+
+28
+
+269
+
+1,971
+
+Total current liabilities
+
+374
+
+2,817
+
+11,671
+
+Operating lease liabilities, noncurrent
+
+39
+
+80
+
+2,536
+
+Convertible notes payable
+
+14,116
+
+41,677
+
+130,502
+
+Other noncurrent liabilities
+
+150
+
+823
+
+1,974
+
+Total liabilities
+
+14,679
+
+45,397
+
+146,683
+
+Commitments and contingencies (Note 13)
+
+Redeemable convertible preferred stock, $0.00001 par value
+
+360,995, 728,289, and 1,040,441 shares authorized as of
+
+December 31, 2024 and 2025 and September 30, 2026
+
+(unaudited), respectively 220,219, 544,322, and 853,394
+
+shares issued and outstanding as of December 31, 2024 and
+
+2025 and September 30, 2026 (unaudited), respectively
+
+aggregate liquidation preference of $2,874, $24,646, and
+
+$136,286 as of December 31, 2024 and 2025 and September
+
+30, 2026 (unaudited), respectively
+
+2,874
+
+29,769
+
+157,510
+
+F-6
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Balance Sheets (continued)
+
+(In millions, except share amounts which are in thousands, and per share data)
+
+As of December 31,
+
+As of
+
+September 30,
+
+2024
+
+2025
+
+2026
+
+(unaudited)
+
+Stockholders deficit
+
+Class A common stock, $0.00001 par value 6,319,705,
+
+8,162,757, and 10,906,112 shares authorized as of December
+
+31, 2024 and 2025 and September 30, 2026 (unaudited),
+
+respectively 1,779,060, 1,901,267, and 2,168,788 shares
+
+issued and outstanding as of December 31, 2024 and 2025
+
+and September 30, 2026 (unaudited), respectively
+
+Class N common stock, $0.00001 par value 2,148,900,
+
+5,547,243, and 7,128,888 shares authorized as of December
+
+31, 2024 and 2025 and September 30, 2026 (unaudited),
+
+respectively no shares issued and outstanding as of
+
+December 31, 2024 and 2025, and 30,643 shares issued and
+
+outstanding as of September 30, 2026 (unaudited)
+
+Class T common stock, $0.00001 par value 0 shares
+
+authorized and issued as of December 31, 2024 and 2025
+
+and September 30, 2026 (unaudited)
+
+Additional paid-in capital
+
+239
+
+1,644
+
+6,481
+
+Accumulated other comprehensive income (loss)
+
+5
+
+(161)
+
+Accumulated deficit
+
+(10,040)
+
+(52,154)
+
+(156,193)
+
+Total stockholders deficit
+
+(9,801)
+
+(50,505)
+
+(149,873)
+
+Total liabilities, redeemable convertible preferred stock,
+
+and stockholders deficit
+
+$7,752
+
+$24,661
+
+$154,320
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-7
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Statements of Operations
+
+(In millions, except share amounts which are in thousands, and per share data)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+Revenue
+
+$41
+
+$386
+
+$4,585
+
+$2,545
+
+$33,242
+
+Operating expenses
+
+Compute and infrastructure
+
+433
+
+2,522
+
+7,326
+
+4,381
+
+18,808
+
+Personnel
+
+95
+
+454
+
+1,839
+
+1,027
+
+4,863
+
+Bartz settlement
+
+1,500
+
+1,500
+
+Sales, marketing, and
+
+partnerships
+
+2
+
+43
+
+568
+
+322
+
+5,529
+
+Other operating and
+
+administrative
+
+62
+
+347
+
+1,412
+
+539
+
+5,302
+
+Total operating expenses
+
+592
+
+3,366
+
+12,645
+
+7,769
+
+34,502
+
+Operating loss
+
+(551)
+
+(2,980)
+
+(8,060)
+
+(5,224)
+
+(1,260)
+
+Interest income
+
+69
+
+106
+
+431
+
+239
+
+2,359
+
+Change in fair value of
+
+convertible notes, derivative
+
+liabilities, and SAFEs
+
+(1,045)
+
+(5,434)
+
+(34,308)
+
+(20,107)
+
+(94,324)
+
+Other income (expense), net
+
+(2)
+
+(8)
+
+(3)
+
+(10,397)
+
+Total other income
+
+(expense), net
+
+(978)
+
+(5,328)
+
+(33,885)
+
+(19,871)
+
+(102,362)
+
+Loss before provision for income
+
+taxes
+
+(1,529)
+
+(8,308)
+
+(41,945)
+
+(25,095)
+
+(103,622)
+
+Provision for income taxes
+
+2
+
+1
+
+20
+
+12
+
+417
+
+Net loss
+
+$(1,531)
+
+$(8,309)
+
+$(41,965)
+
+$(25,107)
+
+$(104,039)
+
+Net loss per share attributable to
+
+common stockholders, basic and
+
+diluted
+
+$(1.42)
+
+$(5.43)
+
+$(23.04)
+
+$(13.90)
+
+$(50.10)
+
+Weighted-average shares
+
+outstanding, basic and diluted
+
+1,076,881
+
+1,528,995
+
+1,821,085
+
+1,806,803
+
+2,076,810
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-8
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Statements of Comprehensive Loss
+
+(In millions)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+Net loss
+
+$(1,531)
+
+$(8,309)
+
+$(41,965)
+
+$(25,107)
+
+$(104,039)
+
+Other comprehensive income
+
+(loss)
+
+Net unrealized gain (loss) on
+
+available-for-sale securities, net
+
+of tax
+
+4
+
+3
+
+(155)
+
+Foreign currency translation
+
+adjustments
+
+1
+
+1
+
+(11)
+
+Other comprehensive income
+
+(loss)
+
+5
+
+4
+
+(166)
+
+Comprehensive loss
+
+$(1,531)
+
+$(8,309)
+
+$(41,960)
+
+$(25,103)
+
+$(104,205)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-9
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders Deficit
+
+(In millions, except share amounts which are in thousands)
+
+Redeemable convertible
+
+preferred stock
+
+Class A
+
+common stock
+
+Class N
+
+common stock
+
+Class T
+
+common stock
+
+Additional
+
+paid-in
+
+capital
+
+Accumulated
+
+other
+
+comprehensive
+
+income
+
+Accumulated
+
+deficit
+
+Total
+
+stockholders
+
+deficit
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Balance as of December 31, 2022
+
+136,005
+
+$1,106
+
+1,738,823
+
+$
+
+$
+
+$
+
+$5
+
+$
+
+$(200)
+
+$(195)
+
+Issuance of redeemable convertible
+
+preferred stock, net of issuance
+
+costs
+
+39,670
+
+445
+
+Conversion of SAFE note into
+
+redeemable convertible preferred
+
+stock
+
+89
+
+1
+
+Issuance of Class T common stock
+
+0
+
+Issuance of Class A common stock
+
+upon exercise of stock options
+
+15,330
+
+3
+
+3
+
+Stock-based compensation expense
+
+29
+
+29
+
+Net loss
+
+(1,531)
+
+(1,531)
+
+Balance as of December 31, 2023
+
+175,764
+
+1,552
+
+1,754,153
+
+0
+
+37
+
+(1,731)
+
+(1,694)
+
+Issuance of redeemable convertible
+
+preferred stock, net of issuance
+
+costs
+
+39,979
+
+1,188
+
+Conversion of SAFE notes into
+
+redeemable convertible preferred
+
+stock
+
+4,476
+
+134
+
+Issuance of Class A common stock
+
+upon exercise of stock options
+
+24,907
+
+10
+
+10
+
+Stock-based compensation expense
+
+192
+
+192
+
+Net loss
+
+(8,309)
+
+(8,309)
+
+Balance as of December 31, 2024
+
+220,219
+
+2,874
+
+1,779,060
+
+0
+
+239
+
+(10,040)
+
+(9,801)
+
+Issuance of redeemable convertible
+
+preferred stock, net of issuance
+
+costs
+
+155,830
+
+16,548
+
+Conversion of convertible notes
+
+into redeemable convertible
+
+preferred stock
+
+168,273
+
+10,347
+
+Issuance of Class A common stock
+
+upon exercise of stock options and
+
+grants of restricted stock
+
+141,542
+
+111
+
+111
+
+Repurchase of outstanding
+
+common stock
+
+(27,942)
+
+(149)
+
+(149)
+
+Stock-based compensation expense
+
+1,158
+
+1,158
+
+Equity issued in connection with
+
+business acquisition
+
+8,607
+
+136
+
+136
+
+Foreign currency translation
+
+adjustments
+
+1
+
+1
+
+Net unrealized gains on available-
+
+for-sale securities
+
+4
+
+4
+
+Net loss
+
+(41,965)
+
+(41,965)
+
+Balance as of December 31, 2025
+
+544,322
+
+$29,769
+
+1,901,267
+
+$
+
+$
+
+0
+
+$
+
+$1,644
+
+$5
+
+$(52,154)
+
+$(50,505)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-10
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders Deficit
+
+(In millions, except share amounts which are in thousands)
+
+Redeemable convertible
+
+preferred stock
+
+Class A
+
+common stock
+
+Class N
+
+common stock
+
+Class T
+
+common stock
+
+Additional
+
+paid-in
+
+capital
+
+Accumulated
+
+other
+
+comprehensive
+
+income
+
+Accumulated
+
+deficit
+
+Total
+
+stockholders
+
+deficit
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Balance as of December 31, 2024
+
+220,219
+
+$2,874
+
+1,779,060
+
+$
+
+$
+
+0
+
+$
+
+$239
+
+$
+
+$(10,040)
+
+$(9,801)
+
+Issuance of redeemable
+
+convertible preferred stock, net
+
+of issuance costs (unaudited)
+
+155,830
+
+16,548
+
+Conversion of convertible notes
+
+into redeemable convertible
+
+preferred stock (unaudited)
+
+168,273
+
+10,347
+
+Issuance of Class A common
+
+stock upon exercise of stock
+
+options and grants of restricted
+
+stock (unaudited)
+
+94,285
+
+59
+
+59
+
+Repurchase of outstanding
+
+common stock (unaudited)
+
+(27,942)
+
+(149)
+
+(149)
+
+Stock-based compensation
+
+expense (unaudited)
+
+584
+
+584
+
+Foreign currency translation
+
+adjustments (unaudited)
+
+1
+
+1
+
+Net unrealized gain on available-
+
+for-sale securities (unaudited)
+
+3
+
+3
+
+Net loss (unaudited)
+
+(25,107)
+
+(25,107)
+
+Balance as of September 30,
+
+2025 (unaudited)
+
+544,322
+
+$29,769
+
+1,845,403
+
+$
+
+$
+
+0
+
+$
+
+$882
+
+$4
+
+$(35,296)
+
+$(34,410)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-11
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders Deficit
+
+(In millions, except share amounts which are in thousands)
+
+Redeemable convertible
+
+preferred stock
+
+Class A
+
+common stock
+
+Class N
+
+common stock
+
+Class T
+
+common stock
+
+Additional
+
+paid-in
+
+capital
+
+Accumulated
+
+other
+
+comprehensive
+
+income (loss)
+
+Accumulated
+
+deficit
+
+Total
+
+stockholders
+
+deficit
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Balance as of December 31, 2025
+
+544,322
+
+$29,769
+
+1,901,267
+
+$
+
+$
+
+0
+
+$
+
+$1,644
+
+$5
+
+$(52,154)
+
+$(50,505)
+
+Issuance of redeemable
+
+convertible preferred stock, net
+
+of issuance costs (unaudited)
+
+285,187
+
+122,242
+
+Conversion of convertible notes
+
+into redeemable convertible
+
+preferred stock (unaudited)
+
+23,885
+
+5,499
+
+Issuance of Class A common
+
+stock upon exercise of stock
+
+options, grants of restricted
+
+stock, and sales of common stock
+
+for cash (unaudited)
+
+240,808
+
+407
+
+407
+
+Issuance of Class A common
+
+stock in connection with
+
+acquisitions (unaudited)
+
+26,713
+
+557
+
+557
+
+Issuance of Class N common
+
+stock upon settlement of
+
+donation matching program
+
+liability (unaudited)
+
+30,643
+
+667
+
+667
+
+Stock-based compensation
+
+expense (unaudited)
+
+3,255
+
+3,255
+
+Foreign currency translation
+
+adjustments (unaudited)
+
+(11)
+
+(11)
+
+Net unrealized loss on available-
+
+for-sale securities (unaudited)
+
+(155)
+
+(155)
+
+Net loss (unaudited)
+
+(104,039)
+
+(104,039)
+
+Other (unaudited)
+
+(49)
+
+(49)
+
+Balance as of September 30,
+
+2026 (unaudited)
+
+853,394
+
+$157,510
+
+2,168,788
+
+$
+
+30,643
+
+$
+
+0
+
+$
+
+$6,481
+
+$(161)
+
+$(156,193)
+
+$(149,873)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-12
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Statements of Cash Flows
+
+(In millions)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+Cash flows from operating activities
+
+Net loss
+
+$(1,531)
+
+$(8,309)
+
+$(41,965)
+
+$(25,107)
+
+$(104,039)
+
+Adjustments to reconcile net loss to net cash
+
+provided by (used in) operating activities
+
+Stock-based compensation expense
+
+29
+
+192
+
+1,158
+
+584
+
+3,255
+
+Depreciation and amortization
+
+3
+
+21
+
+40
+
+24
+
+250
+
+Change in fair value of convertible notes,
+
+derivative liabilities, and SAFEs
+
+1,045
+
+5,434
+
+34,308
+
+20,107
+
+94,324
+
+Donation matching program liability
+
+541
+
+2,086
+
+Recognition and change in fair value of
+
+other financial instruments
+
+10,277
+
+Other
+
+7
+
+11
+
+4
+
+(11)
+
+Changes in operating assets and liabilities
+
+Accounts receivable, net
+
+(10)
+
+(90)
+
+(834)
+
+(500)
+
+(7,076)
+
+Prepaid expenses and other assets
+
+(1,253)
+
+(3,190)
+
+1,771
+
+779
+
+1,435
+
+Accounts payable, accrued expenses, and
+
+other liabilities
+
+84
+
+222
+
+2,079
+
+1,867
+
+4,377
+
+Lease liabilities
+
+(1)
+
+13
+
+24
+
+(11)
+
+Deferred revenue
+
+7
+
+21
+
+241
+
+194
+
+1,702
+
+Net cash provided by (used in)
+
+operating activities
+
+(1,627)
+
+(5,692)
+
+(2,637)
+
+(2,024)
+
+6,569
+
+Cash flows from investing activities
+
+Purchases of property and equipment
+
+(2)
+
+(15)
+
+(131)
+
+(111)
+
+(925)
+
+Prepayments for leased assets and
+
+equipment
+
+(54)
+
+(51)
+
+(1,955)
+
+Purchases of short-term investments
+
+(3,082)
+
+(1,831)
+
+(40,318)
+
+Sales and maturities of short-term
+
+investments
+
+213
+
+9
+
+6,900
+
+Other investing activities
+
+(7)
+
+(23)
+
+(23)
+
+(248)
+
+Net cash used in investing activities
+
+(2)
+
+(22)
+
+(3,077)
+
+(2,007)
+
+(36,546)
+
+Cash flows from financing activities
+
+Proceeds from issuance of redeemable
+
+convertible preferred stock, net of issuance
+
+costs
+
+445
+
+1,188
+
+16,548
+
+16,548
+
+110,432
+
+Principal payments for finance leases
+
+(88)
+
+Issuance of convertible notes for cash
+
+1,750
+
+6,050
+
+3,450
+
+2,050
+
+Proceeds from issuance of common stock
+
+3
+
+10
+
+111
+
+59
+
+407
+
+Repurchase of common stock
+
+(149)
+
+(149)
+
+Issuance of SAFEs for cash
+
+122
+
+Payment of deferred offering costs
+
+(16)
+
+Net cash provided by financing
+
+activities
+
+2,320
+
+7,248
+
+19,960
+
+18,508
+
+110,735
+
+Effect of exchange rate changes on cash, cash
+
+equivalents, and restricted cash
+
+1
+
+1
+
+(7)
+
+F-13
+
+Table of Contents
+
+Anthropic, PBC
+
+Consolidated Statements of Cash Flows (continued)
+
+(In millions)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+Net increase in cash, cash equivalents, and
+
+restricted cash
+
+691
+
+1,534
+
+14,247
+
+14,478
+
+80,751
+
+Cash, cash equivalents, and restricted cash at
+
+beginning of period
+
+929
+
+1,620
+
+3,154
+
+3,154
+
+17,401
+
+Cash, cash equivalents, and restricted cash at
+
+end of period
+
+$1,620
+
+$3,154
+
+$17,401
+
+$17,632
+
+$98,152
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-14
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+1. Description of Business and Summary of Significant Accounting Policies
+
+Anthropic, PBC (the Company) is a public benefit corporation (PBC) incorporated under Delaware law in
+
+January 2021. The Company develops and maintains advanced artificial intelligence (AI) models and provides
+
+its intelligence service through its platform and applications to customers. The Companys public benefit
+
+purpose is to responsibly develop and maintain advanced AI for the long-term benefit of humanity. The
+
+Company is headquartered in San Francisco, California.
+
+Basis of Presentation
+
+The accompanying consolidated financial statements have been prepared in conformity with accounting
+
+principles generally accepted in the United States of America (GAAP). The Company consolidates its wholly
+
+owned subsidiaries over which it exercises control, as well as variable interest entities (VIEs) where the
+
+Company is deemed to be the primary beneficiary. All intercompany balances and transactions between
+
+consolidated entities have been eliminated in consolidation.
+
+Change in Presentation and Reclassification of Prior Periods
+
+Certain amounts reported in the Companys prior period consolidated financial statements have been
+
+reclassified to conform to the current period presentation. During the year ended December 31, 2025, the
+
+Company changed its presentation of operating expenses from a functional classification under which cost of
+
+revenue, gross profit (loss), research and development, sales and marketing, and general and administrative
+
+were presented as separate line items, to a classification based on the nature of expenses. As a result of this
+
+change in presentation, cost of revenue, gross profit (loss), research and development, sales and marketing, and
+
+general and administrative are no longer presented as separate line items in the consolidated statements of
+
+operations.
+
+Under the new presentation, expenses are presented by major categories, including compute and
+
+infrastructure personnel sales, marketing, and partnerships Bartz settlement and other operating and
+
+administrative. In addition, the Company combined or separately presented certain captions on its consolidated
+
+balance sheets and consolidated statements of cash flows. These reclassifications and certain other prior period
+
+amounts have been recast for all prior periods presented to conform to the current period presentation. These
+
+reclassifications affect presentation only and did not impact total assets, total liabilities, total stockholders
+
+equity (deficit), total operating loss, net loss, or net cash provided by (used in) operating, investing, or financing
+
+activities.
+
+Unaudited Interim Consolidated Financial Information
+
+The accompanying interim consolidated balance sheet as of September30, 2026 and the interim consolidated
+
+statements of operations, comprehensive loss, redeemable convertible preferred stock and stockholders deficit,
+
+and cash flows for the nine months ended September 30, 2025 and 2026 and the related notes to such interim
+
+consolidated financial statements are unaudited. These unaudited interim consolidated financial statements are
+
+presented in accordance with the rules and regulations of the U.S. Securities and Exchange Commission and do
+
+not include all disclosures normally required in annual consolidated financial statements prepared in
+
+accordance with GAAP. In managements opinion, the unaudited interim consolidated financial statements
+
+have been prepared on the same basis as the annual consolidated financial statements and reflect all normal
+
+and recurring adjustments necessary for the fair statement of the Companys financial position as of September
+
+30, 2026 and the Companys consolidated results of operations and cash flows for the nine months ended
+
+September 30, 2025 and 2026. The results of operations for the nine months ended September30, 2026 are
+
+not necessarily indicative of the results to be expected for the full year or any other future interim or annual
+
+period.
+
+Stock Split
+
+On September 17, 2026, the Company effected a 10-for-1 stock split of its authorized, issued, and outstanding
+
+shares of Class A common stock and Class N common stock. The conversion rate of the Companys redeemable
+
+convertible preferred stock was proportionately adjusted to factor in the stock split. On the same date, the
+
+Company also effected a 1-for-1,000 reverse stock split of its authorized and issued shares of Class T common
+
+F-15
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+stock. All share and per share information has been retroactively adjusted to reflect the stock split and reverse
+
+stock split for all periods presented.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with GAAP requires management to make
+
+estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses,
+
+and related disclosures of contingent assets and liabilities in the consolidated financial statements and
+
+accompanying notes. Actual results could differ materially from those estimates. Significant items subject to
+
+such estimates and assumptions include the determination of the fair value of common stock, valuation of
+
+deferred tax assets and the related valuation allowance, the potential outcome of uncertain tax positions that
+
+have been recognized in the consolidated financial statements or tax returns, valuation of the simple
+
+agreements for future equity (SAFEs), valuation of convertible notes, valuation of goodwill, stock-based
+
+compensation, the assessment of useful lives of long-lived assets and intangible assets, contingencies, the
+
+valuation of financial instruments, and incremental borrowing rates for operating and finance leases.
+
+Concentrations of Risk
+
+Concentration of Credit Risk
+
+Financial instruments that potentially subject the Company to concentrations of credit risk consist principally
+
+of cash and cash equivalents, restricted cash, accounts receivable, and short-term investments. The Company
+
+maintains cash with financial institutions of high credit quality and does not believe it is exposed to any unusual
+
+credit risk beyond the normal credit risk associated with commercial banking relationships. Deposits held with
+
+these financial institutions are in excess of the amount of Federal Deposit Insurance Corporation insured limits
+
+provided on such deposits. The Company has not experienced any losses related to these concentrations during
+
+the periods presented. The Companys short-term investments are primarily intended to facilitate liquidity and
+
+capital preservation and consist predominantly of highly liquid investment-grade fixed-income securities,
+
+diversified among industries and individual issuers. The Companys investment policy is designed to limit
+
+exposure from any particular issuer or institution.
+
+Significant Customers
+
+The table below sets forth concentrations of credit risk with respect to accounts receivable from major
+
+customers that accounted for 10% or more of the Companys total accounts receivable
+
+As of December 31,
+
+As of September 30,
+
+2024
+
+2025
+
+2026
+
+(unaudited)
+
+Customer A
+
+*
+
+13%
+
+*
+
+Customer E
+
+*
+
+*
+
+13%
+
+______________
+
+*Less than 10% of total
+
+The table below sets forth concentrations of revenue from customers that accounted for 10% or more of the
+
+Companys total revenue
+
+Year Ended December 31,
+
+Nine Months Ended September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+Customer A
+
+*
+
+*
+
+12%
+
+11%
+
+*
+
+Customer B
+
+*
+
+*
+
+12%
+
+14%
+
+*
+
+Customer C
+
+43%
+
+*
+
+*
+
+*
+
+*
+
+Customer D
+
+11%
+
+*
+
+*
+
+*
+
+*
+
+______________
+
+*Less than 10% of total
+
+F-16
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+Other Concentrations
+
+Prior to 2026, the Company obtained substantially all of its compute infrastructure from three cloud service
+
+providers (CSPs). During the nine months ended September30, 2026 (unaudited), the Company obtained a
+
+substantial majority of its compute infrastructure from a limited number of CSPs and other suppliers under
+
+long-term hosting and lease agreements. This created dependencies and potential vulnerabilities, in that a
+
+disruption affecting these counterparties could have adversely affected the Companys operations. While the
+
+Company is expanding its relationships with its existing CSPs, it is also expanding its compute capacity through
+
+commitments with additional CSPs and through compute procured from other sources, including leased
+
+infrastructure operated on its behalf.
+
+The Company also provides access to its intelligence service through CSP marketplaces, with CSPs acting as
+
+collection agents for the Company in these transactions. During the years ended December 31, 2023, 2024, and
+
+2025, revenue generated from sales through CSP marketplaces to customers represented approximately 11%,
+
+32%, and 47% of total revenue, respectively. During the nine months ended September 30, 2025 and 2026
+
+(unaudited), revenue generated from sales through CSP marketplaces to customers represented approximately
+
+48% and 44% of total revenue, respectively. As of December 31, 2024 and 2025 and September30, 2026
+
+(unaudited), net accounts receivable from sales through CSP marketplaces to customers represented 42%, 60%,
+
+and 52% of the Companys net accounts receivable, respectively.
+
+Certain of the CSPs also hold the Companys non-voting redeemable convertible preferred stock and convertible
+
+notes. See Notes 9 and 10 for further information.
+
+Cash and Cash Equivalents
+
+Cash and cash equivalents consist of cash held in checking and interest-bearing accounts as well as investments
+
+in money market funds and highly liquid investments with original maturities of three months or less from the
+
+date of purchase.
+
+Restricted Cash
+
+The Companys restricted cash is classified as current or noncurrent based on the contractual or estimated term
+
+of the remaining restriction and consists of amounts pledged as collateral for the Companys lease and other
+
+contractual obligations. These amounts are restricted from general corporate use and will be released or applied
+
+against the related obligations as the underlying conditions are satisfied.
+
+Short-Term Investments
+
+The Companys short-term investments primarily consist of debt securities, including U.S. Treasury and
+
+agency securities, corporate debt securities, and commercial paper. The Company determines the appropriate
+
+classification of its short-term investments at the time of purchase and reevaluates such designation at each
+
+balance sheet date. The Company has classified and accounted for its short-term investments as available-for-
+
+sale securities as the Company may sell these securities at any time for use in its current operations or for other
+
+purposes, even prior to maturity. As a result, short-term investments, including securities with stated
+
+maturities beyond 12 months, are classified within current assets in the consolidated balance sheets.
+
+Available-for-sale securities are recorded at fair value each reporting period and are periodically evaluated for
+
+impairment at the individual security level. For unrealized losses in securities that the Company intends to hold
+
+and will not-more-likely-than-not be required to sell before recovery, the Company further evaluates whether
+
+declines in fair value below amortized cost are due to credit or non-credit related factors.
+
+The Company considers credit-related impairments to be changes in value that are driven by a change in the
+
+creditors ability to meet its payment obligations and records an allowance and recognizes a corresponding loss
+
+in other income (expense), net when the impairment is incurred. Unrealized non-credit related losses and
+
+unrealized gains are reported as a separate component of accumulated other comprehensive income (loss) in
+
+the consolidated balance sheets until realized. Realized gains and losses are determined based on the specific
+
+identification method and are reported in other income (expense), net in the consolidated statements of
+
+operations.
+
+F-17
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+Variable Interest Entities
+
+The Company evaluates its ownership, contractual, and other interests in entities to determine if it has a
+
+variable interest in an entity. These evaluations are complex, involve judgment, and use estimates and
+
+assumptions based on available historical and prospective information, among other factors. If the Company
+
+determines that an entity for which it holds a contractual or ownership interest is a VIE and that the Company
+
+is the primary beneficiary, the Company consolidates such entity in its consolidated financial statements. An
+
+enterprise having a controlling financial interest in a VIE must consolidate the VIE if it is considered the
+
+primary beneficiary, which is described as having both (1) the power to direct the activities of a VIE that most
+
+significantly impact the VIEs economic performance and (2) the right to receive benefits or the obligation to
+
+absorb losses of the VIE that potentially could be significant to the VIE. The Company consolidates certain VIEs
+
+formed to finance and deploy compute and infrastructure capacity. Refer to Note 7 for further information.
+
+Long-Term Benefit Trust
+
+In 2023, the Company established the Long-Term Benefit Trust (LTBT). The LTBT is intended to operate as
+
+an independent body of financially disinterested trustees with expertise in AI safety, national security, public
+
+policy, and social enterprise. In connection with establishing the LTBT, the Company created a class of common
+
+stock (the Class T common stock) that is held exclusively by the LTBT and gives the LTBT authority to elect
+
+and remove certain of the Companys directors.
+
+The LTBT is considered a consolidated VIE as it relies on the Company for financial support. The Company is
+
+the primary beneficiary of the VIE as it has the power to direct the activities that most significantly impact the
+
+LTBTs economic performance, provides financial support to the LTBT, and would receive the LTBTs financial
+
+assets (other than the Class T common stock) in the event that the LTBT terminates. The Company consolidated
+
+the VIE at inception and will perform on-going reassessments of the VIE based on any reconsideration events
+
+to reevaluate whether a change to the consolidation conclusion is required each reporting period. The
+
+consolidated balance sheets as of December31, 2024 and 2025 and September30, 2026 (unaudited) include
+
+assets of the LTBT, which can only be used to settle obligations and liabilities of the LTBT. As of December31,
+
+2024 and 2025 and September30, 2026 (unaudited), total assets and liabilities of the LTBT were not material.
+
+Fair Value Measurements and Financial Instruments
+
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an
+
+orderly transaction between market participants at the measurement date. In accordance with Accounting
+
+Standards Codification (ASC) 820, Fair Value Measurement (ASC 820), the Company uses the fair value
+
+hierarchy, which prioritizes the inputs used to measure fair value. The hierarchy, as defined below, gives the
+
+highest priority to unadjusted quoted prices in active markets for identical assets or liabilities and the lowest
+
+priority to unobservable inputs. The three levels of the fair value hierarchy are set forth below
+
+Level 1 Observable inputs such as quoted prices in active markets for identical assets or liabilities.
+
+Level 2 Observable inputs other than Level 1 prices such as quoted prices for similar assets or liabilities in
+
+active markets, quoted prices in markets that are not active or inputs other than the quoted prices that are
+
+observable either directly or indirectly for the full term of the assets or liabilities.
+
+Level 3 Unobservable inputs in which there is little or no market data and that are significant to the fair
+
+value of the assets or liabilities.
+
+The Companys financial instruments include accounts receivable, short-term investments, prepaid expenses
+
+and other current assets, other assets, accounts payable, accrued expenses, and other current liabilities,
+
+convertible notes payable, SAFE liabilities, and certain derivative contracts. The estimated fair value of other
+
+financial instruments, including cash and restricted cash, are stated at their carrying value which approximates
+
+fair value due to the short time to the expected receipt or payment date. Additionally, the carrying amounts of
+
+accounts receivable, prepaid expenses and other current assets, accounts payable, accrued expenses, and other
+
+current liabilities approximate fair value due to their short-term nature.
+
+F-18
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+Accounts Receivable and Allowances
+
+Accounts receivable represent uncollected payments from customers and payments collected by channel
+
+partners from customers on the Companys behalf which have not yet been remitted to the Company. Accounts
+
+receivable are recorded at the invoiced amount net of the allowance for credit losses and do not bear interest.
+
+The Companys accounts receivable balances as of December31, 2023, 2024, and 2025 and September30,
+
+2026 (unaudited) were $10 million, $95 million, $909 million, and $7.9 billion, respectively.
+
+The Company regularly monitors collections and payments from customers and maintains an allowance for
+
+credit losses for estimated losses resulting from the inability of customers or channel partners to make or remit
+
+required payments. Management estimates the Companys allowance for credit losses by considering factors
+
+such as historical credit loss experience and current conditions, the length of time accounts receivable are past
+
+due, customer payment histories, any specific customer collection issues identified, and current market
+
+conditions which may affect customer financial condition. This assessment is performed on an aggregate basis
+
+when similar characteristics exist within a customer group and on an individual basis when specific customers
+
+with collectability risks are identified. The Company writes off accounts receivable against the allowance when
+
+management determines a balance is uncollectible and no longer actively pursues collection of the receivable.
+
+Changes in the allowance for credit losses were as follows (in millions)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2024
+
+2025
+
+2026
+
+(unaudited)
+
+Balance at beginning of period
+
+$
+
+$5
+
+$17
+
+Change in allowance for credit losses
+
+5
+
+20
+
+94
+
+Write-off of uncollectible accounts receivable
+
+(8)
+
+(2)
+
+Balance at end of period
+
+$5
+
+$17
+
+$109
+
+Property and Equipment, Net
+
+Property and equipment is stated at cost less accumulated depreciation. Depreciation is recorded using the
+
+straight-line method over the estimated useful lives of the related asset, ranging from three to five years.
+
+Leasehold improvements are amortized over the shorter of estimated useful life or the remaining lease term.
+
+The Company estimates the useful lives of property and equipment upon initial recognition and periodically
+
+evaluates the useful lives and whether events or changes in circumstances warrant a revision to the useful lives.
+
+Maintenance and repair costs that do not extend the useful life of the assets are expensed as incurred.
+
+When assets are retired or otherwise disposed of, the cost and accumulated depreciation are removed from the
+
+accounts and any resulting gain or loss is reflected in the consolidated statements of operations in the period
+
+realized.
+
+Software Development Costs
+
+Software development costs include costs to develop advanced AI models and related software solutions used to
+
+deliver the Companys services to external users. Software development costs also include costs to develop
+
+software solely for internal use and applications used to support the Companys operations. Model development
+
+costs are generally expensed as incurred due to the significant development uncertainty inherent in the
+
+development process.
+
+The Company capitalizes qualifying software development costs when (i) management, with relevant authority,
+
+has authorized and committed to fund the software project and (ii) it is probable that the project will be
+
+completed and the software will be used to perform its intended function. Capitalization ceases when the
+
+software is substantially complete and ready for its intended use, including the completion of all significant
+
+testing. Software development costs capitalized were not significant for the periods presented.
+
+F-19
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+Evaluation of Long-Lived Assets for Impairment
+
+Long-lived assets, such as property and equipment, right-of-use (ROU) assets, and finite-lived intangible
+
+assets subject to amortization, are reviewed for impairment whenever events or changes in circumstances
+
+indicate that the carrying amount of an asset or asset group (collectively, the asset group) may not be
+
+recoverable. Recoverability of asset groups to be held and used is measured by comparing the carrying amount
+
+to the estimated undiscounted future cash flows expected to be generated. If the carrying amount exceeds the
+
+undiscounted cash flows, the asset groups are determined to be impaired, and an impairment charge is
+
+recognized as the amount by which the carrying amount exceeds its fair value.
+
+Intangible Assets, Net
+
+Intangible assets which are subject to amortization are amortized on a straight-line basis over their estimated
+
+useful lives, which range from one to six years. The Company reviews intangible assets which are subject to
+
+amortization for impairment under the long-lived asset model.
+
+Goodwill
+
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net
+
+tangible and intangible assets acquired. Goodwill is not subject to amortization but is tested for impairment on
+
+an annual basis, performed in the fourth quarter of each year, or whenever events or changes in circumstances
+
+indicate the carrying value of the reporting unit may be in excess of the reporting units fair value.
+
+Goodwill is tested for impairment at the reporting unit level by first assessing the qualitative factors to
+
+determine whether it is more likely than not that the fair value of the Companys single reporting unit is less
+
+than its carrying amount. Qualitative indicators assessed include consideration of macroeconomic, industry,
+
+and market conditions, the Companys overall financial performance, and personnel or strategy changes. Based
+
+on the qualitative assessment, if the Company determines that it is more likely than not that the Companys
+
+single reporting units fair value is less than its carrying amount, a quantitative analysis is performed by
+
+comparing the fair value of the Companys single reporting unit to its carrying value. If the carrying amount of
+
+the reporting unit exceeds its fair value, an impairment loss is recognized in an amount equal to that excess,
+
+limited to the total amount of goodwill allocated to the reporting unit. The Company did not recognize any
+
+goodwill during the years ended December31, 2023 and 2024. No impairment losses related to goodwill were
+
+recognized during the year ended December31, 2025 or the nine months ended September 30, 2026
+
+(unaudited).
+
+Acquisitions
+
+The Company accounts for acquisitions of entities or asset groups that qualify as businesses in accordance with
+
+ASC 805, Business Combinations (ASC 805). The purchase price of the acquisition is allocated to the tangible
+
+and intangible assets acquired and liabilities assumed based on their estimated fair values at the acquisition
+
+date. The excess of the purchase price over those fair values is recorded as goodwill. During the measurement
+
+period, which may be up to one year from the acquisition date, the Company may record adjustments to the
+
+assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the
+
+measurement period or final determination of the values of assets acquired or liabilities assumed, whichever
+
+comes first, any subsequent adjustments are recorded in the consolidated statements of operations.
+
+Leases
+
+The Company determines if an arrangement is a lease at inception. The Company evaluates the classification of
+
+leases at commencement and, as necessary, at modification. The Company, as the lessee, classifies leases with
+
+lease terms longer than 12 months as either operating or finance. A lease is classified as a finance lease if it
+
+meets any of the finance lease classification criteria in ASC 842 at lease commencement all other leases are
+
+classified as operating leases. The Companys finance leases are generally those leases that allow the Company
+
+to utilize the asset for a major part of its estimated economic life, that have discounted lease payments that are
+
+substantially all the estimated fair value of the asset, or that include a purchase option which the Company is
+
+reasonably certain to exercise.
+
+F-20
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+The Company leases facilities and equipment under operating and finance leases. The Company determines
+
+whether an arrangement is or contains a lease at inception and records lease liabilities and right-of-use assets
+
+on its consolidated balance sheets at lease commencement. Where the Companys leases do not provide an
+
+implicit rate, the Company determines its incremental borrowing rate based on the information available at
+
+commencement date in determining the present value of lease payments. The determination of the incremental
+
+borrowing rate is based on an estimate of the Companys unsecured borrowing rate, adjusted for tenor and
+
+collateralized security features. Lease liabilities are recognized at the present value of the future lease payments
+
+at the lease commencement date. ROU assets are measured based on the corresponding lease liability adjusted
+
+for (i) payments made to the lessor at or before the commencement date, (ii) initial direct costs incurred and
+
+(iii) tenant incentives received, incurred or payable under the lease. The Company does not assume renewals or
+
+early terminations of its leases unless it is reasonably certain to exercise these options at commencement.
+
+Operating lease cost is recognized on a straight-line basis over the lease term. Finance lease ROU assets are
+
+amortized on a straight-line basis over the shorter of the estimated useful life of the underlying asset or, where
+
+title does not transfer at the end of the lease term and the Company is not reasonably certain to exercise a
+
+purchase option, the lease term, and are recognized within operating expenses based on the nature of the leased
+
+asset. The interest component of a finance lease is recognized using the effective interest method over the lease
+
+term and is presented separately from the amortization of the related ROU asset.
+
+Operating lease ROU assets and operating lease liabilities are presented separately on the consolidated balance
+
+sheets. Finance lease ROU assets are included in property and equipment, net. Finance lease liabilities are
+
+included in accounts payable, accrued expenses, and other current liabilities, and in other noncurrent liabilities.
+
+The Companys lease agreements may contain lease and non-lease components. Non-lease components related
+
+to the asset being leased are not separated from the lease components and are accounted for as a single lease
+
+component for all existing classes of assets.
+
+The Company made an accounting policy election for lease agreements with a term of 12 months or less and
+
+does not recognize ROU assets and lease liabilities in respect of those agreements. Any payments related to
+
+short-term leases are expensed as incurred.
+
+Variable lease payments are expensed as incurred and are mainly composed of utilities, common area
+
+maintenance, and other operating expenses.
+
+Similar to other long-lived assets discussed above, management assesses ROU assets for impairment whenever
+
+events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable.
+
+Finance lease ROU assets are assessed for impairment together with the Companys other property and
+
+equipment. For leased assets, such circumstances would include the decision to enter into a sublease for which
+
+estimated cash flows do not fully cover the costs of the associated lease.
+
+Revenue Recognition
+
+The Company generates revenue from customers, including enterprises and prosumers, utilizing its intelligence
+
+service, which enables customers to submit text, documents, and other materials (Prompts), and receive AI-
+
+generated results (Results) from its proprietary Claude model family. Prompts and Results are measured in
+
+the number of tokens consumed. The Company provides the intelligence service through its web, mobile, and
+
+desktop interfaces and APIs as well as through CSP marketplaces that distribute the intelligence service to the
+
+Companys customers. The intelligence service is not available for on-premise download or hosting by
+
+customers.
+
+The Company accounts for revenue under ASC 606, Revenue from Contracts with Customers. Revenue is
+
+recognized based on the amount of consideration the Company expects to receive when the Company provides
+
+its intelligence service to customers. Revenue excludes amounts collected on behalf of third parties, such as
+
+sales and indirect taxes, as well as estimated concessions, credits, and refunds.
+
+The Companys intelligence service is provided on a consumption or subscription basis. Revenue is recognized
+
+when customers use the Companys intelligence service, based on the quantity of tokens consumed. Intelligence
+
+service provided on a subscription basis is subject to usage limits that reset over short periods, which results in
+
+revenue being recognized ratably over the subscription period, which is generally 12 months or less. Payment
+
+F-21
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+terms vary by customer and sales channel but are generally less than 60 days. Subscription fees are generally
+
+prepaid. Certain enterprise contracts may include minimum spend commitments.
+
+When the Company utilizes CSP marketplaces that distribute the intelligence service to customers, the
+
+customer receives the same intelligence service as is available through its web, mobile, and desktop interfaces
+
+and APIs, and the intelligence service represents a single promise in customer contracts. In these arrangements,
+
+the Company is the principal and recognizes revenue on a gross basis because the Company has a direct
+
+contractual relationship with customers, is primarily responsible for providing the intelligence service to
+
+customers, and establishes pricing. The CSPs in these arrangements do not obtain control of the Companys
+
+intelligence service at any point prior to transfer to the customer.
+
+Deferred Revenue
+
+Deferred revenue consists of amounts billed or received in advance of the Company satisfying its performance
+
+obligations, and is recognized as revenue as services are delivered to customers. Deferred revenue relates
+
+primarily to subscriptions that are subject to usage limits that reset over short periods, which results in revenue
+
+being recognized ratably over the subscription period, which is generally 12 months or less.
+
+Compute and Infrastructure
+
+Compute and infrastructure expenses primarily consist of costs attributable to operating the Companys
+
+technology infrastructure, which supports the full range of workloads for the Companys models, including
+
+research, model development, serving customers, and internal usage of Claude. These costs primarily consist of
+
+cloud compute fees paid to CSPs under committed and on-demand arrangements, including storage,
+
+networking and connectivity, and related support costs, infrastructure costs associated with serving customer
+
+workloads through partner channels, colocation facility costs, equipment leases and committed power costs
+
+associated with the Companys data center operations, and third-party application infrastructure software costs
+
+directly related to the Companys compute operations.
+
+Personnel
+
+Personnel expenses primarily consist of stock-based compensation, including expense related to stock options,
+
+restricted stock units (RSUs), and restricted stock awards, cash compensation, including base salaries and
+
+bonuses, employee benefits, including health and welfare benefits, and employer payroll taxes.
+
+Bartz Settlement
+
+Bartz settlement consists of the charge the Company recorded in 2025 to settle the Bartz copyright
+
+infringement suit. Refer to Note 13 for further information.
+
+Sales, Marketing, and Partnerships
+
+Sales, marketing, and partnerships expenses primarily consist of channel partner costs and marketing and
+
+advertising costs, including media and public relations spend.
+
+Advertising costs are expensed as incurred. Advertising expenses were $33 million and $147 million for the
+
+years ended December31, 2024 and 2025, respectively. Advertising expenses incurred in 2023 were not
+
+material.
+
+Other Operating and Administrative
+
+Other operating and administrative expenses primarily consist of charitable donations expense related to the
+
+Companys donation matching program, vendor costs related to data quality and performance evaluation
+
+services, information technology and cloud software costs, payment processing and platform fees, facility and
+
+F-22
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+occupancy costs, non-income taxes, professional services costs, bad debt expense, and depreciation and
+
+amortization related to non-data center assets.
+
+Stock-Based Compensation
+
+The Companys equity incentive plan provides for the granting of stock options, RSUs, and restricted stock
+
+awards to employees, consultants, officers, and directors. The Company measures compensation cost for stock-
+
+based awards at grant-date fair value and recognizes it over the requisite service period. The Company accounts
+
+for forfeitures when they occur. The fair value of stock-based awards, granted or modified, is determined on the
+
+grant date (or modification or acquisition dates, if applicable) using appropriate valuation techniques. Stock-
+
+based compensation is included within personnel expenses in the consolidated statements of operations. The
+
+Company incurred stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the
+
+years ended December31, 2023, 2024, and 2025, respectively. The Company incurred stock-based
+
+compensation expense of $591 million and $3.3 billion for the nine months ended September 30, 2025 and
+
+2026 (unaudited), respectively. The tax benefits recognized in the consolidated statements of operations for
+
+stock-based compensation arrangements were not material during the years ended December31, 2023, 2024,
+
+and 2025. During the nine months ended September 30, 2025 and 2026 (unaudited), tax benefits were $2
+
+million and $276 million, respectively.
+
+Stock Options
+
+Stock-based compensation expense is recognized on a straight-line basis over the period during which an
+
+employee is required to provide services in exchange for the award (generally the vesting period of the award).
+
+The Company determines the fair value of stock options on the date of grant using the Black-Scholes-Merton
+
+option pricing model which is impacted by the estimated fair value of the Companys common stock, as well as
+
+changes in assumptions regarding a number of highly complex and subjective variables. These variables are
+
+summarized as follows
+
+Fair value of common stock Until the Companys common stock is publicly traded, the Company
+
+must estimate the fair value of common stock. The Companys board of directors (the Board)
+
+considers numerous objective and subjective factors to determine the fair value of the Companys
+
+common stock including contemporaneous third-party valuations of the Companys common stock,
+
+price paid by investors for the Companys common and redeemable convertible preferred stock, actual
+
+and forecasted operating and financial performance, market conditions, performance of comparable
+
+publicly traded companies, developments and milestones within the Company, the rights, preferences,
+
+and privileges of the Companys common and redeemable convertible preferred stock, and the
+
+likelihood and timing of achieving a liquidity event, among other factors.
+
+Expected volatility Expected volatility is a measure of the amount by which the stock price is
+
+expected to fluctuate. Since the Company has no trading history of its common stock, it estimates the
+
+expected volatility of its underlying common stock as of the grant date of its stock options by taking the
+
+weighted-average historical volatility of a group of comparable publicly traded companies over a period
+
+equal to the expected life of the options.
+
+Expected term Expected term represents the period over which the Company anticipates stock-based
+
+awards to be outstanding. The Company estimates the expected term based on the options vesting
+
+term and contractual terms, such that the expected life is equal to the average of the stock-based
+
+awards weighted-average vesting period and its contractual term.
+
+Risk-free interest rate The risk-free interest rate used is based on the implied yield in effect at the
+
+time of grant of U.S. Treasury securities with maturities similar to the expected term of the stock
+
+options.
+
+Expected dividend yield The expected dividend yield is zero, as the Company has never declared or
+
+paid any dividends and has no current plans to do so.
+
+F-23
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+Restricted Stock Units
+
+The Company measures and recognizes stock-based compensation expense for RSUs based on the estimated
+
+fair value of the underlying common stock on the date of grant. The Companys RSUs vest upon the satisfaction
+
+of both service and performance conditions. The service condition for these awards is generally satisfied over a
+
+four-year vesting period. The performance condition is satisfied upon the occurrence of either (i) a qualifying
+
+change in control of the Company or (ii) a listing of the Companys equity securities on an established securities
+
+market (including through a traditional public offering, direct listing, or business combination with a special
+
+purpose acquisition company), in each case, on or before the seventh anniversary of the grant date, as further
+
+defined in such RSU agreements. If the performance condition is not satisfied within seven years of the grant
+
+date, all unvested RSUs are forfeited. Compensation cost related to these RSUs must be recognized over the
+
+requisite service period using the accelerated attribution method, if it is probable that the performance-based
+
+vesting condition will be satisfied. The performance-based vesting condition will be deemed probable of being
+
+satisfied upon either the consummation of an acquisition or change in control or the Companys initial public
+
+offering. As of December31, 2025 and September30, 2026 (unaudited), no stock-based compensation expense
+
+had been recognized for the RSUs because management determined that it is not probable that the performance
+
+condition will be achieved.
+
+Redeemable Convertible Preferred Stock
+
+The Company records shares of redeemable convertible preferred stock at their respective fair values on the
+
+dates of issuance, net of issuance costs. The redeemable convertible preferred stock is recorded outside of
+
+permanent equity because it is not mandatorily redeemable and redemption is contingent upon the occurrence
+
+of certain deemed liquidation events that are not solely within the Companys control. The Company has not
+
+adjusted the carrying values of the redeemable convertible preferred stock to the liquidation preferences of such
+
+shares because it is not probable that a deemed liquidation event would occur that would obligate the Company
+
+to pay the liquidation preferences to holders of shares of redeemable convertible preferred stock. Subsequent
+
+adjustments of the carrying values to the liquidation preferences will be made only when it becomes probable
+
+that such a deemed liquidation event will occur.
+
+Foreign Currency
+
+The functional currencies of the Companys foreign subsidiaries are the local currency or the U.S. dollar
+
+depending on the nature of the subsidiaries activities. Monetary assets and liabilities, and transactions
+
+denominated in currencies other than the functional currency are remeasured to the functional currency at the
+
+exchange rate in effect at the end of the period and are recorded in the current period consolidated statements
+
+of operations. Gains and losses resulting from remeasurement are recorded in foreign exchange gains (losses),
+
+net within other income (expense), net in the consolidated statements of operations. Subsidiary assets and
+
+liabilities with non-U.S. dollar functional currencies are translated at the month-end rate, retained earnings and
+
+other equity items are translated at historical rates, and revenue and expenses are translated at average
+
+exchange rates during the year. Cumulative translation adjustments are recorded within accumulated other
+
+comprehensive income (loss), a separate component of total stockholders deficit in the Companys consolidated
+
+balance sheets.
+
+Loss Contingencies
+
+The Company is periodically involved in various legal claims, proceedings and other regulatory and
+
+administrative proceedings that may arise in the ordinary course of business. Certain of these matters may
+
+include speculative claims for substantial or indeterminate amounts of damages. The Company routinely
+
+reviews the status of each significant matter and assesses its potential financial exposure. The Company records
+
+a liability when it believes that it is both probable that a loss has been incurred and the amount can be
+
+reasonably estimated. If the Company determines that a loss is reasonably possible and the loss or range of loss
+
+can be reasonably estimated, the Company discloses the possible loss in the consolidated financial statements.
+
+Because of inherent uncertainties related to these legal matters, significant judgment is required to determine
+
+both the probability and the estimated amount of loss. These estimates have been based on the Companys
+
+assessment of the facts and circumstances at each balance sheet date and are subject to change based on new
+
+information and future events. As additional information becomes available, the Company reassesses its
+
+F-24
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+potential liability and may revise its estimates. If one or more matters were resolved against the Company for
+
+amounts in excess of managements expectations, the Companys results of operations and financial condition,
+
+including in a particular reporting period in which any such outcome becomes probable and estimable, could be
+
+materially adversely affected.
+
+Share Repurchase
+
+Share repurchases are recorded on the trade date. When shares are immediately retired, the value of
+
+repurchased shares is deducted from stockholders deficit through common stock with the excess over par value
+
+recorded to accumulated deficit.
+
+Income Taxes
+
+The Company uses the asset and liability method to account for income taxes. Current income tax expense or
+
+benefit represents the amount of income taxes expected to be payable or refundable for the current year. Under
+
+this method, deferred income tax assets and liabilities are determined based on differences between the
+
+financial statement reporting and tax bases of assets and liabilities and net operating loss and credit
+
+carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates applied to taxable
+
+income in the years in which those temporary differences are expected to be recovered or settled. Valuation
+
+allowances are established when necessary to reduce deferred tax assets to the amounts that are more-likely-
+
+than-not expected to be realized based on the weighting of positive and negative evidence. Future realization of
+
+deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character
+
+(for example, ordinary income or capital gain) within the carryback or carryforward periods available under the
+
+applicable tax law. The Company regularly reviews the deferred tax assets for recoverability based on historical
+
+taxable income, projected future taxable income, the expected timing of the reversals of existing temporary
+
+differences and tax planning strategies. The Companys judgment regarding future profitability may change due
+
+to many factors, including future market conditions and the ability to successfully execute the business plans
+
+andor tax planning strategies. Should there be a change in the ability to recover deferred tax assets, the
+
+Companys income tax provision would increase or decrease in the period in which the assessment is changed.
+
+The Company treats Net CFC Tested Income (formerly referred to as Global Intangible Low-Taxed Income or
+
+GILTI) as a period cost.
+
+The Company accounts for uncertain tax positions in accordance with ASC 740-10, Accounting for Uncertainty
+
+in Income Taxes. The Company recognizes the tax effects of an uncertain tax position only if such position is
+
+more likely than not to be sustained based solely on its technical merits as of the reporting date and only in an
+
+amount more likely than not to be sustained upon review by the tax authorities. The Company recognizes
+
+accrued interest and penalties related to unrecognized tax benefits in the provision for income taxes in the
+
+consolidated statements of operations.
+
+Net Loss per Share
+
+Basic and diluted net loss per share attributable to common stockholders is computed in conformity with the
+
+two-class method required for participating securities. The two-class method requires income available to
+
+common stockholders for the period to be allocated between common stock and participating securities based
+
+upon their respective rights to receive dividends as if all income for the period had been distributed.
+
+The Company considers all series of its redeemable convertible preferred stock to be participating securities as
+
+the holders of such stock have the right to participate on a pari passu basis in any distributions to common
+
+stockholders.
+
+The holders of the redeemable convertible preferred stock would be entitled to dividends in preference to
+
+common stockholders, at specified rates, if declared. Any remaining dividend amounts would then be
+
+distributed to the holders of common stock, restricted common stock, and the holders of the redeemable
+
+convertible preferred stock on a pro-rata basis assuming conversion of all redeemable convertible preferred
+
+stock into common stock. These participating securities do not contractually require the holders of such shares
+
+to participate in the Companys losses. As such, net losses for the periods presented were not allocated to the
+
+Companys participating securities.
+
+F-25
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+Basic net loss per share is computed by dividing the net loss attributable to common stockholders by the
+
+weighted-average number of shares of common stock outstanding during the period, less shares subject to
+
+repurchase. The diluted net loss per share is computed by giving effect to all potentially dilutive securities
+
+outstanding for the period using the treasury stock method or the if-converted method if the effect is dilutive.
+
+For periods in which the Company reports net losses, diluted net loss per share is the same as basic net loss per
+
+share, because all potentially dilutive securities are anti-dilutive.
+
+Recently Adopted Accounting Pronouncements
+
+In November 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update
+
+(ASU) 2023-07, Segment Reporting (Topic 280) Improvements to Reportable Segment Disclosures (ASU
+
+2023-07), which requires disclosure of incremental segment information on an annual and interim basis,
+
+primarily through enhanced disclosures of segment expenses. This guidance is effective for the annual periods
+
+beginning after December 15, 2023, and for interim periods beginning after December 15, 2024 with early
+
+adoption permitted. The Company adopted ASU 2023-07, effective on January 1, 2024, applying the guidance
+
+on a retrospective basis. Refer to Note 14 for further information.
+
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740) Improvements to Income Tax
+
+Disclosures (ASU 2023-09). ASU 2023-09 requires disaggregated information about a reporting entitys
+
+effective tax rate reconciliation as well as information on income taxes paid. The updates in this ASU are
+
+effective for annual periods beginning after December 15, 2024. Early adoption is permitted. The Company
+
+adopted ASU 2023-09, effective on January 1, 2025, applying guidance on a prospective basis. Refer to Note 11
+
+for further information.
+
+In July 2025, the FASB issued ASU 2025-05, Financial InstrumentsCredit Losses (Topic 326) Measurement
+
+of Credit Losses for Accounts Receivable and Contract Assets (ASU 2025-05). ASU 2025-05 provides all
+
+entities with a practical expedient when estimating expected credit losses for current accounts receivable and
+
+current contract assets arising from transactions accounted for under ASC 606. All entities may elect a practical
+
+expedient that assumes that current conditions as of the balance sheet date do not change for the remaining life
+
+of the asset. The amendments in this ASU will be effective for annual reporting periods beginning after
+
+December 15, 2025, and interim reporting periods within those annual reporting periods. Early adoption is
+
+permitted in both interim and annual reporting periods in which financial statements have not yet been issued
+
+or made available for issuance. The Company early adopted ASU 2025-05, effective January 1, 2025, electing
+
+the practical expedient and applying the guidance prospectively. This ASU did not have a significant impact to
+
+the Companys consolidated financial statements.
+
+In September 2025, the FASB issued ASU 2025-06, IntangiblesGoodwill and OtherInternal-Use Software
+
+(Subtopic 350-40) Targeted Improvements to the Accounting for Internal-Use Software (ASU 2025-06).
+
+ASU 2025-06 modernizes the guidance for costs incurred in connection with internal-use software by removing
+
+references to prescriptive development stages. Under ASU 2025-06, an entity may begin capitalizing internal-
+
+use software costs when (a) management, with the relevant authority, implicitly or explicitly authorizes and
+
+commits to funding a computer software project and (b) it is probable that the project will be completed and the
+
+software will be used to perform the function intended (the probable-to-complete recognition threshold). ASU
+
+2025-06 is effective for annual reporting periods beginning after December 15, 2027, and interim periods
+
+within those annual reporting periods early adoption is permitted. The ASU may be adopted prospectively,
+
+retrospectively, or via a modified prospective transition. The Company early adopted ASU 2025-06, effective
+
+January 1, 2025, applying the guidance on a prospective basis. This ASU did not have a significant impact to the
+
+Companys consolidated financial statements.
+
+Recently Issued Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU 2024-03, Disaggregation of Income Statement Expenses (Subtopic
+
+220-40) (ASU 2024-03), and in January 2025, the FASB issued ASU 2025-01, Income Statement-Reporting
+
+Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40) Clarifying the Effective Date
+
+(ASU 2025-01). ASU 2024-03 requires enhanced disclosure in the notes to the financial statements regarding
+
+the disaggregation of certain costs and expenses. ASU 2024-03, as clarified by ASU 2025-01, is effective for
+
+annual reporting periods beginning after December 15, 2026, and interim reporting periods within annual
+
+reporting periods beginning after December 15, 2027. Early adoption is permitted. Upon adoption, the
+
+F-26
+
+Table of Contents
+
+Anthropic, PBC
+
+Notes to Consolidated Financial Statements
+
+(Continued)
+
+guidance can be applied either prospectively or retrospectively. The Company is currently evaluating the impact
+
+of the new standard on the Companys consolidated financial statements.
+
+There are other new accounting pronouncements issued by the FASB that the Company has adopted or will
+
+adopt, as applicable, and the Company does not believe any of these accounting pronouncements have had, or
+
+will have, a material impact on its consolidated financial statements or disclosures.
+
+2. Revenue
+
+The following table presents revenue by geographical region, determined by the billing address of the customer
+
+(in millions)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+United States
+
+$34
+
+$263
+
+$3,362
+
+$1,810
+
+$23,470
+
+International
+
+7
+
+123
+
+1,223
+
+735
+
+9,772
+
+Total
+
+$41
+
+$386
+
+$4,585
+
+$2,545
+
+$33,242
+
+The following table presents consumption-based and subscription-based revenue (in millions)
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+(unaudited)
+
+Consumption-based
+
+$39
+
+$288
+
+$3,796
+
+$2,125
+
+$26,306
+
+Subscription-based
+
+2
+
+98
+
+789
+
+420
+
+6,936
+
+Total
+
+$41
+
+$386
+
+$4,585
+
+$2,545
+
+$33,242
+
+Deferred Revenue
+
+Significant changes in the deferred revenue balance are as follows (in millions)
+
+Total
+
+Balance as of December 31, 2023
+
+$7
+
+Revenue recognized from deferred revenue at the beginning of the period
+
+(7)
+
+Amounts billed or received in advance and not recognized as revenue and other

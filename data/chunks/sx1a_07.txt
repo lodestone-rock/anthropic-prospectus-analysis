@@ -1,0 +1,4631 @@
+Managements Discussion and Analysis of
+
+Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in
+
+conjunction with the section titled Summary Consolidated Financial and Other Data and the consolidated
+
+financial statements and related notes thereto included elsewhere in this prospectus. This discussion contains
+
+forward-looking statements that involve risks and uncertainties. Our actual results may differ materially
+
+from those anticipated in these forward-looking statements. Factors that could cause or contribute to such
+
+differences include those identified below and those discussed elsewhere in this prospectus, particularly in the
+
+sections titled Risk Factors and Special Note Regarding Forward-looking Statements. Financial data as of
+
+and for the years ended December 31, 2023, 2024, and 2025 have been derived from our audited consolidated
+
+financial statements appearing at the end of this prospectus. Our historical results are not necessarily
+
+indicative of the results that may be expected for any period in the future.
+
+Overview
+
+Anthropic was founded in 2021 by a team of researchers responsible for many of the breakthroughs that define
+
+AI. We are first and foremost a research labour mission is the responsible development and maintenance of
+
+advanced AI for the long-term benefit of humanity. This mission directs our focusalong with our talent and
+
+culture, our frontier and safety research, our approach to compute, and our enterprise strategy, it is one of the
+
+core advantages that set us apart. These advantages enable us to continuously advance frontier AI and shape
+
+the standards for its safe and responsible development. Our frontier AI, Claude, is delivered to customers
+
+through our models, platform, and applications. Claude has experienced the fastest enterprise adoption of any
+
+technology in history, as demonstrated by revenue growing from $0 at commercial launch in the first quarter of
+
+2023 to $17.0 billion for the three months ended September 30, 2026.
+
+135
+
+Table of Contents
+
+Our Financial Model
+
+Our financial model is built on four primary drivers that define the trajectory of our results
+
+Adoption of Claude. The advancing intelligence and capabilities of each successive version of a
+
+Claude model drive the diffusion of Claude across the global economy. As new customers adopt Claude
+
+and existing customers expand their usage into new workflows, our revenue grows.
+
+Compute Efficiency. We are focused on increasing the intelligence produced and revenue generated
+
+per dollar of compute invested and have delivered significant efficiency improvements.
+
+Operating Efficiency. Our high talent density, efficient go-to-market, and how extensively our
+
+teams leverage Claude in their work help to drive improved operating margin, Adjusted Operating
+
+Margin, and revenue per employee.
+
+Compute Investments. Investing in compute is critical to support our long-term growth, and we
+
+intend to continue making substantial investments in compute.
+
+The drivers of our financial model materialize on different timelines. The adoption of Claude and associated
+
+revenue growth, compute efficiency, and operating efficiency have each increased rapidly over time. Compute is
+
+procured and committed in advance and the expense is incurred as it is brought online and added to our
+
+fungible pool, often in large, discrete steps. The fungible pool can support all workloads dynamically, including
+
+research, model development, serving customers, and internal usage of Claude. As a result, there is a lag
+
+between when investment is committed and when the full revenue associated with such investment is realized.
+
+This dynamic has produced a financial model in which our operating margin and Adjusted Operating Margin
+
+for the nine months ended September 30, 2026 have expanded significantly year over year. As significant
+
+incremental compute is brought online in future periods, the associated expense will be recognized in advance
+
+of the full revenue that the compute will ultimately support, and we expect operating margin and Adjusted
+
+Operating Margin may compress in those periods. At our current stage, this cycle is an inherent aspect of our
+
+business and will cause operating margins to fluctuate from period to period, at times meaningfully, even if the
+
+underlying economics of the business continue to improve.
+
+In addition, the majority of our compute is contracted under multi-year commitments that we typically procure
+
+12 to 18 months in advance of availability. When customer demand or research needs exceed this long-term
+
+capacity, we procure short-term compute that currently costs significantly more than comparable compute
+
+procured under our multi-year commitments. We expect our use of short-term compute to continue to increase
+
+in the near term and to in turn compress our operating margin and Adjusted Operating Margin as a result.
+
+Adoption of Claude
+
+Each successive version of a Claude model is designed to advance the frontier with capabilities that customers
+
+value most, including coding, agentic workflows, computer use, and complex reasoning, which unlock new
+
+categories of use and drive compounding demand from new and existing customers. Claudes intelligence is a
+
+primary driver of its diffusion and our revenue growth because Claude leads at the AI frontier, customers
+
+rapidly adopt it, quickly see real value, and organically expand their use. We complement this intelligence-led
+
+growth with direct go-to-market and Applied AI teams and extend our reach through native availability across
+
+all three major cloud platformsAWS, GCP, and Azureand through partnerships with SIs, consultants, and
+
+data platforms.
+
+We deliver this intelligence through an integrated approach. Our Claude model family is the foundation, with
+
+model classes optimized for different points along the capability-cost-speed curve. On top of our models, Claude
+
+Platform gives developers access to the primitives we use ourselves, which they can use to build their own AI
+
+solutions. We have also built first-party applications on Claude Platform for customers that prefer a ready-to-
+
+deploy option. We believe the value of this integrated approach is reflected in the increasing number of
+
+customers that use both Claude Platform and our first-party applications. For the three months ended
+
+September 30, 2026, over 50% of our customers with $100,000 or more of revenue on a TTM basis used
+
+136
+
+Table of Contents
+
+Claude Platform and at least one of our first-party applications, up from approximately 30% for the three
+
+months ended December 31, 2025.
+
+As more customers adopt Claude and expand their usage, we have rapidly grown our base of customers that
+
+generate meaningful revenue. We had more than 11,900 customers with $100,000 or more of revenue on a
+
+TTM basis as of September 30, 2026, up from more than 950 as of September 30, 2025. In addition, as
+
+customers further embed Claude into their most critical workflows and growth initiatives, many rapidly expand
+
+their deployments into higher revenue tiers. As of September 30, 2026, we had more than 1,900 customers with
+
+$1 million or more of revenue on a TTM basis and approximately 250 customers with $10 million or more of
+
+revenue on a TTM basis.
+
+This customer momentum is driven by significant usage expansion as customers realize the value of deploying
+
+Claude across their organizations. The value that Claude delivers to customers has helped drive our Net
+
+Revenue Retention of approximately 900% as of September 30, 2026.
+
+The growth in our business reflects the degree to which enterprises are embedding Claude directly into their
+
+business-critical workflows. Despite these trends, adoption across the global economy remains nascent. As
+
+Claudes capabilities continue to advance, we believe the addressable opportunity will expand, and Claude will
+
+continue its rapid diffusion across more enterprises.
+
+Compute Efficiency
+
+Compute is the most significant operating cost in our business, and compute efficiency is a critical determinant
+
+of our operating efficiency and revenue. Our research-driven algorithmic improvements in training and
+
+inference optimization and multi-chip compute architecture have combined to dramatically increase our
+
+compute efficiency as our revenue has scaled. The result is that we are able to continue increasing the
+
+intelligence our research can produce and the revenue our business can generate per dollar of compute
+
+investment.
+
+We define compute efficiency as maximizing the intelligence produced and revenue generated per dollar of
+
+compute invested. Three pillars drive our compute efficiency
+
+Training Efficiency. Our researchers regularly innovate compute multipliers. Increasingly, Claude
+
+itself assists in the research and engineering that produce each successive version of our models, which
+
+is a recursive dynamic we refer to as closing the loop, with successive versions of our models
+
+accelerating the development of the next and compounding these gains across model generations.
+
+137
+
+Table of Contents
+
+Inference Efficiency. Our researchers have delivered meaningful compute multipliers for inference
+
+reducing the compute required to serve a given level of model performancewhile our engineering
+
+teams have driven significant optimizations in how efficiently that compute is utilized in production.
+
+This allows us to provide greater value for customers and generate greater revenue from our compute
+
+base over time, which is critical as we have consistently operated in a compute-constrained
+
+environment where customer demand exceeds available compute.
+
+Multi-Chip Compute Approach. We train and serve Claude natively across four major chip
+
+families (AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs) using a proprietary
+
+orchestration layer that enables us to optimize workloads for price and performance. This flexibility,
+
+which took years and significant investment to build and we believe is difficult to replicate at scale,
+
+expands our available compute, reduces dependence on any single vendor, and enables us to
+
+continuously route workloads to the most optimal hardware for those workloads. This foundation,
+
+paired with Claudes increasing understanding of chip and model architectures, allows us to onboard
+
+new chip platforms in a fraction of the time this once required.
+
+Revenue per dollar of compute has expanded meaningfully, even as we have accelerated research and product
+
+velocity and expanded our internal Claude usage. For example, our revenue grew 1,127% year over year for the
+
+three months ended September 30, 2026, compared to our compute and infrastructure expenses that grew
+
+382% during the same period. While serving our growing customer demand, we also advanced the frontier with
+
+new leading models, including Mythos 5, Fable 5, and Opus 5, and launched new products, including Claude
+
+Cowork, Claude Security, and Claude Design.
+
+In the three months ended September 30, 2026, our underlying compute efficiency improvements were
+
+partially offset by the delivery of additional compute, including $5.0 billion of compute under short-term
+
+commitments, which currently costs significantly more than comparable compute procured under our multi-
+
+year commitments. This reduced revenue per dollar of compute compared to the preceding quarter.
+
+Operating Efficiency
+
+Our operating efficiency is derived from our high talent density, our efficient go-to-market, and how extensively
+
+our teams leverage Claude in their work. Claude is the common thread, amplifying the output of our employees.
+
+For example, over 90% of the contributions to our codebase in September 2026 were written by Claude.
+
+138
+
+Table of Contents
+
+Additionally, the average daily volume of code contributed to our codebase per engineer in the three months
+
+ended September 30, 2026 was over 45 times the average daily volume in the year ended December 31, 2024.
+
+From September 30, 2025 to September 30, 2026, TTM revenue increased approximately 1,200% while
+
+headcount increased approximately 170%, driving TTM revenue per employee from $1.4 million to over $6.6
+
+million, a reflection of extraordinary talent density and a culture built to compound it.
+
+Our go-to-market model reflects this as wellintelligence-led growth and broad distribution partnerships
+
+enable us to rapidly expand customer adoption and revenue without being limited by the rate at which we can
+
+grow our sales and marketing organization, resulting in greater sales efficiency as compared to typical
+
+enterprise technology companies.
+
+Our revenue was $33.2 billion for the nine months ended September 30, 2026, up from $2.5 billion for the nine
+
+months ended September 30, 2025. Our operating loss was $1.3 billion for the nine months ended September
+
+30, 2026, down from $5.2 billion for the nine months ended September 30, 2025. The result of our revenue
+
+growth, compute efficiency, and operating efficiency has been a significant improvement in Adjusted Operating
+
+Income, which was $4.1 billion for the nine months ended September 30, 2026, up from an Adjusted Operating
+
+Loss of $3.1 billion for the nine months ended September 30, 2025. We expect operating margin and Adjusted
+
+Operating Margin to fluctuate over time, particularly in periods when substantial incremental compute is
+
+delivered to us and we incur the associated expenses. See the section titled Non-GAAPFinancial Measures
+
+for a description of and information about Adjusted Operating Income (Loss) and Adjusted Operating Margin,
+
+as well as a reconciliation of these measures to the most directly comparable financial measures calculated in
+
+accordance with GAAP.
+
+Our operating loss was $567 million for the three months ended September 30, 2026, compared to an operating
+
+income of $974 million for the three months ended June 30, 2026, primarily driven by $5.0 billion of compute
+
+under short-term commitments, which currently costs significantly more than comparable compute procured
+
+under our multi-year commitments, and $2.0 billion of non-cash charges related to our donation matching
+
+program.
+
+Adjusted Operating Income increased for the three months ended September 30, 2026 to $2.5 billion compared
+
+to $2.2 billion for the three months ended June 30, 2026, while Adjusted Operating Margin decreased from
+
+19% for the three months ended June 30, 2026 to 15% for the three months ended September 30, 2026,
+
+primarily driven by the $5.0 billion of short-term compute noted above.
+
+139
+
+Table of Contents
+
+Compute Investments
+
+Investing in compute is a prerequisite for long-term growth. We invest in compute for research, model
+
+development, serving customers, and internal usage of Claude. Our commercial traction, research progress, and
+
+the scale of the opportunity ahead give us the conviction to continue investing aggressively in compute. An
+
+increasing portion of these investments relates to building out our own compute and infrastructure and
+
+vertically integrating across the compute supply chain to secure long-term compute at the scale required for
+
+frontier model development. These investments take the form of capital expenditures and other commitments,
+
+including lease obligations, that we incur well in advance of the related compute becoming operational and
+
+generating revenue. As a result, we expect this build-out to change the cash flow profile of our business and to
+
+be a significant use of net cash in operating and investing activities for the foreseeable future. See the section
+
+titled Liquidity and Capital Resources for more information.
+
+In addition, as our compute needs have grown substantially, we are shifting from sourcing compute solely
+
+through fixed-term cloud agreements to a hybrid model that also includes leasing chips directly and hosting
+
+them in dedicated facilities operated on our behalf. We refer to this additional source of compute as Anthropic
+
+Direct, which helps to address our scaling compute requirements and we believe will provide long-term
+
+economic advantages. Anthropic Direct represents a more flexible use of capital by allowing us to separate our
+
+commitments for data center capacity from our commitments for the compute infrastructure deployed inside
+
+them. Because data centers require longer lead times but represent a smaller fraction of total compute costs,
+
+this approach enables us to secure data center capacity early while deferring larger accelerator investments
+
+until our specific compute needs are more certain.
+
+As of and subsequent to September 30, 2026, we have entered into purchase commitments and lease
+
+agreements, including short-term commitments, as well as leases not yet commenced, with an aggregate
+
+committed spend of approximately $895.4 billion. These commitments include approximately $447.5 billion
+
+expected to be incurred before December 31, 2030, and substantially all of the remainder is expected to be
+
+incurred between 2031 and 2045. Approximately $69.8 billion of these commitments are due in the 12 months
+
+following September 30, 2026. A significant portion of this total committed spend relates to Anthropic Direct,
+
+and we expect it to represent a growing share of our compute investments over time. The flexibility from
+
+Anthropic Direct allows us to backfill the short-term compute we procure during periods of high demand with
+
+more cost-effective, long-term compute as our dedicated infrastructure comes online.
+
+We intend to fund these investments through the revenue we generate and the capital that we raise. As of
+
+September 30, 2026, and prior to taking into account the net proceeds to us from this offering, we had $146.6
+
+billion of liquidity, comprised of $95.6 billion of cash and cash equivalents, $36.3 billion of short-term
+
+investments, and $14.8 billion of availability under our AR Credit Facility (as defined below). We also
+
+maintain significant funding support from our strategic partners, including up to $77.0 billion in available
+
+financing capacity under our NPAs and up to $5.0 billion in equity commitments. In addition, we estimate that
+
+the net proceeds to us from this offering will be approximately $, based upon the assumed initial public
+
+offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the
+
+cover page of this prospectus, and after deducting estimated underwriting discounts and commissions and
+
+estimated offering expenses payable by us, or approximately $ if the underwriters option to purchase
+
+additional shares of our Class A common stock from us is exercised in full.
+
+How We Generate Revenue
+
+At the foundation of our business is our family of four Claude model classesMythos (including Fable), Opus,
+
+Sonnet, and Haikueach optimized for a different point on the capability-cost-speed curve. Our frontier
+
+models allow customers to match the right model to each use case. Customers typically use higher-capability
+
+models for complex reasoning, coding, and agentic workflows where greater model intelligence is required.
+
+Customers also frequently adopt our full range of models, routing individual tasks to the models that are most
+
+optimized to meet their needs along the capability-cost-speed curve. The model a customer uses and the volume
+
+of usage are the primary drivers of customer spend. We establish a direct contractual relationship with the
+
+customer and offer customers the flexibility to purchase directly from us or through CSP marketplaces, and
+
+many customers utilize both channels.
+
+140
+
+Table of Contents
+
+Pay-for-intelligence, our consumption-based revenue model, is our primary revenue model and currently
+
+represents the substantial majority of our total revenue. Under this model, customers pay for usage, which is
+
+metered in tokens and priced according to the model selected. Our pay-for-intelligence revenue is primarily
+
+generated from customers building applications incorporating Claude or utilizing our first-party applications.
+
+In addition, we offer certain of our applications on a subscription basis, serving both enterprises and
+
+prosumers. Under this model, customers pay a subscription fee for a specified level of usage and capabilities
+
+during the subscription term, which is generally 12 months or less.
+
+Depending on the model, platform, or applications chosen by our customers, they enter into pay-for-
+
+intelligence pricing, subscription-based pricing, or both. For example, when subscribers approach or exhaust
+
+the usage capacity included in their tier, they may utilize a higher subscription tier or purchase more
+
+intelligence directly, creating a seamless bridge from subscription to incremental pay-for-intelligence revenue.
+
+A growing number of enterprise customers agree to non-cancelable annual or multi-year contracts with
+
+minimum spend commitments in exchange for a committed price list. These contracts result primarily in
+
+consumption-based revenue.
+
+Consumption-based revenue increased from $288 million, or 75% of total revenue, for the year ended
+
+December 31, 2024, to $3.8 billion, or 83% of total revenue, for the year ended December 31, 2025, to $26.3
+
+billion, or 79% of total revenue, for the nine months ended September 30, 2026. Subscription-based revenue
+
+increased from $98 million, or 25% of total revenue, to $789 million, or 17% of total revenue, to $6.9 billion, or
+
+21% of total revenue, over the same periods. The larger dollar increase in consumption-based revenue reflects
+
+the growth in customers with $100,000 or more of revenue on a TTM basis. For 2023, our revenue of $41
+
+million was substantially all consumption-based, reflecting our early operations. We expect consumption-based
+
+revenue to continue to represent the substantial majority of total revenue for the foreseeable future.
+
+Our recent growth may reflect early-stage adoption dynamics, the nascency of the AI market, and rapid initial
+
+customer expansion that may not be sustainable over time. We expect our revenue growth rate to decline over
+
+time, and it may decline significantly and more rapidly than we anticipate as our revenue base increases and as
+
+the market matures.
+
+Our Customers and Approach to Claude Diffusion
+
+Our Customers
+
+We serve enterprises of all sizes and across industries, in nearly every region of the world. Organizations that
+
+use Claude range from the worlds largest enterprises to AI-native startups, research institutions, and mission-
+
+driven organizations working on some of the worlds most consequential problems. Customers realize value
+
+from Claude in three primary ways more productive employees, faster processes, and embedded intelligence in
+
+their products. As enterprise customers push Claude into increasingly complex workflows, we engage with them
+
+to understand their evolving requirements, which helps shape our product roadmap. This feedback loop
+
+deepens customer relationships with each release and makes Claude more capable for all customers.
+
+Software developers have been core to our strategy they are simultaneously the architects of applications built
+
+on our platform, and they encode their workflows and institutional knowledge into Claude-powered agents.
+
+Developers have been our earliest adopters and often most discerning users they apply models to unanticipated
+
+use cases quickly and surface the edge cases that sharpen each successive version of a Claude model. Claude
+
+Code is now embedded in software development workflows across major organizations, with these relationships
+
+often beginning with individual engineers who recognized the value of autonomous coding agents and
+
+accelerated adoption across their enterprises.
+
+The same intelligence and capabilities we deliver to enterprises are also valuable to prosumers in their personal
+
+endeavors. These users provide strategic value as a top-of-funnel engine for our enterprise business
+
+individuals who utilize Claude for their personal work and then champion it inside their organizations.
+
+We are seeing broad-based growth across customer use cases, from software development to financial analysis,
+
+content creation, and complex knowledge work. Claude is extensible regardless of entry point, enterprises
+
+quickly discover that frontier AI applies to a wide and expanding range of tasks across their organizations. As a
+
+141
+
+Table of Contents
+
+result, what sometimes begins as a single use case frequently expands into broader adoption spanning coding,
+
+legal analysis, financial modeling, customer operations, and other knowledge-intensive work.
+
+Our Approach to Claude Diffusion
+
+A core driver of Claudes diffusion is its intelligenceas Claudes capabilities advance, value to customers
+
+expands, and that value drives greater adoption. Ensuring the accessibility of such intelligence is also critical,
+
+and we do that in the following ways through our composable platform and applications that meet customers
+
+where they are, through our go-to-market and Applied AI teams directly, and through partnerships that extend
+
+our reach at scale.
+
+Intelligence-Led Growth. Our platform and applications are the primary mechanism through which Claudes
+
+intelligence can reach users. As users begin building, brainstorming, and problem-solving with Claude, they
+
+quickly come to rely on it as a trusted partner in their work. As Claude becomes part of how people work, they
+
+experience firsthand what frontier AI makes possible, and such individual adoption reshapes how entire
+
+organizations operate. This pattern repeats across organizations prosumers become internal champions, teams
+
+expand their use of Claude, and what begins as a single workflow grows into something that impacts how an
+
+entire organization operates. This pattern has been core to our revenue growth.
+
+Direct Teams. This organic adoption is complemented and enhanced through our direct go-to-market teams
+
+who help scale Claude to organizations with complex workflows and business processes. By the time our direct
+
+teams engage a customer, Claude is often already in use. Our go-to-market teams use this organic momentum
+
+to build executive sponsorship and drive enterprise-wide adoption.
+
+Applied AI Teams. Our Applied AI teams embed more deeply with select customers, building solutions that
+
+make it easier for organizations to benefit from Claudes intelligence. They work with enterprises to design and
+
+deploy custom solutions, specialized workflows, and domain-specific implementations tailored to the
+
+customers own requirements. This work drives deeper adoption within individual customers and generates the
+
+feedback and information from users that help to shape our platform and product roadmap.
+
+Cloud Partnerships. Claude is accessible on all three major cloud platforms, AWS, GCP, and Azure, allowing
+
+enterprises to deploy Claude within the infrastructure, security perimeters, and commitment structures they
+
+already operate. These CSPs extend our reach through their large combined field teams that are empowered to
+
+sell our platform and applications, accelerating market adoption at a scale we believe would be difficult for any
+
+single organization to directly replicate. We have a joint go-to-market approach with these CSPs through which
+
+we establish direct contractual relationships with our customers while paying a fee to each CSP. This structure
+
+allows us to foster stronger commercial alignment with these CSPs, avoid channel conflict, set pricing, and
+
+realize the financial benefits of ongoing compute efficiency improvements.
+
+Ecosystem Partnerships. Major global SIs have built dedicated Claude practices with teams trained to deploy
+
+our platform and applications. Go-to-market alliances with leading data platforms embed Claude into data
+
+infrastructure that enterprises already operate, facilitating adoption of Claude within existing workflows and
+
+making it easier for enterprises to realize value from Claude.
+
+Ode with Anthropic. We recently launched an AI services company in partnership with leading private equity
+
+firms to bring Claudes capabilities to mid-sized companies across sectors, building solutions on the Claude
+
+Platform and supporting customers over the long term. Ode with Anthropic will partner closely with our
+
+Applied AI and go-to-market teams.
+
+Together, these approaches have led to a structurally efficient approach to facilitating the diffusion of Claude in
+
+the economy, with our sales, marketing, and partnerships expenses representing 17% of revenue for the nine
+
+months ended September 30, 2026.
+
+Key Factors Affecting Our Performance
+
+Remaining at the Frontier of AI
+
+We believe enterprises consistently choose the most capable and trustworthy AI systems, making our position
+
+at the frontier an important driver of our success. Our ability to rapidly grow our revenue is partially dependent
+
+142
+
+Table of Contents
+
+on our continued delivery of more intelligent and capable models. Our experience is that as we deliver models
+
+with meaningfully improved capabilities that deliver higher intelligence per dollar spent, customers find new
+
+applications for AI across their businesses, accelerating adoption and revenue growth.
+
+This can be seen in the trajectory of our model family adoption. Successive versions of our most intelligent
+
+generally available model have delivered meaningfully greater intelligence and capabilities. With each release,
+
+we have seen most customers utilize the latest version of our models, reinforcing the direct relationship
+
+between frontier model quality and revenue generation. As we deliver more capable models, customers have
+
+expanded their usage into new use cases and increased their spending accordingly.
+
+We expect our ability to deliver innovation in intelligence and capability at the frontier to remain a key driver of
+
+revenue growth in future periods, and maintaining a leading position requires continued investment in research
+
+and compute, top technical talent, and access to capital sufficient to support our growth trajectory.
+
+Securing Sufficient Compute and Optimizing Its Utilization
+
+Our ability to continue advancing intelligence at the frontier depends on securing sufficient compute for
+
+research, model development, serving customers, and internal usage of Claude. Our ability to leverage
+
+heterogeneous compute helps us to secure compute at sufficient scale and optimal price-performance. If any of
+
+our chip partners are unable to deliver committed compute or experience delays, or if we need to procure
+
+incremental compute, we benefit from having a range of partners as opposed to being overly reliant on any one
+
+partner. The availability, timing, and cost of compute are subject to factors largely outside our control,
+
+including the concentration of chip and memory manufacturing among a limited number of suppliers and
+
+geographies, constraints on the availability of power and data center capacity, and evolving export controls. We
+
+have historically operated in a compute-constrained environment in which demand for compute has exceeded
+
+the supply available to us. In addition, certain of the CSPs on which we rely for compute are also strategic
+
+investors in us, are our customers, and offer AI models and services that compete with ours. These multifaceted
+
+relationships could give rise to conflicts of interest or competitive dynamics that adversely affect our access to
+
+compute, its cost, or the prioritization of our workloads.
+
+As our compute needs have grown substantially, we are shifting from sourcing compute solely through fixed-
+
+term cloud agreements to a hybrid model that also includes leasing chips directly and hosting them in dedicated
+
+facilities operated on our behalf. We refer to this additional source of compute as Anthropic Direct, which helps
+
+to address our scaling compute requirements and provides potential long-term economic advantages of direct
+
+hosting. Anthropic Direct provides us with a more flexible use of capital by allowing us to separate our
+
+commitments for data center capacity from our commitments for the AI accelerators deployed inside them.
+
+Because data centers require longer lead times but represent a smaller fraction of total compute costs, this
+
+approach enables us to secure data center capacity early while deferring larger accelerator investments until our
+
+specific compute needs are more certain.
+
+Optimizing the utilization of our compute is equally important to our success in satisfying customer demand.
+
+We continuously direct compute to its highest-value use case, balancing the need to advance research and
+
+model development with the need to serve our customers and support internal usage of Claude. We rely on
+
+compute efficiencies, such as the discovery of compute multipliers, to get the most out of the compute that we
+
+procure. Our ability to effectively direct compute and drive compute efficiencies will be an important
+
+determinant of both our pace of innovation and our financial results over time.
+
+Attracting and Retaining Technical Talent
+
+Advancing the frontier and maximizing the return on our compute investment require that we attract, hire, and
+
+retain top technical talent. Talent attraction and retention start with our seven co-founders, all of whom have
+
+remained with the company. We believe our culture and mission alignment enable us to hire and retain the
+
+talent required to continuously push the frontier of AI forward in a safe and responsible way. We expect our
+
+ability to continue attracting and retaining top technical talent to remain a key determinant of our pace of
+
+innovation and our financial results in future periods.
+
+143
+
+Table of Contents
+
+Our Continued Access to Capital
+
+We must make significant investments in compute for research, model development, serving customers, and
+
+internal usage of Claude. Our compute requires substantial upfront commitments and ongoing payments as the
+
+compute becomes available to us. Our compute commitments will continue to grow as we scale our business.
+
+Our ability to secure sufficient compute is directly linked to our ability to access capital on favorable terms, such
+
+as through equity or debt financing or cash flow from operations.
+
+In order to maintain our access to capital, we must continue to demonstrate that we are able to invest that
+
+capital in a highly productive way. The best measures of our progress are Claudes intelligence and capability,
+
+and customer adoption of Claude. Our ability to convert compute investment into frontier model performance,
+
+and then increase customer adoption, will be a key determinant of our access to capital.
+
+Our ability to sustain access to capital depends in part on demonstrating a credible trajectory toward
+
+profitability. Our revenue growth, compute efficiency, and operating efficiency have significantly improved our
+
+operating margin and Adjusted Operating Margin, but we plan to keep investing heavily, which will adversely
+
+impact our results of operations. Our compute commitments are substantial and generally must be satisfied
+
+regardless of our revenue or utilization, while our access to additional capital depends on a number of
+
+conditions, many of which are outside our control, including market conditions and investor demand. In
+
+addition, a portion of our compute and infrastructure build-out has been funded or supported by capital or
+
+credit support provided or facilitated by certain of our CSPs and chip partners. Our ability to reduce this
+
+reliance over time depends in part on our ability to obtain financing from independent sources on our own
+
+credit.
+
+Our Ability to Diffuse Claude in the Enterprise
+
+Our financial performance depends on the pace and breadth at which AI, and in particular Claude, is adopted
+
+across the global economy. While Claudes capabilities already address a wide range of enterprise use cases, we
+
+believe that enterprise adoption remains nascent. We believe that our ability to capture this opportunity and
+
+drive revenue growth in future periods will depend on three dynamics
+
+First, our ability to translate model improvements into accessible products and platform capabilities.
+
+In the nine months ended September 30, 2026, we launched an aggregate of 250 new model versions, platform
+
+features, and applications, including new capabilities in Claude Code, Claude Cowork, and vertical solutions for
+
+key industries. Our growth depends on continuing this pace of product innovation and reducing the friction
+
+between Claudes capabilities and customer workflows. Our growth also depends on how quickly new
+
+capabilities reach customers, which in turn depends on the steps we take to assess and mitigate the risks of each
+
+model during development and before and after release. In the past, these steps have included delaying the
+
+release of new models and limiting their initial availability, such as our initial release of Mythos through Project
+
+Glasswing and our later release of Fable 5 as a generally-available model with safety restrictions, and in the
+
+future, as we learn more about model capabilities and behavior, could include additional measures that affect
+
+whether, how, and when we develop or release new models or capabilities. We evaluate whether to delay or
+
+restrict a release based on the results of our pre-release capability and safety evaluations and our assessment of
+
+whether available safeguards adequately mitigate the identified risks, and we may also take such steps where
+
+those evaluations are inconclusive. For more information, see the section titled BusinessSafety Research is
+
+Core to Our BusinessOur Approach to Model Releases. These measures, and any laws, regulations, or
+
+standards governing frontier AI development that may be adopted, could cause new use cases to emerge more
+
+slowly and slow the enterprise adoption and expansion on which our revenue growth depends. We believe that
+
+enterprises prefer models that are safe and aligned, and that our continued investment in safety strengthens
+
+customer trust and supports long-term adoption.
+
+Second, our ability to expand and diversify distribution.
+
+A large portion of our growth to date has been self-service and organic. As AI adoption extends further into
+
+enterprises and more regulated industries, we are investing in direct go-to-market, Applied AI teams, and
+
+partnerships across all three major cloud platforms, SIs, consultants, and data platforms. We are also
+
+expanding our ability to serve international customers through the growth of regional offices and partnerships
+
+5 For purposes of this measure, we include only Fortune 500 customers that are publicly traded and calculate the measure using total
+
+expenses as reported in their publicly available financial statements.
+
+144
+
+Table of Contents
+
+in key markets, and we expect international expansion to be a meaningful driver of revenue growth as global
+
+demand for AI accelerates. The effectiveness of these investments, and our ability to hire and retain go-to-
+
+market talent, will be a meaningful determinant of growth.
+
+Third, our ability to land new customers and expand within existing accounts.
+
+The number of customers with $100,000 or more of revenue on a TTM basis grew from approximately 20 as of
+
+December 31, 2023, to approximately 200 as of December 31, 2024, to approximately 1,500 as of December 31,
+
+2025, and to more than 11,900 as of September 30, 2026. Total revenue from these customers grew from
+
+approximately $37 million to $220 million to $3.5 billion to $26.1 billion and represented 90%, 57%, 76%, and
+
+74% of total revenue for the years ended December 31, 2023, 2024, and 2025, and the TTM period ended
+
+September 30, 2026, respectively. The remaining 26% of total revenue for the TTM period ended September
+
+30, 2026 was generated by approximately 40 million customers, each with less than $100,000 of revenue on a
+
+TTM basis.
+
+In addition, as of September 30, 2026, we had more than 1,900 customers with $1 million or more of revenue
+
+on a TTM basis and approximately 250 customers with $10 million or more of revenue on a TTM basis. Despite
+
+this growth, our penetration into the largest enterprises remains early. Over 50% of the Fortune 500 and over
+
+30% of the Global 2000 were customers with $100,000 or more of revenue on a TTM basis as of September 30,
+
+2026. We believe we are in the early stages of our expansion within these customers, with our revenue from
+
+these Fortune 500 customers representing, on average, less than 0.1% of their total expenses for the three
+
+months ended September 30, 2026.
+
+We compare this measure against our largest Fortune 500 customers, who are further along in their adoption of
+
+AI. For the three months ended September 30, 2026, revenue from our top 10 Fortune 500 customers
+
+represented, on average, less than 1% of their total expensesstill a small fraction of their overall spend, but
+
+over eight times the average of our Fortune 500 customers with $100,000 or more of revenue on a TTM basis.
+
+We believe the difference reflects the substantial runway we have to deepen adoption, both within our largest
+
+customers and within customers earlier in their adoption of Claude.5
+
+Claude adoption is broad-based. No single customer represented more than 10% of our revenue for the nine
+
+months ended September 30, 2026. Approximately 79% of our revenue came from customers outside of our top
+
+five customers for the three months ended September 30, 2026, up from approximately 64% for the three
+
+months ended March 31, 2026. At the same time, our largest customers continue to expand. For the three
+
+months ended September 30, 2026, our revenue from each of our top five customers reached a record high.
+
+Customer Usage Patterns
+
+Our revenue is influenced by customer usage patterns, which are impacted by the frequency and capability of
+
+new model version releases, as well as seasonal trends, each of which can create variability in our results from
+
+period to period. The continuous and overlapping cadence of new model version releases is inherent to
+
+remaining at the frontier of AI development. For example, model versions released in the six months ended
+
+September 30, 2026 accounted for over 80% of our revenue for the three months ended September 30, 2026.
+
+As we have released successive versions of Claude models, we have continued to see revenue growth as new
+
+capabilities unlock additional use cases, prompting new customers to adopt Claude and existing customers to
+
+expand their usage.
+
+Our customer usage patterns have also typically exhibited seasonality, particularly around holiday and vacation
+
+periods in the summer and winter, when certain workflows slow down and overall customer activity declines.
+
+For example, developer commits and feature launches are typically slower during the code freezes that many
+
+companies schedule over holidays. Consistent with this pattern, for the two weeks ended January 2, 2026, total
+
+customer spend declined by approximately 20% compared to the prior two weeks ended December 19, 2025.
+
+However, our historical growth rates may mask the impact of seasonal trends on our results. These dynamics
+
+are inherent aspects of a pay-for-intelligence revenue model and may be important determinants of our
+
+financial results in future periods.
+
+145
+
+Table of Contents
+
+Because of these seasonal patterns, our results of operations have varied, and are expected to continue to vary,
+
+from period to period, and our results for any one period may not be indicative of our results for any future
+
+period. As our revenue growth rate declines over time, we expect seasonal effects to become more apparent in,
+
+and to have a greater effect on, our period-to-period results, and to make it more difficult to forecast our results
+
+of operations.
+
+Our Commitment to Public Benefit
+
+Our commitment to public benefit extends to how we deploy our resources. We intend to direct a meaningful
+
+portion of our resources toward ensuring that frontier AI is safe and its benefits are broadly distributed, which
+
+we refer to as our public benefit initiatives. This may include significant contributions to nonprofit
+
+organizations, research institutions, and other third parties working on problems where AI can have the
+
+greatest positive impact, as well as programs designed to make Claude accessible to underserved communities,
+
+educators, and public institutions.
+
+As part of these initiatives, we contributed 846,840,960 shares of our Class N common stock, representing 5%
+
+of our fully diluted shares as of June 30, 2026 (assuming full conversion of the Amazon Notes), to the
+
+Anthropic Public Benefit Fund, our wholly owned subsidiary dedicated to the Company Purpose, which we refer
+
+to as the Initial Public Benefit Issuance. As the value we create grows, we intend for the public benefit to share
+
+meaningfully in that growth as well. To that end, our board of directors has approved a framework for
+
+additional contributions tied to future increases in our share price. Following this offering, our board of
+
+directors, in its discretion, may issue shares of our Class N common stock to the Anthropic Public Benefit Fund
+
+(or other designee) representing up to an additional 2% of our then-outstanding shares (plus any shares subject
+
+to options, RSUs, and other convertible securities and any shares held by the Anthropic Public Benefit Fund)
+
+each time our share price appreciates 50% above the prior share price milestone, beginning with our initial
+
+public offering price. A share price milestone is reached only when our closing share price has exceeded the
+
+applicable threshold on at least 90 of the trailing 120 consecutive trading days, and our average closing share
+
+price over the 10 trading days prior to such issuance also exceeds that threshold. Although our board of
+
+directors has approved this framework, any future contributions will be made at the discretion of our board of
+
+directors. The shares that are contributed to the Anthropic Public Benefit Fund, including the Initial Public
+
+Benefit Issuance, may be transferred or donated to a third party, or otherwise sold in a registered public
+
+offering or private placement transaction in furtherance of our public benefit initiatives. Our board of directors
+
+will determine the allocations and distributions from the Anthropic Public Benefit Fund until it approves a
+
+specific governance structure for the entity, at which point decision-making authority is expected to transition
+
+to designated managers of the Anthropic Public Benefit Fund operating under that structure. The initial
+
+managers are Dario Amodei, Daniela Amodei, Jack Clark, and Dr. Neil Buddy Shah. The Initial Public Benefit
+
+Issuance and the additional share contribution framework represent one of the ways in which we intend to
+
+pursue the Company Purpose, but they are not the exclusive means of doing so. We expect to dedicate
+
+additional resources, and to make other business and operational decisions, in furtherance of the Company
+
+Purpose outside of, and in addition to, these equity contributions.
+
+In addition, we maintain a donation matching program through which employees can pledge a meaningful
+
+portion of their equity awards or equivalent cash proceeds to a donor-advised fund or other nonprofit
+
+organization, and we match those donations with shares of our Class N common stock. In the same way the
+
+Company Purpose defines how we direct our work as an organization, our donation matching program reflects
+
+a parallel commitment by our employees to direct the personal financial value created by that work toward the
+
+public good. We view our donation matching program as a meaningful expression of the Company Purpose and
+
+a reflection of the values that define our culture. In addition, our co-founders have each pledged to dedicate
+
+80% of their personal equity in Anthropic to philanthropic causes, separate from and not eligible for our
+
+donation matching program.
+
+Decisions we make to advance our public benefit initiatives may, in any given period, reduce our revenue,
+
+increase our expenses, lower our Adjusted Operating Margin, contribute to dilution, and reduce our
+
+profitability on a per share basis relative to what we would otherwise report. Our public benefit-related
+
+expenses, which currently consist primarily of charitable donations under our donation matching program,
+
+were not significant before the three months ended September 30, 2026. For the nine months ended September
+
+30, 2026, expenses related to our donation matching program were $2.1 billion, representing approximately 6%
+
+of our total operating expenses for that period. However, we expect the cadence and magnitude of resources
+
+146
+
+Table of Contents
+
+directed toward our public benefit initiatives to increase in future periods and remain a factor affecting our
+
+results of operations.
+
+Components of Results of Operations
+
+Revenue
+
+We generate revenue as customers use Claude through our platform and applications, including Claude Code,
+
+Claude Cowork, and vertical solutions for key industries. Claude is powered by our proprietary Claude model
+
+family, a set of frontier models, each with varying levels of capability, cost, and speed. Enterprise customers
+
+access our intelligence service directly from us or through CSP marketplaces, where we maintain direct
+
+contractual relationships with our customers.
+
+Depending on the model, platform, or applications chosen by our customers, they enter into pay-for-
+
+intelligence pricing, subscription-based pricing, or both. A growing number of enterprise customers agree to
+
+annual or multi-year contracts with minimum spend commitments.
+
+Revenue is recognized when customers use our intelligence service, based on the quantity of tokens consumed.
+
+Subscriptions are generally prepaid on a monthly or annual basis, and are subject to usage limits that reset over
+
+short periods, which results in revenue being recognized on a ratable basis over the subscription period, which
+
+is generally 12 months or less.
+
+We expect our revenue growth rate to decline over time and to fluctuate from period to period. Revenue growth
+
+in any period may be affected by customer usage patterns, customer adoption, the deployment of our models,
+
+platform, and applications, the pricing of our offerings, the timing and success of new model and product
+
+releases, measures we decide to implement to safely deploy new capabilities, our ability to continue meeting
+
+customer requirements, and other factors affecting demand for our models, platform, and applications,
+
+including those described in the section titled Risk FactorsWe are at an early stage of our revenue growth, we
+
+have experienced rapid growth in recent periods, and our historical growth rates are not indicative of future
+
+performance or our ability to sustain or forecast future revenue growth.
+
+In addition, our revenue has included, and we expect will continue to include, amounts from customers that we
+
+subsequently determine are using our models, platform, and applications in violation of our usage policy or
+
+commercial terms. We believe this dynamic is common in our industry. Because detection, investigation, and
+
+enforcement take time, we recognize revenue from such customers when the related services are provided,
+
+before restricting or terminating their access. Based on our detection and review process, we estimate that
+
+revenue from such customers represented approximately 5% to 7% of our revenue for the nine months ended
+
+September 30, 2026. This estimate requires judgment and may change as our detection methodologies evolve
+
+and we identify previously undetected usage. We expect the percentage of revenue from customers using our
+
+models, platform, and applications in violation of our usage policy or commercial terms to decline in future
+
+periods as we have enhanced our detection and enforcement efforts, in particular in August and September
+
+2026 however, the timing and magnitude of any resulting adverse effect on our revenue and revenue growth
+
+are uncertain.
+
+Operating Expenses
+
+Compute and Infrastructure
+
+Compute and infrastructure expenses primarily consist of costs attributable to operating our technology
+
+infrastructure, which supports the full range of workloads for our models, including research, model
+
+development, serving customers, and internal usage of Claude. These costs primarily consist of compute fees
+
+paid to CSPs under committed and on-demand arrangements, including storage, networking, and connectivity,
+
+and related support costs, infrastructure costs associated with serving customer workloads through partner
+
+channels, colocation facility costs, equipment leases and committed power costs associated with our data center
+
+operations, and third-party application infrastructure software costs directly related to our compute operations.
+
+Beginning in 2026, as our obligations commence under compute and infrastructure leases, these expenses also
+
+include operating lease costs, amortization of finance lease assets, variable lease costs, and depreciation and
+
+amortization on owned servers, networking equipment, and related data center assets. See Note 8 to our
+
+147
+
+Table of Contents
+
+consolidated financial statements included elsewhere in this prospectus for a functional presentation of our
+
+operating expenses, including cost of revenue, and a description of the workloads underlying the compute and
+
+infrastructure expenses within each functional caption. Within that functional presentation, substantially all of
+
+the cost of revenue consists of compute and infrastructure expenses associated with customer-serving
+
+workloads. Additionally, cost of revenue includes certain personnel-related costs and allocated overhead costs.
+
+Customers adopt and retain our technology based on whether our models are at the frontier of AI capability and
+
+maintaining that frontier position is essential to revenue generation. Each model release represents continuous
+
+intelligence improvements, making ongoing model development a critical factor in revenue generation. We
+
+operate an iterative cycle in which compute deployed to model development yields more capable and efficient
+
+models. Those efficiency gains free compute to serve additional customer workloads. In turn, serving our
+
+customers at scale generates feedback that informs research and model development. In this cycle, customer-
+
+serving activity and model development are each a direct input that informs the other, and we therefore view
+
+compute and infrastructure costs as critical to our ability to generate revenue within a short time of incurring
+
+such costs.
+
+We expect compute and infrastructure expenses to increase in absolute dollars and remain our largest
+
+operating expense for the foreseeable future as additional committed compute becomes available to us under
+
+multi-year arrangements with CSPs, and as we continue to invest in additional compute. These expenses are
+
+paid and recognized as compute becomes available to us, rather than when committed, and are generally fixed
+
+in the near term given the majority of our compute is contracted under multi-year commitments that we
+
+typically procure 12 to 18 months in advance of availability. When customer demand or research needs exceed
+
+this long-term capacity, we procure short-term compute that currently costs significantly more than
+
+comparable compute procured under our multi-year commitments. We deploy this committed compute as a
+
+single, shared resource across all workloads, and thus plan, incur, and assess it on a total basis rather than by
+
+individual workload. As a result, compute and infrastructure expenses as a percentage of revenue will depend
+
+primarily on how our revenue scales relative to our total committed compute cost base. In addition, as part of
+
+our public benefit initiatives, we intend to direct a meaningful portion of our resources, which may include
+
+compute, toward ensuring that the benefits of frontier AI are broadly accessible, and we expect to significantly
+
+scale these efforts over time.
+
+Personnel
+
+Personnel expenses primarily consist of stock-based compensation, including expense related to stock options,
+
+RSUs, and restricted stock awards (RSAs), cash compensation, including base salaries and bonuses, employee
+
+benefits, including health and welfare benefits, and employer payroll taxes.
+
+We expect personnel expenses to increase in absolute dollars as we continue to expand our headcount to
+
+support the growth of our business. We also expect to incur additional stock-based compensation expense in
+
+connection with this offering, including for certain RSUs for which the performance condition will be satisfied
+
+upon the effectiveness of the registration statement of which this prospectus forms a part. We expect that
+
+personnel expenses may fluctuate as a percentage of revenue depending on the timing and magnitude of stock-
+
+based compensation expense, and the pace of hiring across our organization.
+
+Bartz Settlement
+
+Bartz settlement consists of the charge we recorded in 2025 to settle the Bartz litigation. See Note 13 to our
+
+consolidated financial statements included elsewhere in this prospectus for additional information.
+
+Sales, Marketing, and Partnerships
+
+Sales, marketing, and partnerships expenses primarily consist of fees paid to channel partners and marketing
+
+and advertising costs, including media and public relations spend.
+
+We expect sales, marketing, and partnerships expenses to increase in absolute dollars as we continue to invest
+
+in activities to drive continued adoption and expanded usage of our models. We expect that sales, marketing,
+
+and partnerships expenses may fluctuate as a percentage of revenue depending on the timing of and spend on
+
+148
+
+Table of Contents
+
+marketing campaigns and changes in the terms of our channel partner distribution arrangements and the cost
+
+to deliver our intelligence service.
+
+Other Operating and Administrative
+
+Other operating and administrative expenses primarily consist of charitable donations expense related to our
+
+donation matching program, vendor costs related to data quality and performance evaluation services,
+
+information technology and cloud software costs, payment processing and platform fees, facility and occupancy
+
+costs, non-income taxes, professional services costs, bad debt expense, and depreciation and amortization
+
+related to non-data center assets.
+
+We expect that other operating and administrative expenses will increase in absolute dollars as our business
+
+grows and as a result of operating as a public company, including expenses related to compliance with SEC
+
+rules and regulations, the listing standards of the Nasdaq Global Select Market, additional costs for directors
+
+and officers liability insurance, and professional services. We also expect other operating and administrative
+
+expenses to fluctuate as a percentage of our revenue over time as our business grows, in part as we significantly
+
+scale our public benefit initiatives, including expanded programs to make Claude accessible to underserved
+
+communities, increased charitable donation matching, contributions to philanthropic vehicles or foundations
+
+we may establish or support in the future, and other efforts aligned with our mission.
+
+Interest Income
+
+Interest income consists of interest earned on our cash and cash equivalents and short-term investments, which
+
+primarily consist of debt securities, including U.S. Treasury and agency securities, corporate debt, and
+
+commercial paper.
+
+Change in Fair Value of Convertible Notes, Derivative Liabilities, and SAFEs
+
+Change in fair value of convertible notes, derivative liabilities, and SAFEs consists of gains and losses as a result
+
+of recording our convertible promissory notes, derivative liabilities, and SAFE liabilities at fair value at the end
+
+of each reporting period. Because these instruments are marked to market, increases in our enterprise
+
+valuation drive increases in this expense. We will continue to recognize changes in the fair value of our
+
+convertible notes until they are converted into equity, repaid, or otherwise settled. For more information, see
+
+Note 4 to our consolidated financial statements included elsewhere in this prospectus.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of the change in fair value of strategic investments and financial
+
+instruments, the change in fair value of certain derivative instruments in connection with an acquisition of a
+
+privately-held company in December 2025, interest expense from finance leases, and foreign currency exchange
+
+gains and losses. For more information on the acquisition, see Note 15 to our consolidated financial statements
+
+included elsewhere in this prospectus.
+
+Provision for Income Taxes
+
+The provision for income taxes primarily consists of income taxes in certain federal, state, local, and foreign
+
+jurisdictions in which we conduct business. Our effective tax rates will vary depending on the impact of the
+
+valuation allowance and nondeductible fair value adjustments to derivatives, as well as the relative proportion
+
+of foreign income to domestic income, generation of tax credits, changes in the valuation of our deferred tax
+
+assets and liabilities, and changes in tax laws.
+
+149
+
+Table of Contents
+
+Results of Operations
+
+The following table sets forth our consolidated statements of operations data for the periods indicated
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+(in millions)
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Revenue
+
+$41
+
+$386
+
+$4,585
+
+$2,545
+
+$33,242
+
+Operating expenses
+
+Compute and infrastructure
+
+433
+
+2,522
+
+7,326
+
+4,381
+
+18,808
+
+Personnel(1)
+
+95
+
+454
+
+1,839
+
+1,027
+
+4,863
+
+Bartz settlement
+
+1,500
+
+1,500
+
+Sales, marketing, and
+
+partnerships
+
+2
+
+43
+
+568
+
+322
+
+5,529
+
+Other operating and
+
+administrative
+
+62
+
+347
+
+1,412
+
+539
+
+5,302
+
+Total operating expenses
+
+592
+
+3,366
+
+12,645
+
+7,769
+
+34,502
+
+Operating loss
+
+(551)
+
+(2,980)
+
+(8,060)
+
+(5,224)
+
+(1,260)
+
+Interest income
+
+69
+
+106
+
+431
+
+239
+
+2,359
+
+Change in fair value of
+
+convertible notes, derivative
+
+liabilities, and SAFEs
+
+(1,045)
+
+(5,434)
+
+(34,308)
+
+(20,107)
+
+(94,324)
+
+Other income (expense), net
+
+(2)
+
+(8)
+
+(3)
+
+(10,397)
+
+Total other income (expense),
+
+net
+
+(978)
+
+(5,328)
+
+(33,885)
+
+(19,871)
+
+(102,362)
+
+Loss before provision for income
+
+taxes
+
+(1,529)
+
+(8,308)
+
+(41,945)
+
+(25,095)
+
+(103,622)
+
+Provision for income taxes
+
+2
+
+1
+
+20
+
+12
+
+417
+
+Net loss(2)
+
+$(1,531)
+
+$(8,309)
+
+$(41,965)
+
+$(25,107)
+
+$(104,039)
+
+______________
+
+(1)Includes stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the years ended December 31,
+
+2023, 2024, and 2025, respectively, and $591 million and $3.3 billion for the nine months ended September 30, 2025 and
+
+2026, respectively.
+
+(2)Includes change in fair value of convertible notes, derivative liabilities, and SAFEs, which were $1.0 billion, $5.4 billion, and
+
+$34.3 billion for the years ended December 31, 2023, 2024, and 2025, respectively, and $20.1 billion and $94.3 billion for the
+
+nine months ended September 30, 2025 and 2026, respectively. These changes were primarily driven by an increase in the fair
+
+value of our outstanding convertible promissory notes resulting from an increase in our enterprise valuation during each of the
+
+respective periods.
+
+150
+
+Table of Contents
+
+The following table sets forth our consolidated statements of operations as a percentage of revenue data for the
+
+periods indicated
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Revenue
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Operating expenses
+
+Compute and infrastructure
+
+1,056
+
+653
+
+160
+
+172
+
+57
+
+Personnel
+
+232
+
+118
+
+40
+
+40
+
+15
+
+Bartz settlement
+
+33
+
+59
+
+Sales, marketing, and
+
+partnerships
+
+5
+
+11
+
+12
+
+13
+
+17
+
+Other operating and
+
+administrative
+
+151
+
+90
+
+31
+
+21
+
+16
+
+Total operating expenses
+
+1,444
+
+872
+
+276
+
+305
+
+104
+
+Operating loss
+
+(1,344)
+
+(772)
+
+(176)
+
+(205)
+
+(4)
+
+Interest income
+
+168
+
+27
+
+9
+
+9
+
+7
+
+Change in fair value of
+
+convertible notes, derivative
+
+liabilities, and SAFEs
+
+(2,549)
+
+(1,408)
+
+(748)
+
+(790)
+
+(284)
+
+Other income (expense), net
+
+(5)
+
+(31)
+
+Total other income (expense),
+
+net
+
+(2,385)
+
+(1,380)
+
+(739)
+
+(781)
+
+(308)
+
+Loss before provision for income
+
+taxes
+
+(3,729)
+
+(2,152)
+
+(915)
+
+(986)
+
+(312)
+
+Provision for income taxes
+
+5
+
+1
+
+Net loss
+
+(3,734)%
+
+(2,153)%
+
+(915)%
+
+(987)%
+
+(313)%
+
+______________
+
+Note Totals of percentage of revenue may not foot due to rounding.
+
+Comparison of the Nine Months Ended September 30, 2025and 2026
+
+Revenue
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Revenue
+
+$2,545
+
+$33,242
+
+$30,697
+
+1,206%
+
+Revenue for the nine months ended September 30, 2026 increased by $30.7 billion, or 1,206%, compared to the
+
+nine months ended September 30, 2025. Consumption-based and subscription-based revenue increased by
+
+$24.2 billion and $6.5 billion, respectively, for the nine months ended September 30, 2026 compared to the
+
+nine months ended September 30, 2025. The increase was driven by successive model and product releases that
+
+drove higher usage, expansion, and broader adoption across our offerings. The number of customers with
+
+$100,000 or more of revenue on a TTM basis grew from more than 950 as of September30, 2025 to more than
+
+11,900 as of September30, 2026. Total revenue from these customers grew from $1.9 billion for the nine
+
+months ended September 30, 2025 to $24.5 billion for the nine months ended September 30, 2026 and
+
+represented approximately 75% and 74% of total revenue for the nine months ended September 30, 2025 and
+
+2026, respectively.
+
+151
+
+Table of Contents
+
+Operating Expenses
+
+Compute and Infrastructure
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Compute and infrastructure
+
+$4,381
+
+$18,808
+
+$14,427
+
+329%
+
+Percentage of revenue
+
+172%
+
+57%
+
+Compute and infrastructure expenses for the nine months ended September 30, 2026 increased by $14.4
+
+billion, or 329%, compared to the nine months ended September 30, 2025. The increase was driven by the
+
+delivery of committed compute throughout the first nine months of 2026 under our CSP arrangements. As our
+
+compute and infrastructure capacity grows, the associated compute and infrastructure expenses have increased
+
+accordingly.
+
+Compute and infrastructure expenses as a percentage of revenue decreased as revenue increased significantly in
+
+the nine months ended September 30, 2026 compared to the nine months ended September 30, 2025, against a
+
+compute base that was primarily committed in advance. The decrease was partially offset by the delivery of
+
+additional compute, which includes $6.5 billion of compute under short-term commitments for the nine
+
+months ended September 30, 2026, which currently costs significantly more than comparable compute
+
+procured under our multi-year commitments.
+
+Personnel
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Personnel
+
+$1,027
+
+$4,863
+
+$3,836
+
+374%
+
+Percentage of revenue
+
+40%
+
+15%
+
+Personnel expenses for the nine months ended September 30, 2026 increased by $3.8 billion, or 374%,
+
+compared to the nine months ended September 30, 2025. The increase was driven by a $2.7 billion increase in
+
+stock-based compensation expense and an $891 million increase in cash compensation, both as a result of
+
+headcount growth.
+
+Bartz Settlement
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Bartz settlement
+
+$1,500
+
+$
+
+$(1,500)
+
+(100)%
+
+Percentage of revenue
+
+59%
+
+%
+
+Bartz settlement expense of $1.5 billion for the nine months ended September 30, 2025 reflects the charge
+
+related to the legal settlement of the Bartz litigation reached and accrued during the third quarter of 2025.
+
+Sales, Marketing, and Partnerships
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Sales, marketing, and partnerships
+
+$322
+
+$5,529
+
+$5,207
+
+1,617%
+
+Percentage of revenue
+
+13%
+
+17%
+
+152
+
+Table of Contents
+
+Sales, marketing, and partnerships expenses for the nine months ended September 30, 2026 increased by $5.2
+
+billion, or 1,617%, compared to the nine months ended September 30, 2025. The increase was primarily driven
+
+by a $4.8 billion increase in fees paid to channel partners, reflecting the growth of our business.
+
+Other Operating and Administrative
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Other operating and administrative
+
+$539
+
+$5,302
+
+$4,763
+
+884%
+
+Percentage of revenue
+
+21%
+
+16%
+
+Other operating and administrative expenses for the nine months ended September 30, 2026 increased by $4.8
+
+billion, or 884%, compared to the nine months ended September 30, 2025. The increase was primarily driven
+
+by a $2.1 billion increase in non-cash charges related to donations made under our donation matching
+
+program, a $757 million increase in vendor costs related to data quality and performance evaluation services, a
+
+$435 million increase in payment processing fees, a $428 million increase in professional services costs, and a
+
+$407 million increase in information technology and cloud software costs.
+
+Interest Income
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Interest income
+
+$239
+
+$2,359
+
+$2,120
+
+887%
+
+Interest income for the nine months ended September 30, 2026 increased by $2.1 billion, or 887%, compared
+
+to the nine months ended September 30, 2025. The increase was primarily driven by an increase in investment
+
+income due to higher average cash and cash equivalents and short-term investments balances in the first nine
+
+months of 2026.
+
+Change in Fair Value of Convertible Notes, Derivative Liabilities, and SAFEs
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Change in fair value of convertible notes,
+
+derivative liabilities, and SAFEs
+
+$(20,107)
+
+$(94,324)
+
+$(74,217)
+
+369%
+
+Change in fair value of convertible notes, derivative liabilities, and SAFEs for the nine months ended September
+
+30, 2026 increased by $74.2 billion, or 369%, compared to the nine months ended September 30, 2025. This
+
+change was primarily driven by an increase in the fair value of our outstanding convertible promissory notes
+
+resulting from an increase in our enterprise valuation from 2025 to 2026.
+
+Other Income (Expense), Net
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Other income (expense), net
+
+$(3)
+
+$(10,397)
+
+$(10,394)
+
+NM
+
+______________
+
+NM Not meaningful.
+
+Other income (expense), net for the nine months ended September 30, 2026 decreased by $10.4 billion,
+
+compared to the nine months ended September 30, 2025. The decrease was primarily driven by the initial fair
+
+value recognition and change in fair value of the assets and liabilities recognized under the partner financing
+
+153
+
+Table of Contents
+
+arrangements described in Note 4 to our consolidated financial statements included elsewhere in this
+
+prospectus.
+
+Provision for Income Taxes
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2025
+
+2026
+
+$ Change
+
+% Change
+
+Provision for income taxes
+
+$12
+
+$417
+
+$405
+
+NM
+
+______________
+
+NM Not meaningful.
+
+Provision for income taxes for the nine months ended September 30, 2026 increased by $405 million,
+
+compared to the nine months ended September 30, 2025. The increase was primarily driven by higher U.S.
+
+state income taxes and higher foreign income taxes driven by increased taxable income in non-U.S.
+
+jurisdictions.
+
+Comparison of the Years Ended December 31,2024and 2025
+
+Revenue
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Revenue
+
+$386
+
+$4,585
+
+$4,199
+
+1,088%
+
+Revenue for the year ended December 31, 2025 increased by $4.2 billion, or 1,088%, compared to the year
+
+ended December 31, 2024. Consumption-based and subscription-based revenue increased by approximately
+
+$3.5 billion and $691 million, respectively, for the year ended December 31, 2025 compared to the year ended
+
+December 31, 2024. The increase was driven by successive model and product releases during the year that
+
+drove higher usage, expansion, and broader adoption across our offerings. The number of customers with
+
+$100,000 or more of revenue on a TTM basis grew from approximately 200 as of December 31, 2024 to
+
+approximately 1,500 as of December 31, 2025. Total revenue from these customers grew from approximately
+
+$220 million to $3.5 billion and represented approximately 57% and 76% of total revenue for the years ended
+
+December 31, 2024 and 2025, respectively.
+
+Operating Expenses
+
+Compute and Infrastructure
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Compute and infrastructure
+
+$2,522
+
+$7,326
+
+$4,804
+
+190%
+
+Percentage of revenue
+
+653%
+
+160%
+
+Compute and infrastructure expenses for the year ended December 31, 2025 increased by $4.8 billion, or 190%,
+
+compared to the year ended December 31, 2024. The increase was driven by the delivery of committed compute
+
+in tranches throughout 2025 under our CSP arrangements entered into in prior years. As each tranche became
+
+available to use, compute and infrastructure expenses increased accordingly.
+
+Compute and infrastructure expenses as a percentage of revenue decreased as revenue increased significantly in
+
+2025 compared to 2024, against a compute base that was committed in advance and did not fluctuate with in-
+
+period demand.
+
+154
+
+Table of Contents
+
+Personnel
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Personnel
+
+$454
+
+$1,839
+
+$1,385
+
+305%
+
+Percentage of revenue
+
+118%
+
+40%
+
+Personnel expenses for the year ended December 31, 2025 increased by $1.4 billion, or 305%, compared to the
+
+year ended December 31, 2024. The increase was primarily driven by a $973 million increase in stock-based
+
+compensation expense and a $339 million increase in cash compensation, both as a result of headcount growth.
+
+Bartz Settlement
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Bartz settlement
+
+$
+
+$1,500
+
+$1,500
+
+NM
+
+Percentage of revenue
+
+%
+
+33%
+
+______________
+
+NM Not meaningful.
+
+Bartz settlement for the year ended December 31, 2025 increased by $1.5 billion compared to the year ended
+
+December 31, 2024. The increase was entirely driven by the preliminary legal settlement for Bartz reached
+
+during the period.
+
+Sales, Marketing, and Partnerships
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Sales, marketing, and partnerships
+
+$43
+
+$568
+
+$525
+
+1,221%
+
+Percentage of revenue
+
+11%
+
+12%
+
+Sales, marketing, and partnerships expenses for the year ended December 31, 2025 increased by $525 million,
+
+or 1,221%, compared to the year ended December 31, 2024. The increase was primarily driven by a $341 million
+
+increase in fees paid to channel partners, reflecting the growth of our business, and a $170 million increase in
+
+marketing and advertising expenses, reflecting higher media and public relations spend to support product
+
+launches.
+
+Other Operating and Administrative
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Other operating and administrative
+
+$347
+
+$1,412
+
+$1,065
+
+307%
+
+Percentage of revenue
+
+90%
+
+31%
+
+Other operating and administrative expenses for the year ended December 31, 2025 increased by $1.1 billion, or
+
+307%, compared to the year ended December 31, 2024. The increase was primarily driven by a $541 million
+
+increase in non-cash charges related to our donation matching program, a $165 million increase in vendor costs
+
+related to data quality and performance evaluation services, and a $102 million increase in information
+
+technology and cloud software costs.
+
+155
+
+Table of Contents
+
+Interest Income
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Interest income
+
+$106
+
+$431
+
+$325
+
+307%
+
+Interest income for the year ended December 31, 2025 increased by $325 million, or 307%, compared to the
+
+year ended December 31, 2024. The increase was primarily driven by a $305 million increase in investment
+
+income due to higher average cash and cash equivalents balances and new short-term investments entered into
+
+during 2025.
+
+Change in Fair Value of Convertible Notes, Derivative Liabilities, and SAFEs
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Change in fair value of convertible notes,
+
+derivative liabilities, and SAFEs
+
+$(5,434)
+
+$(34,308)
+
+$(28,874)
+
+531%
+
+Change in fair value of convertible notes, derivative liabilities, and SAFEs for the year ended December 31, 2025
+
+increased by $28.9 billion, or 531%, compared to the year ended December 31, 2024. This change was primarily
+
+driven by an increase in the fair value of our outstanding convertible promissory notes resulting from an
+
+increase in our enterprise valuation from 2024 to 2025.
+
+Other Income (Expense), Net
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Other income (expense), net
+
+$
+
+$(8)
+
+$(8)
+
+NM
+
+______________
+
+NM Not meaningful.
+
+Other income (expense), net was not material for the periods presented.
+
+Provision for Income Taxes
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2024
+
+2025
+
+$ Change
+
+% Change
+
+Provision for income taxes
+
+$1
+
+$20
+
+$19
+
+NM
+
+_____________
+
+NM Not meaningful.
+
+Provision for income taxes for the year ended December 31, 2025 increased by $19 million, compared to the
+
+year ended December 31, 2024. The increase was largely driven by an increase in foreign taxes associated with
+
+our international operations.
+
+Comparison of the Years Ended December 31,2023and 2024
+
+Revenue
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Revenue
+
+$41
+
+$386
+
+$345
+
+841%
+
+Revenue for the year ended December 31, 2024 increased by $345 million, or 841%, compared to the year
+
+ended December 31, 2023. Consumption-based and subscription-based revenue increased by approximately
+
+$249 million and $96 million, respectively, for the year ended December 31, 2024 compared to the year ended
+
+156
+
+Table of Contents
+
+December 31, 2023. The increase was primarily driven by growth in new customers and reflected the broader
+
+commercial availability of our AI platform following the launch of the Claude 3 family of Opus, Sonnet, and
+
+Haiku models in 2024, which expanded the range of supported use cases and drove adoption. The number of
+
+customers with $100,000 or more of revenue on a TTM basis grew from approximately 20 as of December 31,
+
+2023 to approximately 200 as of December 31, 2024. Total revenue from these customers grew from
+
+approximately $37 million to $220 million and represented approximately 90% and 57% of total revenue for
+
+the years ended December 31, 2023 and 2024, respectively.
+
+Operating Expenses
+
+Compute and Infrastructure
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Compute and infrastructure
+
+$433
+
+$2,522
+
+$2,089
+
+482%
+
+Percentage of revenue
+
+1,056%
+
+653%
+
+Compute and infrastructure expenses for the year ended December 31, 2024 increased by $2.1 billion, or 482%,
+
+compared to the year ended December 31, 2023. The increase primarily reflected the staged delivery of
+
+committed compute under our CSP arrangements entered into in 2023, with the substantial majority of that
+
+compute delivered in tranches during 2024. Compute and infrastructure expenses as a percentage of revenue
+
+decreased as revenue scaled against a compute base that is committed in advance and does not fluctuate with
+
+in-period demand.
+
+Personnel
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Personnel
+
+$95
+
+$454
+
+$359
+
+378%
+
+Percentage of revenue
+
+232%
+
+118%
+
+Personnel expenses for the year ended December 31, 2024 increased by $359 million, or 378%, compared to the
+
+year ended December 31, 2023. The increase was primarily driven by a $164 million increase in cash
+
+compensation and a $163 million increase in stock-based compensation expense, both as a result of headcount
+
+growth.
+
+Sales, Marketing, and Partnerships
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Sales, marketing, and partnerships
+
+$2
+
+$43
+
+$41
+
+2,050%
+
+Percentage of revenue
+
+5%
+
+11%
+
+Sales, marketing, and partnerships expenses for the year ended December 31, 2024 increased by $41 million, or
+
+2,050%, compared to the year ended December 31, 2023. The increase was primarily driven by a $39 million
+
+increase in marketing and advertising expenses reflecting higher media and public relations spend to support
+
+product launches.
+
+Other Operating and Administrative
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Other operating and administrative
+
+$62
+
+$347
+
+$285
+
+460%
+
+Percentage of revenue
+
+151%
+
+90%
+
+157
+
+Table of Contents
+
+Other operating and administrative expenses for the year ended December 31, 2024 increased by $285 million,
+
+or 460%, compared to the year ended December 31, 2023. The increase was primarily driven by a $165 million
+
+increase in vendor costs related to data quality and performance evaluation services, a $30 million increase in
+
+professional services costs, a $28 million increase in information technology and cloud software costs, and a
+
+$24 million increase in facility and occupancy costs due to headcount growth.
+
+Interest Income
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Interest income
+
+$69
+
+$106
+
+$37
+
+54%
+
+Interest income for the year ended December 31, 2024 increased by $37 million, or 54%, compared to the year
+
+ended December 31, 2023. The increase was primarily due to higher average cash and cash equivalents
+
+balances, driven by the growth of our money market funds portfolio.
+
+Change in Fair Value of Convertible Notes, Derivative Liabilities, and SAFEs
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Change in fair value of convertible notes,
+
+derivative liabilities, and SAFEs
+
+$(1,045)
+
+$(5,434)
+
+$(4,389)
+
+420%
+
+Change in fair value of convertible notes, derivative liabilities, and SAFEs for the year ended December 31, 2024
+
+increased by $4.4 billion, or 420%, compared to the year ended December 31, 2023. The increase was primarily
+
+driven by an increase in the fair value of our outstanding convertible promissory notes resulting from an
+
+increase in our enterprise valuation from 2023 to 2024.
+
+Other Income (Expense), Net
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Other income (expense), net
+
+$(2)
+
+$
+
+$2
+
+NM
+
+_______________
+
+NM Not meaningful.
+
+Other income (expense), net was not material for the periods presented.
+
+Provision for Income Taxes
+
+Year Ended December 31,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+$ Change
+
+% Change
+
+Provision for income taxes
+
+$2
+
+$1
+
+$(1)
+
+NM
+
+______________
+
+NM Not meaningful.
+
+Provision for income taxes was not material for the periods presented.
+
+Non-GAAP Financial Measures
+
+To supplement our consolidated financial statements prepared and presented in accordance with GAAP, we use
+
+certain non-GAAP financial measures, as described below, to facilitate analysis of our operating performance
+
+and for internal planning and forecasting purposes.
+
+We use Adjusted Operating Income (Loss), Adjusted Operating Margin, and Adjusted Net Income (Loss) to
+
+evaluate our operating performance, formulate business plans, prepare budgets and forecasts, and make
+
+strategic decisions, including those relating to operating expenses and the allocation of internal resources. By
+
+158
+
+Table of Contents
+
+excluding certain items that management believes are not directly reflective of the ongoing operating
+
+performance of our business, we believe these non-GAAP financial measures provide investors, analysts, and
+
+others with meaningful insight and enhance their overall understanding of our business and financial
+
+performance by providing a more consistent and comparable overview of our financial performance across
+
+periods.
+
+Other companies in our industry, including those with similar business models, may define or calculate
+
+similarly titled measures in different ways, which may limit the usefulness of these measures for direct
+
+comparison. In addition, other companies may not publish these or similar metrics. Further, these metrics have
+
+certain limitations in that they do not include the impact of certain expenses that are reflected on our
+
+consolidated statements of operations. Thus, our non-GAAP financial measures should not be viewed in
+
+isolation or as a replacement for the most directly comparable measures prepared in accordance with GAAP.
+
+We encourage investors and others to review our business, financial condition, and results of operations in their
+
+entirety, not to rely on any single financial measure, and to view our non-GAAP financial measures in
+
+conjunction with their respective most directly comparable financial measures calculated in accordance with
+
+GAAP, as well as our consolidated financial statements and accompanying notes included elsewhere in this
+
+prospectus.
+
+Adjusted Operating Income (Loss) and Adjusted Operating Margin
+
+We define Adjusted Operating Income (Loss) as operating loss excluding (i) stock-based compensation expense,
+
+(ii) non-cash charitable contributions, and (iii) the Bartz settlement. We define Adjusted Operating Margin as
+
+Adjusted Operating Income (Loss) divided by revenue.
+
+A reconciliation of our Adjusted Operating Income (Loss) and Adjusted Operating Margin to operating loss and
+
+operating margin, the most directly comparable GAAP financial measures, respectively, is presented below
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Operating loss
+
+$(551)
+
+$(2,980)
+
+$(8,060)
+
+$(5,224)
+
+$(1,260)
+
+Stock-based compensation expense
+
+29
+
+192
+
+1,165
+
+591
+
+3,255
+
+Non-cash charitable contributions(1)
+
+541
+
+2,086
+
+Bartz settlement(2)
+
+1,500
+
+1,500
+
+Adjusted Operating Income (Loss)
+
+$(522)
+
+$(2,788)
+
+$(4,854)
+
+$(3,133)
+
+$4,081
+
+Revenue
+
+$41
+
+$386
+
+$4,585
+
+$2,545
+
+$33,242
+
+Operating margin
+
+(1,344)%
+
+(772)%
+
+(176)%
+
+(205)%
+
+(4)%
+
+Adjusted Operating Margin
+
+(1,273)%
+
+(722)%
+
+(106)%
+
+(123)%
+
+12%
+
+______________
+
+(1)Relates to non-cash charges from our donation matching program, the value of which is linked to employee equity awards and
+
+recorded in other operating and administrative expenses.
+
+(2)Excluded from our calculation of Adjusted Operating Income (Loss) as it is not indicative of ongoing operations.
+
+Adjusted Net Income (Loss)
+
+We define Adjusted Net Income (Loss) as net loss excluding (i) stock-based compensation expense, (ii) non-
+
+cash charitable contributions, (iii) the Bartz settlement, (iv) the change in fair value of convertible notes,
+
+derivative liabilities, and SAFEs, (v) the change in fair value of certain mark-to-market financial instruments,
+
+and (vi) the related income tax effects of these adjustments.
+
+159
+
+Table of Contents
+
+A reconciliation of Adjusted Net Income (Loss) to net loss, the most directly comparable GAAP financial
+
+measure, is presented below
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+(in millions)
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Net loss(1)
+
+$(1,531)
+
+$(8,309)
+
+$(41,965)
+
+$(25,107)
+
+$(104,039)
+
+Stock-based compensation expense
+
+29
+
+192
+
+1,165
+
+591
+
+3,255
+
+Non-cash charitable
+
+contributions(2)
+
+541
+
+2,086
+
+Bartz settlement(3)
+
+1,500
+
+1,500
+
+Change in fair value of convertible
+
+notes, derivative liabilities, and
+
+SAFEs
+
+1,045
+
+5,434
+
+34,308
+
+20,107
+
+94,324
+
+Change in fair value of certain
+
+mark-to-market financial
+
+instruments
+
+3
+
+10,277
+
+Income tax effects and
+
+adjustments(4)
+
+(7)
+
+(2)
+
+(312)
+
+Adjusted Net Income (Loss)
+
+$(457)
+
+$(2,683)
+
+$(4,455)
+
+$(2,911)
+
+$5,591
+
+______________
+
+(1)Includes change in fair value of convertible notes, derivative liabilities, and SAFEs, which were $1.0 billion, $5.4 billion, $34.3
+
+billion, $20.1 billion, and $94.3 billion for the years ended December 31, 2023, 2024, and 2025, and the nine months ended
+
+September 30, 2025 and 2026, respectively, primarily driven by an increase in the fair value of our outstanding convertible
+
+promissory notes resulting from an increase in our enterprise valuation during each of the respective periods.
+
+(2)Relates to non-cash charges from our donation matching program, the value of which is linked to employee equity awards and
+
+recorded in other operating and administrative expenses.
+
+(3)Excluded from our calculation of Adjusted Net Income (Loss) as it is not indicative of ongoing operations.
+
+(4)Represents the income tax effect of the above adjustments, which relates to stock-based compensation expense and, in certain
+
+periods, other adjustments.
+
+Quarterly Results of Operations
+
+The following table sets forth our unaudited quarterly consolidated statements of operations data for each of
+
+the quarterly periods indicated. The unaudited quarterly statements of operations data has been prepared on
+
+the same basis as our audited consolidated financial statements included elsewhere in this prospectus and
+
+includes all adjustments, consisting only of normal recurring adjustments that, in our opinion, are necessary to
+
+state fairly the results of operations for these periods. Our historical results are not necessarily indicative of the
+
+results that may be expected in the future and the results for any particular quarter are not necessarily
+
+indicative of the results to be expected for a full year or any other period. You should read the following
+
+unaudited quarterly consolidated results of operations in conjunction with our consolidated financial
+
+statements and related notes included elsewhere in this prospectus.
+
+160
+
+Table of Contents
+
+Quarterly Consolidated Statements of Operations
+
+Three Months Ended
+
+(in millions)
+
+March31,
+
+2025
+
+June30,
+
+2025
+
+September30,
+
+2025
+
+December 31,
+
+2025
+
+March 31,
+
+2026
+
+June 30,
+
+2026
+
+September 30,
+
+2026
+
+Revenue
+
+$376
+
+$787
+
+$1,382
+
+$2,040
+
+$4,731
+
+$11,555
+
+$16,956
+
+Operating expenses
+
+Compute and
+
+infrastructure
+
+944
+
+1,390
+
+2,047
+
+2,945
+
+3,387
+
+5,558
+
+9,863
+
+Personnel(1)
+
+218
+
+320
+
+489
+
+812
+
+1,295
+
+1,857
+
+1,711
+
+Bartz settlement
+
+1,500
+
+Sales, marketing,
+
+and partnerships
+
+24
+
+96
+
+202
+
+246
+
+1,033
+
+2,135
+
+2,361
+
+Other operating
+
+and
+
+administrative
+
+125
+
+181
+
+233
+
+873
+
+683
+
+1,031
+
+3,588
+
+Total
+
+operating
+
+expenses
+
+1,311
+
+1,987
+
+4,471
+
+4,876
+
+6,398
+
+10,581
+
+17,523
+
+Operating income
+
+(loss)
+
+(935)
+
+(1,200)
+
+(3,089)
+
+(2,836)
+
+(1,667)
+
+974
+
+(567)
+
+Interest income
+
+51
+
+64
+
+124
+
+192
+
+349
+
+762
+
+1,248
+
+Change in fair
+
+value of
+
+convertible notes,
+
+derivative
+
+liabilities, and
+
+SAFEs
+
+(5,701)
+
+(5,241)
+
+(9,165)
+
+(14,201)
+
+(12,791)
+
+(59,597)
+
+(21,936)
+
+Other income
+
+(expense), net
+
+(3)
+
+(5)
+
+(309)
+
+(8,448)
+
+(1,640)
+
+Total other
+
+income
+
+(expense), net
+
+(5,650)
+
+(5,177)
+
+(9,044)
+
+(14,014)
+
+(12,751)
+
+(67,283)
+
+(22,328)
+
+Loss before
+
+provision for income
+
+taxes
+
+(6,585)
+
+(6,377)
+
+(12,133)
+
+(16,850)
+
+(14,418)
+
+(66,309)
+
+(22,895)
+
+Provision for income
+
+taxes
+
+7
+
+5
+
+8
+
+21
+
+396
+
+Net loss
+
+$(6,592)
+
+$(6,377)
+
+$(12,138)
+
+$(16,858)
+
+$(14,439)
+
+$(66,309)
+
+$(23,291)
+
+______________
+
+(1)Includes stock-based compensation expense of $105 million, $181 million, $305 million, $574 million, $924 million, $1.3
+
+billion, and $1.1 billion for the three months ended March 31, 2025, June 30, 2025, September 30, 2025, December 31, 2025,
+
+March 31, 2026, June 30, 2026, and September 30, 2026, respectively.
+
+161
+
+Table of Contents
+
+Quarterly Consolidated Statements of Operations, as a Percentage of Revenue
+
+Three Months Ended
+
+March31,
+
+2025
+
+June30,
+
+2025
+
+September30,
+
+2025
+
+December 31,
+
+2025
+
+March31,
+
+2026
+
+June 30,
+
+2026
+
+September 30,
+
+2026
+
+Revenue
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Operating expenses
+
+Compute and
+
+infrastructure
+
+251
+
+177
+
+148
+
+144
+
+72
+
+48
+
+58
+
+Personnel
+
+58
+
+41
+
+35
+
+40
+
+27
+
+16
+
+10
+
+Bartz settlement
+
+109
+
+Sales, marketing,
+
+and partnerships
+
+6
+
+12
+
+15
+
+12
+
+22
+
+18
+
+14
+
+Other operating
+
+and
+
+administrative
+
+33
+
+23
+
+17
+
+43
+
+14
+
+9
+
+21
+
+Total
+
+operating
+
+expenses
+
+349
+
+252
+
+324
+
+239
+
+135
+
+92
+
+103
+
+Operating income
+
+(loss)
+
+(249)
+
+(152)
+
+(224)
+
+(139)
+
+(35)
+
+8
+
+(3)
+
+Interest income
+
+14
+
+8
+
+9
+
+9
+
+7
+
+7
+
+7
+
+Change in fair
+
+value of
+
+convertible notes,
+
+derivative
+
+liabilities, and
+
+SAFEs
+
+(1,516)
+
+(666)
+
+(663)
+
+(696)
+
+(270)
+
+(516)
+
+(129)
+
+Other income
+
+(expense), net
+
+(7)
+
+(73)
+
+(10)
+
+Total other
+
+income
+
+(expense), net
+
+(1,503)
+
+(658)
+
+(654)
+
+(687)
+
+(270)
+
+(582)
+
+(132)
+
+Loss before
+
+provision for income
+
+taxes
+
+(1,751)
+
+(810)
+
+(878)
+
+(826)
+
+(305)
+
+(574)
+
+(135)
+
+Provision for income
+
+taxes
+
+2
+
+2
+
+Net loss
+
+(1,753)%
+
+(810)%
+
+(878)%
+
+(826)%
+
+(305)%
+
+(574)%
+
+(137)%
+
+______________
+
+Note Totals of percentage of revenue may not foot due to rounding.
+
+Quarterly Trends
+
+Revenue
+
+Revenue increased sequentially in each of the quarters presented, from $376 million for the three months
+
+ended March 31, 2025 to $17.0 billion for the three months ended September 30, 2026. The increases in each
+
+quarter were driven by successive model and product releases that drove higher usage, expansion, and broader
+
+adoption across our offerings, with both consumption-based and subscription-based revenue contributing. The
+
+number of customers with $100,000 or more of revenue on a TTM basis grew from approximately 400 as of
+
+March31, 2025 to more than 11,900 as of September30, 2026.
+
+For the three months ended September 30, 2025 to the three months ended December 31, 2025, the increase in
+
+revenue due to higher usage was partially offset by a decrease of approximately $70 million from price
+
+reductions introduced as part of new model versions and contractual discounts. For the three months ended
+
+June 30, 2026 to the three months ended September 30, 2026, the increase in revenue due to higher usage was
+
+partially offset by a decrease of approximately $600 million from price reductions introduced as part of new
+
+model versions and contractual discounts. Price changes did not have a material impact on the other quarterly
+
+revenue trends presented.
+
+162
+
+Table of Contents
+
+Operating Expenses
+
+Compute and Infrastructure
+
+Compute and infrastructure expenses increased sequentially in each of the quarters presented, from $944
+
+million for the three months ended March 31, 2025 to $9.9 billion for the three months ended September 30,
+
+2026, driven by the delivery of committed compute under our multi-year arrangements. Because we typically
+
+procure compute 12 to 18 months in advance of availability, these expenses are generally fixed in the near term
+
+and increase as committed compute becomes available to us. Compute and infrastructure expenses as a
+
+percentage of revenue decreased from 251% for the three months ended March 31, 2025 to 48% for the three
+
+months ended June 30, 2026, as revenue growth outpaced the growth of our committed compute cost base, and
+
+increased to 58% for the three months ended September 30, 2026, reflecting the delivery of additional
+
+compute. This includes $5.0 billion of compute under short-term commitments, which currently costs
+
+significantly more than comparable compute procured under our multi-year commitments.
+
+Personnel
+
+Personnel expenses increased sequentially in each of the quarters presented through the three months ended
+
+June 30, 2026, driven by headcount growth and the associated increases in compensation, including stock-
+
+based compensation. Personnel expenses decreased in the three months ended September 30, 2026, primarily
+
+driven by lower stock-based compensation expense due to certain option awards becoming fully vested,
+
+partially offset by higher cash compensation resulting from headcount growth.
+
+Bartz settlement
+
+In the three months ended September 30, 2025, we recorded a $1.5 billion charge to settle the Bartz litigation.
+
+See Note 13 to our consolidated financial statements included elsewhere in this prospectus.
+
+Sales, Marketing, and Partnerships
+
+Sales, marketing, and partnerships expenses increased sequentially in each of the quarters presented, with the
+
+most significant increases observed in the three months ended March 31, 2026 and June30, 2026. The
+
+increases were primarily driven by fees paid to channel partners, reflecting the growth of our business, and
+
+increased marketing and advertising expenses, driven by higher media spend to support product launches.
+
+Sales, marketing, and partnerships expenses as a percentage of revenue decreased from 22% for the three
+
+months ended March 31, 2026 to 14% for the three months ended September 30, 2026, primarily driven by a
+
+decrease in revenue generated from sales through channel partners as a percentage of total revenue and
+
+changes in the terms of our channel partner distribution arrangements.
+
+Other Operating and Administrative
+
+Other operating and administrative expenses increased over the quarters presented, other than in the three
+
+months ended March 31, 2026, which reflected lower donation matching program charges than in the three
+
+months ended December 31, 2025. The overall increase reflected vendor costs related to data quality and
+
+performance evaluation services, information technology and cloud software costs, payment processing and
+
+platform fees, and professional services costs as our business scaled. The increases in the three months ended
+
+December31, 2025 and September30, 2026 were primarily driven by non-cash charges related to our donation
+
+matching program.
+
+Operating Income (Loss)
+
+Our operating loss widened in the three months ended June 30, 2025, primarily driven by the delivery of
+
+additional committed compute under our CSP arrangements, the associated expenses of which increased by
+
+more in dollars than our revenue in the period, and in the three months ended September 30, 2025, which
+
+included the Bartz settlement. Our operating loss narrowed in the three months ended December 31, 2025 and
+
+March 31, 2026, and we generated operating income of $1.0 billion for the three months ended June 30, 2026,
+
+as revenue growth outpaced the growth in total operating expenses. We incurred an operating loss of $567
+
+million for the three months ended September 30, 2026, primarily driven by $5.0 billion of compute under
+
+163
+
+Table of Contents
+
+short-term commitments and $2.0 billion of non-cash charges related to our donation matching program. We
+
+expect our operating results to continue to fluctuate from quarter to quarter, particularly as the amount of
+
+incremental compute we receive, and the associated expenses we incur, may vary from period to period.
+
+Interest Income
+
+Interest income increased sequentially in each of the quarters presented, from $51 million for the three months
+
+ended March 31, 2025 to $1.2 billion for the three months ended September 30, 2026, primarily driven by
+
+higher average cash and cash equivalents and short-term investments balances.
+
+Change in Fair Value of Convertible Notes, Derivative Liabilities, and SAFEs
+
+Changes in the fair value of our convertible notes, derivative liabilities, and SAFEs resulted in expense in each
+
+of the quarters presented, primarily driven by increases in the fair value of our outstanding convertible
+
+promissory notes resulting from increases in our enterprise valuation during each period. The expense was
+
+largest in the three months ended June 30, 2026, reflecting the increase in our enterprise valuation in
+
+connection with our Series H financing. We will continue to recognize changes in fair value until these
+
+instruments are converted into equity, repaid, or otherwise settled. See Note 4 and Note 9 to our consolidated
+
+financial statements included elsewhere in this prospectus.
+
+Other Income (Expense), Net
+
+Other income (expense), net was not material for the quarters presented prior to 2026. Other income
+
+(expense), net of $(309) million, $(8.4) billion, and $(1.6) billion for the three months ended March 31, 2026,
+
+June30, 2026, and September30, 2026, respectively, was primarily driven by the initial fair value recognition
+
+and subsequent change in fair value of the assets and liabilities recognized under the partner financing
+
+arrangements. See Note 4 to our consolidated financial statements included elsewhere in this prospectus.
+
+Provision for Income Taxes
+
+Provision for income taxes was not material for the quarters presented prior to the three months ended
+
+September 30, 2026. Provision for income taxes increased to $396 million for the three months ended
+
+September 30, 2026, primarily driven by higher U.S. state income taxes and higher foreign income taxes driven
+
+by increased taxable income in non-U.S. jurisdictions.
+
+Quarterly Adjusted Operating Income (Loss) and Adjusted Operating Margin
+
+Three Months Ended
+
+(in millions, except
+
+for percentages)
+
+March31,
+
+2025
+
+June30,
+
+2025
+
+September30,
+
+2025
+
+December 31,
+
+2025
+
+March31,
+
+2026
+
+June 30,
+
+2026
+
+September30,
+
+2026
+
+Operating income
+
+(loss)
+
+$(935)
+
+$(1,200)
+
+$(3,089)
+
+$(2,836)
+
+$(1,667)
+
+$974
+
+$(567)
+
+Stock-based
+
+compensation
+
+expense
+
+105
+
+181
+
+305
+
+574
+
+924
+
+1,261
+
+1,070
+
+Non-cash charitable
+
+contributions(1)
+
+541
+
+126
+
+1,960
+
+Bartz settlement(2)
+
+1,500
+
+Adjusted Operating
+
+Income (Loss)
+
+$(830)
+
+$(1,019)
+
+$(1,284)
+
+$(1,721)
+
+$(617)
+
+$2,235
+
+$2,463
+
+Revenue
+
+$376
+
+$787
+
+$1,382
+
+$2,040
+
+$4,731
+
+$11,555
+
+$16,956
+
+Operating margin
+
+(249)%
+
+(152)%
+
+(224)%
+
+(139)%
+
+(35)%
+
+8%
+
+(3)%
+
+Adjusted Operating
+
+Margin
+
+(221)%
+
+(129)%
+
+(93)%
+
+(84)%
+
+(13)%
+
+19%
+
+15%
+
+______________
+
+(1)Relates to non-cash charges from our donation matching program, the value of which is linked to employee equity awards and
+
+recorded in other operating and administrative expenses.
+
+(2)Excluded from our calculation of Adjusted Operating Income (Loss) as it is not indicative of ongoing operations.
+
+164
+
+Table of Contents
+
+Quarterly Adjusted Net Income (Loss)
+
+Three Months Ended
+
+(in millions)
+
+March31,
+
+2025
+
+June30,
+
+2025
+
+September30,
+
+2025
+
+December 31,
+
+2025
+
+March31,
+
+2026
+
+June 30,
+
+2026
+
+September30,
+
+2026
+
+Net loss(1)
+
+$(6,592)
+
+$(6,377)
+
+$(12,138)
+
+$(16,858)
+
+$(14,439)
+
+$(66,309)
+
+$(23,291)
+
+Stock-based
+
+compensation
+
+expense
+
+105
+
+181
+
+305
+
+574
+
+924
+
+1,261
+
+1,070
+
+Non-cash charitable
+
+contributions(2)
+
+541
+
+126
+
+1,960
+
+Bartz settlement(3)
+
+1,500
+
+Change in fair value of
+
+convertible notes,
+
+derivative liabilities,
+
+and SAFEs
+
+5,701
+
+5,241
+
+9,165
+
+14,201
+
+12,791
+
+59,597
+
+21,936
+
+Change in fair value of
+
+certain mark-to-
+
+market financial
+
+instruments
+
+3
+
+288
+
+8,432
+
+1,557
+
+Income tax effects and
+
+adjustments(4)
+
+(2)
+
+(5)
+
+(2)
+
+(245)
+
+(65)
+
+Adjusted Net Income
+
+(Loss)
+
+$(786)
+
+$(957)
+
+$(1,168)
+
+$(1,544)
+
+$(312)
+
+$2,736
+
+$3,167
+
+______________
+
+(1)Includes change in fair value of convertible notes, derivative liabilities, and SAFEs, which were $5.7 billion, $5.2 billion, $9.2
+
+billion, $14.2 billion, $12.8 billion, $59.6 billion, and $21.9 billion for the three months ended March 31, 2025, June 30, 2025,
+
+September 30, 2025, December 31, 2025, March 31, 2026, June 30, 2026, and September 30, 2026, respectively, primarily
+
+driven by an increase in the fair value of our outstanding convertible promissory notes resulting from an increase in our
+
+enterprise valuation during each of the respective periods.
+
+(2)Relates to non-cash charges from our donation matching program, the value of which is linked to employee equity awards and
+
+recorded in other operating and administrative expenses.
+
+(3)Excluded from our calculation of Adjusted Net Income (Loss) as it is not indicative of ongoing operations.
+
+(4)Represents the income tax effect of the above adjustments, which relates to stock-based compensation expense and, in certain
+
+periods, other adjustments.
+
+Liquidity and Capital Resources
+
+Since inception, we have financed our operations, corporate investments, and capital expenditures primarily
+
+through proceeds from the issuance of convertible promissory notes, redeemable convertible preferred stock,
+
+cash generated from sales, and SAFEs. To date, we have financed our compute and infrastructure primarily
+
+under arrangements with our CSPs, as well as through proceeds from the financing activities described above
+
+and cash generated from operations. As of September 30, 2026, we had cash and cash equivalents of $95.6
+
+billion, $36.3 billion of short-term investments, and $14.8 billion available under the AR Credit Facility, as
+
+described below. Cash and cash equivalents consist of cash held in checking and interest-bearing accounts,
+
+money market funds, and other highly liquid investments with original maturities of three months or less from
+
+the date of purchase.
+
+We have generated losses from our operations, as reflected in our accumulated deficit of $156.2 billion, which
+
+includes $135.1 billion related to changes in the fair value of our convertible notes driven by increases in our
+
+enterprise valuation and derivative liabilities since 2023, including $94.3 billion during the nine months ended
+
+September 30, 2026. Additionally, we have generated negative cash flows from operating and investing
+
+activities in 2023, 2024, and 2025, driven by ongoing expenditures to support business growth including
+
+investments to secure access to more compute and infrastructure capacity. We generated positive cash flows
+
+from operating activities of $6.6 billion for the nine months ended September 30, 2026. We continue to invest
+
+in our own data center infrastructure and enter into compute and infrastructure capacity arrangements to
+
+support anticipated demand for our intelligence service. Given the long lead times between contracting for,
+
+purchasing, or leasing compute and that compute becoming available to serve workloads, we secure these
+
+arrangements well in advance of anticipated demand. To secure certain data center development projects,
+
+which require significant capital commitments in advance of deployment, we have in some cases relied, and
+
+expect to continue to rely, on arrangements with financing sources or partners who guarantee the lease
+
+165
+
+Table of Contents
+
+obligations to support the development of data center capacity that is expected to host such partners chips or
+
+computing infrastructure. Our ability to expand compute and infrastructure capacity through these
+
+arrangements in the future may depend on the continued willingness and ability of a limited number of CSPs,
+
+partners, and financing sources to enter into and perform under such arrangements. In some cases, we may
+
+also make payments in advance of the delivery of the equipment or infrastructure. We anticipate making
+
+significant and increased investments for the foreseeable future, including for owned or leased compute and
+
+infrastructure in advance of delivery. These investments help ensure we have the technological resources to
+
+maintain and expand our position at the frontier of AI.
+
+Our increasing efforts to build out our compute and infrastructure require substantial capital expenditures and
+
+are changing the cash flow profile of our business. Whereas the compute purchased through our CSP
+
+arrangements is generally paid for as the compute becomes available to us, we expect an increasing portion of
+
+our compute and infrastructure investment to take the form of capital expenditures and other commitments,
+
+including lease obligations, that require significant upfront payments well in advance of the related compute
+
+becoming operational. We expect our capital expenditures to increase significantly as we expand our build-out,
+
+and we expect these investments to result in significant net cash used in operating and investing activities for
+
+the foreseeable future. Our net cash used in these activities may increase regardless of whether our financial
+
+performance improves. The magnitude and timing of these investments are inherently uncertain and may
+
+change materially over short periods, including as a result of decisions to accelerate or expand our build-out,
+
+and such changes could rapidly and significantly affect our cash flows for a given period. In addition, these
+
+investments are subject to known trends and uncertainties that could adversely affect our results of operations.
+
+The compute and chips necessary for frontier model development are available from a limited number of
+
+suppliers and geographies and are subject to intense competition, supply constraints, and evolving export
+
+controls, and we have historically operated in a compute-constrained environment in which demand for
+
+compute has exceeded the supply available to us. In addition, certain of the CSPs and chip partners on which we
+
+rely provide us capital or credit support, serve as our infrastructure vendors, and develop and offer AI models
+
+and services that compete with ours. These relationships could give rise to conflicts of interest that affect our
+
+access to compute, its cost, the prioritization of our workloads, or the terms on which such capital or credit
+
+support is provided. For a discussion of these and other risks, see the section titled Risk Factors.
+
+We believe our existing available cash and cash equivalents, short-term investments, together with cash
+
+generated from sales and amounts available under our AR Credit Facility, will be sufficient to support working
+
+capital, operating and finance lease payments, and capital expenditure requirements for at least the next 12
+
+months from the date of this prospectus. However, our future capital requirements will depend on many
+
+factors, including our revenue growth, the timing and extent of our investments in compute and infrastructure
+
+capacity, including additional or expanded CSP, equipment lease, and data center arrangements, the success
+
+and expansion of our sales, marketing, and business development strategies, any potential future investment in
+
+complementary businesses, products, technologies, assets, and talent, risks associated with the AI industry, and
+
+other factors described under Key Factors Affecting Our Performance. As a result of these and other factors,
+
+we may be required to seek additional financing sooner than we currently anticipate. If we determine that
+
+additional financing is required, we may not be able to raise it on terms acceptable to us or at all. Any such
+
+financing, if completed, may be costly, dilutive, or lead to restrictions on how we operate our business. If we are
+
+unable to raise additional capital when required, or if we cannot expand our operations or otherwise capitalize
+
+on our business opportunities because we lack sufficient capital, our business, financial condition, results of
+
+operations, and cash flows would be adversely affected.
+
+Over the longer term, we expect to have significant cash requirements as we continue to invest in our business,
+
+primarily for compute and infrastructure, including our data center infrastructure build-out, as well as for
+
+general operating needs. We expect to fund these long-term cash requirements through a combination of cash
+
+flows from operations, proceeds from equity financings, including the net proceeds from this offering, proceeds
+
+from debt financings and potential future indebtedness, and financing arrangements with our partners,
+
+including under our note purchase agreements and our equipment lease and data center arrangements. Our
+
+ability to meet these requirements over the long term depends on our ability to grow our revenue and generate
+
+cash flows from operations and to access additional capital on acceptable terms. If sufficient funds are not
+
+available, we may be required to reduce, defer, or forgo planned investments, which could adversely affect our
+
+business, competitive position, and results of operations.
+
+166
+
+Table of Contents
+
+Revolving Credit Agreement
+
+In May 2025, we entered into a Credit Agreement (as amended from time to time prior to the AR Credit
+
+Agreement (as defined below), the Credit Agreement) with certain lenders from time to time party thereto
+
+and Morgan Stanley Senior Funding, Inc., as administrative agent and collateral agent for the lenders, which
+
+initially provided for a $2.5 billion senior secured revolving credit facility with a $400 million letter of credit
+
+sublimit (the Initial Credit Facility). In September 2025, we amended the Initial Credit Facility to increase the
+
+aggregate revolving commitments to $2.75 billion, and in November 2025, we further amended the Initial
+
+Credit Facility to increase the aggregate revolving commitments to $3.25 billion.
+
+In September 2026, we entered into an Amended and Restated Credit Agreement (the AR Credit
+
+Agreement), which amended and restated the Credit Agreement to provide for a $15.0 billion senior secured
+
+revolving credit facility with the full amount thereof available for letters of credit (the AR Credit Facility).
+
+The AR Credit Facility will mature on September 4, 2031, subject to earlier springing maturity if more than
+
+$500 million in aggregate scheduled cash principal payments on certain of our indebtedness are required
+
+within the 91-day period preceding the date on which any such scheduled principal payment is due, and we do
+
+not have sufficient liquidity to make all such payments then due and remain in pro forma compliance with our
+
+financial covenant, subject to certain other exceptions and conditions set forth in the AR Credit Agreement.
+
+The proceeds of the AR Credit Facility may be used for working capital, general corporate purposes, and other
+
+lawful purposes. We may request borrowings in U.S. dollars or certain other agreed currencies, subject to the
+
+terms of the AR Credit Agreement. As of September30, 2026, we had no borrowings drawn under the AR
+
+Credit Facility and $205 million of standby letters of credit outstanding. As of September30, 2026, we were in
+
+compliance with all covenants under the AR Credit Agreement.
+
+We may borrow, repay, and reborrow amounts under the AR Credit Facility from time to time. We are
+
+required to pay commitment fees on the unused portion of the AR Credit Facility and fees in connection with
+
+letters of credit. On and after the Guarantee and Collateral Release Date (as defined below), such commitment
+
+fees will vary depending on our credit ratings, as set forth in the AR Credit Agreement. Our obligations under
+
+the AR Credit Facility are required to be guaranteed by certain of our material subsidiaries and secured by
+
+substantially all of our assets and the assets of such subsidiary guarantors, subject to certain exceptions and
+
+exclusions set forth in the AR Credit Agreement. The AR Credit Agreement further provides that, on and
+
+after the date we have obtained an Investment Grade Rating (as defined in the AR Credit Agreement) from at
+
+least two out of three of Moodys, SP, and Fitch, at our election, all guarantees and security interests securing
+
+the obligations under the AR Credit Facility will be released, discharged, and terminated, subject to certain
+
+conditions set forth in the AR Credit Agreement (such date, the Guarantee and Collateral Release Date).
+
+Borrowings under the AR Credit Facility bear interest at rates based on the Alternate Base Rate (as defined in
+
+the AR Credit Agreement), Term SOFR Rate (as defined in the AR Credit Agreement), or other applicable
+
+benchmark rates in the case of foreign currencies, plus an applicable margin. From and after the Guarantee and
+
+Collateral Release Date, such applicable margin will vary depending on our credit ratings, as more fully set forth
+
+in the AR Credit Agreement. In addition, the AR Credit Agreement includes customary affirmative and
+
+negative covenants, including, but not limited to, restrictions on additional indebtedness, liens, asset sales,
+
+investments, mergers, and restricted payments. On and after the Guarantee and Collateral Release Date, the
+
+negative covenants limiting asset sales, investments, restricted payments, and affiliate transactions will cease to
+
+apply and the negative covenants restricting additional indebtedness and liens will be modified in certain
+
+respects, including to permit additional indebtedness, subject to a cap on certain indebtedness that is secured
+
+by assets that do not secure the AR Credit Facility or that is incurred or guaranteed by restricted subsidiaries
+
+that are not guarantors under the AR Credit Facility. The AR Credit Agreement includes a financial covenant
+
+requiring that we maintain liquidity of at least $5.0 billion as of the last day of each fiscal quarter, beginning
+
+with the fiscal quarter ending December 31, 2026. The AR Credit Agreement also includes customary events
+
+of default, which, if triggered, could result in the acceleration of amounts due under the AR Credit Facility and
+
+termination of the commitments thereunder.
+
+AMD Agreement
+
+In July 2026, we entered into a hardware supply framework agreement (the Hardware Supply Agreement)
+
+with Advanced Micro Devices, Inc. (AMD) to purchase, lease, or access AMD-based Helios rack-scale systems
+
+featuring AMD Instinct MI450 series GPUs. Pursuant to the terms of the Hardware Supply Agreement, AMD
+
+167
+
+Table of Contents
+
+has provided a commitment to purchase up to $5.0 billion of our Class N common stock, which becomes
+
+available for us to draw on in increments following the achievement of specified AMD GPU delivery and
+
+deployment milestones. Based on the deployment schedule contemplated by the Hardware Supply Agreement,
+
+we expect the first of such milestones to be achieved in 2027. Following the completion of this offering, any
+
+purchases of our Class N common stock will be made at a price per share equal to the volume-weighted average
+
+price of our Class A common stock over the 30 trading days immediately preceding the applicable closing date
+
+of such purchase, and we must make any draw request within 12 months following the final delivery and
+
+deployment of AMD GPU capacity under the Hardware Supply Agreement.

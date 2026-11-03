@@ -1,0 +1,970 @@
+{
+ "chunk": "sx1_06",
+ "section": "use-of-proceeds-capitalization-dilution",
+ "filing": "sx1",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 5783,
+  "completion_tokens": 6678,
+  "total_tokens": 12461,
+  "cost": 0.00164265,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00164265,
+   "upstream_inference_prompt_cost": 0.00017349,
+   "upstream_inference_completions_cost": 0.00146916
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 48,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 81,
+ "records": [
+  {
+   "kind": "blank",
+   "label": "net proceeds from offering",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "offering",
+   "quote": "net proceeds to us from the sale of shares of our Class A common stock in this offering will be approximately $, based upon the assumed initial public offering price of $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "assumed IPO price per share",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "offering",
+   "category": "offering",
+   "quote": "based upon the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range"
+  },
+  {
+   "kind": "blank",
+   "label": "net proceeds if underwriters option exercised",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "offering",
+   "quote": "or approximately $ if the underwriters option to purchase additional shares of our Class A common stock from us is exercised in full"
+  },
+  {
+   "kind": "blank",
+   "label": "proceeds change per $1.00 IPO price change",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "offering",
+   "quote": "Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, would increase or decrease, as applicable, the net proceeds that we receive from this offering by approximately $"
+  },
+  {
+   "kind": "inline",
+   "label": "share count change sensitivity",
+   "values": [
+    "1.0million"
+   ],
+   "unit": "shares",
+   "period": "offering",
+   "category": "offering",
+   "quote": "each increase or decrease of 1.0million in the number of shares of our Class A common stock offered by us would increase or decrease, as applicable, the net proceeds"
+  },
+  {
+   "kind": "blank",
+   "label": "proceeds change per 1.0M shares change",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "offering",
+   "quote": "would increase or decrease, as applicable, the net proceeds that we receive from this offering by approximately $, assuming the assumed initial public offering price remains the same"
+  },
+  {
+   "kind": "blank",
+   "label": "RSU Settlement tax withholding obligation",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "commitments",
+   "quote": "to satisfy our anticipated tax withholding and remittance obligations of $ related to the RSU Settlement"
+  },
+  {
+   "kind": "blank",
+   "label": "assumed tax withholding rate",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "offering",
+   "category": "commitments",
+   "quote": "and an assumed % tax withholding rate"
+  },
+  {
+   "kind": "blank",
+   "label": "withholding change per $1.00 IPO price change",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "offering",
+   "category": "commitments",
+   "quote": "would increase or decrease, as applicable, the amount we would be required to pay to satisfy our tax withholding and remittance obligations related to the RSU Settlement by $"
+  },
+  {
+   "kind": "blank",
+   "label": "pro forma stock-based compensation adjustment for RSU Settlement",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "an increase to additional paid-in capital and accumulated deficit related to stock-based compensation of $ related to RSUs subject to the RSU Settlement"
+  },
+  {
+   "kind": "blank",
+   "label": "assumed IPO price in capitalization table",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "based upon the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "As of September 30, 2026",
+    "Actual",
+    "Pro Forma(1)",
+    "Pro Forma As Adjusted(2)"
+   ],
+   "values": [
+    "Cash, cash equivalents, and short-term investments",
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Cash, cash equivalents, and short-term investments $ $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Convertible notes payable",
+   "values": [
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Convertible notes payable"
+  },
+  {
+   "kind": "table_row",
+   "label": "Redeemable convertible preferred stock",
+   "values": [
+    "1,040,440,652 shares authorized, issued and outstanding, actual",
+    "no shares authorized, issued, and outstanding, pro forma and pro forma as adjusted"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Redeemable convertible preferred stock, par value $0.00001 per share 1,040,440,652 shares authorized, issued and outstanding, actual"
+  },
+  {
+   "kind": "table_row",
+   "label": "Preferred stock par value",
+   "values": [
+    "$0.00001"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Redeemable convertible preferred stock, par value $0.00001 per share"
+  },
+  {
+   "kind": "table_row",
+   "label": "Preferred stock authorized pro forma",
+   "values": [
+    "30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Preferred stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted"
+  },
+  {
+   "kind": "table_row",
+   "label": "Class A common stock authorized actual",
+   "values": [
+    "10,906,111,730 shares authorized"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Class A common stock, par value $0.00001 per share 10,906,111,730 shares authorized, shares issued and outstanding, actual"
+  },
+  {
+   "kind": "table_row",
+   "label": "Class A common stock authorized pro forma",
+   "values": [
+    "300,000,000,000 shares authorized"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "300,000,000,000 shares authorized, shares issued and outstanding, pro forma and 300,000,000,000 shares authorized, shares issued and outstanding, pro forma as adjusted"
+  },
+  {
+   "kind": "table_row",
+   "label": "Class N common stock authorized actual",
+   "values": [
+    "7,128,888,270 shares authorized"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Class N common stock, par value $0.00001 per share 7,128,888,270 shares authorized, shares issued and outstanding, actual"
+  },
+  {
+   "kind": "table_row",
+   "label": "Class N common stock authorized pro forma",
+   "values": [
+    "100,000,000,000 shares authorized"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "100,000,000,000 shares authorized, shares issued and outstanding, pro forma and 100,000,000,000 shares authorized, shares issued and outstanding, pro forma as adjusted"
+  },
+  {
+   "kind": "table_row",
+   "label": "Class T common stock",
+   "values": [
+    "1 share authorized, 1 share issued and outstanding, actual, pro forma, and pro forma as adjusted"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Class T common stock, par value $0.00001 per share 1 share authorized, 1 share issued and outstanding, actual, pro forma, and pro forma as adjusted"
+  },
+  {
+   "kind": "table_row",
+   "label": "Class F common stock",
+   "values": [
+    "no shares authorized, issued, and outstanding, actual",
+    "1 share authorized, 1 share issued and outstanding, pro forma and pro forma as adjusted"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Class F common stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 1 share authorized, 1 share issued and outstanding, pro forma and pro forma as adjusted"
+  },
+  {
+   "kind": "table_row",
+   "label": "Class E common stock",
+   "values": [
+    "no shares authorized, issued, and outstanding, actual",
+    "30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Class E common stock, par value $0.00001 per share no shares authorized, issued, and outstanding, actual 30,000,000,000 shares authorized, no shares issued and outstanding, pro forma and pro forma as adjusted"
+  },
+  {
+   "kind": "table_row",
+   "label": "Additional paid-in capital",
+   "values": [
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Additional paid-in capital"
+  },
+  {
+   "kind": "table_row",
+   "label": "Accumulated other comprehensive income (loss)",
+   "values": [
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Accumulated other comprehensive income (loss)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Accumulated deficit",
+   "values": [
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Accumulated deficit"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total stockholders equity (deficit)",
+   "values": [
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total stockholders equity (deficit)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total capitalization",
+   "values": [
+    "[BLANK]",
+    "[BLANK]",
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total capitalization $ $ $"
+  },
+  {
+   "kind": "blank",
+   "label": "footnote(1) assumed IPO price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "Each $1.00 increase or decrease in the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, would increase or decrease, as applicable, the amount we would be required to pay to satisfy our tax withholding and remittance obligations related to the RSU Settlement by $"
+  },
+  {
+   "kind": "blank",
+   "label": "footnote(2) change per $1.00 IPO price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "would increase or decrease, as applicable, the amount of our pro forma as adjusted cash, cash equivalents, and short-term investments, additional paid-in capital, total stockholders equity (deficit), and total capitalization by $"
+  },
+  {
+   "kind": "inline",
+   "label": "footnote(2) share sensitivity",
+   "values": [
+    "1.0million"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "An increase or decrease of 1.0million shares in the number of shares offered by us would increase or decrease, as applicable, the amount of our pro forma as adjusted cash"
+  },
+  {
+   "kind": "blank",
+   "label": "footnote(2) change per 1.0M shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "total stockholders equity (deficit), and total capitalization by $, assuming the assumed initial public offering price remains the same"
+  },
+  {
+   "kind": "blank",
+   "label": "underwriters option exercised - cash",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "pro forma as adjusted cash, cash equivalents, and short-term investments additional paid-in capital total stockholders equity (deficit) total capitalization and shares of Class A common stock outstanding as of September 30, 2026would be $, $, $, $ and shares of Class A common stock, respectively"
+  },
+  {
+   "kind": "blank",
+   "label": "options outstanding - shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock issuable upon the exercise of options to purchase shares of our Class A common stock outstanding as of September 30, 2026, with a weighted-average exercise price of $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "options weighted-average exercise price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "with a weighted-average exercise price of $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "RSUs outstanding pending vesting",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock issuable upon the vesting and settlement of RSUs outstanding as of the date of this prospectus, but for which (i) the service-based vesting condition was not satisfied"
+  },
+  {
+   "kind": "blank",
+   "label": "shares issued in acquisitions after 2026-09-30",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock issued after September 30, 2026 in connection with our acquisitions of privately-held companies"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - Donation Matching Plan",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock reserved for future issuance upon conversion of Class N common stock issuable under our Donation Matching Plan"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - 2026 Plan",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock to be reserved for future issuance under our 2026 Plan, which will become effective prior to the completion of this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - 2021 Plan",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock reserved for future issuance under our 2021 Plan, which number of shares will be added to the shares of our Class A common stock to be reserved for future issuance under our 2026 Plan"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - ESPP",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock to be reserved for future issuance under our ESPP, which will become effective prior to the completion of this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "historical net tangible book value",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Our historical net tangible book value as of September 30, 2026 was $, or $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "historical net tangible book value per share",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Our historical net tangible book value as of September 30, 2026 was $, or $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "pro forma net tangible book value",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Our pro forma net tangible book value as of September 30, 2026 was $, or $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "pro forma net tangible book value per share",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Our pro forma net tangible book value as of September 30, 2026 was $, or $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "assumed IPO price in dilution section",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "the sale by us of shares of our Class A common stock in this offering at the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range"
+  },
+  {
+   "kind": "blank",
+   "label": "pro forma as adjusted net tangible book value",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "our pro forma as adjusted net tangible book value as of September 30, 2026 would have been $, or $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "pro forma as adjusted NTBV per share",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "our pro forma as adjusted net tangible book value as of September 30, 2026 would have been $, or $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "NTBV increase per share to existing stockholders",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "This represents an immediate increase in pro forma as adjusted net tangible book value of $ per share to our existing stockholders"
+  },
+  {
+   "kind": "blank",
+   "label": "dilution per share to new investors",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "an immediate dilution in pro forma as adjusted net tangible book value of $ per share to investors purchasing shares of our Class A common stock in this offering"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dilution table",
+   "values": [
+    "Assumed initial public offering price per share: [BLANK]",
+    "Historical net tangible book value per share as of September 30, 2026: [BLANK]",
+    "Increase per share attributable to the pro forma adjustments described above: [BLANK]",
+    "Pro forma net tangible book value per share as of September 30, 2026: [BLANK]",
+    "Increase in pro forma net tangible book value per share attributable to new investors: [BLANK]",
+    "Pro forma as adjusted net tangible book value per share immediately after this offering: [BLANK]",
+    "Dilution in pro forma as adjusted net tangible book value per share to new investors in this offering: [BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Assumed initial public offering price per share $ Historical net tangible book value per share as of September 30, 2026 $"
+  },
+  {
+   "kind": "blank",
+   "label": "NTBV per share change per $1.00 IPO price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "would increase or decrease, as applicable, our pro forma as adjusted net tangible book value per share to new investors by $"
+  },
+  {
+   "kind": "blank",
+   "label": "dilution change per $1.00 IPO price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "and would increase or decrease, as applicable, dilution per share to new investors purchasing shares of Class A common stock in this offering by $"
+  },
+  {
+   "kind": "inline",
+   "label": "share sensitivity in dilution",
+   "values": [
+    "1.0million"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "each increase or decrease of 1.0million shares in the number of shares of our Class A common stock offered by us would increase or decrease, as applicable, our pro forma as adjusted net tangible book value by approximately $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "NTBV change per 1.0M shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "our pro forma as adjusted net tangible book value by approximately $ per share and increase or decrease, as applicable, the dilution to new investors"
+  },
+  {
+   "kind": "blank",
+   "label": "dilution change per 1.0M shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "purchasing shares of Class A common stock in this offering by $ per share, assuming the assumed initial public offering price remains the same"
+  },
+  {
+   "kind": "blank",
+   "label": "pro forma NTBV per share if option exercised",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "the pro forma net tangible book value per share of our Class A common stock, as adjusted to give effect to this offering, would be $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "dilution per share if option exercised",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "the dilution in pro forma net tangible book value per share to new investors purchasing shares of Class A common stock in this offering would be $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "assumed IPO price in purchase consideration table",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "the average price per share paid or to be paid to us at the assumed initial public offering price of $ per share, which is the midpoint of the estimated offering price range"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Shares Purchased Number",
+    "Shares Purchased Percent",
+    "Total Consideration Amount",
+    "Total Consideration Percent",
+    "Weighted Average Price Per Share"
+   ],
+   "values": [
+    "Existing stockholders: [BLANK]",
+    "[BLANK]%",
+    "$[BLANK]",
+    "[BLANK]%",
+    "$[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Existing stockholders % $ % $ New investors $ Total 100% $ 100%"
+  },
+  {
+   "kind": "table_row",
+   "label": "New investors",
+   "values": [
+    "[BLANK]",
+    "[BLANK]%",
+    "$[BLANK]",
+    "[BLANK]%",
+    "$[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "New investors $ Total 100% $ 100%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total",
+   "values": [
+    "100%",
+    "$[BLANK]",
+    "100%"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total 100% $ 100%"
+  },
+  {
+   "kind": "blank",
+   "label": "existing stockholders shares after selling stockholder sales",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "will cause the number of shares held by existing stockholders to be reduced to shares, or approximately % of the total number of shares of our Class A common stock outstanding after this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "existing stockholders percent after selling stockholder sales",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "reduced to shares, or approximately % of the total number of shares of our Class A common stock outstanding after this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "new investors shares after selling stockholder sales",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "will increase the number of shares held by new investors to shares, or approximately % of the total number of shares of our Class A common stock outstanding after this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "new investors percent after selling stockholder sales",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "increase the number of shares held by new investors to shares, or approximately % of the total number of shares of our Class A common stock outstanding after this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "consideration change per $1.00 IPO price",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "would increase or decrease, as applicable, the total consideration paid by new investors and total consideration paid by all stockholders by $"
+  },
+  {
+   "kind": "inline",
+   "label": "share sensitivity in consideration",
+   "values": [
+    "1.0million"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "each increase or decrease of 1.0million in the number of shares of our Class A common stock offered by us would increase or decrease, as applicable, the total consideration paid by new investors"
+  },
+  {
+   "kind": "blank",
+   "label": "consideration change per 1.0M shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "the total consideration paid by new investors and total consideration paid by all stockholders by $, assuming the assumed initial public offering price remains the same"
+  },
+  {
+   "kind": "blank",
+   "label": "existing stockholders ownership if option exercised",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "If the underwriters option to purchase additional shares of our Class A common stock were exercised in full, our existing stockholders would own % and our new investors would own %"
+  },
+  {
+   "kind": "blank",
+   "label": "new investors ownership if option exercised",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "offering",
+   "quote": "our existing stockholders would own % and our new investors would own % of the total number of shares of our Class A common stock outstanding upon completion of this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "Class A shares outstanding after offering",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "based on shares of our Class A common stock, shares of our Class N common stock, one share of our Class T common stock, and one share of our Class F common stock outstanding as of September 30, 2026"
+  },
+  {
+   "kind": "blank",
+   "label": "Class N shares outstanding after offering",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "based on shares of our Class A common stock, shares of our Class N common stock, one share of our Class T common stock, and one share of our Class F common stock outstanding as of September 30, 2026"
+  },
+  {
+   "kind": "blank",
+   "label": "options outstanding (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock issuable upon the exercise of options to purchase shares of our Class A common stock outstanding as of September 30, 2026, with a weighted-average exercise price of $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "options weighted-average exercise price (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "per-share",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "with a weighted-average exercise price of $ per share"
+  },
+  {
+   "kind": "blank",
+   "label": "RSUs outstanding pending vesting (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock issuable upon the vesting and settlement of RSUs outstanding as of the date of this prospectus, but for which (i) the service-based vesting condition was not satisfied"
+  },
+  {
+   "kind": "blank",
+   "label": "shares issued in acquisitions (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock issued after September 30, 2026 in connection with our acquisitions of privately-held companies and"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - Donation Matching Plan (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock reserved for future issuance upon conversion of Class N common stock issuable under our Donation Matching Plan"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - 2026 Plan (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock to be reserved for future issuance under our 2026 Plan, which will become effective prior to the completion of this offering"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - 2021 Plan (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock reserved for future issuance under our 2021 Plan, which number of shares will be added to the shares of our Class A common stock to be reserved for future issuance under our 2026 Plan"
+  },
+  {
+   "kind": "blank",
+   "label": "shares reserved - ESPP (dilution section)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "shares of our Class A common stock to be reserved for future issuance under our ESPP, which will become effective prior to the completion of this offering"
+  }
+ ]
+}

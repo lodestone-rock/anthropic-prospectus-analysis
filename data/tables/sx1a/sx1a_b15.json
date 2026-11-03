@@ -1,0 +1,492 @@
+{
+  "batch": "sx1a_b15",
+  "tables": [
+    {
+      "kind": "statement",
+      "caption": "As of December 31, 2025",
+      "caption_line": 39018,
+      "start_line": 39018,
+      "end_line": 39124,
+      "column_note": "(in millions)",
+      "columns": ["", "Level 1", "Level 2", "Level 3", "Total"],
+      "rows": [
+        {"label": "Assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$16,455", "$", "$", "$16,455"]},
+        {"label": "Corporate debt securities", "cells": ["4", "[BLANK]", "[BLANK]", "4"]},
+        {"label": "Short-term investments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Commercial paper", "cells": ["123", "[BLANK]", "[BLANK]", "123"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["2,114", "[BLANK]", "[BLANK]", "2,114"]},
+        {"label": "Corporate debt securities", "cells": ["652", "[BLANK]", "[BLANK]", "652"]},
+        {"label": "Other assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Warrant rights", "cells": ["[BLANK]", "[BLANK]", "345", "345"]},
+        {"label": "Total fair value assets", "cells": ["$16,455", "$2,893", "$345", "$19,693"]},
+        {"label": "Liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Accounts payable, accrued expenses, and other current liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Donation matching program liability(2)", "cells": ["$", "$", "$541", "$541"]},
+        {"label": "Other noncurrent liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Convertible notes(1)", "cells": ["[BLANK]", "[BLANK]", "41,677", "41,677"]},
+        {"label": "Holdback liability(3)", "cells": ["[BLANK]", "[BLANK]", "28", "28"]},
+        {"label": "Total fair value liabilities", "cells": ["$", "$", "$42,246", "$42,246"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "As of September 30, 2026 (unaudited)",
+      "caption_line": 39136,
+      "start_line": 39136,
+      "end_line": 39258,
+      "column_note": "(in millions)",
+      "columns": ["", "Level 1", "Level 2", "Level 3", "Total"],
+      "rows": [
+        {"label": "Assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Cash equivalents", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Money market funds", "cells": ["$87,675", "$", "$", "$87,675"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["2,821", "[BLANK]", "[BLANK]", "2,821"]},
+        {"label": "Short-term investments", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Commercial paper", "cells": ["1,419", "[BLANK]", "[BLANK]", "1,419"]},
+        {"label": "U.S. Treasury and agency securities", "cells": ["32,208", "[BLANK]", "[BLANK]", "32,208"]},
+        {"label": "Corporate debt securities", "cells": ["2,656", "[BLANK]", "[BLANK]", "2,656"]},
+        {"label": "Other assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Warrant rights", "cells": ["[BLANK]", "[BLANK]", "1,128", "1,128"]},
+        {"label": "Partner financing arrangements", "cells": ["[BLANK]", "[BLANK]", "894", "894"]},
+        {"label": "Total fair value assets", "cells": ["$87,675", "$39,104", "$2,022", "$128,801"]},
+        {"label": "Liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Accounts payable, accrued expenses, and other current liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Holdback liability(3)", "cells": ["$", "$", "$71", "$71"]},
+        {"label": "Donation matching program liability(2)", "cells": ["[BLANK]", "[BLANK]", "1,960", "1,960"]},
+        {"label": "Convertible notes(1)", "cells": ["[BLANK]", "[BLANK]", "130,502", "130,502"]},
+        {"label": "Total fair value liabilities", "cells": ["$", "$", "$132,533", "$132,533"]}
+      ],
+      "footnotes": [
+        "(1)Recorded at fair value with changes in fair value recorded in earnings due to the election of the fair value option of accounting for financial instruments. Refer to Note 9 for further information.",
+        "(2)Refer to Note 10 for further information.",
+        "(3)Refer to Note 15 for further information."
+      ]
+    },
+    {
+      "kind": "statement",
+      "caption": "The following table presents a summary of the changes in the fair value of the Companys Level 3 financial instruments (in millions)",
+      "caption_line": 39418,
+      "start_line": 39422,
+      "end_line": 39600,
+      "column_note": "(in millions)",
+      "columns": ["", "Warrant Rights", "Partner Financing Arrangements", "Donation Matching Program Liability", "Holdback Liability", "SAFEs", "Convertible Notes Payable", "Derivative Liability"],
+      "rows": [
+        {"label": "Balance as of December 31, 2023", "cells": ["$", "$", "$", "$", "$128", "$1,678", "$1,110"]},
+        {"label": "Additions", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "5,900", "150"]},
+        {"label": "Conversion", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(134)", "[BLANK]", "[BLANK]"]},
+        {"label": "Change in fair value and settlement of derivative liability", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "6", "6,538", "(1,110)"]},
+        {"label": "Balance as of December 31, 2024", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "14,116", "150"]},
+        {"label": "Additions", "cells": ["345", "[BLANK]", "541", "25", "[BLANK]", "3,450", "[BLANK]"]},
+        {"label": "Conversion", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(10,347)", "[BLANK]"]},
+        {"label": "Change in fair value and settlement of derivative liability", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "3", "[BLANK]", "34,458", "(150)"]},
+        {"label": "Balance as of December 31, 2025", "cells": ["345", "[BLANK]", "541", "28", "[BLANK]", "41,677", "[BLANK]"]},
+        {"label": "Additions (unaudited)", "cells": ["[BLANK]", "2,440", "1,808", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Conversion (unaudited)", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "(5,499)", "[BLANK]"]},
+        {"label": "Change in fair value (unaudited)", "cells": ["783", "(13,356)", "278", "43", "[BLANK]", "94,324", "[BLANK]"]},
+        {"label": "Settlement (unaudited)", "cells": ["[BLANK]", "11,810", "(667)", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Balances as of September 30, 2026 (unaudited)", "cells": ["$1,128", "$894", "$1,960", "$71", "$", "$130,502", "$"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "The following table presents goodwill activity (in millions)",
+      "caption_line": 39612,
+      "start_line": 39614,
+      "end_line": 39634,
+      "column_note": "(in millions)",
+      "columns": ["", "Total"],
+      "rows": [
+        {"label": "Balance, as of December 31, 2024", "cells": ["$"]},
+        {"label": "Acquisition", "cells": ["154"]},
+        {"label": "Balance, as of December 31, 2025", "cells": ["154"]},
+        {"label": "Acquisitions and other (unaudited)", "cells": ["441"]},
+        {"label": "Balance, as of September 30, 2026 (unaudited)", "cells": ["$595"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Intangible assets consisted of the following (in millions, except years) — As of December 31, 2024",
+      "caption_line": 39650,
+      "start_line": 39650,
+      "end_line": 39702,
+      "column_note": "(in millions, except years)",
+      "columns": ["", "Gross Carrying Amount", "Accumulated Amortization", "Net Carrying Amount", "Weighted-Average Remaining Useful Life (in years)"],
+      "rows": [
+        {"label": "Technology-related", "cells": ["$3", "$", "$3", "4.5"]},
+        {"label": "Contract-related", "cells": ["5", "(3)", "2", "0.5"]},
+        {"label": "Total", "cells": ["$8", "$(3)", "$5", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Intangible assets consisted of the following (in millions, except years) — As of December 31, 2025",
+      "caption_line": 39704,
+      "start_line": 39704,
+      "end_line": 39756,
+      "column_note": "(in millions, except years)",
+      "columns": ["", "Gross Carrying Amount", "Accumulated Amortization", "Net Carrying Amount", "Weighted-Average Remaining Useful Life (in years)"],
+      "rows": [
+        {"label": "Technology-related", "cells": ["$7", "$(1)", "$6", "4.7"]},
+        {"label": "Contract-related", "cells": ["24", "(10)", "14", "0.6"]},
+        {"label": "Total", "cells": ["$31", "$(11)", "$20", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Intangible assets consisted of the following (in millions, except years) — As of September 30, 2026 (unaudited)",
+      "caption_line": 39758,
+      "start_line": 39758,
+      "end_line": 39812,
+      "column_note": "(in millions, except years)",
+      "columns": ["", "Gross Carrying Amount", "Accumulated Amortization", "Net Carrying Amount", "Weighted-Average Remaining Useful Life (in years)"],
+      "rows": [
+        {"label": "Technology-related", "cells": ["$108", "$(29)", "$79", "1.7"]},
+        {"label": "Contract-related", "cells": ["31", "(16)", "15", "1.2"]},
+        {"label": "Total", "cells": ["$139", "$(45)", "$94", "[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "The estimated aggregate future amortization expense for intangible assets subject to amortization as of December31, 2025, is summarized below (in millions)",
+      "caption_line": 39820,
+      "start_line": 39824,
+      "end_line": 39856,
+      "column_note": "(in millions)",
+      "columns": ["Fiscal Year", "Estimated Future Amortization Expense"],
+      "rows": [
+        {"label": "2026", "cells": ["$15"]},
+        {"label": "2027", "cells": ["2"]},
+        {"label": "2028", "cells": ["1"]},
+        {"label": "2029", "cells": ["1"]},
+        {"label": "2030", "cells": ["1"]},
+        {"label": "Total", "cells": ["$20"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Property and equipment, net consisted of the following (in millions)",
+      "caption_line": 39870,
+      "start_line": 39872,
+      "end_line": 39938,
+      "column_note": "(in millions)",
+      "columns": ["", "As of December 31, 2024", "As of December 31, 2025", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Leasehold improvements", "cells": ["$16", "$51", "$70"]},
+        {"label": "Servers, networking, and infrastructure equipment", "cells": ["[BLANK]", "34", "2,216"]},
+        {"label": "Construction in progress", "cells": ["4", "63", "877"]},
+        {"label": "Other assets", "cells": ["3", "10", "30"]},
+        {"label": "Total property and equipment, gross", "cells": ["23", "158", "3,193"]},
+        {"label": "Less Accumulated depreciation", "cells": ["(4)", "(12)", "(132)"]},
+        {"label": "Total property and equipment, net", "cells": ["$19", "$146", "$3,061"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "The components of the Companys lease expense were as follows (in millions)",
+      "caption_line": 39954,
+      "start_line": 39956,
+      "end_line": 40018,
+      "column_note": "(in millions)",
+      "columns": ["", "Year Ended December 31, 2023", "Year Ended December 31, 2024", "Year Ended December 31, 2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Operating lease cost", "cells": ["$3", "$17", "$22", "$13", "$128"]},
+        {"label": "Finance lease cost", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Amortization of lease assets", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "81"]},
+        {"label": "Interest on lease liabilities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "27"]},
+        {"label": "Finance lease cost", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "108"]},
+        {"label": "Short-term lease cost", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "11"]},
+        {"label": "Variable lease cost", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "15"]},
+        {"label": "Total lease cost", "cells": ["$3", "$17", "$22", "$13", "$262"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Weighted-average remaining lease term and discount rate for the Companys leases were as follows",
+      "caption_line": 40020,
+      "start_line": 40022,
+      "end_line": 40080,
+      "column_note": "",
+      "columns": ["", "As of December 31, 2024", "As of December 31, 2025", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Weighted-average remaining lease term - operating leases", "cells": ["3.3 years", "7.7 years", "10.3 years"]},
+        {"label": "Weighted-average remaining lease term - finance leases", "cells": ["*", "*", "4.8 years"]},
+        {"label": "Weighted-average discount rate - operating leases", "cells": ["10.4%", "8.1%", "7.2%"]},
+        {"label": "Weighted-average discount rate - finance leases", "cells": ["*", "*", "6.6%"]}
+      ],
+      "footnotes": [
+        "*The Company did not have finance leases as of December 31, 2024 and 2025."
+      ]
+    },
+    {
+      "kind": "statement",
+      "caption": "Supplemental balance sheet information for finance leases(1) were as follows (in millions)",
+      "caption_line": 40082,
+      "start_line": 40084,
+      "end_line": 40118,
+      "column_note": "(in millions)",
+      "columns": ["", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Property and equipment, at cost", "cells": ["$1,759"]},
+        {"label": "Accumulated depreciation", "cells": ["(81)"]},
+        {"label": "Property and equipment, net", "cells": ["$1,678"]},
+        {"label": "Accounts payable, accrued expenses, and other current liabilities", "cells": ["$349"]},
+        {"label": "Other noncurrent liabilities", "cells": ["1,325"]},
+        {"label": "Total finance lease liabilities", "cells": ["$1,674"]}
+      ],
+      "footnotes": [
+        "(1)The Company did not have finance leases as of December 31, 2025."
+      ]
+    },
+    {
+      "kind": "statement",
+      "caption": "Maturities of lease liabilities were as follows (in millions)",
+      "caption_line": 40120,
+      "start_line": 40122,
+      "end_line": 40218,
+      "column_note": "(in millions)",
+      "columns": ["", "Operating Leases (As of December 31, 2025)", "Operating Leases (As of September 30, 2026, unaudited)", "Finance Leases(1) (As of September 30, 2026, unaudited)"],
+      "rows": [
+        {"label": "2026", "cells": ["$45", "$57", "$121"]},
+        {"label": "2027", "cells": ["35", "303", "438"]},
+        {"label": "2028", "cells": ["22", "462", "422"]},
+        {"label": "2029", "cells": ["4", "445", "406"]},
+        {"label": "2030", "cells": ["4", "466", "390"]},
+        {"label": "Thereafter", "cells": ["39", "2,491", "173"]},
+        {"label": "Total undiscounted lease payments", "cells": ["149", "4,224", "1,950"]},
+        {"label": "Less imputed interest", "cells": ["(32)", "(1,414)", "(276)"]},
+        {"label": "Present value of lease liabilities", "cells": ["$117", "$2,810", "$1,674"]}
+      ],
+      "footnotes": [
+        "(1)The Company did not have finance leases as of December 31, 2025."
+      ]
+    },
+    {
+      "kind": "statement",
+      "caption": "The following table reconciles cash, cash equivalents, and restricted cash reported on the Companys consolidated balance sheets to the total amount presented in the consolidated statements of cash flows (in millions)",
+      "caption_line": 40298,
+      "start_line": 40304,
+      "end_line": 40352,
+      "column_note": "(in millions)",
+      "columns": ["", "As of December 31, 2024", "As of December 31, 2025", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Cash and cash equivalents", "cells": ["$3,141", "$17,388", "$95,562"]},
+        {"label": "Restricted cash included in prepaid expenses and other current assets", "cells": ["[BLANK]", "[BLANK]", "50"]},
+        {"label": "Restricted cash(1)", "cells": ["13", "13", "2,540"]},
+        {"label": "Cash, cash equivalents, and restricted cash at end of period", "cells": ["$3,154", "$17,401", "$98,152"]}
+      ],
+      "footnotes": [
+        "(1)The Company may be required to restrict up to an additional $10.0 billion for future amounts due, under certain arrangements. As of September30, 2026, no such requirements were in effect."
+      ]
+    },
+    {
+      "kind": "statement",
+      "caption": "Prepaid expenses and other current assets consisted of the following (in millions)",
+      "caption_line": 40356,
+      "start_line": 40358,
+      "end_line": 40394,
+      "column_note": "(in millions)",
+      "columns": ["", "As of December 31, 2024", "As of December 31, 2025", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Prepaid expenses", "cells": ["$2,073", "$2,537", "$790"]},
+        {"label": "Other", "cells": ["3", "23", "493"]},
+        {"label": "Total", "cells": ["$2,076", "$2,560", "$1,283"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Other assets, noncurrent consisted of the following (in millions)",
+      "caption_line": 40408,
+      "start_line": 40410,
+      "end_line": 40446,
+      "column_note": "(in millions)",
+      "columns": ["", "As of December 31, 2024", "As of December 31, 2025", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Prepaid expenses", "cells": ["$2,364", "$104", "$684"]},
+        {"label": "Other", "cells": ["9", "372", "3,581"]},
+        {"label": "Total", "cells": ["$2,373", "$476", "$4,265"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Accounts payable, accrued expenses, and other current liabilities consisted of the following (in millions)",
+      "caption_line": 40450,
+      "start_line": 40452,
+      "end_line": 40510,
+      "column_note": "(in millions)",
+      "columns": ["", "As of December 31, 2024", "As of December 31, 2025", "As of September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Cloud service provider payables", "cells": ["$302", "$947", "$4,231"]},
+        {"label": "Accrued legal expenses", "cells": ["2", "775", "552"]},
+        {"label": "Accrued taxes", "cells": ["14", "82", "907"]},
+        {"label": "Donation matching program liability", "cells": ["[BLANK]", "541", "1,960"]},
+        {"label": "Other", "cells": ["15", "166", "1,776"]},
+        {"label": "Total", "cells": ["$333", "$2,511", "$9,426"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "Other income (expense), net consisted of the following (in millions)",
+      "caption_line": 40520,
+      "start_line": 40522,
+      "end_line": 40594,
+      "column_note": "(in millions)",
+      "columns": ["", "Year Ended December 31, 2023", "Year Ended December 31, 2024", "Year Ended December 31, 2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Recognition and change in fair value of partner financing arrangements(1)", "cells": ["$", "$", "$", "$", "$(11,008)"]},
+        {"label": "Change in fair value of holdback liability", "cells": ["[BLANK]", "[BLANK]", "(3)", "[BLANK]", "(52)"]},
+        {"label": "Change in fair value of warrant rights", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "783"]},
+        {"label": "Other", "cells": ["(2)", "[BLANK]", "(5)", "(3)", "(120)"]},
+        {"label": "Total", "cells": ["$(2)", "$", "$(8)", "$(3)", "$(10,397)"]}
+      ],
+      "footnotes": [
+        "(1)Refer to Note 4 for further information."
+      ]
+    },
+    {
+      "kind": "statement",
+      "caption": "The following table shows supplemental cash flow information (in millions)",
+      "caption_line": 40608,
+      "start_line": 40610,
+      "end_line": 40814,
+      "column_note": "(in millions)",
+      "columns": ["", "Year Ended December 31, 2023", "Year Ended December 31, 2024", "Year Ended December 31, 2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Supplemental disclosure of cash flow information", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Cash paid for income taxes, net of refunds", "cells": ["$", "$", "$8", "$7", "$46"]},
+        {"label": "Noncash investing and financing activities", "cells": ["[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]", "[BLANK]"]},
+        {"label": "Increase in property and equipment acquired but not yet paid", "cells": ["$", "$1", "$10", "$2", "$345"]},
+        {"label": "Conversion of convertible notes into Series E-2, Series E-3, Series E-4, Series E-5 and Series F-2 non-voting redeemable convertible preferred stock", "cells": ["$", "$", "$10,347", "$10,347", "$"]},
+        {"label": "Conversion of convertible notes into Series G-3 and Series G-4 redeemable convertible preferred stock", "cells": ["$", "$", "$", "$", "$5,499"]},
+        {"label": "Conversion of partner financing arrangements into Series G-2 redeemable convertible preferred stock", "cells": ["$", "$", "$", "$", "$11,810"]},
+        {"label": "Conversion of SAFE notes into Series C-1, Series D-1, and Series D-2 redeemable convertible preferred stock", "cells": ["$1", "$134", "$", "$", "$"]},
+        {"label": "Issuance of Class N common stock upon settlement of donation matching program", "cells": ["$", "$", "$", "$", "$667"]},
+        {"label": "Warrant rights", "cells": ["$", "$", "$345", "$", "$"]},
+        {"label": "Equity issued in connection with business acquisition", "cells": ["$", "$", "$136", "$", "$557"]},
+        {"label": "Right-of-use assets obtained in exchange for operating lease liabilities", "cells": ["$38", "$8", "$82", "$24", "$2,700"]},
+        {"label": "Right-of-use assets obtained in exchange for finance lease liabilities", "cells": ["$", "$", "$", "$", "$1,759"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "The following table presents the Companys operating expenses grouped by function (in millions)",
+      "caption_line": 40828,
+      "start_line": 40830,
+      "end_line": 40932,
+      "column_note": "(in millions)",
+      "columns": ["", "Year Ended December 31, 2023", "Year Ended December 31, 2024", "Year Ended December 31, 2025", "Nine Months Ended September 30, 2025", "Nine Months Ended September 30, 2026 (unaudited)"],
+      "rows": [
+        {"label": "Cost of revenue(1)", "cells": ["$26", "$752", "$2,773", "$1,796", "$4,812"]},
+        {"label": "Research and development(2)", "cells": ["422", "2,275", "6,338", "3,594", "19,240"]},
+        {"label": "Sales and marketing(3)", "cells": ["76", "163", "911", "530", "6,619"]},
+        {"label": "Bartz settlement", "cells": ["[BLANK]", "[BLANK]", "1,500", "1,500", "[BLANK]"]},
+        {"label": "General and administrative(4)", "cells": ["68", "176", "1,123", "349", "3,831"]},
+        {"label": "Total operating expenses", "cells": ["$592", "$3,366", "$12,645", "$7,769", "$34,502"]}
+      ],
+      "footnotes": [
+        "(1)Substantially all of cost of revenue consists of compute and infrastructure costs associated with customer-serving workloads. Additionally, cost of revenue includes certain personnel-related costs, and allocated overhead costs.",
+        "(2)Research and development expenses primarily consist of compute and infrastructure costs associated with model development, research, and internal usage workloads, personnel-related costs, software expenses, and allocated overhead costs.",
+        "(3)Sales and marketing expenses primarily consist of channel partner costs, marketing and advertising, personnel-related costs, compute and infrastructure costs associated with providing free access to the Companys intelligence service, and allocated overhead costs.",
+        "(4)General and administrative expenses primarily consist of the Companys donation matching obligation, personnel-related costs, facility costs, allocated overhead costs, legal fees, and non-income-based taxes."
+      ]
+    },
+    {
+      "kind": "statement",
+      "caption": "As of December31, 2024, the Companys redeemable convertible preferred stock (redeemable convertible preferred stock) consisted of the following (in millions, except share amounts which are reflected in thousands, and per share data)",
+      "caption_line": 41528,
+      "start_line": 41534,
+      "end_line": 41654,
+      "column_note": "(in millions, except share amounts which are reflected in thousands, and per share data)",
+      "columns": ["Series", "Shares Authorized", "Shares Issued and Outstanding", "Original Issue Price per Share", "Net Carrying Value", "Liquidation Preference"],
+      "rows": [
+        {"label": "Series A", "cells": ["48,574", "48,574", "$2.57", "$125", "$125"]},
+        {"label": "Series B", "cells": ["87,430", "87,430", "$11.23", "982", "982"]},
+        {"label": "Series C-1", "cells": ["26,397", "26,397", "$11.23", "296", "296"]},
+        {"label": "Series C-2", "cells": ["13,362", "13,362", "$11.23", "150", "150"]},
+        {"label": "Series D-1", "cells": ["66,690", "35,013", "$30.00", "1,042", "1,051"]},
+        {"label": "Series D-2", "cells": ["4,444", "4,444", "$27.00", "133", "120"]},
+        {"label": "Series D-3", "cells": ["114,098", "4,999", "$30.00", "146", "150"]},
+        {"label": "Total", "cells": ["360,995", "220,219", "[BLANK]", "$2,874", "$2,874"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "As of December31, 2025, the Companys redeemable convertible preferred stock consisted of the following (in millions, except share amounts which are reflected in thousands, and per share data)",
+      "caption_line": 41656,
+      "start_line": 41660,
+      "end_line": 41876,
+      "column_note": "(in millions, except share amounts which are reflected in thousands, and per share data)",
+      "columns": ["Series", "Shares Authorized", "Shares Issued and Outstanding", "Original Issue Price per Share", "Net Carrying Value", "Liquidation Preference"],
+      "rows": [
+        {"label": "Series A", "cells": ["48,574", "48,574", "$2.57", "$125", "$125"]},
+        {"label": "Series B", "cells": ["87,430", "87,430", "$11.23", "982", "982"]},
+        {"label": "Series C-1", "cells": ["26,397", "26,397", "$11.23", "296", "296"]},
+        {"label": "Series C-2", "cells": ["13,362", "13,362", "$11.23", "150", "150"]},
+        {"label": "Series D-1", "cells": ["35,013", "35,013", "$30.00", "1,042", "1,051"]},
+        {"label": "Series D-2", "cells": ["4,444", "4,444", "$27.00", "133", "120"]},
+        {"label": "Series D-3", "cells": ["4,999", "4,999", "$30.00", "146", "150"]},
+        {"label": "Series E-1", "cells": ["63,610", "63,610", "$56.09", "3,549", "3,568"]},
+        {"label": "Series E-2", "cells": ["95,282", "95,282", "$20.93", "4,728", "1,994"]},
+        {"label": "Series E-3", "cells": ["12,664", "12,664", "$56.09", "856", "710"]},
+        {"label": "Series E-4", "cells": ["15,343", "15,343", "$50.48", "986", "774"]},
+        {"label": "Series E-5", "cells": ["24,244", "24,244", "$53.28", "1,598", "1,292"]},
+        {"label": "Series F-1", "cells": ["92,220", "92,220", "$140.97", "12,999", "13,000"]},
+        {"label": "Series F-2", "cells": ["145,774", "20,740", "$20.93", "2,179", "434"]},
+        {"label": "Series F-3", "cells": ["51,839", "[BLANK]", "$50.48", "[BLANK]", "[BLANK]"]},
+        {"label": "Series F-4", "cells": ["7,094", "[BLANK]", "$140.97", "[BLANK]", "[BLANK]"]},
+        {"label": "Total", "cells": ["728,289", "544,322", "[BLANK]", "$29,769", "$24,646"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "statement",
+      "caption": "As of September 30, 2026 (unaudited), the Companys redeemable convertible preferred stock consisted of the following (in millions, except share amounts which are reflected in thousands, and per share data)",
+      "caption_line": 41888,
+      "start_line": 41892,
+      "end_line": 42182,
+      "column_note": "(in millions, except share amounts which are reflected in thousands, and per share data)",
+      "columns": ["Series", "Shares Authorized", "Shares Issued and Outstanding", "Original Issue Price per Share", "Net Carrying Value", "Liquidation Preference"],
+      "rows": [
+        {"label": "Series A", "cells": ["48,574", "48,574", "$2.57", "$125", "$125"]},
+        {"label": "Series B", "cells": ["87,430", "87,430", "$11.23", "982", "982"]},
+        {"label": "Series C-1", "cells": ["26,397", "26,397", "$11.23", "296", "296"]},
+        {"label": "Series C-2", "cells": ["13,362", "13,362", "$11.23", "150", "150"]},
+        {"label": "Series D-1", "cells": ["35,013", "35,013", "$30.00", "1,042", "1,051"]},
+        {"label": "Series D-2", "cells": ["4,444", "4,444", "$27.00", "133", "120"]},
+        {"label": "Series D-3", "cells": ["4,999", "4,999", "$30.00", "146", "150"]},
+        {"label": "Series E-1", "cells": ["63,610", "63,610", "$56.09", "3,549", "3,568"]},
+        {"label": "Series E-2", "cells": ["95,282", "95,282", "$20.93", "4,728", "1,994"]},
+        {"label": "Series E-3", "cells": ["12,664", "12,664", "$56.09", "856", "710"]},
+        {"label": "Series E-4", "cells": ["15,343", "15,343", "$50.48", "986", "774"]},
+        {"label": "Series E-5", "cells": ["24,244", "24,244", "$53.28", "1,598", "1,292"]},
+        {"label": "Series F-1", "cells": ["92,220", "92,220", "$140.97", "12,999", "13,000"]},
+        {"label": "Series F-2", "cells": ["20,740", "20,740", "$20.93", "2,179", "434"]},
+        {"label": "Series G-1", "cells": ["90,510", "90,510", "$259.14", "23,454", "23,455"]},
+        {"label": "Series G-2", "cells": ["83,929", "83,929", "$259.14", "33,558", "21,749"]},
+        {"label": "Series G-3", "cells": ["20,563", "20,563", "$20.93", "4,571", "430"]},
+        {"label": "Series G-4", "cells": ["3,322", "3,322", "$233.22", "928", "775"]},
+        {"label": "Series H-1", "cells": ["78,942", "77,638", "$589.01", "45,728", "45,729"]},
+        {"label": "Series H-2", "cells": ["34,808", "33,110", "$589.01", "19,502", "19,502"]},
+        {"label": "Series H-3", "cells": ["104,472", "[BLANK]", "$20.93", "[BLANK]", "[BLANK]"]},
+        {"label": "Series H-4", "cells": ["79,573", "[BLANK]", "$50.48", "[BLANK]", "[BLANK]"]},
+        {"label": "Total", "cells": ["1,040,441", "853,394", "[BLANK]", "$157,510", "$136,286"]}
+      ],
+      "footnotes": []
+    }
+  ]
+}

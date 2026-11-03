@@ -1,0 +1,2939 @@
+PROSPECTUS SUMMARY
+
+4
+
+RISK FACTORS
+
+27
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+121
+
+INDUSTRY, MARKET, AND OTHER DATA
+
+124
+
+USE OF PROCEEDS
+
+125
+
+DIVIDEND POLICY
+
+126
+
+CAPITALIZATION
+
+127
+
+DILUTION
+
+130
+
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+OPERATIONS
+
+133
+
+BUSINESS
+
+182
+
+OUR GOVERNANCE STRUCTURE AND ITS GOALS
+
+246
+
+MANAGEMENT
+
+258
+
+EXECUTIVE COMPENSATION
+
+268
+
+CERTAIN RELATIONSHIPS AND RELATED PERSON TRANSACTIONS
+
+286
+
+PRINCIPAL AND SELLING STOCKHOLDERS
+
+292
+
+DESCRIPTION OF CAPITAL STOCK
+
+296
+
+SHARES ELIGIBLE FOR FUTURE SALE
+
+311
+
+MATERIAL U.S. FEDERAL INCOME TAX CONSEQUENCES TO NON-U.S. HOLDERS OF OUR CLASS A
+
+COMMON STOCK
+
+316
+
+UNDERWRITING
+
+321
+
+LEGAL MATTERS
+
+338
+
+CHANGE IN INDEPENDENT ACCOUNTANT
+
+339
+
+EXPERTS
+
+339
+
+WHERE YOU CAN FIND ADDITIONAL INFORMATION
+
+339
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+F-1
+
+Through and including (the 25th day after the date of this prospectus), all dealers effecting
+
+transactions in these securities, whether or not participating in this offering, may be required
+
+to deliver a prospectus. This is in addition to a dealers obligation to deliver a prospectus when
+
+acting as an underwriter and with respect to an unsold allotment or subscription.
+
+Neither we nor the selling stockholders, nor any of the underwriters, have authorized anyone to provide any
+
+information or to make any representations other than those contained in this prospectus or in any free writing
+
+prospectuses prepared by or on behalf of us to which we may have referred you in connection with this offering.
+
+Neither we nor the selling stockholders, nor any of the underwriters, take responsibility for, or can provide any
+
+assurance as to the reliability of, any other information that others may give you. This prospectus is an offer to
+
+sell only the shares offered hereby, but only under circumstances and in jurisdictions where it is lawful to do so.
+
+The information contained in this prospectus is current only as of its date, regardless of the time of delivery of
+
+this prospectus or of any sale of our Class A common stock. Our business, financial condition, results of
+
+operations, and prospects may have changed since such date.
+
+For investors outside the United States This offering includes public offerings in Australia, Canada, certain
+
+member states of the European Economic Area, Japan, Switzerland, and the United Kingdom. We do not
+
+currently intend to list our Class A common stock on any exchange in such jurisdictions. Neither we nor the
+
+selling stockholders, nor any of the underwriters, have done anything that would permit this offering or
+
+possession or distribution of this prospectus in any jurisdiction where action for that purpose is required, other
+
+than in the United States and the jurisdictions listed above. Persons outside the United States who come into
+
+possession of this prospectus must inform themselves about, and observe any restrictions relating to, the
+
+offering of the shares of our Class A common stock and the distribution of this prospectus outside the United
+
+States.
+
+1
+
+Table of Contents
+
+Select Defined Terms
+
+The following are abbreviations, acronyms, and definitions of certain terms used in this prospectus
+
+agent loop refers to the iterative cycle in which an AI agent receives a task, takes an action, such as planning
+
+a project, running code, or calling a tool, observes the result, and decides its next step, with this cycle repeating
+
+until the task is complete. The agent loop is the core execution pattern underlying agentic AI behavior.
+
+agentic AI refers to AI systems that, with varying degrees of autonomy, can plan, determine, and sequence
+
+actions and execute them to accomplish defined objectives, including through interaction with external tools,
+
+services, datasets, and environments on behalf of a user.
+
+AI refers to artificial intelligence, a machine-based system that learns or is trained from data and, for explicit
+
+or implicit objectives and with varying levels of autonomy, processes that data to infer patterns, generate
+
+outputssuch as predictions, content, recommendations, and decisionsand act upon physical or virtual
+
+environments.
+
+AI accelerators refer to processors purpose-built or adapted for the large-scale computations required to
+
+pre-train, post-train, refine, and run AI models. These processors are significantly more efficient and faster
+
+than general-purpose processors for AI workloads.
+
+API refers to application programming interface, a standardized interface that allows external software to
+
+access a systems capabilities programmatically. AI model providers may offer APIs that allow software
+
+developers to send inputs to an AI model and receive outputs, enabling integration into the software developers
+
+products and workflows.
+
+Applied AI refers to a discipline and organizational function focused on embedding AI capabilities directly
+
+into production business environments to address specific customer requirements. Applied AI teams, which
+
+include forward-deployed engineers, work with enterprises to design and deploy custom solutions, specialized
+
+workflows, and domain-specific implementations tailored to a customers own systems and processes.
+
+closing the loop refers to a development cycle in which successive versions of an AI model assist in building
+
+the next, with the goal of compounding capability gains over time.
+
+compute refers to the computational processing resources used to train and run AI models, including,
+
+without limitation, specialized AI accelerators, memory, networking, storage, and power systems that are
+
+deployed in data centers or other physical computing environments.
+
+compute multipliers refer to algorithmic and methodological improvements in training and inference that
+
+increase the effective output of a given amount of compute.
+
+computer use refers to an AI capability that allows a model to observe and interact with a graphical user
+
+interface, such as clicking, typing, and navigating applications, similar to how a human operator would.
+
+Constitutional AI refers to an approach to training AI models using a set of written principles, which we
+
+refer to as Claudes constitution, currently organized around four priorities being broadly safe, broadly ethical,
+
+compliant with our guidelines, and genuinely helpful. Under Constitutional AI, our models evaluate, critique,
+
+and revise their own responses against these principles, enabling us to define and control model behavior
+
+through auditable principles, rather than relying solely on fixed rule-based instructions or human reviewers.
+
+context window refers to the maximum amount of text, code, or other content, measured in tokens, that an
+
+AI model can process in a given request, encompassing instructions, prior conversation history, user input, and
+
+the models output.
+
+CSP refers to a cloud service provider, a technology company that owns and operates large-scale cloud
+
+computing infrastructure and provides on-demand compute, storage, and networking. CSPs may also serve as
+
+distribution channels through which AI products and services are made available to customers. The largest
+
+2
+
+Table of Contents
+
+CSPs, sometimes referred to as hyperscalers, operate at global scale with significant infrastructure and market
+
+concentration.
+
+customer refers to a prosumer or an organization that uses our models, platform, or applications.
+
+customers with $100,000 or more of revenue on a TTM basis, customers with $1 million or
+
+more of revenue on a TTM basis, and customers with $10 million or more of revenue on a TTM
+
+basis each refer to customers contributing revenue equal to or greater than the applicable dollar amount
+
+during the trailing twelve-month (TTM) period ending on the measurement date. For purposes of this metric,
+
+we define a customer as a distinct organization, identified by aggregating the accounts that we determine
+
+belong to the same organization based on internal records and available data. We do not separately define or
+
+internally track a category of enterprise customers, and our customers are not segmented or measured
+
+internally by reference to whether a given customer is an enterprise. Because spending $100,000 or more on
+
+our products is generally characteristic of organizational rather than individual usage, we use the number of
+
+and revenue from customers with $100,000 or more of revenue on a TTM basis as our measure of enterprise
+
+adoption and engagement with Claude throughout this prospectus, including in references to enterprise
+
+customers and enterprise adoption.
+
+frontier AI refers to AI systems at the current leading edge of capability and safety, performing at or near
+
+the highest levels of any existing system across a broad range of tasks.
+
+hallucinations refer to outputs in which an AI model generates factually incorrect or fabricated information
+
+with apparent confidence.
+
+inference refers to the process by which a trained AI model processes an input and generates an output.
+
+Inference occurs each time a user or agent interacts with an AI system.
+
+interleaved thinking refers to a capability whereby an AI model interposes discrete reasoning steps
+
+between successive tool calls within a single response, rather than confining its reasoning to a single planning
+
+phase at the outset.
+
+interpretability refers to research into how and why AI models produce specific outputs, with the goal of
+
+making model behavior more transparent and verifiable, especially in high-stakes applications.
+
+knowledge work refers to complex cognitive work and related professional activities, including obtaining,
+
+producing, analyzing, and communicating information through tasks such as coding, drafting analyses,
+
+synthesizing research, building financial models, and managing and automating documents and workflows.
+
+LLMs refer to large language models, or AI models trained primarily on large datasets to understand and
+
+generate natural language and computer code.
+
+mechanistic interpretability refers to a subfield of interpretability research focused on reverse-
+
+engineering the internal computations of neural networks. Rather than inferring model behavior from inputs
+
+and outputs alone, mechanistic interpretability seeks to identify the specific features and circuits within a model
+
+that give rise to its behavior with the goal of making model reasoning auditable at the mechanism level and
+
+detecting failure modes, including deceptive or unsafe behavior, that may not surface in standard testing.
+
+model weights refer to the numerical parameters encoding a trained AI models behavior, which are the
+
+primary intellectual asset of a frontier AI developer, representing the accumulated investment in compute, data,
+
+and research.
+
+multi-agent orchestration refers to an architecture in which multiple AI agents collaborate on a shared
+
+task, with one coordinating while others execute subtasks in parallel, enabling more complex, long-horizon
+
+work than a single agent can complete alone.
+
+Net Revenue Retention reflects customer expansion, contraction, and churn as of a measurement date.
+
+We calculate Net Revenue Retention by dividing the Qualified Customers Current Period revenue by their Base
+
+Period revenue. A Qualified Customer is a customer with at least $1 of revenue during the Base Period,
+
+excluding subscribers to our Claude Pro, Max, and Ultra plans, whose fixed-price subscriptions do not reflect
+
+3
+
+Table of Contents
+
+the expansion and contraction behavior this metric is intended to capture. The Base Period is the three months
+
+ending a year prior to the measurement date. The Current Period is the three months ending as of the
+
+measurement date.
+
+open-weight refers to an AI model whose trained model weights are publicly released, allowing third parties
+
+to download, run, and modify the model, subject to the terms of the models license, without necessarily
+
+providing access to the underlying training data or code.
+
+pay-for-intelligence or consumption refers to our revenue model under which customers pay for their
+
+usage of our intelligence service, which is metered in tokens and priced according to the model selected.
+
+persistent, in the context of AI applications, refers to denoting data, state, or context that is continuously
+
+retained beyond the boundary of a single operation, session, or interaction, remaining accessible for reuse
+
+across subsequent steps, sessions, or workflows without requiring reinitialization.
+
+post-training refers to the collection of techniques applied to a pre-trained model to refine its behavior,
+
+including reinforcement learning, supervised refinement methods, and other alignment methods. Post-training
+
+is the stage in which much of the work to make a frontier model helpful, accurate, and safe is performed,
+
+including the application of safety and alignment techniques.
+
+pre-training refers to the initial stage of training an AI model, in which the model learns general patterns
+
+and representations from large-scale datasets of text, code, and other data, typically by predicting the next
+
+token in a sequence. The output of pre-training is a base model with broad capabilities that has not yet been
+
+adapted for any specific deployment context.
+
+primitives refer to the foundational, modular building blocks of a software system from which more
+
+complex applications and workflows are constructed.
+
+prompt injection refers to an adversarial technique in which malicious instructions are embedded in
+
+content an AI model is asked to process, such as websites, documents, or tool outputs, with the aim of
+
+overriding or manipulating the models intended behavior, typically without the users knowledge.
+
+prosumers refer to individual users who subscribe to AI tools to perform knowledge work.
+
+reinforcement learning refers to a machine learning approach in which a model learns to perform a task
+
+by taking actions, receiving feedback signals called rewards, and adjusting its behavior to maximize the rewards
+
+it accrues over time. In contemporary AI development, reinforcement learning is widely used to refine model
+
+behavior after pre-training, including to improve helpfulness, accuracy, and adherence to safety guidelines.
+
+RLHF refers to reinforcement learning from human feedback, a specific form of reinforcement learning in
+
+which human evaluators rate the models responses, and those ratings are used as the reward signal to guide
+
+training.
+
+Run-Rate Revenue is an operating metric that refers to the estimated annualized value of our revenue-
+
+generating activity as of a measurement date, calculated as the sum of (i) our consumption-based fees during
+
+the trailing 28-day period ended on the measurement date, multiplied by 13, and (ii) our aggregate monthly
+
+subscription fees as of the measurement date, multiplied by 12. For purposes of calculating Run-Rate Revenue,
+
+consumption-based fees and subscription-based fees are derived from customer usage and active subscriptions.
+
+SIs refer to systems integrators, or third-party technology and professional services firms that design, build,
+
+and deploy integrated solutions for customers by combining products and services from multiple technology
+
+vendors into unified systems tailored to customer needs.
+
+tokens refer to numeric units into which an AI model converts the data it processes, including text, images,
+
+audio, and video, the number of which varies by the model and tokenizer applied. Tokens are the smallest
+
+individual units of data a language model processes and can correspond to words, subwords, characters, or
+
+bytes. A tokenizer is the component of a model that converts customer inputs into the sequence of tokens the
+
+model processes and then converts the processed tokens into the outputs provided to customers.
+
+5
+
+Table of Contents
+
+Prospectus Summary
+
+This summary highlights selected information that is presented in greater detail elsewhere in this prospectus.
+
+This summary does not contain all of the information you should consider before investing in our Class A
+
+common stock. You should read this entire prospectus carefully, including the sections titled Risk Factors,
+
+Special Note Regarding Forward-looking Statements, Managements Discussion and Analysis of Financial
+
+Condition and Results of Operations, Business, and Our Governance Structure and Its Goals, as well as
+
+our consolidated financial statements and the related notes included elsewhere in this prospectus, before
+
+making an investment decision. Unless the context otherwise requires, the terms Anthropic, the company,
+
+we, us, and our in this prospectus refer to Anthropic, PBC and its consolidated subsidiaries, and
+
+references to our common stock refer to our Class A common stock, Class N common stock, and Class F
+
+common stock (and, where the context requires, our Class T common stock and our Class E common stock).
+
+Overview
+
+For the first time in history, intelligence is something humans can build. The cognitive capability to reason,
+
+analyze, synthesize, decide, and create is producible at scale and accessible on demand. We believe this
+
+abundance of AI will rapidly transform every sector of the global economy in ways greater than the impact of
+
+industrialization, electricity, semiconductors, and the internet. AI that truly delivers on its potentialwith the
+
+risks well managedcould significantly accelerate global growth and dramatically improve quality of life for
+
+people around the world.
+
+Anthropic was founded in 2021 by a team of researchers responsible for many of the breakthroughs that define
+
+AI. We are first and foremost a research labour mission is the responsible development and maintenance of
+
+advanced AI for the long-term benefit of humanity. This mission directs our focusalong with our talent and
+
+culture, our frontier and safety research, our approach to compute, and our enterprise strategy, it is one of the
+
+core advantages that set us apart. These advantages enable us to continuously advance frontier AI and shape
+
+the standards for its safe and responsible development. Our frontier AI, Claude, is delivered to customers
+
+through our models, platform, and applications. Claude has experienced the fastest enterprise adoption of any
+
+technology in history, as demonstrated by revenue growing from $0 at commercial launch in the first quarter of
+
+2023 to $17.0 billion for the three months ended September 30, 2026. This rapid and growing adoption
+
+generates two self-reinforcing dynamicsan improvement loop that advances Claude and an investment loop
+
+that helps fund our continued research in frontier AI.
+
+Our Core Advantages
+
+Mission Focus. All of our efforts are guided by a singular focus on our mission. This focus enables us to
+
+concentrate talent, research, and compute investment on the highest-value work for humanity and to avoid
+
+conflicting priorities. Achieving our mission means the world gains the enormous benefits of frontier AI while
+
+mitigating the most significant risks, and we believe this requires safety and capability to advance together.
+
+Talent Culture. Our mission and focus enable us to attract and retain world-class talent, including
+
+researchers and engineers who want their work to shape a better future. We also have a culture that promotes a
+
+low-ego, truth-seeking environment, where frontier AI capability and safety are mutually reinforcing. We
+
+believe our culture has driven our talent density as we have scaled.
+
+Frontier Safety Research. We believe that sustained, focused research at the frontier of intelligence is
+
+required to build the most capable and safest AI systems. Our frontier capabilities and safety research are
+
+deeply integrated and directly shape model design, training, and deployment, helping us produce systems that
+
+are more reliable, steerable, and well suited for real-world deployment, particularly in demanding enterprise
+
+environments. We translate our research leadership into innovation velocity and have consistently released
+
+better models, platform capabilities, and applications. Each version of a Claude model assists in building the
+
+next, helping to compress development timelines and produce compounding improvements in the speed at
+
+which we innovate. We refer to this recursive dynamic as closing the loop, and we believe it is one of the most
+
+significant structural advantages in frontier AI.
+
+6
+
+Table of Contents
+
+Our Approach to Compute. We manage compute as a single, fungible pool from multiple strategic partners, and
+
+we dynamically direct available compute between workloads based on where the marginal unit is expected to be
+
+most productive at any given time. We believe that this approach to compute enables us to deliver superior
+
+models, serve more customers, and achieve greater productivity from our compute investment. This compute
+
+efficiency creates the foundation for us to advance the frontier of AI capabilities through research and model
+
+development, meet growing demand from customers, and provide for internal usage of Claude. We have
+
+achieved this through our research breakthroughs and our multi-chip compute architecture across AWS
+
+Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs, enabling us to orchestrate workloads to optimize for
+
+price and performance. To support our research, model development, customer demand, and internal usage of
+
+Claude, we continue to invest at scale. As of and subsequent to September 30, 2026, we have entered into
+
+purchase commitments and lease agreements, including short-term commitments, as well as leases not yet
+
+commenced, with an aggregate committed spend of approximately $895.4 billion, substantially all of which is
+
+related to compute and infrastructure. These commitments include approximately $447.5 billion expected to be
+
+incurred before December 31, 2030, and substantially all of the remainder is expected to be incurred between
+
+2031 and 2045. Approximately $69.8 billion of these commitments are due in the 12 months following
+
+September 30, 2026. See the section titled Managements Discussion and Analysis of Financial Condition and
+
+Results of OperationsLiquidity and Capital ResourcesContractual Obligations for more information.
+
+Enterprise Strategy. Our enterprise strategy is built on the belief that frontier AI is most valuable in real-world
+
+settings, as deployment across enterprises is where economic impact is greatest and where the improvement
+
+loop from customer feedback is richest. Accordingly, we have organized our research priorities, our product
+
+roadmap, and our go-to-market and Applied AI teams around enterprise use cases, which range from routine
+
+knowledge work to the most complex problems. The customer feedback we gather directs our research focus
+
+and makes Claude more capable over time. This broadens where Claude can be deployed and further expands
+
+enterprise adoption, which helps ensure that the benefits of our AI reach people and organizations at scale.
+
+AI is Transforming Intelligence
+
+We believe that Powerful AI, a highly capable and impactful form of frontier AI characterized by the following
+
+key attributes, will become widely available within a few years
+
+cognitive capabilities matching or exceeding those of top human experts across most professional and
+
+scientific disciplines
+
+the ability to navigate all interfaces available to a human working virtually, including text, audio, video,
+
+and direct computer control
+
+the ability to reason through complex tasks autonomously over extended periodslasting hours, days,
+
+or weeksand seek clarification and feedback when needed
+
+the ability to coordinate across multiple instances and collaborate with both humans and other AI
+
+systems and
+
+the ability to interface with the physical world by controlling laboratory equipment, robotic systems,
+
+and other machines through digital connections.
+
+If Powerful AI is directed at solving humanitys hardest problems and the risks are managed responsibly, the
+
+potential is extraordinary. The possibilities include compressing decades of scientific progress into years
+
+accelerating drug discovery, disease detection, and the delivery of personalized therapy providing individually
+
+tailored education and expert financial and legal advice advancing power grids and battery design for greater
+
+efficiency and reliability and extending to the developing world capabilities that took wealthy nations
+
+generations to build.
+
+A Near-Term Opportunity to Transform Cognitive Work
+
+Frontier AI is transforming cognitive workthe application of knowledge, reasoning, and judgment to produce
+
+economic value. We believe it will make humans far more capable and expand the worlds overall capacity for
+
+that work, including accelerating scientific discovery and helping businesses grow. Knowledge workers are the
+
+leading edge of this opportunity. As frontier AI advances, more capable models can unlock entirely new use
+
+1 See the section titled Industry, Market, and Other Data for a description of how we calculate annual economic value attributable
+
+to knowledge workers globally.
+
+2 IDC, The Economic Impact of AI 2026 Edition, doc # US54452226, April 2026. Reflects cumulative economic impact as the sum
+
+of the annual impact estimated for each year from 2025 through 2031. Includes the annual value created across AI solutions
+
+and services, investments in the AI infrastructure supply chain, and enhancements in enterprise productivity and efficiency
+
+unlocked by AI.
+
+3 IQVIA Institute for Human Data Science, Global Medicine Use Trends 2026, February 2026.
+
+7
+
+Table of Contents
+
+cases while also efficiently serving a wide range of cognitive work at scale across the capability-cost-speed
+
+curve. We believe the work that knowledge workers perform represented more than $40 trillion in economic
+
+value globally in 2025,1 and with frontier AIs potential to make them meaningfully more productive, our near-
+
+term opportunity is to expand this value and accelerate economic growth. While it is still early to forecast
+
+frontier AIs full impact across the economy, International Data Corporation (IDC) estimates that investment
+
+in AI solutions and services will yield a cumulative global economic impact of $22.5 trillion by 2031.2 We
+
+believe the impact could be even greater.
+
+Frontier AI May Reshape Entire Sectors and Accelerate Novel Discoveries
+
+We believe frontier AI represents a larger opportunity than any prior technology cycle, and Claude is already
+
+demonstrating this potential. Claude can now execute complex projects autonomously and turn open-ended
+
+tasks into finished, high-quality deliverables. These capabilities enable it to transform the largest sectors of the
+
+economy, driving meaningful gains in productivity and output. Frontier AIs capabilities may extend beyond
+
+current markets to open entirely new ones, reaching domains such as robotics, advanced manufacturing, and
+
+logistics, and accelerating progress in scientific research, including drug discovery and materials science. For
+
+example, in the life sciences sector, where annual global pharmaceutical spend is expected to exceed $2 trillion
+
+in 2026,3 Claude is used in drug discovery and development by our customers, our biotechnology partners, and
+
+our own researchers. We are also extending Claude into robotics, where our Model Hardware Standard enables
+
+AI agents to operate lab and manufacturing equipment such as microscopes, liquid handlers, and off-the-shelf
+
+robotic arms. Ultimately, we believe frontier AI will help drive global economic growth. As frontier AI makes
+
+workers and organizations more productive, becomes embedded in the products and services they deliver, and
+
+unlocks new business models, it creates economic output that did not previously exist. We believe our
+
+opportunity is to capture a share not only of todays economic activity but also of that newly created output as
+
+the global economy expands.
+
+The Importance of Safety and Ethical Behavior
+
+While the potential benefits of AI are extraordinary, its rapid advancement will impact the economy and society
+
+in ways that could create significant disruption, particularly if the technology is not developed and deployed
+
+responsibly. For example, bad actors have already conducted high-profile cyberattacks using AIs capabilities to
+
+discover vulnerabilities, generate malware, and evade detection tools other risks associated with misuse,
+
+including in the domain of biology, could result in even greater harm. AI deployed at scale also has the potential
+
+to concentrate power and wealth both within and between countries in ways that could erode trust, harm
+
+society, and destabilize the geopolitical order. Misaligned AI systems could corrupt institutional decision-
+
+making or cause large-scale harm through autonomous actions that are not visible or understandable to their
+
+users and operators. We believe that frontier AI companies must invest in safety and alignment to help ensure
+
+the responsible diffusion of this technology. We also believe that safety, alignment, and ethical behavior
+
+resonate particularly strongly with enterprises, where rigorous safeguards, predictable model behavior, and
+
+demonstrable accountability have become decisive criteria in selecting an AI partner for mission-critical
+
+workloads.
+
+Claude as a Virtual Collaborator
+
+We believe we have reached an inflection point where AI systems can function as genuine collaborators in
+
+professional work. They quickly complete substantive tasks that might otherwise occupy a skilled professional
+
+for several hours, a full day, or longer. AI systems are also becoming increasingly capable of performing tasks
+
+that were previously too difficult or costly to complete or surfacing original insights and analyses. We refer to
+
+these AI systems that work alongside humans to perform complex, multi-step work at professional levels as
+
+Virtual Collaborators. Virtual Collaborators carry the access rights, system connections, and context that their
+
+organizations grant them, which allows them to function more accurately and reliably. They can navigate and
+
+4 IDC, Worldwide Developer Population Growth Forecast, 20252029, doc # US53789825, September 2025.
+
+8
+
+Table of Contents
+
+use internal tools and execute workflows that span multiple steps that require sustained reasoning. Virtual
+
+Collaborators are AI designed to be embedded where work gets done, and our aim is to continue extending
+
+them to knowledge workers globally, a population that is estimated to exceed one billion in 2028.4
+
+Claude Code. The clearest manifestation of Virtual Collaborators today is Claude Code, our coding agent and
+
+the product we believe has most concretely defined what autonomous AI work looks like. Claude Code shifted
+
+the markets understanding of what an AI system could do in collaboration with software developers the model
+
+suggests the next line of code and goes further by planning, writing, testing, and debugginga process that
+
+results in production-grade code. Within months of its release, autonomous coding became the reference point
+
+for measuring the progress of frontier AI. For enterprise AI use cases, we believe the launch of Claude Code was
+
+comparable in its impact to the introduction of the first widely adopted conversational AI assistants. What
+
+makes Claude Code a Virtual Collaborator is its sustained reasoning, a harness that translates intent into
+
+actions, an execution environment that maintains a persistent state whether on a developers machine or in a
+
+sandboxed cloud environment, integration with existing tools and systems, and a user-friendly interface. Its
+
+uses are highly varied and often surprising for example, NASA engineers used Claude Code to plan and write
+
+navigation commands for the Mars Perseverance rover, resulting in the first AI-planned drive on Mars.
+
+Software developers are powerful advocates for Claudethey understand how systems work, have credibility
+
+evaluating technical tools, and often serve as internal champions for adopting new technologies. Winning their
+
+trust creates a foundation for broader diffusion of Virtual Collaborators across enterprise workforces. We are
+
+already seeing this pattern play out with non-technical teams increasingly adopting Claude Code and Claude
+
+Cowork to manage their own workflows.
+
+Claude Cowork. All digital work is ultimately an expression of code, and Claudes mastery of it powers Virtual
+
+Collaborators capable of handling complex work far beyond software development. Claude Cowork extends the
+
+agentic architecture of Claude Code to knowledge workers broadly by translating a users intent into completed
+
+work, autonomously reading files, navigating applications, and executing multi-step workflows on a users
+
+desktop while the underlying code is abstracted away. By extending beyond Claude Code with applications
+
+purpose-built for specific professions and industry verticals, we accelerate Claudes diffusion into new
+
+categories of knowledge work and deepen our presence across the enterprise. As of September 30, 2026,
+
+adoption of Claude Cowork, which we made available as a research preview in January 2026, outpaced the
+
+adoption Claude Code achieved at the equivalent point following its research preview release in February 2025.
+
+In September 2026, we began merging Claude Cowork and Claude.ai, bringing agentic and conversational work
+
+into a unified application. Users can now move from a simple question to complex, multi-step tasks in the same
+
+conversation.
+
+Extending Virtual Collaborators. We believe the trajectory for Virtual Collaborators is clear and accelerating.
+
+Each generation of Claude models has expanded along multiple dimensions the depth and rigor of their
+
+reasoning, the duration and autonomy of the work they can sustain, the complexity of tasks they can complete,
+
+and the volume of useful output they can produce. Capability evaluations and benchmarking have shown
+
+substantial improvements across Claude model versions in the duration and complexity of tasks that can be
+
+completed reliably, with more recent model versions demonstrating particularly significant advances.
+
+We are building towards a world where Claude can be given open-ended tasks lasting hours, days, or weeks,
+
+and then execute them autonomously with the judgment and initiative of a brilliant colleague. Ultimately,
+
+millions of Virtual Collaborators can run in parallel, each working independently on unrelated problems or
+
+collaborating seamlessly to achieve a shared objective. The result is something without historical precedent
+
+what we refer to as a country of geniuses in a data center, available to every organization and sector of the
+
+economy.
+
+Enterprise Adoption of Claude
+
+The speed and depth of our enterprise customer adoption are powerful evidence of Claudes position at the
+
+frontier of AI. Our customer base as of September 30, 2026 includes
+
+More than 11,900 customers with $100,000 or more of revenue on a TTM basis
+
+9
+
+Table of Contents
+
+More than 1,900 customers with $1 million or more of revenue on a TTM basis and
+
+Approximately 250 customers with $10 million or more of revenue on a TTM basis.
+
+We believe customers choose Claude for a wide variety of use cases, from routine knowledge work to their most
+
+important problems. They come to us for access to frontier AI across our platform and applications that deliver
+
+real-world outcomes. We see this conviction in customer behavior enterprises consistently utilize our latest
+
+and most capable models as soon as they are released, gravitating to the most advanced option for their highest-
+
+value work. Our customers see us as a long-term partner for the frontier capabilities we offer today, for the
+
+innovation they expect from us in the future, and for our ability to meet their needs across the capability-cost-
+
+speed curve.
+
+Beyond our models, the Claude Platform provides primitives that enable customers to accelerate time-to-value
+
+and leverage Claudes intelligence in a variety of use cases. These primitives are the same ones we use to build
+
+our own applications. Our applications, such as Claude Code and Claude Cowork, multiply the impact of
+
+employees. Over time, our applications have become more capable and are now frequently being used to
+
+conduct long-running autonomous work alongside employees. Improvements to our models, platform, and
+
+applications accrue to the benefit of our customers and drive continued adoption.
+
+Our commitment to our mission instills confidence in our customers to choose Claude as a trusted partner. Our
+
+investments in research on AI alignment, interpretability, cybersecurity, and enterprise-grade controls aim to
+
+deliver the predictability and dependability that organizations need in customer-facing and regulated contexts.
+
+This trust means that enterprises can expand the scope of the work that they delegate to Claude, as well as the
+
+systems into which Claude is integrated. Enterprises are aligning their strategies around Claude with the
+
+confidence that we are building frontier AI that serves their needs in the long term.
+
+Today, enterprises rely on Claude to reason, plan, and execute across complex workflows with a level of
+
+trustworthiness and judgment that we believe was not available from earlier generations of AI. Customers
+
+realize value from Claude in three primary ways more productive employees, faster processes, and embedded
+
+intelligence in their products. As Claudes capabilities grow, our customers benefit and often broaden their
+
+adoption of Claude in new workflows. This expanding role reflects a broader shift in how Claude is used inside
+
+the enterprise, from a tool that responds to discrete prompts to a Virtual Collaborator.
+
+We drive the diffusion of Claude primarily by making it accessible across multiple product surfaces. For
+
+example
+
+Claude Platform, our comprehensive agentic development environment, provides customers with
+
+direct access to the primitives to build, deploy, and scale their own applications that leverage Claudes
+
+capabilities within their own products and workflows.
+
+Claude Code, our coding agent, works alongside human software developers on end-to-end software
+
+development writing, planning, editing, testing, debugging, and committing code across production-
+
+scale codebases.
+
+Claude Cowork, our knowledge work agent, has computer use capability that enables it to work with
+
+professionals on end-to-end business tasks autonomously researching, drafting, analyzing,
+
+synthesizing, and executing other knowledge work.
+
+Much of the diffusion of Claude has been organic. We amplify this with our go-to-market and Applied AI teams,
+
+which extend our reach by meeting customers where they are through distribution partnerships that place
+
+Claude inside customers existing technology stacks. For example, Claude is accessible on all three major cloud
+
+platformsAmazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure (Azure). We
+
+have a joint go-to-market approach with these CSPs through which we establish direct contractual relationships
+
+with our customers while paying a fee to each CSP. This structure allows us to foster stronger commercial
+
+alignment with these CSPs, avoid channel conflict, set pricing, and realize the financial benefits of ongoing
+
+compute efficiency improvements. Ecosystem partnerships also expand our reach, allowing customers to adopt
+
+Claude through SIs, such as Accenture, Deloitte, KPMG, and PwC consultants and data platforms, such as
+
+Salesforce and Snowflake. We recently launched an AI services company, Ode with Anthropic, in partnership
+
+10
+
+Table of Contents
+
+with leading private equity firms to bring Claudes capabilities to mid-sized companies across sectors, building
+
+solutions on the Claude Platform and supporting customers over the long term.
+
+Strengths of Our Financial Model
+
+Building and scaling frontier AI is one of the most important and capital-intensive endeavors in history. Our
+
+financial model provides us with the following strengths that allow us to build and scale efficiently
+
+Rapid Revenue Growth. Our enterprise strategy is designed to drive durable customer adoption by
+
+embedding Claude directly into business-critical workflows and enabling the development of products
+
+built on Claude. We believe that enterprise customers achieve a compelling return on investment from
+
+Claude, as agentic workflows can drive both top-line growth and efficiency. This enables us to expand
+
+quickly with customers, as demonstrated by our Net Revenue Retention of approximately 900% as of
+
+September 30, 2026. Diffusion also accelerates as our models become more capable and efficient,
+
+allowing us to lower the cost per task for customers. For example, Opus 5.5 reduced customer costs per
+
+task by approximately 40% compared to Opus 5. Lower costs per task drive greater usage, which in
+
+turn drives broader diffusion of Claude. Our compute efficiency allows us to deliver these reductions
+
+while preserving our margins.
+
+Compute Efficiency. Our compute efficiency drives more intelligence from research and model
+
+development, and we believe this approach can support more customer and internal usage of Claude
+
+for the same amount of compute compared to other approaches. Our compute efficiency is
+
+demonstrated by revenue that grew 1,127% year over year for the three months ended September 30,
+
+2026, compared to compute and infrastructure expenses that grew 382% during the same period.
+
+Operating Efficiency. Our operating efficiency, derived from our high talent density, our efficient go-
+
+to-market, and how extensively our teams leverage Claude in their work, enables us to scale with a
+
+smaller team relative to other large enterprise technology companies. Our operating efficiency is
+
+demonstrated by TTM revenue per employee of over $6.6 million as of September 30, 2026, compared
+
+to $1.4 million as of September 30, 2025.
+
+The demonstrated growth, scale, and efficiency of our financial model help us to continue making significant
+
+long-term investments to build frontier AI responsibly. Our business trajectory and financial profile have
+
+enabled us to access capital and secure compute from investors and partners. As of September 30, 2026, we had
+
+raised an aggregate of $141.1 billion of capital and had cash and cash equivalents of $95.6 billion and short-
+
+term investments of $36.3 billion.
+
+Our Self-Reinforcing Loops
+
+Our scale and growth create self-reinforcing loops that make Claude better over time and that we believe create
+
+durable competitive advantages.
+
+Improvement Loop. Enterprise deployments of Claude deepen our understanding of the hard
+
+problems, edge cases, and domain-specific challenges that matter most to our customers. We improve
+
+our models, platform, and applications based on feedback from customers using our offerings in
+
+production across their businesses. These improvements result in wider deployments and adoption
+
+that fuel the next cycle of improvement.
+
+Investment Loop. Revenue from expanding enterprise adoption helps us to fund the compute,
+
+research, and talent needed to improve Claude. Claudes advancing capabilities expand the range of
+
+11
+
+Table of Contents
+
+tasks and workflows customers use Claude for, broadening our addressable market and driving deeper
+
+deployment, additional revenue, and continued reinvestment in Claude.
+
+Claude is Accelerating Our Ability to Close the Loop
+
+Claude itself has become one of the most powerful drivers of our progresseach new version of a Claude model
+
+directly accelerates development of the next. Many aspects of the research, training, and testing of subsequent
+
+model generations now involve Claude, including running experiments, generating and processing training
+
+data, automating evaluations and safety audits, and writing and reviewing code. We refer to this recursive
+
+dynamic as closing the loop. A direct expression of this dynamic is our accelerating pace of producing
+
+compute multipliers. More capable models help our researchers discover these improvements faster in turn,
+
+more powerful compute multipliers enable us to train even more capable models and deploy them more
+
+efficiently.
+
+Our Growth Strategy
+
+We believe the diffusion of AI through the global economy represents one of the largest opportunities in history
+
+to improve how humans live and work, and it is just beginning. In our view, the world has only begun to use the
+
+capabilities of todays frontier models, and the gap between what Claude can do and how broadly it is used
+
+represents one of our largest growth opportunities, alongside continued advances at the frontier. Claudes
+
+capabilities have evolved significantly in recent years, and we expect they will continue advancing rapidly. This
+
+will lead not only to an expanding addressable market, but also to an expanding scope of impact on the world.
+
+We aim to ensure that impact is as positive as possible. Our core advantages, the speed and scale of enterprise
+
+adoption of Claude, and our unprecedented financial model enable us to continue investing aggressively to
+
+build an AI-enabled future that benefits humanity broadly. Elements of our growth strategy include
+
+Talent and Culture. To recruit world-class researchers and engineers and retain exceptional people, we
+
+intend to continue investing in our low-ego, high-impact, and mission-aligned culture that has driven
+
+our talent density as we have scaled.
+
+Compute. We intend to secure further compute beyond our existing commitments, expand our own
+
+data center footprint to secure additional long-term compute, improve compute efficiency across our
+
+multi-chip compute architecture, and produce further algorithmic advances in model efficiency.
+
+12
+
+Table of Contents
+
+Claudes Intelligence, Capability, and Safety. We plan to continue advancing Claudes core intelligence
+
+and safety in tandem, expand the frontier of what AI systems can reliably do, and pioneer new ways AI
+
+can be applied across professional domains.
+
+Claudes Accessibility. We plan to continue making Claudes intelligence accessible across every surface
+
+where work happens, including through our own platform and applications, through AWS, GCP, and
+
+Azure, and through embedding in enterprise applications.
+
+Claudes Adoption. We intend to grow our direct go-to-market and Applied AI teams, deepen cloud
+
+distribution partnerships, invest in brand and marketing, and expand our international presence to
+
+drive adoption of Claude as the trusted AI partner for organizations worldwide.
+
+New Markets. We intend to extend frontier AI to accelerate novel discoveries, reaching domains from
+
+healthcare and life sciences to robotics and physical work, where we believe compounding model
+
+capabilities can unlock transformative opportunities.
+
+Strategic Transactions and Partnerships. We intend to selectively pursue acquisitions, investments,
+
+and strategic partnerships, including ecosystem partnerships with SIs, consultants, and data platforms,
+
+that accelerate our mission, expand our reach, and strengthen our competitive position.
+
+Our Commitment to Public Benefit
+
+We founded Anthropic on the belief that the most transformative technology in human history demands an
+
+extraordinary level of responsibility, and that responsibility extends far beyond building safe systems. We
+
+intend to direct a meaningful portion of our resources toward ensuring that frontier AI is safe and its benefits
+
+are broadly distributed, which we refer to as our public benefit initiatives.
+
+As part of these initiatives, we contributed 846,840,960 shares of our Class N common stock, representing 5%
+
+of our fully diluted shares as of June 30, 2026 (assuming full conversion of the Amazon Notes, as defined
+
+below), to Anthropic Public Benefit Fund, LLC (the Anthropic Public Benefit Fund), our wholly owned
+
+subsidiary dedicated to the Company Purpose (as defined below) (such issuance, the Initial Public Benefit
+
+Issuance). Our board of directors has also approved a framework under which it may, in its discretion, issue
+
+shares of our Class N common stock to the Anthropic Public Benefit Fund (or other designee) representing up
+
+to an additional 2% of our then-outstanding shares (plus any shares subject to options, restricted stock units
+
+(RSUs), and other convertible securities and any shares held by the Anthropic Public Benefit Fund) each time
+
+our share price appreciates 50% above the prior share price milestone, beginning with our initial public offering
+
+price (the Public Benefit Issuances). In addition, our co-founders have each pledged to dedicate 80% of their
+
+personal equity in Anthropic to philanthropic causes. For additional information regarding these pledges,
+
+including related risks, see the section titled Risk FactorsRisks Related to Ownership of our Class A Common
+
+Stock. Separate from the co-founders pledges, we also maintain a donation matching program through which
+
+employees can pledge a meaningful portion of their equity awards toward charitable giving, which we match
+
+with shares of our Class N common stock.
+
+Our Governance Structure and Its Goals
+
+Our novel capital and corporate governance structure has been carefully designed and differs significantly from
+
+that of other public companies. We strive to help bring humanity safely into an era where transformative AI
+
+exerts tremendous and potentially decisive influence over a broad range of human undertakings. Operating as a
+
+public benefit corporation (PBC) gives our board of directors the necessary latitude to balance the pecuniary
+
+interests of our stockholders, the best interests of those materially affected by our conduct, and the specific
+
+public benefit purpose that we promote. Our specific public benefit purpose is the responsible development and
+
+maintenance of advanced AI for the long-term benefit of humanity (the Company Purpose). In addition, a
+
+financially disinterested trust, which we refer to as the Long-Term Benefit Trust (the LTBT) and which
+
+generally has the power to elect and remove a majority of the authorized members of our board of directors, is
+
+designed to supply both the incentives and insights for striking this balance appropriately. We also believe that
+
+our seven co-founders are distinctly equipped to be stewards of our mission.
+
+13
+
+Table of Contents
+
+Public Benefit Corporation Status
+
+Consistent with our long-term commitment to AI safety and responsibility, we are incorporated as a PBC under
+
+Delaware law. PBCs are a class of corporations that are intended to produce a public benefit and operate in a
+
+responsible and sustainable manner. Under Delaware law, a PBC is required to identify in its certificate of
+
+incorporation the public benefit or benefits it will promote, and its directors have a duty to manage the affairs of
+
+the corporation in a manner that balances the pecuniary interests of the corporations stockholders, the best
+
+interests of those materially affected by the corporations conduct, and the specific public benefit purpose
+
+identified in the corporations certificate of incorporation. As provided in our amended and restated certificate
+
+of incorporation, the public benefit that we promote, which we must always consider in the management of our
+
+company, is the Company Purpose.
+
+Long-Term Benefit Trust
+
+In 2023, we implemented an innovative governance structure featuring the LTBT, which is designed to ensure
+
+that we are managed in a manner that responsibly balances our tripartite goals as a PBC the pecuniary
+
+interests of our stockholders, the best interests of those materially affected by our conduct, and the Company
+
+Purpose. The LTBT is intended to operate as an independent body of five financially disinterested voting
+
+trustees (Trustees) with expertise in AI safety, national security, public policy, and social enterprise. Through
+
+a special class of common stock, Class T common stock, the LTBT generally has the authority to elect and
+
+remove the Class T directors, who together will constitute a majority of the authorized members of our board of
+
+directors. Our Class T common stock does not otherwise have voting rights on matters submitted to
+
+stockholders generally.
+
+Founder Voting Structure
+
+We believe that our seven co-founders, Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan,
+
+Sam McCandlish, and Christopher Olah, as a group, are distinctly equipped to be stewards of our mission.
+
+Immediately prior to the completion of this offering, we will issue a single share of Class F common stock, a
+
+special class of our common stock, to a limited liability company of which our seven co-founders will initially be
+
+the sole members (the Founder LLC).
+
+Our Class F common stock will be entitled to an aggregate number of votes that equals 50.1% of the total voting
+
+power of our outstanding shares of capital stock with respect to matters submitted to stockholders generally,
+
+including the election of our directors other than the Class T directors.
+
+Board Governance
+
+Decisions regarding our business and affairs are made by our board of directors. Immediately prior to the
+
+completion of this offering, we will enter into a stockholders agreement (the Stockholders Agreement) with
+
+the LTBT and the Founder LLC, under which they will agree to vote their shares and take other actions to give
+
+effect to the board composition, director nomination, and director removal provisions described in our
+
+governing documents. Collectively, the LTBT and the Founder LLC will have the ability to elect all members of
+
+our board of directors. Regardless of the class or classes of stock by which a director is elected, there is no limit
+
+to the number of terms a director may serve.
+
+While the LTBT has significant influence over our board of directors through its ability to generally elect and
+
+remove a majority of the authorized members of our board of directors, neither the LTBT nor the Trustees have
+
+decision-making authority in the day-to-day management or strategy setting of the company. The LTBTs role is
+
+to select directors who are well equipped to make decisions in furtherance of the responsible balancing of the
+
+pecuniary interests of our stockholders, the best interests of those materially affected by our conduct, and the
+
+Company Purpose, and to support our managements decision-making through advice and guidance.
+
+The Founder LLC will also have significant influence over our business and affairs through its ability to vote our
+
+Class F common stock, which is entitled to an aggregate number of votes that equals 50.1% of the total voting
+
+power of our outstanding shares of capital stock with respect to matters submitted to stockholders generally,
+
+including the election of our directors other than the Class T directors.
+
+14
+
+Table of Contents
+
+See the sections titled Risk FactorsRisks Related to our Governance Structure, Our Governance Structure
+
+and Its Goals, Management, Certain Relationships and Related Person Transactions, and Description of
+
+Capital Stock for more information.
+
+Controlled Company Status
+
+We are considered a controlled company within the meaning of the Nasdaq Global Select Market corporate
+
+governance requirements because the LTBT, as the sole holder of our Class T common stock, generally has the
+
+power to elect a majority of the authorized members of our board of directors. As such, we are permitted to opt
+
+out of compliance with certain Nasdaq Global Select Market corporate governance requirements. Accordingly, if
+
+we elect not to comply with certain requirements, you will not have the same protections afforded to
+
+stockholders of companies that are subject to all of the Nasdaq Global Select Market corporate governance
+
+requirements. Although we qualify as a controlled company, we do not expect to rely on this exemption except
+
+with respect to our nominating and corporate governance committee (NGC), which will not consist entirely of
+
+independent directors. Our board of directors currently consists of a majority of independent directors and our
+
+audit and compensation committees currently consist entirely of independent directors. See the sections titled
+
+Risk FactorsRisks Related to our Governance StructureWe are considered a controlled company within
+
+the meaning of the Nasdaq Global Select Market corporate governance requirements, and, as a result, we
+
+qualify for, and currently rely on, exemptions from certain corporate governance requirements, Our
+
+Governance Structure and Its Goals, Management, and Description of Capital Stock for additional
+
+information.
+
+15
+
+Table of Contents
+
+Our Capital Structure
+
+The following table summarizes certain key terms of each class or series of our common stock that will be
+
+authorized following the completion of this offering
+
+Category of
+
+Rights
+
+Class A Common
+
+Stock
+
+Class N
+
+Common Stock
+
+Class T Common
+
+Stock
+
+Class F Common
+
+Stock
+
+Class E Common
+
+Stock
+
+Votes per share
+
+1
+
+0
+
+1
+
+50.1% of
+
+outstanding voting
+
+power on record
+
+date
+
+1
+
+Matters on which
+
+entitled to vote
+
+All matters
+
+submitted to
+
+stockholders
+
+generally election
+
+of non-Class T
+
+directors certain
+
+amendments to the
+
+terms of the LTBT
+
+or the rights of our
+
+Class T common
+
+stock redemption
+
+of our Class T
+
+common stock
+
+Not entitled to vote
+
+except as required
+
+by law, in which
+
+case our Class N
+
+common stock will
+
+have one vote per
+
+share
+
+Election of Class T
+
+directors, which
+
+constitute a
+
+majority of our
+
+board of directors
+
+redemption of our
+
+Class E common
+
+stock certain
+
+amendments to the
+
+rights of our Class
+
+F common stock
+
+All matters
+
+submitted to
+
+stockholders
+
+generally election
+
+of non-Class T
+
+directors certain
+
+amendments to the
+
+terms of the LTBT
+
+or the rights of our
+
+Class T common
+
+stock redemption
+
+of our Class T
+
+common stock
+
+redemption of our
+
+Class E common
+
+stock
+
+Nomination,
+
+change in
+
+designation, or
+
+removal of the
+
+Specified Class T
+
+Director (as
+
+defined below)
+
+(only if our NGC
+
+does not concur
+
+with the LTBTs
+
+nomination,
+
+change in
+
+designation, or
+
+removal) certain
+
+amendments to the
+
+terms of the LTBT
+
+or the rights of our
+
+Class T common
+
+stock redemption
+
+of our Class T
+
+common stock
+
+Conversion
+
+rights
+
+None
+
+Converts into Class
+
+A common stock
+
+upon a sale or
+
+transfer to an
+
+unaffiliated third
+
+party
+
+None
+
+None
+
+None
+
+Transferability
+
+Generally
+
+transferable
+
+Generally
+
+transferable
+
+converts to Class A
+
+common stock
+
+upon transfer as
+
+described above
+
+Transferable only
+
+upon approval of
+
+persons comprising
+
+the Trust
+
+Amendment
+
+Threshold (as
+
+defined below)
+
+Not transferable
+
+except in the case
+
+of a reorganization
+
+or redomiciliation
+
+of the Founder LLC
+
+that is approved by
+
+our board of
+
+directors and does
+
+not result in a
+
+change to the
+
+members of the
+
+Founder LLC
+
+Not transferable
+
+Dividend rights
+
+Entitled to
+
+participate pro rata
+
+in dividends and
+
+distributions
+
+Entitled to
+
+participate pro rata
+
+in dividends and
+
+distributions
+
+None
+
+None
+
+None
+
+Right to receive
+
+liquidation
+
+distributions
+
+Entitled to
+
+participate pro rata
+
+in liquidation
+
+distributions
+
+Entitled to
+
+participate pro rata
+
+in liquidation
+
+distributions
+
+Entitled to par
+
+value per share
+
+Entitled to par
+
+value per share
+
+Entitled to par
+
+value per share
+
+Redeemable by
+
+company
+
+No
+
+No
+
+Redeemable by us
+
+for no
+
+consideration upon
+
+occurrence of
+
+certain events
+
+Redeemable by us
+
+for no
+
+consideration upon
+
+occurrence of
+
+certain events
+
+Redeemable by us
+
+for no
+
+consideration upon
+
+occurrence of
+
+certain events
+
+For more information about our capital structure, see the section titled Description of Capital Stock.
+
+Risk Factors Summary
+
+Our business is subject to numerous risks and uncertainties, including those highlighted in the section titled
+
+Risk Factors immediately following this prospectus summary. These risks could adversely affect our business,
+
+financial condition, and results of operations, which could cause the market price of our Class A common stock
+
+16
+
+Table of Contents
+
+to decline and could result in a loss of all or part of your investment. Additional risks, beyond those summarized
+
+below or discussed elsewhere in this prospectus, may apply to our business, activities, or operations as currently
+
+conducted or as we may conduct them in the future and in the markets in which we operate or may in the future
+
+operate. These risks include the following
+
+Our success depends in large part on our ability to continue to develop the most advanced and capable
+
+AI models, and any failure to do so could adversely affect our business.
+
+If we are unable to secure adequate compute or if we fail to direct our compute effectively across our
+
+workloads, we may be unable to train models that remain competitive with those of our competitors or
+
+adequately serve our customers.
+
+Constraints on the critical inputs supporting compute could limit our ability to secure adequate
+
+compute.
+
+We are highly dependent on the continued service of our co-founders, senior management team, and
+
+key technical employees, and the loss of any of these individuals may adversely affect our business,
+
+financial condition, and results of operations.
+
+Our company culture has contributed to our success and, if we cannot maintain this culture as we
+
+grow, our business could be adversely affected.
+
+We face intense competition, and if we are unable to compete effectively, our business, financial
+
+condition, and results of operations could be adversely affected.
+
+If the market for our models, platform, and applications develops more slowly than we expect or
+
+declines, our growth may slow or stall, and our business, financial condition, and results of operations
+
+could be adversely affected.
+
+If the use of our AI models results in harm, whether through use by malicious actors or misuse by other
+
+third parties, or if our model guardrails or safeguards fail to prevent such misuse, our reputation and
+
+brand, business, financial condition, and results of operations could be adversely affected.
+
+Our AI models may behave in unintended, misaligned, or autonomous ways, including by taking
+
+harmful actions that no user or third party directed, which could adversely affect our reputation and
+
+brand, business, financial condition, and results of operations.
+
+We may be exposed to liability, litigation, and regulatory action arising from harms associated with our
+
+AI models, and our contractual protections and insurance may be insufficient, any of which could
+
+adversely affect our business, financial condition, and results of operations.
+
+A substantial portion of our revenue and accounts receivable is driven by a limited number of
+
+customers and distribution channels, and the loss of, or a significant reduction in, spend from one or
+
+more of our top customers or disruption through those channels could adversely affect our prospects,
+
+business, and financial condition.
+
+We have a limited operating history in an evolving and nascent industry, which makes it difficult to
+
+evaluate our future prospects and may increase the risk that we will not be successful.
+
+We are at an early stage of our revenue growth, we have experienced rapid growth in recent periods,
+
+and our historical growth rates are not indicative of future performance or our ability to sustain or
+
+forecast future revenue growth.
+
+Our business is subject to an evolving and uncertain regulatory and political environment, which could
+
+increase our costs, restrict our operations, or adversely affect demand for our models, platform, and
+
+applications.
+
+Our reliance on a limited number of CSPs and suppliers, some of which have strategic and investment
+
+relationships with us and are our customers, creates complex dynamics that could give rise to conflicts
+
+of interest and adversely affect our access to compute.
+
+17
+
+Table of Contents
+
+Our capital stock structure features certain provisions that are novel or otherwise not common among
+
+other corporations with multiple-class structures, and may effectively eliminate the ability of holders of
+
+our Class A common stock to influence important decisions, including a change in control.
+
+Our capital structure will concentrate voting power with the LTBT and the Founder LLC for the
+
+foreseeable future and will result in the LTBT and the Founder LLC having voting power that is not
+
+derived from or proportionate to economic interests in our company.
+
+Our focus on the long-term best interests of our company as a PBC, and the duty of our directors to
+
+balance the pecuniary interests of our stockholders, the best interests of those stakeholders materially
+
+affected by our conduct, and the Company Purpose, may conflict with short-, medium-, or long-term
+
+financial interests and business performance, which may negatively impact the value of our Class A
+
+common stock.
+
+Channels for Disclosure of Information
+
+Investors, the media, and others should note that, following the completion of this offering, we intend to
+
+announce material information to the public through filings with the Securities and Exchange Commission
+
+(SEC), the investor relations page on our website (www.anthropic.com), blog posts on our website, press
+
+releases, public conference calls, public webcasts, our X accounts (AnthropicAI and ClaudeAI), our
+
+Instagram page (claudeai), our Threads account (claudeai), and our LinkedIn page (https
+
+www.linkedin.comcompanyanthropicresearch).
+
+The information disclosed through the foregoing channels could be deemed to be material information. As
+
+such, following the completion of this offering, we encourage investors, the media, and others to follow the
+
+channels listed above and to review the information disclosed through such channels. We are not incorporating
+
+any of the information in such channels into this prospectus.
+
+Any updates to the list of disclosure channels through which we will announce information will be posted on the
+
+investor relations page on our website.
+
+Corporate Information
+
+We were incorporated as a Delaware PBC in January 2021. Our principal executive offices are located at 548
+
+Market Street, PMB 90375, San Francisco, California 94104, and our telephone number is (415) 326-6303. Our
+
+website address is www.anthropic.com. Information contained on, or that can be accessed through, our website
+
+does not constitute part of this prospectus and references to our website address in this prospectus are inactive
+
+textual references only. You should not consider information contained on our website to be part of this
+
+prospectus or rely on it in deciding whether to purchase shares of our Class A common stock.
+
+Anthropic, our logo, and our other registered or common law trademarks, service marks, or trade names
+
+appearing in this prospectus are the property of Anthropic, PBC. Other trademarks and trade names referred to
+
+in this prospectus are the property of their respective owners. Solely for convenience, trademarks and trade
+
+names referred to in this prospectus may appear without the or symbols, but such references are not
+
+intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights, or
+
+the rights of any applicable licensor, to these trademarks and trade names.
+
+18
+
+Table of Contents
+
+The Offering
+
+Class A common stock offered by us
+
+shares
+
+Class A common stock offered by the selling
+
+stockholders
+
+shares
+
+Underwriters option to purchase additional
+
+shares of Class A common stock from us
+
+shares
+
+Class A common stock to be outstanding after
+
+this offering
+
+shares (or shares if the underwriters exercise
+
+their option to purchase additional shares of our Class A
+
+common stock in full)
+
+Class N common stock to be outstanding after
+
+this offering
+
+shares
+
+Class T common stock to be outstanding after
+
+this offering
+
+1 share
+
+Class E common stock to be outstanding after
+
+this offering
+
+0 shares
+
+Class F common stock to be outstanding after
+
+this offering
+
+1 share
+
+Class A, Class N, Class T, Class E, and Class F
+
+common stock to be outstanding after this
+
+offering
+
+shares (or shares if the underwriters exercise
+
+their option to purchase additional shares of our Class A
+
+common stock in full)
+
+Use of proceeds
+
+We estimate that the net proceeds from the sale of shares of
+
+our Class A common stock by us in this offering will be
+
+approximately $ (or approximately $ if the
+
+underwriters option to purchase additional shares of our
+
+Class A common stock is exercised in full), based upon the
+
+assumed initial public offering price of $ per share,
+
+which is the midpoint of the estimated offering price range
+
+set forth on the cover page of this prospectus, and after
+
+deducting estimated underwriting discounts and
+
+commissions and estimated offering expenses payable by
+
+us. We will not receive any proceeds from the sale of shares
+
+of Class A common stock by the selling stockholders.
+
+The principal purposes of this offering are to increase our
+
+capitalization and financial flexibility, create a public
+
+market for our Class A common stock, facilitate an orderly
+
+distribution of shares for the selling stockholders, and
+
+enable access to the public equity markets for us and our
+
+stockholders. We intend to use the net proceeds from this
+
+offering for general corporate purposes, including working
+
+capital, operating expenses, and capital expenditures,
+
+including investments in compute and infrastructure, as
+
+well as hiring and retention of highly skilled personnel.
+
+Additionally, we may use a portion of the net proceeds to
+
+acquire or invest in businesses, products, services, or
+
+technologies. However, we do not have agreements or
+
+commitments for any material acquisitions or investments
+
+at this time. We also intend to use a portion of the net
+
+proceeds to satisfy our anticipated tax withholding and
+
+remittance obligations related to the settlement of certain
+
+of our outstanding RSUs. See the section titled Use of
+
+Proceeds for more information.
+
+19
+
+Table of Contents
+
+Voting rights
+
+Shares of our Class A common stock are entitled to one vote
+
+per share. Shares of our Class N common stock have no
+
+voting rights, except as otherwise required by law. The
+
+share of our Class T common stock has no voting rights
+
+with respect to matters submitted to stockholders
+
+generally, except as set forth within our amended and
+
+restated certificate of incorporation, including with respect
+
+to the election of a majority of our board of directors or as
+
+required by law. The share of our Class F common stock
+
+will be entitled to an aggregate number of votes that equals
+
+50.1% of the total voting power of our outstanding shares of
+
+capital stock as of the applicable record date on all matters
+
+submitted to a vote of stockholders generally, including the
+
+election of our directors other than the Class T directors.
+
+Shares of our Class E common stock will be entitled to one
+
+vote per share with respect to certain limited matters.
+
+Controlled company
+
+We are considered a controlled company within the
+
+meaning of the Nasdaq Global Select Market corporate
+
+governance requirements. See the sections titled Our
+
+Governance Structure and Its Goals, Management, and
+
+Description of Capital Stock for additional information.
+
+Risk factors
+
+See the section titled Risk Factors and other information
+
+included in this prospectus for a discussion of some of the
+
+factors you should consider before deciding to invest in our
+
+Class A common stock.
+
+Proposed trading symbol
+
+ANT
+
+The number of shares of our Class A common stock, Class N common stock, Class T common stock, and Class F
+
+common stock that will be outstanding after this offering is based on shares of our Class A common stock,
+
+shares of our Class N common stock, one share of our Class T common stock, and one share of our Class F
+
+common stock outstanding as of September 30, 2026, which reflects
+
+the automatic conversion of (i) all outstanding shares of our Series A, C-1, D-1, D-2, E-1, F-1, G-1,
+
+and H-1 redeemable convertible preferred stock into shares of Class A common stock and (ii) all
+
+outstanding shares of our Series B, C-2, D-3, E-2, E-3, E-4, E-5, F-2, G-2, G-3, G-4, H-2, H-3,
+
+and H-4 redeemable convertible preferred stock into shares of Class N common stock,
+
+immediately prior to the completion of this offering pursuant to the terms of our amended and restated
+
+certificate of incorporation (collectively, the Preferred Stock Conversion)
+
+one share of our Class F common stock that will be issued immediately prior to the completion of this
+
+offering to the Founder LLC (the Class F Stock Issuance)
+
+the conversionof $ in aggregate principal amount of our
+
+outstandingconvertiblepromissorynotes into shares of Class N common stock immediately
+
+prior to the completion ofthisoffering, representing shares issuable to Amazon Web Services, Inc.
+
+upon the completion of this offering without causing it to exceed the applicable ownership cap (the
+
+Convertible Notes Conversion)
+
+the Initial Public Benefit Issuance, the shares of which (i) are considered legally outstanding, (ii) are
+
+not considered outstanding for accounting purposes while held by our wholly owned subsidiary, and
+
+(iii) accordingly will not be reflected as outstanding in our consolidated financial statements and
+
+the net issuance of shares of Class A common stock subject to RSUs outstanding as of September
+
+30, 2026, for which the service-based vesting condition will be satisfied as of the date of this offering
+
+and the performance-based vesting condition will be satisfied upon the effectiveness of the registration
+
+statement of which this prospectus forms a part, after giving effect to the withholding of shares of
+
+Class A common stock subject to such RSUs to satisfy the associated estimated tax withholding and
+
+remittance obligations (based upon the assumed initial public offering price of $ per share, which
+
+20
+
+Table of Contents
+
+is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, and
+
+an assumed % tax withholding rate) (the RSU Settlement).
+
+The shares of our Class A common stock, Class N common stock, Class T common stock, and Class F common
+
+stock outstanding as of September 30, 2026 exclude the following
+
+1,774,342,693 shares of our Class A common stock issuable upon the exercise of options to purchase
+
+shares of our Class A common stock outstanding as of September 30, 2026, with a weighted-average
+
+exercise price of $2.91 per share
+
+shares of our Class A common stock issuable upon the vesting and settlement of RSUs
+
+outstanding as of September 30, 2026, but for which (i) the service-based vesting condition was not
+
+satisfied as of the date of this offering and (ii) the performance-based vesting condition, if applicable,
+
+will be satisfied upon the effectiveness of the registration statement of which this prospectus forms a
+
+part
+
+shares of our Class A common stock issuable upon the vesting and settlement of RSUs granted
+
+after September 30, 2026
+
+shares of our Class A common stock and 848,882 shares of our Class N common stock issued
+
+after September 30, 2026 in connection with our acquisitions of privately-held companies and
+
+shares of our Class A common stock reserved for future issuance under our equity compensation
+
+plans, consisting of
+
+shares of our Class A common stock reserved for future issuance upon conversion of Class N
+
+common stock issuable under our Donation Matching Plan (as amended and restated, our
+
+Donation Matching Plan), of which shares related to employee pledges on vested equity
+
+awards that were issued after September 30, 2026 (the Pledge Issuance)
+
+shares of our Class A common stock to be reserved for future issuance under our 2026
+
+Equity Incentive Plan (our 2026 Plan), which will become effective prior to the completion of
+
+this offering
+
+shares of our Class A common stock reserved for future issuance under our Amended and
+
+Restated 2021 Stock Plan (our 2021 Plan) as of September 30, 2026, which number of shares will
+
+be added to the shares of our Class A common stock to be reserved for future issuance under our
+
+2026 Plan upon its effectiveness, at which time we will cease granting awards under our 2021 Plan
+
+and
+
+shares of our Class A common stock to be reserved for future issuance under our 2026
+
+Employee Stock Purchase Plan (our ESPP), which will become effective prior to the completion
+
+of this offering.
+
+Our 2026 Plan and ESPP each provide for an annual automatic increase in the number of shares of our Class A
+
+common stock reserved thereunder, and our 2026 Plan provides for increases to the number of shares that may
+
+be granted thereunder based on awards under our 2021 Plan that expire or are cancelled or forfeited, and
+
+shares under our 2021 Plan that are tendered to or withheld by us for payment of an exercise price or for
+
+satisfying tax withholding obligations or are forfeited or otherwise repurchased by us, as more fully described in
+
+the section titled Executive CompensationEquity Plans.
+
+21
+
+Table of Contents
+
+As of September 30, 2026
+
+Class A Common
+
+Stock
+
+(Outstanding)
+
+Class N Common
+
+Stock
+
+(Outstanding)
+
+Redeemable
+
+Convertible
+
+Preferred Stock
+
+Stock Options
+
+RSUs
+
+Total Class A and
+
+Class N Common
+
+Stock (As-
+
+Converted, Fully
+
+Diluted)
+
+(No Economic
+
+Right) Class T and
+
+Class F Common
+
+Stock
+
+Historical
+
+Class A common stock
+
+Class N common stock
+
+Class T common stock
+
+Redeemable convertible preferred stock
+
+Stock options
+
+RSUs
+
+Total
+
+Pro Forma Adjustments
+
+Preferred Stock Conversion
+
+Convertible Notes Conversion
+
+RSU Settlement
+
+Shares issued under treasury stock method(1)
+
+Class F Stock Issuance
+
+Class A common stock offered by us in this offering
+
+Total
+
+Additional Adjustments
+
+RSUs granted after September 30, 2026
+
+Rollover notes(2)
+
+Acquisition Issuances
+
+Acquisition holdback shares(3)
+
+Pledge Issuance
+
+Donation Matching Plan Vested Obligations(4)
+
+Initial Public Benefit Issuance
+
+Total
+
+______________
+
+(1)Reflects the net reduction in shares issuable upon exercise of outstanding stock options, which have a weighted-average exercise price of $ per share, assuming aggregate
+
+exercise proceeds of approximately $ billion are used to repurchase shares of Class A common stock at the assumed initial public offering price of $ per share, which is
+
+the midpoint of the estimated offering price range set forth on the cover page of this prospectus.
+
+(2)For more information about the terms of our convertible promissory notes, see the section titled Managements Discussion and Analysis of Financial Condition and Results of
+
+OperationsLiquidity and Capital ResourcesConvertible NotesOutstanding Notes.
+
+(3)For more information about the terms of our acquisition holdback shares, see Note 15 to our consolidated financial statements included elsewhere in this prospectus.
+
+(4) .
+
+Except as otherwise indicated, all information in this prospectus assumes
+
+the Preferred Stock Conversion will occur immediately prior to the completion of this offering
+
+22
+
+Table of Contents
+
+the Convertible Notes Conversion will occur immediately prior to the completion of this offering
+
+the filing and effectiveness of our amended and restated certificate of incorporation in Delaware and the effectiveness of our amended and
+
+restated bylaws will each occur immediately prior to the completion of this offering
+
+the Class F Stock Issuance will occur immediately prior to the completion of this offering
+
+no issuance of shares of Class E common stock prior to the completion of this offering
+
+no exercise of outstanding stock options or settlement of outstanding RSUs subsequent to September 30, 2026, other than the RSU Settlement
+
+and
+
+no exercise by the underwriters of their option to purchase up to an additional shares of our Class A common stock from us in this offering.
+
+23
+
+Table of Contents
+
+Summary Consolidated Financial and Other Data
+
+The following tables summarize our consolidated financial and other data. We have derived the summary
+
+consolidated statements of operations data for the years ended December 31, 2023, 2024, and 2025 from our
+
+audited consolidated financial statements included elsewhere in this prospectus. We have derived the summary
+
+consolidated statements of operations data for the nine months ended September 30, 2025 and 2026, and the
+
+summary consolidated balance sheet data as of September 30, 2026, from our unaudited interim consolidated
+
+financial statements included elsewhere in this prospectus. The summary consolidated financial data in this
+
+section are not intended to replace our consolidated financial statements and related notes and are qualified in
+
+their entirety by our consolidated financial statements and related notes included elsewhere in this prospectus.
+
+Our historical results are not necessarily indicative of the results that may be expected in the future and our
+
+results for the nine months ended September 30, 2026 are not necessarily indicative of the results that may be
+
+expected for the full year ending December 31, 2026 or any other period. The following summary consolidated
+
+financial and other data should be read in conjunction with the section titled Managements Discussion and
+
+Analysis of Financial Condition and Results of Operations and our consolidated financial statements and
+
+related notes thereto included elsewhere in this prospectus.
+
+Consolidated Statements of Operations Data
+
+Year Ended December 31,
+
+Nine Months Ended September
+
+30,
+
+(in millions, except share and per share
+
+amounts)
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Revenue
+
+$41
+
+$386
+
+$4,585
+
+$2,545
+
+$33,242
+
+Operating expenses
+
+Compute and infrastructure
+
+433
+
+2,522
+
+7,326
+
+4,381
+
+18,808
+
+Personnel(1)
+
+95
+
+454
+
+1,839
+
+1,027
+
+4,863
+
+Bartz settlement
+
+1,500
+
+1,500
+
+Sales, marketing, and partnerships
+
+2
+
+43
+
+568
+
+322
+
+5,529
+
+Other operating and administrative
+
+62
+
+347
+
+1,412
+
+539
+
+5,302
+
+Total operating expenses
+
+592
+
+3,366
+
+12,645
+
+7,769
+
+34,502
+
+Operating loss
+
+(551)
+
+(2,980)
+
+(8,060)
+
+(5,224)
+
+(1,260)
+
+Interest income
+
+69
+
+106
+
+431
+
+239
+
+2,359
+
+Change in fair value of convertible
+
+notes, derivative liabilities, and SAFEs
+
+(1,045)
+
+(5,434)
+
+(34,308)
+
+(20,107)
+
+(94,324)
+
+Other income (expense), net
+
+(2)
+
+(8)
+
+(3)
+
+(10,397)
+
+Total other income (expense), net
+
+(978)
+
+(5,328)
+
+(33,885)
+
+(19,871)
+
+(102,362)
+
+Loss before provision for income taxes
+
+(1,529)
+
+(8,308)
+
+(41,945)
+
+(25,095)
+
+(103,622)
+
+Provision for income taxes
+
+2
+
+1
+
+20
+
+12
+
+417
+
+Net loss(2)
+
+$(1,531)
+
+$(8,309)
+
+$(41,965)
+
+$(25,107)
+
+$(104,039)
+
+Net loss per share attributable to common
+
+stockholders, basic and diluted
+
+$(1.42)
+
+$(5.43)
+
+$(23.04)
+
+$(13.90)
+
+$(50.10)
+
+Weighted-average number of shares
+
+outstanding, basic and diluted
+
+1,076,880,510
+
+1,528,994,540
+
+1,821,084,860
+
+1,806,802,920
+
+2,076,810,122
+
+______________
+
+(1)Includes stock-based compensation expense of $29 million, $192 million, and $1.2 billion for the years ended December 31,
+
+2023, 2024, and 2025, respectively, and $591 million and $3.3 billion for the nine months ended September 30, 2025 and
+
+2026, respectively.
+
+(2)Includes change in fair value of convertible notes, derivative liabilities, and simple agreements for future equity (SAFEs),
+
+which were $1.0 billion, $5.4 billion, and $34.3 billion for the years ended December 31, 2023, 2024, and 2025, respectively,
+
+and $20.1 billion and $94.3 billion for the nine months ended September 30, 2025 and 2026, respectively. These changes were
+
+primarily driven by an increase in the fair value of our outstanding convertible promissory notes resulting from an increase in
+
+our enterprise valuation during each of the respective periods.
+
+24
+
+Table of Contents
+
+The following table sets forth the computation of unaudited pro forma net loss per share, basic and diluted, of
+
+common stock attributable to common stockholders for the periods presented
+
+(in millions, except share and per share amounts)
+
+Year Ended
+
+December 31,
+
+2025
+
+Nine Months
+
+Ended
+
+September 30,
+
+2026
+
+Numerator
+
+Net loss
+
+$(41,965)
+
+$(104,039)
+
+Pro forma adjustment to record stock-based compensation expense related to
+
+RSUs for which the performance-based vesting condition will be satisfied upon
+
+the effectiveness of the registration statement of which this prospectus forms a
+
+part
+
+Pro forma adjustment to eliminate the change in fair value recognized related to
+
+convertible promissory notes
+
+Pro forma net loss
+
+Denominator
+
+Weighted-average number of shares outstanding, basic and diluted
+
+1,821,084,860
+
+2,076,810,122
+
+Pro forma adjustment to reflect the Preferred Stock Conversion
+
+Pro forma adjustment to reflect the RSU Settlement
+
+Pro forma adjustment to reflect the Convertible Notes Conversion
+
+Weighted-average number of shares outstanding used to compute pro forma net
+
+loss per share, basic and diluted(1)(2)
+
+Pro forma net loss per share, basic and diluted(1)(2)
+
+______________
+
+(1)The unaudited pro forma net loss per share and pro forma weighted-average number of shares used in computing pro forma net
+
+loss per share give effect to (i) the Preferred Stock Conversion, as if such conversion had occurred on January 1, 2025, (ii) the
+
+Convertible Notes Conversion, as if such conversion had occurred on January 1, 2025, (iii) the elimination of the change in fair
+
+value recognized on convertible promissory notes that converted into shares of our redeemable convertible preferred stock
+
+during the periods presented and that convert in the Convertible Notes Conversion, in each case as if such notes had converted
+
+on January 1, 2025, (iv) stock-based compensation expense related to RSUs for which the service-based vesting condition was
+
+satisfied or partially satisfied, and as if the performance-based condition had been satisfied on January 1, 2025, of $ and
+
+$ for the year ended December 31, 2025 and the nine months ended September 30, 2026, respectively, (v) the net
+
+issuance of and shares of our Class A common stock upon the vesting and settlement of RSUs, for which the service-
+
+based vesting condition was satisfied, and as if the performance-based condition had been satisfied on January 1, 2025, for the
+
+year ended December 31, 2025 and the nine months ended September 30, 2026, respectively, and (vi) the filing and
+
+effectiveness of our amended and restated certificate of incorporation in Delaware that will become effective immediately prior
+
+to the completion of this offering. The pro forma weighted-average number of shares does not give effect to the Initial Public
+
+Benefit Issuance, as shares of our Class N common stock held by our wholly owned subsidiary are not considered outstanding
+
+for accounting purposes.
+
+(2)As of September 30, 2026, unrecognized stock-based compensation expense not reflected in pro forma net loss per share was
+
+$24.1 billion related to RSUs for which the service-based vesting condition was not satisfied, and which is expected to be
+
+recognized over a weighted-average period of approximately 2.0 years, and $2.1 billion related to our other outstanding equity
+
+awards, which is expected to be recognized over a weighted-average period of approximately 1.4 years.
+
+25
+
+Table of Contents
+
+Consolidated Balance Sheet Data
+
+As of September 30, 2026
+
+(in millions)
+
+Actual
+
+Pro Forma(1)
+
+Pro Forma As
+
+Adjusted(2)(3)
+
+Cash, cash equivalents, and short-term investments
+
+$131,845
+
+$
+
+$
+
+Working capital(4)
+
+$129,349
+
+$
+
+$
+
+Total assets
+
+$154,320
+
+$
+
+$
+
+Total liabilities
+
+$146,683
+
+$
+
+$
+
+Redeemable convertible preferred stock
+
+$157,510
+
+$
+
+$
+
+Additional paid-in capital
+
+$6,481
+
+$
+
+$
+
+Accumulated deficit
+
+$(156,193)
+
+$
+
+$
+
+Total stockholders deficit
+
+$(149,873)
+
+$
+
+$
+
+______________
+
+(1)The pro forma column in the consolidated balance sheet gives effect to (i) the Preferred Stock Conversion, as if such conversion
+
+had occurred on September 30, 2026, (ii) the Convertible Notes Conversion, as if such conversion had occurred on September
+
+30, 2026, (iii) the Class F Stock Issuance, as if it had occurred on September 30, 2026, (iv) an increase to additional paid-in
+
+capital and accumulated deficit related to stock-based compensation of $ related to RSUs subject to the RSU Settlement,
+
+and (v) the filing and effectiveness of our amended and restated certificate of incorporation in Delaware that will become
+
+effective immediately prior to the completion of this offering.
+
+(2)The pro forma as adjusted column gives effect to (i) the pro forma adjustments set forth above, (ii) the sale and issuance by us
+
+of shares of our Class A common stock in this offering, based upon the assumed initial public offering price of $ per
+
+share, which is the midpoint of the estimated offering price range set forth on the cover page of this prospectus, and after
+
+deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us, and (iii) the use
+
+of net proceeds from this offering, together with existing cash and cash equivalents, if necessary, to satisfy the estimated tax
+
+withholding and remittance obligations related to the RSU Settlement. We will not receive any proceeds from the sale of shares
+
+of our Class A common stock by any of the selling stockholders.
+
+(3)Each $1.00 increase (decrease) in the assumed initial public offering price would increase (decrease) each of cash, cash
+
+equivalents, and short-term investments working capital total assets additional paid-in capital and total stockholders deficit
+
+by $, assuming the number of shares offered by us as stated on the cover page of this prospectus remains unchanged and
+
+after deducting the estimated underwriting discounts and commissions and estimated offering expenses payable by us.
+
+Similarly, each increase (decrease) of 1.0 million in the number of shares offered by us, as set forth on the cover page of this
+
+prospectus, would increase (decrease) each of cash, cash equivalents, and short-term investments working capital total assets
+
+additional paid-in capital and total stockholders deficit by $, assuming the assumed initial public offering price of $
+
+per share (the midpoint of the estimated offering price range set forth on the cover page of this prospectus) remains the same,
+
+and after deducting the estimated underwriting discounts and commissions and estimated offering expenses payable by us. We
+
+will not receive any proceeds from the sale of shares of our Class A common stock by any of the selling stockholders.
+
+(4)Working capital is defined as current assets less current liabilities.
+
+Non-GAAP Financial Measures
+
+In addition to the measures presented in our consolidated financial statements that were prepared in
+
+accordance with accounting principles generally accepted in the United States (GAAP), we use Adjusted
+
+Operating Income (Loss), Adjusted Operating Margin, and Adjusted Net Income (Loss) as non-GAAP financial
+
+measures to evaluate our business, measure our performance, identify trends affecting our business, formulate
+
+business plans, and make strategic decisions.
+
+Year Ended December 31,
+
+Nine Months Ended
+
+September 30,
+
+(in millions, except for percentages)
+
+2023
+
+2024
+
+2025
+
+2025
+
+2026
+
+Adjusted Operating Income (Loss)
+
+$(522)
+
+$(2,788)
+
+$(4,854)
+
+$(3,133)
+
+$4,081
+
+Operating margin
+
+(1,344)%
+
+(772)%
+
+(176)%
+
+(205)%
+
+(4)%
+
+Adjusted Operating Margin
+
+(1,273)%
+
+(722)%
+
+(106)%
+
+(123)%
+
+12%
+
+Adjusted Net Income (Loss)
+
+$(457)
+
+$(2,683)
+
+$(4,455)
+
+$(2,911)
+
+$5,591
+
+See the section titled Managements Discussion and Analysis of Financial Condition and Results of Operations
+
+Non-GAAP Financial Measures for a definition of each non-GAAP financial measure, a discussion of the
+
+26
+
+Table of Contents
+
+limitations of each non-GAAP financial measure, and a reconciliation of each non-GAAP financial measure to
+
+its most comparable GAAP financial measure for the periods presented and additional information.
+
+28
+
+Table of Contents

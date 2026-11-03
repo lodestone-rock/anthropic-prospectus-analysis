@@ -1,0 +1,1295 @@
+{
+ "chunk": "sx1a_08",
+ "section": "mda-2-liquidity-commitments",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 12512,
+  "completion_tokens": 7325,
+  "total_tokens": 19837,
+  "cost": 0.00428494,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00428494,
+   "upstream_inference_prompt_cost": 0.00150144,
+   "upstream_inference_completions_cost": 0.0027835
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 10,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 103,
+ "records": [
+  {
+   "kind": "inline",
+   "label": "Amazon notes outstanding aggregate",
+   "values": [
+    "$6.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "approximately $6.2 billion aggregate principal amount of which remains outstanding"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Counterparty",
+    "Agreement",
+    "Principal Amount Outstanding (in millions)",
+    "Conversion Price Per Share(1)",
+    "Class N Shares Issuable on Conversion(2)"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "The following table summarizes the notes outstanding under our NPAs as of September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Amazon 2023 NPA",
+   "values": [
+    "Amazon",
+    "Amazon 2023 NPA(3)",
+    "$2,186",
+    "$2.0928",
+    "1,044,716,970"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Amazon 2023 NPA(3) $2,186 $2.0928 1,044,716,970"
+  },
+  {
+   "kind": "table_row",
+   "label": "Amazon 2024 NPA",
+   "values": [
+    "Amazon",
+    "Amazon 2024 NPA(4)",
+    "4,017",
+    "$5.0478",
+    "795,727,992"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Amazon 2024 NPA(4) 4,017 $5.0478 795,727,992"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total outstanding notes",
+   "values": [
+    "Total",
+    "$6,203",
+    "",
+    "1,840,444,962"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Total $6,203 1,840,444,962"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon ownership cap",
+   "values": [
+    "12%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Amazon would hold more than 12% of our capitalization"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA maturity",
+   "values": [
+    "March 2034"
+   ],
+   "unit": "date",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "(3)Matures March 2034, subject to earlier repayment or conversion."
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA tranches maturity",
+   "values": [
+    "January 2035",
+    "May 2035",
+    "November 2035"
+   ],
+   "unit": "date",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "will mature in January 2035, May 2035, and November 2035"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Counterparty",
+    "Agreement",
+    "Aggregate Amount Available for Issuance (in millions)",
+    "Principal Amount Outstanding (in millions)",
+    "Draw Period Ends"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "the aggregate principal amounts outstanding under our undrawn NPA facilities as of September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Google 2026 NPA facility",
+   "values": [
+    "Google",
+    "Google 2026 NPA",
+    "$ 20,000(1)",
+    "$",
+    "December 2030"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Google 2026 NPA $ 20,000(1) $ December 2030"
+  },
+  {
+   "kind": "table_row",
+   "label": "Amazon 2026 NPA facility",
+   "values": [
+    "Amazon",
+    "Amazon 2026 NPA",
+    "$15,000",
+    "$",
+    "(2)"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Amazon 2026 NPA $15,000 $ (2)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Infrastructure Partner 2026 NPA facility",
+   "values": [
+    "Broadcom(3)",
+    "Infrastructure Partner 2026 NPA",
+    "$42,000",
+    "$",
+    "(4)"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Broadcom(3) Infrastructure Partner 2026 NPA $42,000 $ (4)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total NPA facilities",
+   "values": [
+    "Total",
+    "$77,000",
+    "$"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Total $77,000 $"
+  },
+  {
+   "kind": "inline",
+   "label": "Google option reduction",
+   "values": [
+    "$10.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "Subject to reduction by up to $10.0 billion if Google exercises its option to purchase shares of our Class N common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA draw period",
+   "values": [
+    "30 months"
+   ],
+   "unit": "months",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "30 months following the completion of this offering, or earlier upon the termination of certain commercial agreements with Amazon"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Agreement",
+    "Original Principal Amount Available for Issuance",
+    "Remaining Principal Amount Available for Issuance(1)",
+    "Principal Amount Outstanding(1)",
+    "Interest Rate",
+    "Maturity",
+    "At IPO",
+    "Post-IPO"
+   ],
+   "values": [],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "The following table summarizes the principal terms of the Amazon 2026 NPA"
+  },
+  {
+   "kind": "table_row",
+   "label": "Amazon 2026 NPA terms",
+   "values": [
+    "Amazon 2026 NPA",
+    "$15.0 billion",
+    "$15.0 billion(2)",
+    "$",
+    "NA",
+    "10 years from date of issuance",
+    "NA(2)"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Amazon 2026 NPA $15.0 billion $15.0 billion(2) $ NA 10 years from date of issuance NA(2)"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA increments",
+   "values": [
+    "$5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "will become available to us in $5.0 billion increments following the achievement of the relevant compute capacity milestones"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA pre-IPO increments",
+   "values": [
+    "$1.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "notes issued prior to our initial public offering may be issued in $1.0 billion increments upon our draw requests"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon rollover note maturity",
+   "values": [
+    "10 years"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "re-issued as a non-interest-bearing rollover note maturing 10 years from issuance"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon default repayment installments",
+   "values": [
+    "five equal installments"
+   ],
+   "unit": "count",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "repay the outstanding principal amount of notes and accrued interest in five equal installments"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Agreement",
+    "Original Principal Amount Available for Issuance",
+    "Remaining Principal Amount Available for Issuance(1)",
+    "Principal Amount Outstanding(1)",
+    "Interest Rate",
+    "Maturity",
+    "At IPO",
+    "Post-IPO"
+   ],
+   "values": [],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "The following table summarizes the principal terms of the Infrastructure Partner 2026 NPA"
+  },
+  {
+   "kind": "table_row",
+   "label": "Infrastructure Partner 2026 NPA terms",
+   "values": [
+    "Infrastructure Partner 2026 NPA(2)",
+    "$42.0 billion",
+    "$42.0 billion(3)",
+    "$",
+    "9.00% per annum(4)",
+    "60 months from the start of the draw period for the first $24.0 billion of notes issued, 63 months for amounts exceeding $24.0 billion but less than $32.0 billion, and 57 months for amounts exceeding $32.0 billion",
+    "NA(3)"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Infrastructure Partner 2026 NPA(2) $42.0 billion $42.0 billion(3) $ 9.00% per annum(4)"
+  },
+  {
+   "kind": "inline",
+   "label": "Infrastructure Partner conversion discount",
+   "values": [
+    "90%"
+   ],
+   "unit": "%",
+   "period": "2026-2033",
+   "category": "stock_plan",
+   "quote": "conversion price equal to 90% of the 30-day trailing volume-weighted average price of our Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Infrastructure Partner default interest rate",
+   "values": [
+    "13.00%"
+   ],
+   "unit": "%",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "bear interest at 13.00% per annum and convert at 85%, rather than 90%"
+  },
+  {
+   "kind": "inline",
+   "label": "Infrastructure Partner default conversion discount",
+   "values": [
+    "85%"
+   ],
+   "unit": "%",
+   "period": "2026-2033",
+   "category": "stock_plan",
+   "quote": "bear interest at 13.00% per annum and convert at 85%, rather than 90%"
+  },
+  {
+   "kind": "inline",
+   "label": "Broadcom change of control multiplier",
+   "values": [
+    "150%"
+   ],
+   "unit": "%",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "receive cash equal to 150% of the then-outstanding principal amount of and accrued interest on the notes"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "Agreement",
+    "Original Principal Amount Available for Issuance",
+    "Remaining Principal Amount Available for Issuance(1)",
+    "Principal Amount Outstanding(1)",
+    "Interest Rate",
+    "Maturity",
+    "At IPO",
+    "Post-IPO"
+   ],
+   "values": [],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "The following table summarizes the principal terms of the Google 2026 NPA"
+  },
+  {
+   "kind": "table_row",
+   "label": "Google 2026 NPA terms",
+   "values": [
+    "Google 2026 NPA",
+    "$20.0 billion",
+    "$20.0 billion(2)",
+    "$",
+    "NA(2)",
+    "NA(2)",
+    "NA(2)"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Google 2026 NPA $20.0 billion $20.0 billion(2) $ NA(2) NA(2) NA(2)"
+  },
+  {
+   "kind": "inline",
+   "label": "Google draw request deadline",
+   "values": [
+    "December 31, 2030"
+   ],
+   "unit": "date",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "Requests for note issuances under the Google 2026 NPA can be made through December 31, 2030"
+  },
+  {
+   "kind": "inline",
+   "label": "Google quarterly closings",
+   "values": [
+    "five quarterly closings"
+   ],
+   "unit": "count",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "Each note issuance is funded over five quarterly closings unless Google elects to fund it in a single closing"
+  },
+  {
+   "kind": "inline",
+   "label": "Google ownership cap",
+   "values": [
+    "14.99%"
+   ],
+   "unit": "%",
+   "period": "2026-2033",
+   "category": "stock_plan",
+   "quote": "cause Googles ownership of us to exceed 14.99% of our outstanding capitalization on a post-money, as-converted basis"
+  },
+  {
+   "kind": "inline",
+   "label": "Google rollover note maturity",
+   "values": [
+    "10 years"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "non-interest-bearing rollover note maturing 10 years from issuance and convertible into Class N common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Google private placement option",
+   "values": [
+    "$10.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "we granted Google an option to purchase up to $10.0 billion of our Class N common stock in a private placement"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "(in millions)",
+    "2023",
+    "2024",
+    "2025",
+    "2025",
+    "2026"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "The following table shows a summary of our cash flows for the periods presented"
+  },
+  {
+   "kind": "table_row",
+   "label": "Net cash provided by (used in) Operating activities",
+   "values": [
+    "$(1,627)",
+    "$(5,692)",
+    "$(2,637)",
+    "$(2,024)",
+    "$6,569"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "Operating activities $(1,627) $(5,692) $(2,637) $(2,024) $6,569"
+  },
+  {
+   "kind": "table_row",
+   "label": "Investing activities",
+   "values": [
+    "(2)",
+    "(22)",
+    "(3,077)",
+    "(2,007)",
+    "(36,546)"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "Investing activities (2) (22) (3,077) (2,007) (36,546)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Financing activities",
+   "values": [
+    "2,320",
+    "7,248",
+    "19,960",
+    "18,508",
+    "110,735"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "Financing activities 2,320 7,248 19,960 18,508 110,735"
+  },
+  {
+   "kind": "inline",
+   "label": "Operating cash flow FY2025 vs FY2024 change",
+   "values": [
+    "$3.1 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Net cash used in operating activities for the year ended December 31, 2025 decreased by $3.1 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Operating cash flow FY2024 vs FY2023 change",
+   "values": [
+    "$4.1 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Net cash used in operating activities for the year ended December 31, 2024 increased by $4.1 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Operating cash flow 9M 2026",
+   "values": [
+    "$6.6 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Net cash provided by operating activities was $6.6 billion for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Operating cash flow 9M 2025",
+   "values": [
+    "$2.0 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "cash used in operating activities of $2.0 billion for the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Investing cash flow FY2025 vs FY2024 change",
+   "values": [
+    "$3.1 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Net cash used in investing activities for the year ended December 31, 2025 increased by $3.1 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Investing cash flow FY2024 vs FY2023 change",
+   "values": [
+    "$20 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Net cash used in investing activities for the year ended December 31, 2024 increased by $20 million"
+  },
+  {
+   "kind": "inline",
+   "label": "Investing cash flow 9M 2026",
+   "values": [
+    "$36.5 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Net cash used in investing activities was $36.5 billion for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Investing cash flow 9M 2025",
+   "values": [
+    "$2.0 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "cash used in investing activities of $2.0 billion for the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Financing cash flow FY2025 vs FY2024 change",
+   "values": [
+    "$12.7 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Net cash provided by financing activities for the year ended December 31, 2025 increased by $12.7 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Financing cash flow FY2024 vs FY2023 change",
+   "values": [
+    "$4.9 billion"
+   ],
+   "unit": "$B",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "Net cash provided by financing activities for the year ended December 31, 2024 increased by $4.9 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Financing cash flow 9M 2026",
+   "values": [
+    "$110.7 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Net cash provided by financing activities was $110.7 billion for the nine months ended September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Financing cash flow 9M 2025",
+   "values": [
+    "$18.5 billion"
+   ],
+   "unit": "$B",
+   "period": "9M 2025",
+   "category": "financials",
+   "quote": "cash provided by financing activities of $18.5 billion for the nine months ended September 30, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Total contractual obligations aggregate",
+   "values": [
+    "$895.4 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "are approximately $895.4 billion, substantially all of which is related to compute and infrastructure"
+  },
+  {
+   "kind": "inline",
+   "label": "Contractual obligations subject to termination/conditions",
+   "values": [
+    "$213.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Approximately $213.8 billion of the aggregate total of our contractual obligations relates to arrangements that are subject to either exercisable termination rights"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "(in millions)",
+    "Total",
+    "2026",
+    "2027",
+    "2028",
+    "2029",
+    "2030",
+    "Thereafter"
+   ],
+   "values": [],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "The following table summarizes our contractual obligations as of September30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Operating leases",
+   "values": [
+    "$4,224",
+    "$57",
+    "$303",
+    "$462",
+    "$445",
+    "$466",
+    "$2,491"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Operating leases(1) $4,224 $57 $303 $462 $445 $466 $2,491"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance leases",
+   "values": [
+    "1,950",
+    "121",
+    "438",
+    "422",
+    "406",
+    "390",
+    "173"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Finance leases(2) 1,950 121 438 422 406 390 173"
+  },
+  {
+   "kind": "table_row",
+   "label": "Purchase commitments",
+   "values": [
+    "313,819",
+    "5,053",
+    "28,424",
+    "43,473",
+    "46,901",
+    "44,214",
+    "145,754"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Purchase commitments(3) 313,819 5,053 28,424 43,473 46,901 44,214 145,754"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total contractual obligations",
+   "values": [
+    "$319,993",
+    "$5,231",
+    "$29,165",
+    "$44,357",
+    "$47,752",
+    "$45,070",
+    "$148,418"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Total(4)(5) $319,993 $5,231 $29,165 $44,357 $47,752 $45,070 $148,418"
+  },
+  {
+   "kind": "inline",
+   "label": "Operating lease weighted-average term",
+   "values": [
+    "10.3 years"
+   ],
+   "unit": "years",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "weighted-average remaining lease term of 10.3 years as of September30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Finance lease weighted-average term",
+   "values": [
+    "4.8 years"
+   ],
+   "unit": "years",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "weighted-average remaining lease term of 4.8 years as of September30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon Notes excluded from table",
+   "values": [
+    "$6.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Excludes $6.2 billion aggregate principal amount outstanding under the Amazon Notes as of September30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Additional convertible notes capacity",
+   "values": [
+    "$77.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "We may issue up to an additional $77.0 billion of convertible promissory notes, subject to applicable conditions"
+  },
+  {
+   "kind": "inline",
+   "label": "Unspecified compute arrangements estimate",
+   "values": [
+    "$150 billion to $175 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we currently estimate such payments to be approximately $150 billion to $175 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Short-term cancelable commitments",
+   "values": [
+    "$17.4 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Minimum payments under such contracts were approximately $17.4 billion as of September30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced",
+   "values": [
+    "$451.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "total estimated future undiscounted lease obligations of approximately $451.2 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced commencement window",
+   "values": [
+    "2026 and 2028"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "expected to commence between 2026 and 2028, with lease terms ranging from less than one year to 20 years"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced max term",
+   "values": [
+    "20 years"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "lease terms ranging from less than one year to 20 years, with a weighted-average term of approximately 10 years"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced weighted-average term",
+   "values": [
+    "10 years"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "with a weighted-average term of approximately 10 years"
+  },
+  {
+   "kind": "inline",
+   "label": "Post-9/30/26 commitments",
+   "values": [
+    "$100.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "aggregate future minimum payment obligations of approximately $100.2 billion, primarily consisting of data center leases"
+  },
+  {
+   "kind": "inline",
+   "label": "Post-9/30/26 short-term commitments",
+   "values": [
+    "$6.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Minimum payments under such contracts are approximately $6.6 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "12-month contractual obligations",
+   "values": [
+    "$69.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "Approximately $69.8 billion of our aggregate contractual obligations are expected to be paid in the 12 months following September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "12-month contingent obligations",
+   "values": [
+    "$4.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "approximately $4.3 billion relates to arrangements that are subject to either contingent conditions or termination rights"
+  },
+  {
+   "kind": "inline",
+   "label": "Microsoft commitment",
+   "values": [
+    "$44.9 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we committed to spend an aggregate of at least $44.9 billion between November 2026 and June 2033"
+  },
+  {
+   "kind": "inline",
+   "label": "Microsoft commitment period",
+   "values": [
+    "November 2026 and June 2033"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "at least $44.9 billion between November 2026 and June 2033, regardless of actual usage"
+  },
+  {
+   "kind": "inline",
+   "label": "Google CSP commitment",
+   "values": [
+    "$121.3 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we committed to spend at least approximately $121.3 billion between April 2026 and July 2033"
+  },
+  {
+   "kind": "inline",
+   "label": "Google CSP commitment period",
+   "values": [
+    "April 2026 and July 2033"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "at least approximately $121.3 billion between April 2026 and July 2033, regardless of actual usage"
+  },
+  {
+   "kind": "inline",
+   "label": "Google TPU additional compute estimate",
+   "values": [
+    "$125.0 billion to $150.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we estimate the aggregate future payments for such additional compute to be approximately $125.0 billion to $150.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Google TPU delivery window",
+   "values": [
+    "2028 and 2031"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "Such compute is expected to be delivered between 2028 and 2031"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon spend commitment",
+   "values": [
+    "$110.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we committed to spend an aggregate of at least $110.0 billion between May 2026 and April 2036"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon commitment period",
+   "values": [
+    "May 2026 and April 2036"
+   ],
+   "unit": "years",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "at least $110.0 billion between May 2026 and April 2036, regardless of actual usage"
+  },
+  {
+   "kind": "inline",
+   "label": "SpaceXAI commitment",
+   "values": [
+    "$120.5 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we agreed to spend an aggregate of up to $120.5 billion over terms extending into 2029"
+  },
+  {
+   "kind": "inline",
+   "label": "SpaceXAI monthly spend",
+   "values": [
+    "$3.1 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "approximately $3.1 billion in the aggregate per month once all capacity has been delivered"
+  },
+  {
+   "kind": "inline",
+   "label": "SpaceXAI full capacity date",
+   "values": [
+    "December 2026"
+   ],
+   "unit": "date",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "which we expect in December 2026, with different fees during capacity ramping periods"
+  },
+  {
+   "kind": "inline",
+   "label": "SpaceXAI non-cancelable period ends",
+   "values": [
+    "January 2027",
+    "March 2027"
+   ],
+   "unit": "date",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "initial non-cancelable periods ending in January 2027 and March 2027 under the respective agreements"
+  },
+  {
+   "kind": "inline",
+   "label": "SpaceXAI cancellation notice",
+   "values": [
+    "90 days"
+   ],
+   "unit": "count",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "may be cancelled by either party upon 90 days advance written notice"
+  },
+  {
+   "kind": "inline",
+   "label": "AMD expected expenditures",
+   "values": [
+    "$20.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we expect aggregate expenditures to exceed $20.0 billion over the term of the agreement"
+  },
+  {
+   "kind": "inline",
+   "label": "AMD termination period",
+   "values": [
+    "12 months"
+   ],
+   "unit": "months",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "will automatically terminate 12 months after both parties fulfill their commitments under the agreement"
+  },
+  {
+   "kind": "inline",
+   "label": "Nscale commitment",
+   "values": [
+    "$44.6 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we agreed to spend an aggregate of up to approximately $44.6 billion over terms extending into 2033"
+  },
+  {
+   "kind": "inline",
+   "label": "Lambda commitment",
+   "values": [
+    "$41.3 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "we agreed to spend an aggregate of approximately $41.3 billion over terms extending into 2034"
+  },
+  {
+   "kind": "inline",
+   "label": "Lambda August 2026 agreement commitment",
+   "values": [
+    "$34.9 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "our August 2026 agreement, which represents approximately $34.9 billion of the aggregate commitment"
+  },
+  {
+   "kind": "inline",
+   "label": "Lease Arrangements aggregate rent",
+   "values": [
+    "$161.2 billion"
+   ],
+   "unit": "$B",
+   "period": "2026-2033",
+   "category": "commitments",
+   "quote": "Our rent payments over the life of these leases are equal to an aggregate of approximately $161.2 billion excluding interest"
+  },
+  {
+   "kind": "inline",
+   "label": "Cash and cash equivalents",
+   "values": [
+    "$95.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "we had $95.6 billion of cash and cash equivalents and $36.3 billion of short-term investments"
+  },
+  {
+   "kind": "inline",
+   "label": "Short-term investments",
+   "values": [
+    "$36.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "$95.6 billion of cash and cash equivalents and $36.3 billion of short-term investments"
+  },
+  {
+   "kind": "inline",
+   "label": "Restricted cash",
+   "values": [
+    "$2.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "we had $2.6 billion of restricted cash primarily due to amounts held as collateral"
+  },
+  {
+   "kind": "inline",
+   "label": "Interest rate sensitivity",
+   "values": [
+    "$310 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "100 basis point increase or decrease in interest rates would have resulted in a decrease or increase, respectively, of $310 million"
+  },
+  {
+   "kind": "inline",
+   "label": "FX sensitivity",
+   "values": [
+    "10%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "A hypothetical 10% change in foreign currency exchange rates applicable to our business would not have had a material impact"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized comp stock options",
+   "values": [
+    "$1.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "approximately $1.8 billion of total unrecognized compensation cost related to unvested stock options"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized comp stock options recognition period",
+   "values": [
+    "1.2 years"
+   ],
+   "unit": "years",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "expected to be recognized over a weighted-average period of 1.2 years"
+  },
+  {
+   "kind": "inline",
+   "label": "RSU service vesting period",
+   "values": [
+    "four years"
+   ],
+   "unit": "years",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "The service-based vesting period for these awards is typically four years"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized SBC RSUs",
+   "values": [
+    "$32.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "approximately $32.3 billion of total unrecognized stock-based compensation expense related to RSUs"
+  },
+  {
+   "kind": "inline",
+   "label": "Unrecognized SBC RSUs service-vested",
+   "values": [
+    "$8.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "$8.2 billion relates to RSUs for which the service-based vesting condition had been satisfied or partially satisfied"
+  },
+  {
+   "kind": "blank",
+   "label": "Cumulative SBC upon offering",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$B",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "we will record cumulative stock-based compensation expense of approximately $ related to RSUs outstanding"
+  },
+  {
+   "kind": "inline",
+   "label": "Expected dividend yield",
+   "values": [
+    "zero"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "The expected dividend yield is zero, as we have never declared or paid any dividends"
+  },
+  {
+   "kind": "inline",
+   "label": "SAFEs converted period",
+   "values": [
+    "December 31, 2023 and 2024"
+   ],
+   "unit": "date",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "All SAFEs were converted into redeemable convertible preferred stock during the years ended December 31, 2023 and 2024"
+  }
+ ]
+}

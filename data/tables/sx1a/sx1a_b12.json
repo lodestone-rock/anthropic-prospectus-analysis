@@ -1,0 +1,268 @@
+{
+  "batch": "sx1a_b12",
+  "tables": [
+    {
+      "kind": "caption",
+      "caption": "Class F Common Stock Voting Mechanics",
+      "caption_line": 31820,
+      "start_line": 31826,
+      "end_line": 31962,
+      "column_note": "—",
+      "columns": ["Matter", "Threshold(1)", "If threshold is met", "Otherwise"],
+      "rows": [
+        {
+          "label": "General stockholder matters",
+          "cells": [
+            "Majority(2)",
+            "Class F common stock is voted accordingly.",
+            "Class F common stock is voted proportionately with the votes of Class A common stock cast (subject to a quorum of a majority of outstanding Class A common stock)."
+          ]
+        },
+        {
+          "label": "Amendments to Class F rights",
+          "cells": [
+            "Supermajority(3)(4)",
+            "Class F common stock is voted for the proposal.",
+            "Class F common stock is voted against (or withhold as to) the proposal."
+          ]
+        },
+        {
+          "label": "Amendments to LTBT Class T rights",
+          "cells": [
+            "Trust Amendment Supermajority(4)(5)",
+            "Class F common stock is voted for the proposal.",
+            "Class F common stock is voted against (or withhold as to) the proposal."
+          ]
+        },
+        {
+          "label": "Written consent",
+          "cells": [
+            "The applicable majority, Supermajority(3), or Trust Amendment Supermajority(5) if action were taken at a meeting.",
+            "Consent is delivered with respect to our Class F common stock.",
+            "No consent is delivered with respect to our Class F common stock."
+          ]
+        }
+      ],
+      "footnotes": [
+        "(1)Each Continuing Founder will be entitled to one vote when determining how our Class F common stock will be voted.",
+        "(2)If a majority of the Continuing Founders deliver the same instruction as to how the votes corresponding to our Class F common stock shall be cast, including for, against, or withhold, but excluding an instruction to abstain, our Class F common stock will be voted accordingly. If a majority of the Continuing Founders deliver instructions to abstain or do not deliver the same or any instructions, our Class F common stock will be voted proportionately with the votes of Class A common stock cast (subject to a quorum of a majority of outstanding Class A common stock).",
+        "(3)Supermajority means the total number of Continuing Founders entitled to vote, minus one, delivers instructions to vote for the proposal. If there are fewer than three Continuing Founders, a Supermajority requires unanimity of Continuing Founders.",
+        "(4)If a proposal requires both a Supermajority and a Trust Amendment Supermajority, both thresholds must be satisfied.",
+        "(5)A Trust Amendment Supermajority will be satisfied if (i) 66 23% of the Continuing Founders, rounded up to the nearest whole number, deliver instructions to vote for the proposal, and approval by 75% of the votes cast by our Class E common stock (subject to a quorum of a majority of outstanding Class E common stock) and a majority of the votes cast by our Class A common stock (subject to a quorum of a majority of the outstanding shares of Class A common stock) is also obtained or (ii) until the third anniversary of the completion of this offering, the Continuing Founders unanimously deliver instructions to vote for the proposal, and approval by a majority of the votes cast by our Class E common stock (subject to a quorum of 40% of our outstanding Class E common stock) and a majority of the votes cast by our outstanding Class A common stock (subject to a quorum of a majority of outstanding shares of Class A common stock) is also obtained. Pursuant to the Stockholders Agreement, the Founder LLC will also vote or consent the share of Class F common stock in favor of amendments that are approved by 80% of the authorized members of our board of directors and 80% of the Trustees then in office (in each case, rounded up or down to the nearest whole number (any exact 0.5 rounding up))."
+      ]
+    },
+    {
+      "kind": "caption",
+      "caption": "Earliest Date Available for Sale in the Public Market",
+      "caption_line": 32050,
+      "start_line": 32050,
+      "end_line": 32278,
+      "column_note": "—",
+      "columns": ["Earliest Date Available for Sale in the Public Market", "Approximate Number of Shares of Class A Common Stock"],
+      "rows": [
+        {
+          "label": "The first trading day following the date of this prospectus",
+          "cells": [
+            "Up to shares of Class A common stock held by our non-founder directors and officers and certain of our current and former employees and consultants, representing% of the shares subject to the 180-day lock-up and market standoff period, as to which the restrictions under the lock-up and market standoff agreements expire on such date."
+          ]
+        },
+        {
+          "label": "27th day after the date of this prospectus",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "48th day after the date of this prospectus",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "62nd day after the date of this prospectus",
+          "cells": [
+            "Up toshares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "76th day after the date of this prospectus",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "The second full trading day on Nasdaq immediately following the public release of our annual financial results for the fiscal year ending December 31, 2026 (the date of such public release, the FY26 Earnings Release Date)",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "13th day after the FY26 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "27th day after the FY26 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "41st day after the FY26 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "55th day after the FY26 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "69th day after the FY26 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "The earlier of (x) the second full trading day on Nasdaq immediately following the public release of our quarterly financial results for the fiscal quarter ending March 31, 2027 (the date of such public release, the Q1 Earnings Release Date) and (y) immediately after the close of trading on the 180th day after the date of this prospectus",
+          "cells": [
+            "Up to shares of Class A common stock, representing the remaining shares subject to the 180-day lock-up and market standoff period and % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "34th day after the Q1 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "48th day after the Q1 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "62nd day after the Q1 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "76th day after the Q1 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "The second full trading day on Nasdaq immediately following the public release of our quarterly financial results for the fiscal quarter ending June 30, 2027 (the date of such public release, the Q2 Earnings Release Date)",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "27th day after the Q2 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "41st day after the Q2 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "55th day after the Q2 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "69th day after the Q2 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "83rd day after the Q2 Earnings Release Date",
+          "cells": [
+            "Up to shares of Class A common stock, representing % of the shares subject to the extended 365-day lock-up period."
+          ]
+        },
+        {
+          "label": "The earlier of (x) the second full trading day on Nasdaq immediately following the public release of our quarterly financial results for the fiscal quarter ending September 30, 2027 (the date of such public release, the Q3 Earnings Release Date) and (y) immediately after the close of trading on the 365th day after the date of this prospectus",
+          "cells": [
+            "Up to shares of Class A common stock, representing the remaining shares subject to the extended 365-day lock-up period."
+          ]
+        }
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Underwriters",
+      "caption_line": 32928,
+      "start_line": 32928,
+      "end_line": 32982,
+      "column_note": "—",
+      "columns": ["Underwriters", "Number of Shares of Class A Common Stock"],
+      "rows": [
+        {"label": "Goldman Sachs Co. LLC", "cells": ["[BLANK]"]},
+        {"label": "Morgan Stanley Co. LLC", "cells": ["[BLANK]"]},
+        {"label": "J.P. Morgan Securities LLC", "cells": ["[BLANK]"]},
+        {"label": "Citigroup Global Markets Inc.", "cells": ["[BLANK]"]},
+        {"label": "Barclays Capital Inc. and Barclays Bank PLC", "cells": ["[BLANK]"]},
+        {"label": "Wells Fargo Securities, LLC", "cells": ["[BLANK]"]},
+        {"label": "BofA Securities, Inc.", "cells": ["[BLANK]"]},
+        {"label": "Deutsche Bank Securities Inc.", "cells": ["[BLANK]"]},
+        {"label": "RBC Capital Markets, LLC", "cells": ["[BLANK]"]},
+        {"label": "UBS Securities LLC", "cells": ["[BLANK]"]},
+        {"label": "BMO Capital Markets Corp.", "cells": ["[BLANK]"]},
+        {"label": "BNP Paribas Securities Corp.", "cells": ["[BLANK]"]},
+        {"label": "Credit Agricole Securities (USA) Inc.", "cells": ["[BLANK]"]},
+        {"label": "Jefferies LLC", "cells": ["[BLANK]"]},
+        {"label": "Mizuho Securities USA LLC", "cells": ["[BLANK]"]},
+        {"label": "MUFG Securities Americas Inc.", "cells": ["[BLANK]"]},
+        {"label": "TD Securities (USA) LLC", "cells": ["[BLANK]"]},
+        {"label": "BTIG, LLC", "cells": ["[BLANK]"]},
+        {"label": "Cantor Fitzgerald Co.", "cells": ["[BLANK]"]},
+        {"label": "Capital One Securities, Inc.", "cells": ["[BLANK]"]},
+        {"label": "Macquarie Capital (USA) Inc.", "cells": ["[BLANK]"]},
+        {"label": "SG Americas Securities, LLC", "cells": ["[BLANK]"]},
+        {"label": "Total", "cells": ["[BLANK]"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Paid by us",
+      "caption_line": 33014,
+      "start_line": 33014,
+      "end_line": 33030,
+      "column_note": "First of two stacked underwriting-discount tables introduced by: The following table shows the per share and total underwriting discounts and commissions to be paid to the underwriters by us and the selling stockholders. Such amounts are shown assuming both no exercise and full exercise of the underwriters option to purchase additional shares of Class A common stock.",
+      "columns": ["", "No Exercise", "Full Exercise"],
+      "rows": [
+        {"label": "Per Share", "cells": ["$", "$"]},
+        {"label": "Total", "cells": ["$", "$"]}
+      ],
+      "footnotes": []
+    },
+    {
+      "kind": "caption",
+      "caption": "Paid by the selling stockholders",
+      "caption_line": 33032,
+      "start_line": 33032,
+      "end_line": 33048,
+      "column_note": "Second of two stacked underwriting-discount tables introduced by: The following table shows the per share and total underwriting discounts and commissions to be paid to the underwriters by us and the selling stockholders. Such amounts are shown assuming both no exercise and full exercise of the underwriters option to purchase additional shares of Class A common stock.",
+      "columns": ["", "No Exercise", "Full Exercise"],
+      "rows": [
+        {"label": "Per Share", "cells": ["$", "$"]},
+        {"label": "Total", "cells": ["$", "$"]}
+      ],
+      "footnotes": []
+    }
+  ]
+}

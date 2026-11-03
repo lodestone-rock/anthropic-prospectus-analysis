@@ -1,0 +1,2991 @@
+{
+ "chunk": "sx1_10",
+ "section": "management-execcomp-relationships",
+ "filing": "sx1",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 33564,
+  "completion_tokens": 26753,
+  "total_tokens": 60317,
+  "cost": 0.0184111,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0184111,
+   "upstream_inference_prompt_cost": 0.0050346,
+   "upstream_inference_completions_cost": 0.0133765
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 7784,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 244,
+ "records": [
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name",
+    "Age",
+    "Position(s)",
+    "Electing Class(es) of Stock",
+    "Following this Offering*"
+   ],
+   "columns": [
+    "Name",
+    "Age",
+    "Position(s)",
+    "Electing Class(es) of Stock Following this Offering*"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "The following table provides information regarding our executive officers and directors as of September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - age/class",
+   "values": [
+    "43",
+    "Chief Executive Officer, Co-Founder, and Director",
+    "Classes A and F"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Dario Amodei 43 Chief Executive Officer, Co-Founder, and Director Classes A and F"
+  },
+  {
+   "kind": "table_row",
+   "label": "Daniela Amodei - age/class",
+   "values": [
+    "39",
+    "President, Co-Founder, Chairperson, and Director",
+    "Classes A and F"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Daniela Amodei(2) 39 President, Co-Founder, Chairperson, and Director Classes A and F"
+  },
+  {
+   "kind": "table_row",
+   "label": "Krishna Rao - age",
+   "values": [
+    "43",
+    "Chief Financial Officer"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Krishna Rao 43 Chief Financial Officer"
+  },
+  {
+   "kind": "table_row",
+   "label": "Reed Hastings - age/class",
+   "values": [
+    "65",
+    "Director",
+    "Class T"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Reed Hastings(1)(2)(6) 65 Director Class T"
+  },
+  {
+   "kind": "table_row",
+   "label": "Christopher Liddell - age/class",
+   "values": [
+    "68",
+    "Director",
+    "Class T"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Christopher Liddell(1)(4)(5) 68 Director Class T"
+  },
+  {
+   "kind": "table_row",
+   "label": "Vas Narasimhan - age/class",
+   "values": [
+    "50",
+    "Director",
+    "Class T"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Vas Narasimhan(3)(4) 50 Director Class T"
+  },
+  {
+   "kind": "table_row",
+   "label": "Yasmin Razavi - age/class",
+   "values": [
+    "37",
+    "Director",
+    "Classes A and F"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Yasmin Razavi(2)(3) 37 Director Classes A and F"
+  },
+  {
+   "kind": "inline",
+   "label": "Current board size",
+   "values": [
+    "six"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "governance",
+   "quote": "Our board of directors currently consists of six directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Post-offering authorized directors",
+   "values": [
+    "seven"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "Upon the completion of this offering, our board of directors will consist of seven authorized directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Class T directors post-offering",
+   "values": [
+    "four"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "will generally have the authority to elect and remove the four Class T directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Remaining directors post-offering",
+   "values": [
+    "three"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "will have the authority to elect and remove the remaining three directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Classified board after Class F Sunset",
+   "values": [
+    "three",
+    "three-year"
+   ],
+   "unit": "years",
+   "period": "post-Class F Sunset Time",
+   "category": "governance",
+   "quote": "classified board of directors consisting of three classes of approximately equal size, each serving staggered three-year terms"
+  },
+  {
+   "kind": "inline",
+   "label": "Class size fraction",
+   "values": [
+    "one-third"
+   ],
+   "unit": "%",
+   "period": "post-Class F Sunset Time",
+   "category": "governance",
+   "quote": "each class would consist of one-third of our directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Audit committee phase-in",
+   "values": [
+    "one",
+    "two",
+    "90 days",
+    "three",
+    "one year"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "at least one member on the audit committee upon the listing date of our Class A common stock, at least two members within 90 days of the listing date and at least three members within one year"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC notice period for LTBT nominations",
+   "values": [
+    "30 days"
+   ],
+   "unit": "days",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "our NGC will also have the right to receive 30 days prior written notice of any nomination"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC concurrence window",
+   "values": [
+    "15 days"
+   ],
+   "unit": "days",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "if our NGC does not concur with such nomination, removal, or change within 15 days of receiving notice"
+  },
+  {
+   "kind": "inline",
+   "label": "Class E vote on Specified Class T Director",
+   "values": [
+    "majority of votes cast",
+    "majority of the outstanding shares"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "will require a majority of votes cast by our Class E common stock and quorum will require the presence, in person or by proxy, of a majority of the outstanding shares of Class E common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC composition",
+   "values": [
+    "one",
+    "two"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "our NGC will be composed of one Class T director and two directors who are not Class T directors"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name(1)",
+    "Fees Earned or Paid in Cash ($)",
+    "Total ($)"
+   ],
+   "columns": [
+    "Name(1)",
+    "Fees Earned or Paid in Cash ($)",
+    "Total ($)"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "regarding the compensation of our non-employee directors for service as directors for the year ended December 31, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Jay Kreps - director fees FY2025",
+   "values": [
+    "200,000",
+    "200,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Jay Kreps(2) 200,000 200,000"
+  },
+  {
+   "kind": "blank",
+   "label": "Reed Hastings - director fees FY2025",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Reed Hastings Jay Kreps(2) 200,000 200,000 Christopher Liddell(3)"
+  },
+  {
+   "kind": "blank",
+   "label": "Christopher Liddell - director fees FY2025",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Christopher Liddell(3) Vas Narasimhan(4) Yasmin Razavi"
+  },
+  {
+   "kind": "inline",
+   "label": "No director compensation FY2025",
+   "values": [
+    "no compensation",
+    "December 31, 2025"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "did not receive any compensation for their services as directors for the year ended December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "No outstanding equity awards for non-employee directors",
+   "values": [
+    "none",
+    "December 31, 2025"
+   ],
+   "unit": "shares",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "None of our non-employee directors held any outstanding equity awards as of December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Kreps resignation",
+   "values": [
+    "May 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "Mr. Kreps resigned from our board of directors in May 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Liddell board join date",
+   "values": [
+    "February 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "Mr. Liddell joined our board of directors in February 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Narasimhan board join date",
+   "values": [
+    "April 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "Dr. Narasimhan joined our board of directors in April 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Board member annual cash retainer",
+   "values": [
+    "$100,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$100,000 per year for service as a board member"
+  },
+  {
+   "kind": "inline",
+   "label": "Non-executive chair annual fee",
+   "values": [
+    "$75,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$75,000 per year for service as non-executive chair of the board of directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Lead independent director annual fee",
+   "values": [
+    "$60,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$60,000 per year for service as lead independent director (if applicable)"
+  },
+  {
+   "kind": "inline",
+   "label": "Audit committee chair annual fee",
+   "values": [
+    "$40,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$40,000 per year for service as chair of the audit committee"
+  },
+  {
+   "kind": "inline",
+   "label": "Audit committee member annual fee",
+   "values": [
+    "$20,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$20,000 per year for service as a member of the audit committee"
+  },
+  {
+   "kind": "inline",
+   "label": "Compensation committee chair annual fee",
+   "values": [
+    "$30,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$30,000 per year for service as chair of the compensation committee"
+  },
+  {
+   "kind": "inline",
+   "label": "Compensation committee member annual fee",
+   "values": [
+    "$15,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$15,000 per year for service as a member of the compensation committee"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC chair annual fee",
+   "values": [
+    "$30,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$30,000 per year for service as chair of the NGC"
+  },
+  {
+   "kind": "inline",
+   "label": "NGC member annual fee",
+   "values": [
+    "$15,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "$15,000 per year for service as a member of the NGC"
+  },
+  {
+   "kind": "inline",
+   "label": "Annual Award grant value",
+   "values": [
+    "$325,000"
+   ],
+   "unit": "$",
+   "period": "beginning 2027",
+   "category": "stock_plan",
+   "quote": "an award of RSUs (the Annual Award) with a value of $325,000 (the Annual Award Grant Value)"
+  },
+  {
+   "kind": "inline",
+   "label": "Annual Award vesting",
+   "values": [
+    "four equal quarterly installments"
+   ],
+   "unit": "count",
+   "period": "beginning 2027",
+   "category": "stock_plan",
+   "quote": "An Annual Award will vest in four equal quarterly installments on each Quarterly Vesting Date"
+  },
+  {
+   "kind": "inline",
+   "label": "Quarterly Vesting Dates",
+   "values": [
+    "February 20",
+    "May 20",
+    "August 20",
+    "November 20"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "Quarterly Vesting Date means February 20, May 20, August 20, and November 20 of a given year"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Award value",
+   "values": [
+    "$400,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "An award of RSUs with a value of $400,000, which value will be converted to a number of shares of our Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Pro-Rated Annual Award fraction denominator",
+   "values": [
+    "12"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "by (B) 12, which will be converted to a number of shares of our Class A common stock subject to such award"
+  },
+  {
+   "kind": "inline",
+   "label": "Initial Award vesting",
+   "values": [
+    "12.5%",
+    "six-month anniversary",
+    "14 successive equal quarterly installments"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "12.5% of the RSUs will vest on the six-month anniversary of the Vesting Commencement Date and the balance of the RSUs will vest in 14 successive equal quarterly installments"
+  },
+  {
+   "kind": "inline",
+   "label": "Pro-Rated Annual Award installments",
+   "values": [
+    "three equal installments",
+    "two such Quarterly Vesting Dates"
+   ],
+   "unit": "count",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "if there are two such Quarterly Vesting Dates, the Pro-Rated Annual Award shall vest in three equal installments"
+  },
+  {
+   "kind": "inline",
+   "label": "Compensation philosophy market target",
+   "values": [
+    "90th percentile"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "metrics",
+   "quote": "competitive pay that targets the 90th percentile of the AI development market"
+  },
+  {
+   "kind": "inline",
+   "label": "Co-founder count",
+   "values": [
+    "seven"
+   ],
+   "unit": "count",
+   "period": "FY2025",
+   "category": "governance",
+   "quote": "we distinguish between our seven co-founders (among whom only Dr. Amodei and Ms. Amodei are executive officers)"
+  },
+  {
+   "kind": "inline",
+   "label": "Amodei base salary Jan-Jun 2025",
+   "values": [
+    "$600,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "From January 1, 2025 to June 15, 2025, the annual base salary for each of Dr. Amodei and Ms. Amodei was $600,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Amodei base salary effective June 16, 2025",
+   "values": [
+    "$700,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Effective June 16, 2025, the annual base salary for each of Dr. Amodei and Ms. Amodei was increased to $700,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao base salary Jan-Dec 2025",
+   "values": [
+    "$700,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "From January 1, 2025 to December 15, 2025, the annual base salary for Mr. Rao was $700,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao base salary effective Dec 16, 2025",
+   "values": [
+    "$850,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "which was increased to $850,000 effective December 16, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 Options granted per Amodei",
+   "values": [
+    "992,500"
+   ],
+   "unit": "shares",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "our board of directors granted 992,500 options (2025 Options) and 1,717,000 RSUs (2025 RSUs) to each of Dr. Amodei and Ms. Amodei"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 RSUs granted per Amodei",
+   "values": [
+    "1,717,000"
+   ],
+   "unit": "shares",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "1,717,000 RSUs (2025 RSUs) to each of Dr. Amodei and Ms. Amodei"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 Options exercise price",
+   "values": [
+    "$2.38"
+   ],
+   "unit": "per-share",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "The 2025 Options were granted with an exercise price equal to $2.38 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 Options vesting period",
+   "values": [
+    "one-year period",
+    "January 1, 2025"
+   ],
+   "unit": "years",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "vested in equal monthly installments over a one-year period beginning on January 1, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 RSUs service vesting fraction",
+   "values": [
+    "1/12th",
+    "February 20, 2026"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "satisfied as to 112th of the total 2025 RSUs on February 20, 2026, and on each quarterly anniversary thereafter"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao new hire option shares",
+   "values": [
+    "14,000,000"
+   ],
+   "unit": "shares",
+   "period": "FY2024",
+   "category": "stock_plan",
+   "quote": "a new hire stock option grant to purchase 14,000,000 shares of our Class A common stock under our 2021 Plan (Rao Options)"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao Options initial vesting",
+   "values": [
+    "1/4th",
+    "12-month anniversary"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "stock_plan",
+   "quote": "vested with respect to 14th of the shares on the 12-month anniversary of Mr. Raos first day of employment"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao Options monthly vesting",
+   "values": [
+    "1/48th"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "stock_plan",
+   "quote": "148th of the shares in equal monthly installments thereafter, subject to Mr. Raos continuous service"
+  },
+  {
+   "kind": "inline",
+   "label": "Non-solicitation period",
+   "values": [
+    "12 months post-termination"
+   ],
+   "unit": "months",
+   "period": "FY2025",
+   "category": "legal",
+   "quote": "restrictions on employee non-solicitation (during employment and for 12 months post-termination)"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao severance base salary continuation",
+   "values": [
+    "six months"
+   ],
+   "unit": "months",
+   "period": "FY2025",
+   "category": "commitments",
+   "quote": "(i) an amount equal to six months of his then-current base salary"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao severance COBRA",
+   "values": [
+    "up to six months"
+   ],
+   "unit": "months",
+   "period": "FY2025",
+   "category": "commitments",
+   "quote": "payment of monthly premiums for coverage under the Consolidated Omnibus Budget Reconciliation Act (COBRA) for up to six months"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao severance equity acceleration",
+   "values": [
+    "1/8th of the Rao Options"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "(iii) accelerated vesting as to 18th of the Rao Options"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao change-of-control window",
+   "values": [
+    "30 days"
+   ],
+   "unit": "days",
+   "period": "FY2025",
+   "category": "commitments",
+   "quote": "if, within 30 days prior to, upon, or at any time following a change of control"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao change-of-control acceleration",
+   "values": [
+    "100%"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "100% of any then unvested shares subject to his then outstanding equity awards, including the Rao Options, would accelerate and vest"
+  },
+  {
+   "kind": "inline",
+   "label": "Section 162(m) deduction limit",
+   "values": [
+    "$1 million"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "commitments",
+   "quote": "Section 162(m) of the Code imposes a $1 million limit on the amount of compensation that we may deduct"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name and Principal Position",
+    "Year",
+    "Salary ($)",
+    "Stock Awards ($)(1)(2)",
+    "Option Awards ($)(1)",
+    "All Other Compensation ($)",
+    "Total ($)"
+   ],
+   "columns": [
+    "Name and Principal Position",
+    "Year",
+    "Salary ($)",
+    "Stock Awards ($)(1)(2)",
+    "Option Awards ($)(1)",
+    "All Other Compensation ($)",
+    "Total ($)"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "The following table shows the compensation awarded, paid to, or earned by each of our NEOs for the year ended December 31, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - Summary Compensation Table FY2025",
+   "values": [
+    "2025",
+    "654,167",
+    "9,264,932",
+    "4,028,558",
+    "4,010,641(3)",
+    "17,958,298"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Dario Amodei Chief Executive Officer, Co-Founder, and Director 2025 654,167 9,264,932 4,028,558 4,010,641 (3) 17,958,298"
+  },
+  {
+   "kind": "table_row",
+   "label": "Daniela Amodei - Summary Compensation Table FY2025",
+   "values": [
+    "2025",
+    "654,167",
+    "9,264,932",
+    "4,028,558",
+    "2,461,341(4)",
+    "16,408,998"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Daniela Amodei President, Co-Founder, and Director 2025 654,167 9,264,932 4,028,558 2,461,341 (4) 16,408,998"
+  },
+  {
+   "kind": "table_row",
+   "label": "Krishna Rao - Summary Compensation Table FY2025",
+   "values": [
+    "2025",
+    "706,250",
+    "14,000(5)",
+    "720,250"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Krishna Rao Chief Financial Officer 2025 706,250 14,000 (5) 720,250"
+  },
+  {
+   "kind": "inline",
+   "label": "Dario 401(k) match",
+   "values": [
+    "$14,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(i) $14,000 in connection with 401(k) company matching contributions"
+  },
+  {
+   "kind": "inline",
+   "label": "Dario personal security services cost",
+   "values": [
+    "$2,745,874"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(ii) $2,745,874 in connection with personal security services that we view as an integral part of our risk management program"
+  },
+  {
+   "kind": "inline",
+   "label": "Dario private air travel personal use",
+   "values": [
+    "$97,055"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(iii) $97,055 in costs related to Dr. Amodeis privateair travelfor personal use"
+  },
+  {
+   "kind": "inline",
+   "label": "Dario June 2025 tender offer spread",
+   "values": [
+    "$1,153,087"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(iv) $1,153,087, representing the spread between theaggregate purchaseprice and the fair market value of shares repurchased from Dr. Amodei in our June 2025 tender offer"
+  },
+  {
+   "kind": "inline",
+   "label": "Valuation Report pro rata cost (Dario)",
+   "values": [
+    "$625"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(v) $625 representing a pro rata portion of the cost of a valuation report"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela 401(k) match",
+   "values": [
+    "$14,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Amounts reported include (i) $14,000 in connection with 401(k) company matching contributions"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela security and transportation cost",
+   "values": [
+    "$1,293,629"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(ii) $1,293,629 in connection with company-paid personal protection, home security, and transportation services"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela June 2025 tender offer spread",
+   "values": [
+    "$1,153,087"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(iii) $1,153,087, representing the spread between theaggregate purchaseprice and the fair market value of shares repurchased from Ms. Amodei in our June 2025 tender offer"
+  },
+  {
+   "kind": "inline",
+   "label": "Valuation Report pro rata cost (Daniela)",
+   "values": [
+    "$625"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(iv) $625 representing a pro rata portion of the cost of the Valuation Report"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao 401(k) match",
+   "values": [
+    "$14,000"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "(5)Amounts reported reflect 401(k) company matching contributions"
+  },
+  {
+   "kind": "inline",
+   "label": "Amodei base salary effective Jan 16, 2026",
+   "values": [
+    "$915,000"
+   ],
+   "unit": "$",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "Effective January 16, 2026, the annual base salary for each of Dr. Amodei and Ms. Amodei was increased to $915,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao base salary effective Feb 1, 2026",
+   "values": [
+    "$1,250,000"
+   ],
+   "unit": "$",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "Effective February 1, 2026, the annual base salary for Mr. Rao was increased to $1,250,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Amodei base salary effective Jul 1, 2026",
+   "values": [
+    "$1,380,000"
+   ],
+   "unit": "$",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "Effective July 1, 2026, the annual base salary for each of Dr. Amodei and Ms. Amodei was further increased to $1,380,000"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO Options per Amodei",
+   "values": [
+    "1,431,490"
+   ],
+   "unit": "shares",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "our board of directors granted 1,431,490 options to each of Dr. Amodei and Ms. Amodei and 1,122,840 options to Mr. Rao"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO Options to Rao",
+   "values": [
+    "1,122,840"
+   ],
+   "unit": "shares",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "1,122,840 options to Mr. Rao (together, the 2026 NEO Options)"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO RSUs per Amodei",
+   "values": [
+    "2,374,010"
+   ],
+   "unit": "shares",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "2,374,010 RSUs to each of Dr. Amodei and Ms. Amodei and 1,862,140 RSUs to Mr. Rao"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO RSUs to Rao",
+   "values": [
+    "1,862,140"
+   ],
+   "unit": "shares",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "1,862,140 RSUs to Mr. Rao (together, the 2026 NEO RSUs)"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO Options vesting start (Amodeis)",
+   "values": [
+    "January 16, 2026",
+    "one-year period"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "vest in equal monthly installments over a one-year period beginning on January 16, 2026 for each of Dr. Amodei and Ms. Amodei"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO Options vesting start (Rao)",
+   "values": [
+    "January 30, 2026"
+   ],
+   "unit": "count",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "and on January 30, 2026 for Mr. Rao, subject to the executives continuous service"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO Options exercise price",
+   "values": [
+    "$17.66"
+   ],
+   "unit": "per-share",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "The 2026 NEO Options were granted with an exercise price equal to $17.66 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 NEO RSUs service vesting fraction",
+   "values": [
+    "1/12th",
+    "May 20, 2027"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "satisfied as to 112th of the total 2026 NEO RSUs on May 20, 2027, and on each quarterly anniversary thereafter"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Co-Founder RSUs per Amodei",
+   "values": [
+    "537,430"
+   ],
+   "unit": "shares",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "On July 15, 2026, our board of directors granted 537,430 RSUs (2026 Co-Founder RSUs) to each of Dr. Amodei and Ms. Amodei"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Co-Founder RSUs service vesting fraction",
+   "values": [
+    "1/16th",
+    "August 20, 2026"
+   ],
+   "unit": "%",
+   "period": "FY2026",
+   "category": "stock_plan",
+   "quote": "satisfied as to 116th of the total 2026 Co-Founder RSUs on August 20, 2026, and on each quarterly anniversary thereafter"
+  },
+  {
+   "kind": "inline",
+   "label": "Executive Severance Agreement - Amodeis",
+   "values": [
+    "24 months"
+   ],
+   "unit": "months",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "an amount equal to 24 months of their then-current base salary for Dr. Amodei and Ms. Amodei"
+  },
+  {
+   "kind": "inline",
+   "label": "Executive Severance Agreement - Rao",
+   "values": [
+    "12 months"
+   ],
+   "unit": "months",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "12 months of his then-current base salary for Mr. Rao"
+  },
+  {
+   "kind": "inline",
+   "label": "Executive Severance Agreement - COBRA and vesting",
+   "values": [
+    "12 months",
+    "12 months"
+   ],
+   "unit": "months",
+   "period": "FY2026",
+   "category": "commitments",
+   "quote": "(ii) an amount equal to 12 months of COBRA premium payments, and (iii) acceleration of 12 months of equity vesting"
+  },
+  {
+   "kind": "inline",
+   "label": "HSR Filing Fees per NEO",
+   "values": [
+    "$2.5 million"
+   ],
+   "unit": "$",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "each in the amount of $2.5 million (the HSR Filing Fees)"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name",
+    "Grant Date(1)",
+    "Target (#)(2)",
+    "Number of Securities Underlying Options (#)",
+    "Exercise or Base Price of Option Awards ($/sh)",
+    "Grant Date Fair Value of Stock and Option Awards ($)"
+   ],
+   "columns": [
+    "Name",
+    "Grant Date(1)",
+    "Target (#)(2)",
+    "All Other Option Awards Number of Securities Underlying Options (#)",
+    "Exercise or Base Price of Option Awards ($/sh)",
+    "Grant Date Fair Value of Stock and Option Awards ($)"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "The following table sets forth information regarding grants of awards made to our NEOs during 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - 2025 option grant",
+   "values": [
+    "6122025",
+    "992,500",
+    "2.38",
+    "4,028,558"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "Dario Amodei 6122025 992,500 2.38 4,028,558"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - 2025 RSU grant",
+   "values": [
+    "6122025",
+    "1,717,000",
+    "9,264,932"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "6122025 1,717,000 9,264,932 Daniela Amodei"
+  },
+  {
+   "kind": "table_row",
+   "label": "Daniela Amodei - 2025 option grant",
+   "values": [
+    "6122025",
+    "992,500",
+    "2.38",
+    "4,028,558"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "Daniela Amodei 6122025 992,500 2.38 4,028,558"
+  },
+  {
+   "kind": "table_row",
+   "label": "Daniela Amodei - 2025 RSU grant",
+   "values": [
+    "6122025",
+    "1,717,000",
+    "9,264,932"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "6122025 1,717,000 9,264,932 Krishna Rao"
+  },
+  {
+   "kind": "blank",
+   "label": "Krishna Rao - 2025 plan-based grants",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "Krishna Rao ______________ (1)All awards were granted pursuant to our 2021 Plan"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name",
+    "Grant Date",
+    "Number of Securities Underlying Unexercised Options (#) Exercisable",
+    "Number of Securities Underlying Unexercised Options (#) Unexercisable",
+    "Option Exercise Price ($)",
+    "Option Expiration Date",
+    "Equity Incentive Plan Awards Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)",
+    "Equity Incentive Plan Awards Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)"
+   ],
+   "columns": [
+    "Name",
+    "Grant Date",
+    "Unexercised Options Exercisable (#)",
+    "Unexercised Options Unexercisable (#)",
+    "Option Exercise Price ($)",
+    "Option Expiration Date",
+    "Unearned Shares Not Vested (#)",
+    "Market or Payout Value of Unearned Shares ($)"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "The following table sets forth information regarding outstanding equity awards held by our NEOs as of December 31, 2025"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - outstanding equity awards at 2025 year-end",
+   "values": [
+    "6122025",
+    "909,790(3)",
+    "82,710",
+    "2.38",
+    "6112035",
+    "1,717,000(5)",
+    "6122025",
+    "30,317,069"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "Dario Amodei 6122025 909,790(3) 82,710 2.38 6112035 1,717,000(5) 6122025 30,317,069"
+  },
+  {
+   "kind": "table_row",
+   "label": "Daniela Amodei - outstanding equity awards at 2025 year-end",
+   "values": [
+    "6122025",
+    "909,790(3)",
+    "82,710",
+    "2.38",
+    "6112035",
+    "1,717,000(5)",
+    "6122025",
+    "30,317,069"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "Daniela Amodei 6122025 909,790(3) 82,710 2.38 6112035 1,717,000(5) 6122025 30,317,069"
+  },
+  {
+   "kind": "table_row",
+   "label": "Krishna Rao - outstanding equity awards at 2025 year-end",
+   "values": [
+    "5312024",
+    "5,756,350(4)",
+    "8,166,670",
+    "1.30",
+    "5302034"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "Krishna Rao 5312024 5,756,350(4) 8,166,670 1.30 5302034"
+  },
+  {
+   "kind": "inline",
+   "label": "Class A FMV at Dec 31, 2025",
+   "values": [
+    "$17.66"
+   ],
+   "unit": "per-share",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "fair market value of our Class A common stock of $17.66 per share as of December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 option vesting fraction footnote",
+   "values": [
+    "1/12th",
+    "January 1, 2025"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "112th of the total shares subject to the option vested on the one-month anniversary of the vesting commencement date (January 1, 2025)"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao option vesting footnote",
+   "values": [
+    "1/4th",
+    "April 18, 2024",
+    "1/48th"
+   ],
+   "unit": "%",
+   "period": "FY2024",
+   "category": "stock_plan",
+   "quote": "14th of the total shares subject to the option vested on the first anniversary of the vesting commencement date (April 18, 2024), and 148th of the total shares will vest"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 RSU service vesting start footnote",
+   "values": [
+    "1/12th",
+    "15-month anniversary",
+    "November 20, 2024",
+    "three-month anniversary"
+   ],
+   "unit": "%",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "satisfied as to 112th of the RSUs on the 15-month anniversary of the vesting commencement date (November 20, 2024) and on each three-month anniversary thereafter"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name",
+    "Number of Securities Acquired on Exercise (#)",
+    "Value Realized on Exercise ($)",
+    "Number of Securities Acquired on Vesting (#)",
+    "Value Realized on Vesting ($)"
+   ],
+   "columns": [
+    "Name",
+    "Number of Securities Acquired on Exercise (#)",
+    "Value Realized on Exercise ($)",
+    "Number of Securities Acquired on Vesting (#)",
+    "Value Realized on Vesting ($)"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "The following table sets forth the number of shares of Class A common stock acquired during 2025 by our NEOs"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - options exercised 2025",
+   "values": [
+    "5,058,340",
+    "12,013,558"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "Dario Amodei 5,058,340 12,013,558 Daniela Amodei"
+  },
+  {
+   "kind": "table_row",
+   "label": "Daniela Amodei - options exercised 2025",
+   "values": [
+    "5,058,340",
+    "12,013,558"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "Daniela Amodei 5,058,340 12,013,558 Krishna Rao"
+  },
+  {
+   "kind": "table_row",
+   "label": "Krishna Rao - stock vested 2025",
+   "values": [
+    "76,980",
+    "385,285"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "Krishna Rao 76,980 385,285"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name",
+    "Cash Severance ($)",
+    "Value of Accelerated Equity Awards ($)",
+    "Continuing Health Coverage ($)",
+    "Total ($)"
+   ],
+   "columns": [
+    "Name",
+    "Cash Severance ($)",
+    "Value of Accelerated Equity Awards ($)",
+    "Continuing Health Coverage ($)",
+    "Total ($)"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "quantitative estimates of the benefits that would have accrued to each of our NEOs if any of their employment had been terminated"
+  },
+  {
+   "kind": "table_row",
+   "label": "Krishna Rao - termination apart from change of control",
+   "values": [
+    "425,000(2)",
+    "28,626,500(3)",
+    "16,079(4)",
+    "29,067,579"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "Krishna Rao(1) 425,000 (2) 28,626,500 (3) 16,079 (4) 29,067,579"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao cash severance = six months base",
+   "values": [
+    "$425,000",
+    "six months"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "This amount is equal to six months of Mr. Raos annual base salary, to be paid in a lump sum"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao accelerated shares (1/8th)",
+   "values": [
+    "1/8th",
+    "1,750,000 shares"
+   ],
+   "unit": "shares",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "the value of acceleration of 18th of the total number of shares subject to the Rao Options (1,750,000 shares)"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao acceleration net spread inputs",
+   "values": [
+    "$17.66",
+    "$1.30"
+   ],
+   "unit": "per-share",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "fair market value of our Class A common stock of $17.66 per share as of December 31, 2025, minus the option exercise price of $1.30 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao COBRA coverage period",
+   "values": [
+    "six months"
+   ],
+   "unit": "months",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "premium cost of continued health coverage under COBRA for a period of six months"
+  },
+  {
+   "kind": "table_row",
+   "label": "Krishna Rao - termination in connection with change of control",
+   "values": [
+    "425,000(2)",
+    "133,590,388(3)",
+    "16,079(4)",
+    "134,031,467"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "Krishna Rao(1) 425,000 (2) 133,590,388 (3) 16,079 (4) 134,031,467"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao CoC accelerated shares (100%)",
+   "values": [
+    "100%",
+    "8,166,670 shares"
+   ],
+   "unit": "shares",
+   "period": "as of 2025-12-31",
+   "category": "stock_plan",
+   "quote": "the value of acceleration of 100% of the total number of unvested shares subject to the Rao Options (8,166,670 shares)"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Plan adoption/approval dates",
+   "values": [
+    "September 1, 2026",
+    "October 22, 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "Our 2026 Plan was adopted by our board of directors on September 1, 2026, and approved by our stockholders on October 22, 2026"
+  },
+  {
+   "kind": "blank",
+   "label": "2026 Plan initial share reserve",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "The maximum aggregate number of shares that may be issued under our 2026 Plan is (i) shares of our Class A common stock plus"
+  },
+  {
+   "kind": "blank",
+   "label": "2026 Plan cap on (ii) plus (iii)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "(provided that the maximum number of shares pursuant to (ii) plus (iii) is shares)"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Plan annual automatic increase",
+   "values": [
+    "5%",
+    "2027 fiscal year",
+    "2036 fiscal year"
+   ],
+   "unit": "%",
+   "period": "2027-2036",
+   "category": "stock_plan",
+   "quote": "increased on the first day of each fiscal year beginning with our 2027 fiscal year and ending on (and including) the first day of our 2036 fiscal year, in an amount equal to the lesser of (i) 5%"
+  },
+  {
+   "kind": "inline",
+   "label": "ISO maximum term",
+   "values": [
+    "10 years"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "The term of an incentive stock option may not exceed 10 years"
+  },
+  {
+   "kind": "inline",
+   "label": "10% owner ISO limits",
+   "values": [
+    "10%",
+    "five years",
+    "110%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "a participant who owns more than 10% of the total combined voting power of all classes of our stock, or of certain of our subsidiary corporations, may not have a term in excess of five years and must have an exercise price equal to at least 110% of the fair market value"
+  },
+  {
+   "kind": "inline",
+   "label": "Outside director annual award limit",
+   "values": [
+    "$1,000,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "shall not exceed $1,000,000 in total value for any non-employee director"
+  },
+  {
+   "kind": "inline",
+   "label": "Outside director first-year limit",
+   "values": [
+    "$2,000,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "except with respect to the first year of service in which case any stock awards granted and cash fees paid will not exceed $2,000,000 in total value"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Plan corporate transaction threshold",
+   "values": [
+    "more than 50%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "any person becomes the beneficial owner, directly or indirectly, of more than 50% of the companys then outstanding capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Plan change-in-control voting threshold",
+   "values": [
+    "at least 50%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "becomes the beneficial owner, directly or indirectly, of at least 50% of the total voting power represented by our then outstanding voting securities"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 Plan board-replacement change in control",
+   "values": [
+    "12-month period",
+    "majority"
+   ],
+   "unit": "months",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "a majority of our board members are replaced during any 12-month period by directors whose appointment or election is not endorsed by a majority of the members of our board of directors"
+  },
+  {
+   "kind": "inline",
+   "label": "ISO grant window after approval",
+   "values": [
+    "10 years"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "no options that qualify as incentive stock options may be granted after 10 years from the earlier of the board or stockholder approval of our 2026 Plan"
+  },
+  {
+   "kind": "inline",
+   "label": "2021 Plan adoption and amendment dates",
+   "values": [
+    "January 28, 2021",
+    "May 28, 2026"
+   ],
+   "unit": "count",
+   "period": "2021-2026",
+   "category": "stock_plan",
+   "quote": "Our board of directors adopted our 2021 Plan on January 28, 2021 and last amended our 2021 Plan effective as of May 28, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "2021 Plan share reserve",
+   "values": [
+    "3,864,826,090"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "We have reserved for issuance pursuant to our 2021 Plan an aggregate of 3,864,826,090 shares of our Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "2021 Plan corporate transaction threshold",
+   "values": [
+    "more than 50%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "any person becomes the beneficial owner, directly or indirectly, of more than 50% of our then outstanding capital stock (each, a Corporate Transaction)"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP adoption/approval dates",
+   "values": [
+    "September 1, 2026",
+    "October 22, 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "stock_plan",
+   "quote": "Our ESPP was adopted by our board of directors on September 1, 2026, and approved by our stockholders on October 22, 2026"
+  },
+  {
+   "kind": "blank",
+   "label": "ESPP share reserve",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "The maximum aggregate number of shares that may be issued under our ESPP is shares of our Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP annual automatic increase",
+   "values": [
+    "1%",
+    "2027 fiscal year",
+    "2036 fiscal year"
+   ],
+   "unit": "%",
+   "period": "2027-2036",
+   "category": "stock_plan",
+   "quote": "beginning with our 2027 fiscal year and ending on (and including) the first day of our 2036 fiscal year, in an amount equal to the lesser of (i) 1% of the total number of shares"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP service requirements",
+   "values": [
+    "two years",
+    "20 hours per week",
+    "five months per calendar year"
+   ],
+   "unit": "years",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "(1) continuous service with us or one of our affiliates for at least two years, (2) being customarily employed for more than 20 hours per week, (3) being customarily employed for more than five months per calendar year"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP 423 purchase limit",
+   "values": [
+    "$25,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "No employee may purchase shares under the 423 component of our ESPP at a rate in excess of $25,000 worth of our Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP 5% eligibility exclusion",
+   "values": [
+    "5% or more"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "such employee has voting power over 5% or more of our outstanding capital stock measured by vote or value under Section 424(d) of the Code"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP offering duration",
+   "values": [
+    "not more than 27 months"
+   ],
+   "unit": "months",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "we may specify offerings with durations of not more than 27 months and may specify shorter purchase periods within each offering"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP contribution limit",
+   "values": [
+    "15%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "such percentage or maximum dollar amount of contributions may not exceed 15% of their earnings for the applicable offering"
+  },
+  {
+   "kind": "inline",
+   "label": "ESPP purchase price discount",
+   "values": [
+    "85%",
+    "85%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "stock_plan",
+   "quote": "(1) 85% of the fair market value of a share of our Class A common stock on the first date of an offering, or (2) 85% of the fair market value of a share of our Class A common stock on the date of purchase"
+  },
+  {
+   "kind": "inline",
+   "label": "Related person transaction threshold",
+   "values": [
+    "$120,000",
+    "January 1, 2023"
+   ],
+   "unit": "$",
+   "period": "since 2023-01-01",
+   "category": "governance",
+   "quote": "each transaction since January1, 2023 and each currently proposed transaction in which the amount involved exceeded or exceeds $120,000"
+  },
+  {
+   "kind": "inline",
+   "label": "5% holder definition",
+   "values": [
+    "more than 5%"
+   ],
+   "unit": "%",
+   "period": "since 2023-01-01",
+   "category": "governance",
+   "quote": "any of our directors, executive officers, or holders of more than 5% of any class of our outstanding voting securities"
+  },
+  {
+   "kind": "inline",
+   "label": "Series H-1 financing aggregate",
+   "values": [
+    "77,637,878",
+    "$589.0095",
+    "$45,729,447,703"
+   ],
+   "unit": "$",
+   "period": "May 2026 - June 2026",
+   "category": "financials",
+   "quote": "we sold an aggregate of 77,637,878 shares of our Series H-1 redeemable convertible preferred stock at a purchase price of $589.0095 per share, for an aggregate purchase price of $45,729,447,703"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Stockholder",
+    "Shares of Series H-1 Redeemable Convertible Preferred Stock",
+    "Total Purchase Price"
+   ],
+   "columns": [
+    "Stockholder",
+    "Shares of Series H-1 Redeemable Convertible Preferred Stock",
+    "Total Purchase Price"
+   ],
+   "unit": "$",
+   "period": "May 2026 - June 2026",
+   "category": "financials",
+   "quote": "The following table summarizes purchases of our Series H-1 redeemable convertible preferred stock by related persons"
+  },
+  {
+   "kind": "table_row",
+   "label": "Spark Capital - Series H-1",
+   "values": [
+    "747,016",
+    "$439,999,521"
+   ],
+   "unit": "$",
+   "period": "May 2026 - June 2026",
+   "category": "financials",
+   "quote": "Spark Capital (1) 747,016 $439,999,521"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bodhi LLC - Series H-1",
+   "values": [
+    "16,977",
+    "$9,999,614"
+   ],
+   "unit": "$",
+   "period": "May 2026 - June 2026",
+   "category": "financials",
+   "quote": "Bodhi LLC (2) 16,977 $9,999,614"
+  },
+  {
+   "kind": "inline",
+   "label": "Series G-1 financing aggregate",
+   "values": [
+    "90,510,425",
+    "$259.1364",
+    "$23,454,545,698"
+   ],
+   "unit": "$",
+   "period": "January 2026 - February 2026",
+   "category": "financials",
+   "quote": "we sold an aggregate of 90,510,425 shares of our Series G-1 redeemable convertible preferred stock at a purchase price of $259.1364 per share, for an aggregate purchase price of $23,454,545,698"
+  },
+  {
+   "kind": "table_row",
+   "label": "Spark Capital - Series G-1",
+   "values": [
+    "96,474",
+    "$24,999,925"
+   ],
+   "unit": "$",
+   "period": "January 2026 - February 2026",
+   "category": "financials",
+   "quote": "Spark Capital (1) 96,474 $24,999,925"
+  },
+  {
+   "kind": "inline",
+   "label": "Series F-1 financing aggregate",
+   "values": [
+    "92,219,720",
+    "$140.9676",
+    "$12,999,992,602"
+   ],
+   "unit": "$",
+   "period": "August 2025 - September 2025",
+   "category": "financials",
+   "quote": "we sold an aggregate of 92,219,720 shares of our Series F-1 redeemable convertible preferred stock at a purchase price of $140.9676 per share, for an aggregate purchase price of $12,999,992,602"
+  },
+  {
+   "kind": "table_row",
+   "label": "Spark Capital - Series F-1",
+   "values": [
+    "439,817",
+    "$61,999,947"
+   ],
+   "unit": "$",
+   "period": "August 2025 - September 2025",
+   "category": "financials",
+   "quote": "Spark Capital (1) 439,817 $61,999,947"
+  },
+  {
+   "kind": "inline",
+   "label": "Series E-1 financing aggregate",
+   "values": [
+    "63,610,106",
+    "$56.0865",
+    "$3,567,668,210"
+   ],
+   "unit": "$",
+   "period": "January 2025 - March 2025",
+   "category": "financials",
+   "quote": "we sold an aggregate of 63,610,106 shares of our Series E-1 redeemable convertible preferred stock at a purchase price of $56.0865 per share, for an aggregate purchase price of $3,567,668,210"
+  },
+  {
+   "kind": "table_row",
+   "label": "Spark Capital - Series E-1",
+   "values": [
+    "1,782,959",
+    "$99,999,930"
+   ],
+   "unit": "$",
+   "period": "January 2025 - March 2025",
+   "category": "financials",
+   "quote": "Spark Capital (1) 1,782,959 $99,999,930"
+  },
+  {
+   "kind": "inline",
+   "label": "Series D financing aggregate",
+   "values": [
+    "39,978,675",
+    "$30.0045",
+    "$1,199,540,154"
+   ],
+   "unit": "$",
+   "period": "January 2024 - May 2024",
+   "category": "financials",
+   "quote": "we sold an aggregate of 39,978,675 shares of our Series D-1 and D-3 redeemable convertible preferred stock at a purchase price of $30.0045 per share, for an aggregate purchase price of $1,199,540,154"
+  },
+  {
+   "kind": "inline",
+   "label": "Series D-1 SAFE conversion",
+   "values": [
+    "33,328",
+    "$1,000,000",
+    "$30.0045"
+   ],
+   "unit": "$",
+   "period": "January 2024",
+   "category": "financials",
+   "quote": "we issued 33,328 shares of our Series D-1 redeemable convertible preferred stock upon conversion of a SAFE with a principal amount of $1,000,000 at a purchase price of $30.0045 per share"
+  },
+  {
+   "kind": "table_row",
+   "label": "Spark Capital - Series D-1",
+   "values": [
+    "2,499,624",
+    "$74,999,968"
+   ],
+   "unit": "$",
+   "period": "January 2024 - May 2024",
+   "category": "financials",
+   "quote": "Spark Capital (1) 2,499,624 $74,999,968"
+  },
+  {
+   "kind": "inline",
+   "label": "Series C financing aggregate",
+   "values": [
+    "39,669,823",
+    "$11.2261",
+    "$445,337,400"
+   ],
+   "unit": "$",
+   "period": "March 2023 - June 2023",
+   "category": "financials",
+   "quote": "we sold an aggregate of 39,669,823 shares of our Series C-1 and C-2 redeemable convertible preferred stock at a purchase price of $11.2261 per share, for an aggregate purchase price of $445,337,400"
+  },
+  {
+   "kind": "inline",
+   "label": "Series C-1 SAFE conversion",
+   "values": [
+    "89,078",
+    "$1,000,000",
+    "$11.2261"
+   ],
+   "unit": "$",
+   "period": "March 2023",
+   "category": "financials",
+   "quote": "we issued 89,078 shares of our Series C-1 redeemable convertible preferred stock upon conversion of a SAFE with a principal amount of $1,000,000 at a purchase price of $11.2261 per share"
+  },
+  {
+   "kind": "table_row",
+   "label": "Spark Capital - Series C-1",
+   "values": [
+    "6,680,859",
+    "$74,999,991"
+   ],
+   "unit": "$",
+   "period": "March 2023 - June 2023",
+   "category": "financials",
+   "quote": "Spark Capital (1) 6,680,859 $74,999,991"
+  },
+  {
+   "kind": "inline",
+   "label": "ROFR and co-sale agreement date",
+   "values": [
+    "May 28, 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "our amended and restated right of first refusal and co-sale agreement, dated as of May 28, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Voting agreement date",
+   "values": [
+    "May 28, 2026"
+   ],
+   "unit": "count",
+   "period": "2026",
+   "category": "governance",
+   "quote": "We are party to an amended and restated voting agreement, dated as of May 28, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "April 2026 tender offer price",
+   "values": [
+    "$25.9136"
+   ],
+   "unit": "per-share",
+   "period": "April 2026",
+   "category": "financials",
+   "quote": "a tender offer to purchase shares of our Class A common stock from certain of our securityholders for $25.9136 per share in cash"
+  },
+  {
+   "kind": "inline",
+   "label": "April 2026 tender offer totals",
+   "values": [
+    "179,883,540",
+    "$4,661,437,298"
+   ],
+   "unit": "$",
+   "period": "April 2026",
+   "category": "financials",
+   "quote": "An aggregate of 179,883,540 shares of our Class A common stock were tendered in total pursuant to the tender offer for an aggregate purchase price of $4,661,437,298"
+  },
+  {
+   "kind": "inline",
+   "label": "June 2025 tender offer price",
+   "values": [
+    "$5.61"
+   ],
+   "unit": "per-share",
+   "period": "June 2025",
+   "category": "financials",
+   "quote": "we commenced a tender offer to purchase shares of our Class A common stock from certain of our securityholders for $5.61 per share in cash"
+  },
+  {
+   "kind": "inline",
+   "label": "June 2025 tender offer totals",
+   "values": [
+    "27,942,000",
+    "$156,716,898"
+   ],
+   "unit": "$",
+   "period": "June 2025",
+   "category": "financials",
+   "quote": "An aggregate of 27,942,000 shares of our Class A common stock were tendered in total pursuant to the tender offer for an aggregate purchase price of $156,716,898"
+  },
+  {
+   "kind": "inline",
+   "label": "Voting Proxy Agreement dates",
+   "values": [
+    "October 6, 2025",
+    "December 20, 2024"
+   ],
+   "unit": "count",
+   "period": "2024-2025",
+   "category": "governance",
+   "quote": "dated as of October 6, 2025 and December 20, 2024, respectively (together, Voting Proxy Agreements)"
+  },
+  {
+   "kind": "inline",
+   "label": "DAF ownership below 5%",
+   "values": [
+    "5% or more"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Neither of the DAFs holds 5% or more of the outstanding shares of any class of our voting securities"
+  },
+  {
+   "kind": "inline",
+   "label": "Karnofsky employment start",
+   "values": [
+    "January 2025"
+   ],
+   "unit": "count",
+   "period": "2025",
+   "category": "governance",
+   "quote": "Holden Karnofsky, the spouse of Daniela Amodei, our executive officer and Chairperson of our board of directors, has been employed by us since January 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Karnofsky 2025 total cash compensation",
+   "values": [
+    "$430,213"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "Mr. Karnofsky received total cash compensation, including base salary, bonus, and other compensation, of $430,213"
+  },
+  {
+   "kind": "blank",
+   "label": "Karnofsky 2026 total cash compensation",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$",
+   "period": "FY2026",
+   "category": "financials",
+   "quote": "of $430,213 and $, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "Karnofsky option grant",
+   "values": [
+    "179,500"
+   ],
+   "unit": "shares",
+   "period": "2025-2026",
+   "category": "stock_plan",
+   "quote": "Mr. Karnofsky received options to purchase 179,500 shares of our Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Karnofsky RSU grant",
+   "values": [
+    "761,700"
+   ],
+   "unit": "shares",
+   "period": "2025-2026",
+   "category": "stock_plan",
+   "quote": "RSUs covering 761,700 shares of our Class A common stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Stockholders Agreement notice trigger",
+   "values": [
+    "50% or more"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "a sale of 50% or more of our outstanding voting power or economic interests represented by our capital stock"
+  },
+  {
+   "kind": "blank",
+   "label": "Founder LLC legal fee reimbursement",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$",
+   "period": "pre-offering",
+   "category": "commitments",
+   "quote": "legal fees incurred by the Founder LLC, which we expect to be approximately $"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT funding FY2023",
+   "values": [
+    "$2,716,750"
+   ],
+   "unit": "$",
+   "period": "FY2023",
+   "category": "financials",
+   "quote": "In the years ended December 31, 2023, 2024, and 2025, we paid $2,716,750, $0, and $906,089 to the LTBT, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT funding FY2024",
+   "values": [
+    "$0"
+   ],
+   "unit": "$",
+   "period": "FY2024",
+   "category": "financials",
+   "quote": "In the years ended December 31, 2023, 2024, and 2025, we paid $2,716,750, $0, and $906,089 to the LTBT, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT funding FY2025",
+   "values": [
+    "$906,089"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "we paid $2,716,750, $0, and $906,089 to the LTBT, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT funding 9M 2026",
+   "values": [
+    "$8,425,213"
+   ],
+   "unit": "$",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "During the nine months ended September 30, 2026, we paid $8,425,213 to the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "Related person threshold restated",
+   "values": [
+    "$120,000",
+    "January 1, 2023"
+   ],
+   "unit": "$",
+   "period": "since 2023-01-01",
+   "category": "governance",
+   "quote": "since January1, 2023, we have not entered into any transactions... where the amount involved exceeds, or would exceed, $120,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Audit committee related-person threshold",
+   "values": [
+    "$120,000"
+   ],
+   "unit": "$",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "transactions between us and related persons in which the aggregate amount involved exceeds or may be expected to exceed $120,000"
+  },
+  {
+   "kind": "inline",
+   "label": "Related person 5% beneficial owner definition",
+   "values": [
+    "greater than 5%"
+   ],
+   "unit": "%",
+   "period": "post-offering",
+   "category": "governance",
+   "quote": "a director, executive officer, nominee for director, or greater than 5% beneficial owner of any class of our outstanding voting securities"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "values": [
+    "Name of Beneficial Owner",
+    "Class A #",
+    "Class A %",
+    "Class F #",
+    "Class F %",
+    "Class T #",
+    "Class T %",
+    "% of Total Voting Power Before the Offering",
+    "Shares of Class A Being Offered",
+    "Class A # (after)",
+    "Class F # (after)",
+    "Class T # (after)",
+    "% of Total Voting Power After the Offering"
+   ],
+   "columns": [
+    "Name of Beneficial Owner",
+    "Shares Beneficially Owned Before the Offering (Class A, Class F, Class T, % of Total Voting Power Before the Offering)",
+    "Shares of Class A Being Offered",
+    "Shares Beneficially Owned After the Offering (Class A, Class F, Class T, % of Total Voting Power After the Offering)"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "The following table sets forth certain information with respect to the beneficial ownership of our capital stock as of September 30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - beneficial ownership",
+   "values": [
+    "240,637,980"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Dario Amodei(1) 240,637,980"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - voting proxies",
+   "values": [
+    "4,621,120"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Shares subject to voting proxies(2) 4,621,120"
+  },
+  {
+   "kind": "table_row",
+   "label": "Dario Amodei - total beneficial ownership",
+   "values": [
+    "245,259,100"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Total 245,259,100"
+  },
+  {
+   "kind": "table_row",
+   "label": "Daniela Amodei - beneficial ownership",
+   "values": [
+    "241,408,940"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Daniela Amodei(3) 241,408,940"
+  },
+  {
+   "kind": "table_row",
+   "label": "Krishna Rao - beneficial ownership",
+   "values": [
+    "9,497,900"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Krishna Rao(4) 9,497,900"
+  },
+  {
+   "kind": "table_row",
+   "label": "Reed Hastings - beneficial ownership",
+   "values": [
+    "9,410"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Reed Hastings(5) 9,410"
+  },
+  {
+   "kind": "table_row",
+   "label": "Christopher Liddell - beneficial ownership",
+   "values": [
+    "9,410"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Christopher Liddell(6) 9,410"
+  },
+  {
+   "kind": "table_row",
+   "label": "Vas Narasimhan - beneficial ownership",
+   "values": [
+    "176,050"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Vas Narasimhan(7) 176,050"
+  },
+  {
+   "kind": "blank",
+   "label": "Yasmin Razavi - beneficial ownership",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Yasmin Razavi(8) All executive officers and directors as a group"
+  },
+  {
+   "kind": "table_row",
+   "label": "All executive officers and directors as a group (7 persons)",
+   "values": [
+    "496,360,810"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "All executive officers and directors as a group (7 persons)(9) 496,360,810"
+  },
+  {
+   "kind": "table_row",
+   "label": "Long-Term Benefit Trust - Class T ownership",
+   "values": [
+    "1",
+    "100%",
+    "1",
+    "100%"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Long-Term Benefit Trust(10) 1 100% 1 100%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Founder LLC - Class F ownership",
+   "values": [
+    "1",
+    "100%",
+    "50.1%"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Founder LLC(11) 1 100% 50.1%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Tom Brown - beneficial ownership",
+   "values": [
+    "244,173,040"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Tom Brown(12) 244,173,040"
+  },
+  {
+   "kind": "table_row",
+   "label": "Jack Clark - beneficial ownership",
+   "values": [
+    "242,271,840"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Jack Clark(13) 242,271,840"
+  },
+  {
+   "kind": "table_row",
+   "label": "Jared Kaplan - beneficial ownership",
+   "values": [
+    "242,351,170"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Jared Kaplan(14) 242,351,170"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sam McCandlish - beneficial ownership",
+   "values": [
+    "231,809,780"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Sam McCandlish(15) 231,809,780"
+  },
+  {
+   "kind": "table_row",
+   "label": "Christopher Olah - beneficial ownership",
+   "values": [
+    "242,882,420"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "Christopher Olah(16) 242,882,420"
+  },
+  {
+   "kind": "inline",
+   "label": "Less than 1% ownership footnote",
+   "values": [
+    "less than 1%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "*Represents beneficial ownership of less than 1%"
+  },
+  {
+   "kind": "inline",
+   "label": "Class F fixed voting power",
+   "values": [
+    "50.1%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Our Class F common stock is entitled to a fixed 50.1% of the voting power of our outstanding capital stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Class A capped voting power",
+   "values": [
+    "49.9%",
+    "49.9%"
+   ],
+   "unit": "%",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "the voting power of the holders of Class A common stock is limited to an aggregate of 49.9% of the total outstanding voting power... reduced to 49.9% of the percentage shown before the offering"
+  },
+  {
+   "kind": "inline",
+   "label": "Dario footnote - record shares",
+   "values": [
+    "237,813,080"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 237,813,080 shares of Class A common stock held of record by Dr. Amodei or by trusts over which Dr. Amodei exercises investment or voting control"
+  },
+  {
+   "kind": "inline",
+   "label": "Dario footnote - options exercisable within 60 days",
+   "values": [
+    "2,185,400",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Dario footnote - RSU settlement shares",
+   "values": [
+    "639,500",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela footnote - record shares",
+   "values": [
+    "238,319,540"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 238,319,540 shares of Class A common stock held of record by Ms. Amodei or by trusts over which Ms. Amodei exercises investment or voting control"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela footnote - options exercisable within 60 days",
+   "values": [
+    "2,185,400",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela footnote - spouse options",
+   "values": [
+    "130,550",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(iii) 130,550 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026 held by Ms. Amodeis spouse"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela footnote - RSU settlement shares",
+   "values": [
+    "639,500",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(iv) 639,500 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Daniela footnote - spouse RSU shares",
+   "values": [
+    "133,950",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(v) 133,950 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026 held by Ms. Amodeis spouse"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao footnote - record shares",
+   "values": [
+    "153,960"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 153,960 shares of Class A common stock held of record by Mr. Rao"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao footnote - options exercisable within 60 days",
+   "values": [
+    "7,843,940",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 7,843,940 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Rao footnote - trust options",
+   "values": [
+    "1,500,000",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(iii) 1,500,000 shares of Class A common stock subject to stock options exercisable by a trust over which Mr. Rao exercises investment or voting control within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Hastings footnote - RSU shares",
+   "values": [
+    "9,410",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(5)Consists of 9,410 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Liddell footnote - RSU shares",
+   "values": [
+    "9,410",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(6)Consists of 9,410 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Narasimhan footnote - Bodhi LLC shares",
+   "values": [
+    "169,770"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 169,770 shares of Class A common stock held of record by Bodhi LLC over which Dr. Narasimhan exercises sole investment and voting control"
+  },
+  {
+   "kind": "inline",
+   "label": "Narasimhan footnote - RSU shares",
+   "values": [
+    "6,280",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 6,280 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Spark fund IV managing members",
+   "values": [
+    "five"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Spark Growth Management Partners IV, LLC, which is governed by five managing members including Yasmin Razavi"
+  },
+  {
+   "kind": "inline",
+   "label": "Spark fund V managing members",
+   "values": [
+    "five"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Spark Growth Management Partners V, LLC, which is governed by its five managing members, including Ms. Razavi"
+  },
+  {
+   "kind": "inline",
+   "label": "Spark fund VI managing members",
+   "values": [
+    "six"
+   ],
+   "unit": "count",
+   "period": "as of 2026-09-30",
+   "category": "governance",
+   "quote": "Spark Growth Management Partners VI, LLC, which is governed by its six managing members, including Ms. Razavi"
+  },
+  {
+   "kind": "inline",
+   "label": "Group footnote - Class A shares",
+   "values": [
+    "481,077,470"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 481,077,470 shares of Class A common stock beneficially owned by our executive officers and directors"
+  },
+  {
+   "kind": "inline",
+   "label": "Group footnote - options exercisable within 60 days",
+   "values": [
+    "13,845,290",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 13,845,290 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Group footnote - RSU settlement shares",
+   "values": [
+    "1,438,050",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(iii) 1,438,050 shares of Class A common stock issuable upon settlement of RSUs for which the service-based vesting condition will be satisfied within 60 days of September 30, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "LTBT Class T share",
+   "values": [
+    "one share"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(10)Consists of one share of Class T common stock held of record by the LTBT"
+  },
+  {
+   "kind": "inline",
+   "label": "Founder LLC Class F share",
+   "values": [
+    "one share"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(11)Consists of one share of Class F common stock held of record by the Founder LLC"
+  },
+  {
+   "kind": "inline",
+   "label": "Brown footnote - record shares",
+   "values": [
+    "241,348,140"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 241,348,140 shares of Class A common stock held of record by Mr. Brown or by trusts over which Mr. Brown exercises investment or voting control"
+  },
+  {
+   "kind": "inline",
+   "label": "Brown footnote - options and RSUs",
+   "values": [
+    "2,185,400",
+    "639,500",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs"
+  },
+  {
+   "kind": "inline",
+   "label": "Clark footnote - record shares",
+   "values": [
+    "239,446,940"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 239,446,940 shares of Class A common stock held of record by Mr. Clark or by trusts over which Mr. Clark exercises shared investment or voting control"
+  },
+  {
+   "kind": "inline",
+   "label": "Clark footnote - options and RSUs",
+   "values": [
+    "2,185,400",
+    "639,500",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs"
+  },
+  {
+   "kind": "inline",
+   "label": "Kaplan footnote - record shares",
+   "values": [
+    "239,526,270"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 239,526,270 shares of Class A common stock held of record by Dr. Kaplan or by trusts over which Dr. Kaplan exercises shared investment or voting control"
+  },
+  {
+   "kind": "inline",
+   "label": "Kaplan footnote - options and RSUs",
+   "values": [
+    "2,185,400",
+    "639,500",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs"
+  },
+  {
+   "kind": "inline",
+   "label": "McCandlish footnote - record shares",
+   "values": [
+    "228,984,880"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 228,984,880 shares of Class A common stock held of record by trusts over which Dr. McCandlish exercises shared investment or voting control"
+  },
+  {
+   "kind": "inline",
+   "label": "McCandlish footnote - options and RSUs",
+   "values": [
+    "2,185,400",
+    "639,500",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs"
+  },
+  {
+   "kind": "inline",
+   "label": "Olah footnote - record shares",
+   "values": [
+    "240,057,520"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(i) 240,057,520 shares of Class A common stock held of record by Mr. Olah"
+  },
+  {
+   "kind": "inline",
+   "label": "Olah footnote - options and RSUs",
+   "values": [
+    "2,185,400",
+    "639,500",
+    "60 days"
+   ],
+   "unit": "shares",
+   "period": "as of 2026-09-30",
+   "category": "stock_plan",
+   "quote": "(ii) 2,185,400 shares of Class A common stock subject to stock options exercisable within 60 days of September 30, 2026, and (iii) 639,500 shares of Class A common stock issuable upon settlement of RSUs"
+  },
+  {
+   "kind": "blank",
+   "label": "Underwriters option shares",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "offering",
+   "category": "offering",
+   "quote": "assuming no exercise of the underwriters option to purchase up to an additional shares of our Class A common stock from us"
+  },
+  {
+   "kind": "blank",
+   "label": "Class A shares issued in offering (ownership calc)",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "shares",
+   "period": "offering",
+   "category": "offering",
+   "quote": "based our calculation of the percentage of beneficial ownership after this offering on shares of our Class A common stock issued by us in such offering"
+  },
+  {
+   "kind": "blank",
+   "label": "Dario Amodei - potential payments rows",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "Dario Amodei Daniela Amodei Krishna Rao(1) 425,000"
+  },
+  {
+   "kind": "blank",
+   "label": "Rao - 2025 plan-based award row",
+   "values": [
+    "[BLANK]"
+   ],
+   "unit": "$",
+   "period": "FY2025",
+   "category": "stock_plan",
+   "quote": "Krishna Rao ______________ (1)All awards were granted pursuant to our 2021 Plan"
+  }
+ ]
+}

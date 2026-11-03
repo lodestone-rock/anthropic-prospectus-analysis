@@ -1,0 +1,13 @@
+# secrets — never commit
+*.key
+.env
+openrouter-api.key
+
+# raw EDGAR artifacts (large; re-download from data/filings/SOURCE.md links)
+*.htm
+anthropicpbc-sx1.pdf
+data/filings/*.pdf
+
+__pycache__/
+*.pyc
+.DS_Store

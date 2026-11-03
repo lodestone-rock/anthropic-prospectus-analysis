@@ -1,0 +1,1879 @@
+{
+ "chunk": "sx1a_14b",
+ "section": "financial-statements-2-notes-B",
+ "filing": "sx1a",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 8882,
+  "completion_tokens": 11610,
+  "total_tokens": 20492,
+  "cost": 0.00282066,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00282066,
+   "upstream_inference_prompt_cost": 0.00026646,
+   "upstream_inference_completions_cost": 0.0025542
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 666,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "n_records": 155,
+ "records": [
+  {
+   "kind": "table_row",
+   "label": "Total lease cost",
+   "values": [
+    "$3",
+    "$17",
+    "$22",
+    "$13",
+    "$262"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Total lease cost $3 $17 $22 $13 $262"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "As of December 31, 2024",
+    "As of December 31, 2025",
+    "As of September 30, 2026 (unaudited)"
+   ],
+   "values": [],
+   "unit": "",
+   "period": "",
+   "category": "financials",
+   "quote": "As of December 31, As of September 30, 2024 2025 2026 (unaudited)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Weighted-average remaining lease term - operating leases",
+   "values": [
+    "3.3 years",
+    "7.7 years",
+    "10.3 years"
+   ],
+   "unit": "years",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Weighted-average remaining lease term - operating leases 3.3 years 7.7 years 10.3 years"
+  },
+  {
+   "kind": "table_row",
+   "label": "Weighted-average remaining lease term - finance leases",
+   "values": [
+    "*",
+    "*",
+    "4.8 years"
+   ],
+   "unit": "years",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Weighted-average remaining lease term - finance leases * * 4.8 years"
+  },
+  {
+   "kind": "table_row",
+   "label": "Weighted-average discount rate - operating leases",
+   "values": [
+    "10.4%",
+    "8.1%",
+    "7.2%"
+   ],
+   "unit": "%",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Weighted-average discount rate - operating leases 10.4% 8.1% 7.2%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Weighted-average discount rate - finance leases",
+   "values": [
+    "*",
+    "*",
+    "6.6%"
+   ],
+   "unit": "%",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Weighted-average discount rate - finance leases * * 6.6%"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance leases - Property and equipment, at cost",
+   "values": [
+    "$1,759"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Property and equipment, at cost $1,759"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance leases - Accumulated depreciation",
+   "values": [
+    "(81)"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Accumulated depreciation (81)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance leases - Property and equipment, net",
+   "values": [
+    "$1,678"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Property and equipment, net $1,678"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance leases - Accounts payable, accrued expenses, and other current liabilities",
+   "values": [
+    "$349"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Accounts payable, accrued expenses, and other current liabilities $349"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance leases - Other noncurrent liabilities",
+   "values": [
+    "1,325"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Other noncurrent liabilities 1,325"
+  },
+  {
+   "kind": "table_row",
+   "label": "Finance leases - Total finance lease liabilities",
+   "values": [
+    "$1,674"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "Total finance lease liabilities $1,674"
+  },
+  {
+   "kind": "table_row",
+   "label": "HEADER",
+   "columns": [
+    "As of December 31, 2025 Operating Leases",
+    "As of September 30, 2026 (unaudited) Operating Leases",
+    "As of September 30, 2026 (unaudited) Finance Leases"
+   ],
+   "values": [],
+   "unit": "",
+   "period": "",
+   "category": "financials",
+   "quote": "As of December 31, 2025 As of September 30, 2026 Operating Leases Operating Leases Finance Leases(1) (unaudited)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Maturities of lease liabilities 2026",
+   "values": [
+    "$45",
+    "$57",
+    "$121"
+   ],
+   "unit": "$M",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "2026 $45 $57 $121"
+  },
+  {
+   "kind": "table_row",
+   "label": "Maturities of lease liabilities 2027",
+   "values": [
+    "35",
+    "303",
+    "438"
+   ],
+   "unit": "$M",
+   "period": "2027",
+   "category": "commitments",
+   "quote": "2027 35 303 438"
+  },
+  {
+   "kind": "table_row",
+   "label": "Maturities of lease liabilities 2028",
+   "values": [
+    "22",
+    "462",
+    "422"
+   ],
+   "unit": "$M",
+   "period": "2028",
+   "category": "commitments",
+   "quote": "2028 22 462 422"
+  },
+  {
+   "kind": "table_row",
+   "label": "Maturities of lease liabilities 2029",
+   "values": [
+    "4",
+    "445",
+    "406"
+   ],
+   "unit": "$M",
+   "period": "2029",
+   "category": "commitments",
+   "quote": "2029 4 445 406"
+  },
+  {
+   "kind": "table_row",
+   "label": "Maturities of lease liabilities 2030",
+   "values": [
+    "4",
+    "466",
+    "390"
+   ],
+   "unit": "$M",
+   "period": "2030",
+   "category": "commitments",
+   "quote": "2030 4 466 390"
+  },
+  {
+   "kind": "table_row",
+   "label": "Maturities of lease liabilities Thereafter",
+   "values": [
+    "39",
+    "2,491",
+    "173"
+   ],
+   "unit": "$M",
+   "period": "Thereafter",
+   "category": "commitments",
+   "quote": "Thereafter 39 2,491 173"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total undiscounted lease payments",
+   "values": [
+    "149",
+    "4,224",
+    "1,950"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31 and 2026-09-30",
+   "category": "commitments",
+   "quote": "Total undiscounted lease payments 149 4,224 1,950"
+  },
+  {
+   "kind": "table_row",
+   "label": "Less imputed interest",
+   "values": [
+    "(32)",
+    "(1,414)",
+    "(276)"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31 and 2026-09-30",
+   "category": "commitments",
+   "quote": "Less imputed interest (32) (1,414) (276)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Present value of lease liabilities",
+   "values": [
+    "$117",
+    "$2,810",
+    "$1,674"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31 and 2026-09-30",
+   "category": "commitments",
+   "quote": "Present value of lease liabilities $117 $2,810 $1,674"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced - undiscounted obligations",
+   "values": [
+    "approximately $50.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "total estimated future undiscounted lease obligations of approximately $50.2 billion and $451.2 billion, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced - undiscounted obligations",
+   "values": [
+    "$451.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "total estimated future undiscounted lease obligations of approximately $50.2 billion and $451.2 billion, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced - commencement period",
+   "values": [
+    "between 2026 and 2028"
+   ],
+   "unit": "",
+   "period": "2026-2028",
+   "category": "commitments",
+   "quote": "these lease obligations will commence between 2026 and 2028, with lease terms ranging from less than one year to 20 years"
+  },
+  {
+   "kind": "inline",
+   "label": "Leases not yet commenced - lease terms",
+   "values": [
+    "less than one year to 20 years"
+   ],
+   "unit": "years",
+   "period": "",
+   "category": "commitments",
+   "quote": "with lease terms ranging from less than one year to 20 years"
+  },
+  {
+   "kind": "inline",
+   "label": "VIE assets not available to satisfy obligations",
+   "values": [
+    "$2.7 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "these VIEs were $2.7 billion, primarily included in property and equipment, net"
+  },
+  {
+   "kind": "inline",
+   "label": "VIE liabilities",
+   "values": [
+    "$2.8 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "liabilities related to these VIEs were $2.8 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "VIE operating lease liabilities, noncurrent",
+   "values": [
+    "$1.3 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "which primarily included $1.3 billion of operating lease liabilities, noncurrent"
+  },
+  {
+   "kind": "inline",
+   "label": "VIE finance lease liabilities in other noncurrent liabilities",
+   "values": [
+    "$989 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "financials",
+   "quote": "and $989 million of finance lease liabilities included in other noncurrent liabilities"
+  },
+  {
+   "kind": "table_row",
+   "label": "Cash and cash equivalents",
+   "values": [
+    "$3,141",
+    "$17,388",
+    "$95,562"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Cash and cash equivalents $3,141 $17,388 $95,562"
+  },
+  {
+   "kind": "table_row",
+   "label": "Restricted cash included in prepaid expenses and other current assets",
+   "values": [
+    "50"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "financials",
+   "quote": "Restricted cash included in prepaid expenses and other current assets 50"
+  },
+  {
+   "kind": "table_row",
+   "label": "Restricted cash",
+   "values": [
+    "13",
+    "13",
+    "2,540"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Restricted cash(1) 13 13 2,540"
+  },
+  {
+   "kind": "table_row",
+   "label": "Cash, cash equivalents, and restricted cash at end of period",
+   "values": [
+    "$3,154",
+    "$17,401",
+    "$98,152"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Cash, cash equivalents, and restricted cash at end of period $3,154 $17,401 $98,152"
+  },
+  {
+   "kind": "inline",
+   "label": "Potential additional restricted cash",
+   "values": [
+    "up to an additional $10.0 billion"
+   ],
+   "unit": "$B",
+   "period": "",
+   "category": "financials",
+   "quote": "The Company may be required to restrict up to an additional $10.0 billion for future amounts due"
+  },
+  {
+   "kind": "table_row",
+   "label": "Prepaid expenses (current)",
+   "values": [
+    "$2,073",
+    "$2,537",
+    "$790"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Prepaid expenses $2,073 $2,537 $790"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other (current assets)",
+   "values": [
+    "3",
+    "23",
+    "493"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Other 3 23 493"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total prepaid expenses and other current assets",
+   "values": [
+    "$2,076",
+    "$2,560",
+    "$1,283"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Total $2,076 $2,560 $1,283"
+  },
+  {
+   "kind": "table_row",
+   "label": "Prepaid expenses (noncurrent)",
+   "values": [
+    "$2,364",
+    "$104",
+    "$684"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Prepaid expenses $2,364 $104 $684"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other (noncurrent assets)",
+   "values": [
+    "9",
+    "372",
+    "3,581"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Other 9 372 3,581"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total other assets, noncurrent",
+   "values": [
+    "$2,373",
+    "$476",
+    "$4,265"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Total $2,373 $476 $4,265"
+  },
+  {
+   "kind": "table_row",
+   "label": "Cloud service provider payables",
+   "values": [
+    "$302",
+    "$947",
+    "$4,231"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Cloud service provider payables $302 $947 $4,231"
+  },
+  {
+   "kind": "table_row",
+   "label": "Accrued legal expenses",
+   "values": [
+    "2",
+    "775",
+    "552"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Accrued legal expenses 2 775 552"
+  },
+  {
+   "kind": "table_row",
+   "label": "Accrued taxes",
+   "values": [
+    "14",
+    "82",
+    "907"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Accrued taxes 14 82 907"
+  },
+  {
+   "kind": "table_row",
+   "label": "Donation matching program liability",
+   "values": [
+    "541",
+    "1,960"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Donation matching program liability 541 1,960"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other (current liabilities)",
+   "values": [
+    "15",
+    "166",
+    "1,776"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Other 15 166 1,776"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total accounts payable, accrued expenses, and other current liabilities",
+   "values": [
+    "$333",
+    "$2,511",
+    "$9,426"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "Total $333 $2,511 $9,426"
+  },
+  {
+   "kind": "inline",
+   "label": "Accounts payable",
+   "values": [
+    "$313 million, $284 million, and $1.5 billion"
+   ],
+   "unit": "$M",
+   "period": "as of 2024-12-31, 2025-12-31, 2026-09-30",
+   "category": "financials",
+   "quote": "accounts payable consisted of $313 million, $284 million, and $1.5 billion as of December31, 2024 and 2025 and September30, 2026"
+  },
+  {
+   "kind": "table_row",
+   "label": "Recognition and change in fair value of partner financing arrangements",
+   "values": [
+    "$",
+    "$",
+    "$",
+    "$",
+    "$(11,008)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Recognition and change in fair value of partner financing arrangements(1) $ $ $ $ $(11,008)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value of holdback liability",
+   "values": [
+    "(3)",
+    "(52)"
+   ],
+   "unit": "$M",
+   "period": "9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Change in fair value of holdback liability (3) (52)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Change in fair value of warrant rights",
+   "values": [
+    "783"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Change in fair value of warrant rights 783"
+  },
+  {
+   "kind": "table_row",
+   "label": "Other income (expense), net - Other",
+   "values": [
+    "(2)",
+    "(5)",
+    "(3)",
+    "(120)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Other (2) (5) (3) (120)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total other income (expense), net",
+   "values": [
+    "$(2)",
+    "$",
+    "$(8)",
+    "$(3)",
+    "$(10,397)"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Total $(2) $ $(8) $(3) $(10,397)"
+  },
+  {
+   "kind": "table_row",
+   "label": "Cash paid for income taxes, net of refunds",
+   "values": [
+    "$",
+    "$",
+    "$8",
+    "$7",
+    "$46"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Cash paid for income taxes, net of refunds $ $ $8 $7 $46"
+  },
+  {
+   "kind": "table_row",
+   "label": "Increase in property and equipment acquired but not yet paid",
+   "values": [
+    "$",
+    "$1",
+    "$10",
+    "$2",
+    "$345"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Increase in property and equipment acquired but not yet paid $ $1 $10 $2 $345"
+  },
+  {
+   "kind": "table_row",
+   "label": "Conversion of convertible notes into Series E-2, E-3, E-4, E-5 and F-2 preferred stock",
+   "values": [
+    "$",
+    "$",
+    "$10,347",
+    "$10,347",
+    "$"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "stock_plan",
+   "quote": "Conversion of convertible notes into Series E-2, Series E-3, Series E-4, Series E-5 and Series F-2 non-voting redeemable convertible preferred stock $ $ $10,347 $10,347 $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Conversion of convertible notes into Series G-3 and G-4 preferred stock",
+   "values": [
+    "$",
+    "$",
+    "$",
+    "$",
+    "$5,499"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "stock_plan",
+   "quote": "Conversion of convertible notes into Series G-3 and Series G-4 redeemable convertible preferred stock $ $ $ $ $5,499"
+  },
+  {
+   "kind": "table_row",
+   "label": "Conversion of partner financing arrangements into Series G-2 preferred stock",
+   "values": [
+    "$",
+    "$",
+    "$",
+    "$",
+    "$11,810"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "stock_plan",
+   "quote": "Conversion of partner financing arrangements into Series G-2 redeemable convertible preferred stock $ $ $ $ $11,810"
+  },
+  {
+   "kind": "table_row",
+   "label": "Conversion of SAFE notes into Series C-1, D-1, D-2 preferred stock",
+   "values": [
+    "$1",
+    "$134",
+    "$",
+    "$",
+    "$"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "stock_plan",
+   "quote": "Conversion of SAFE notes into Series C-1, Series D-1, and Series D-2 redeemable convertible preferred stock $1 $134 $ $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Issuance of Class N common stock upon settlement of donation matching program",
+   "values": [
+    "$",
+    "$",
+    "$",
+    "$",
+    "$667"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "stock_plan",
+   "quote": "Issuance of Class N common stock upon settlement of donation matching program $ $ $ $ $667"
+  },
+  {
+   "kind": "table_row",
+   "label": "Warrant rights",
+   "values": [
+    "$",
+    "$",
+    "$345",
+    "$",
+    "$"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Warrant rights $ $ $345 $ $"
+  },
+  {
+   "kind": "table_row",
+   "label": "Equity issued in connection with business acquisition",
+   "values": [
+    "$",
+    "$",
+    "$136",
+    "$",
+    "$557"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Equity issued in connection with business acquisition $ $ $136 $ $557"
+  },
+  {
+   "kind": "table_row",
+   "label": "Right-of-use assets obtained in exchange for operating lease liabilities",
+   "values": [
+    "$38",
+    "$8",
+    "$82",
+    "$24",
+    "$2,700"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Right-of-use assets obtained in exchange for operating lease liabilities $38 $8 $82 $24 $2,700"
+  },
+  {
+   "kind": "table_row",
+   "label": "Right-of-use assets obtained in exchange for finance lease liabilities",
+   "values": [
+    "$",
+    "$",
+    "$",
+    "$",
+    "$1,759"
+   ],
+   "unit": "$M",
+   "period": "9M 2026",
+   "category": "financials",
+   "quote": "Right-of-use assets obtained in exchange for finance lease liabilities $ $ $ $ $1,759"
+  },
+  {
+   "kind": "table_row",
+   "label": "Cost of revenue",
+   "values": [
+    "$26",
+    "$752",
+    "$2,773",
+    "$1,796",
+    "$4,812"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Cost of revenue(1) $26 $752 $2,773 $1,796 $4,812"
+  },
+  {
+   "kind": "table_row",
+   "label": "Research and development",
+   "values": [
+    "422",
+    "2,275",
+    "6,338",
+    "3,594",
+    "19,240"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Research and development(2) 422 2,275 6,338 3,594 19,240"
+  },
+  {
+   "kind": "table_row",
+   "label": "Sales and marketing",
+   "values": [
+    "76",
+    "163",
+    "911",
+    "530",
+    "6,619"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Sales and marketing(3) 76 163 911 530 6,619"
+  },
+  {
+   "kind": "table_row",
+   "label": "Bartz settlement",
+   "values": [
+    "1,500",
+    "1,500"
+   ],
+   "unit": "$M",
+   "period": "9M 2025, 9M 2026",
+   "category": "legal",
+   "quote": "Bartz settlement 1,500 1,500"
+  },
+  {
+   "kind": "table_row",
+   "label": "General and administrative",
+   "values": [
+    "68",
+    "176",
+    "1,123",
+    "349",
+    "3,831"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "General and administrative(4) 68 176 1,123 349 3,831"
+  },
+  {
+   "kind": "table_row",
+   "label": "Total operating expenses",
+   "values": [
+    "$592",
+    "$3,366",
+    "$12,645",
+    "$7,769",
+    "$34,502"
+   ],
+   "unit": "$M",
+   "period": "FY2023-FY2025, 9M 2025, 9M 2026",
+   "category": "financials",
+   "quote": "Total operating expenses $592 $3,366 $12,645 $7,769 $34,502"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA aggregate principal",
+   "values": [
+    "up to $2.0 billion"
+   ],
+   "unit": "$B",
+   "period": "2023",
+   "category": "commitments",
+   "quote": "issuance of convertible promissory notes in an aggregate principal amount of up to $2.0 billion, issuable in three tranches"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA first tranche",
+   "values": [
+    "$500 million"
+   ],
+   "unit": "$M",
+   "period": "September 2023",
+   "category": "commitments",
+   "quote": "issued the first tranche of notes in an aggregate principal amount of $500 million in September 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA second tranche",
+   "values": [
+    "$750 million"
+   ],
+   "unit": "$M",
+   "period": "September 2024",
+   "category": "commitments",
+   "quote": "second tranche of notes in an aggregate principal amount of $750 million in September 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA third tranche",
+   "values": [
+    "$750 million"
+   ],
+   "unit": "$M",
+   "period": "September 2025",
+   "category": "commitments",
+   "quote": "third tranche of notes in an aggregate principal amount of $750 million in September 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA interest rate",
+   "values": [
+    "10.0%"
+   ],
+   "unit": "%",
+   "period": "",
+   "category": "commitments",
+   "quote": "bore interest at a rate of 10.0% per annum, compounded annually"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA maturity",
+   "values": [
+    "48 months"
+   ],
+   "unit": "",
+   "period": "",
+   "category": "commitments",
+   "quote": "payable upon maturity, 48 months after the respective issuance date"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA first tranche conversion to Series E-3",
+   "values": [
+    "12.7 million shares"
+   ],
+   "unit": "shares",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "converted in full into an aggregate of 12.7 million shares of the Companys Series E-3 non-voting redeemable convertible preferred stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Series E-3 conversion price",
+   "values": [
+    "$44.8692 per share"
+   ],
+   "unit": "per-share",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "at a conversion price of $44.8692 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA second tranche conversion to Series E-4",
+   "values": [
+    "15.3 million shares"
+   ],
+   "unit": "shares",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "an aggregate of 15.3 million shares of Series E-4 non-voting redeemable convertible preferred stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Series E-4 conversion price",
+   "values": [
+    "$50.4779 per share"
+   ],
+   "unit": "per-share",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "at a conversion price of $50.4779 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Series E-1 original issuance price",
+   "values": [
+    "$56.0865 per share"
+   ],
+   "unit": "per-share",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "contractual discounts to the Series E-1 original issuance price of $56.0865 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA third tranche outstanding",
+   "values": [
+    "$750 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "$750 million aggregate principal amount remained outstanding under the third tranche of notes issued under Google 2023 NPA"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2023 NPA third tranche conversion to Series G-4",
+   "values": [
+    "3.3 million shares"
+   ],
+   "unit": "shares",
+   "period": "January 2026",
+   "category": "stock_plan",
+   "quote": "converted in full into 3.3 million shares of Series G-4 non-voting redeemable convertible preferred stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Series G-4 conversion price",
+   "values": [
+    "$233.2228 per share"
+   ],
+   "unit": "per-share",
+   "period": "January 2026",
+   "category": "stock_plan",
+   "quote": "at a conversion price of $233.2228 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Series G-1 price",
+   "values": [
+    "$259.1364 per share"
+   ],
+   "unit": "per-share",
+   "period": "January 2026",
+   "category": "stock_plan",
+   "quote": "contractual discounts to the Series G-1 price of $259.1364 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2024 NPA aggregate principal",
+   "values": [
+    "approximately $1.3 billion"
+   ],
+   "unit": "$B",
+   "period": "August 2024",
+   "category": "commitments",
+   "quote": "issuance of a convertible promissory note in an aggregate principal amount of approximately $1.3 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2024 NPA interest rate",
+   "values": [
+    "8.5%"
+   ],
+   "unit": "%",
+   "period": "",
+   "category": "commitments",
+   "quote": "Such note bore interest at a rate of 8.5% per annum compounded annually"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2024 NPA maturity",
+   "values": [
+    "August 2030"
+   ],
+   "unit": "",
+   "period": "August 2030",
+   "category": "commitments",
+   "quote": "payable upon maturity in August 2030"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2024 NPA conversion to Series E-5",
+   "values": [
+    "24.2 million shares"
+   ],
+   "unit": "shares",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "converted in full into an aggregate of 24.2 million shares of Series E-5 non-voting redeemable convertible preferred stock"
+  },
+  {
+   "kind": "inline",
+   "label": "Series E-5 conversion price",
+   "values": [
+    "$53.2822 per share"
+   ],
+   "unit": "per-share",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "at a conversion price of $53.2822 per share, reflecting a contractual discount to the Series E-1 original issuance price of $56.0865 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2026 NPA maximum issuance",
+   "values": [
+    "up to $30.0 billion"
+   ],
+   "unit": "$B",
+   "period": "through 2030-12-31",
+   "category": "commitments",
+   "quote": "up to $30.0 billion of convertible promissory notes or non-voting common stock through December31, 2030 may be issued"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2026 NPA interest rate",
+   "values": [
+    "9.0%"
+   ],
+   "unit": "%",
+   "period": "",
+   "category": "commitments",
+   "quote": "the notes will bear interest at 9.0% per annum compounded annually, payable at maturity"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2026 NPA maturity",
+   "values": [
+    "six years"
+   ],
+   "unit": "years",
+   "period": "",
+   "category": "commitments",
+   "quote": "mature six years after issuance, unless earlier repaid or converted"
+  },
+  {
+   "kind": "inline",
+   "label": "Google Series H investment",
+   "values": [
+    "$10.0 billion"
+   ],
+   "unit": "$B",
+   "period": "May 2026",
+   "category": "commitments",
+   "quote": "Google invested $10.0 billion in the Companys Series H redeemable convertible preferred stock financing"
+  },
+  {
+   "kind": "inline",
+   "label": "Google 2026 NPA remaining availability",
+   "values": [
+    "$20.0 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "reduced the amount available for issuance under the Google 2026 NPA to $20.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA aggregate principal",
+   "values": [
+    "up to $4.0 billion"
+   ],
+   "unit": "$B",
+   "period": "September 2023",
+   "category": "commitments",
+   "quote": "issuance of convertible promissory notes in an aggregate principal amount of up to $4.0 billion issuable in two tranches"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA first tranche",
+   "values": [
+    "$1.2 billion"
+   ],
+   "unit": "$B",
+   "period": "September 2023",
+   "category": "commitments",
+   "quote": "first tranche of notes in an aggregate principal amount of $1.2 billion in September 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA second tranche",
+   "values": [
+    "$3.4 billion"
+   ],
+   "unit": "$B",
+   "period": "March 2024",
+   "category": "commitments",
+   "quote": "second tranche of notes in an aggregate principal amount of $3.4 billion in March 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA second tranche proceeds",
+   "values": [
+    "$2.8 billion"
+   ],
+   "unit": "$B",
+   "period": "March 2024",
+   "category": "commitments",
+   "quote": "reflecting an issuance premium to the $2.8 billion in proceeds received for the second tranche of notes"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA aggregate principal",
+   "values": [
+    "up to $4.0 billion"
+   ],
+   "unit": "$B",
+   "period": "November 2024",
+   "category": "commitments",
+   "quote": "issuance of convertible promissory notes in an aggregate principal amount of up to $4.0 billion, issuable in three tranches"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA first tranche",
+   "values": [
+    "$1.3 billion"
+   ],
+   "unit": "$B",
+   "period": "November 2024",
+   "category": "commitments",
+   "quote": "first tranche of notes in an aggregate principal amount of $1.3 billion in November 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA second tranche",
+   "values": [
+    "$1.3 billion"
+   ],
+   "unit": "$B",
+   "period": "May 2025",
+   "category": "commitments",
+   "quote": "second tranche of notes in an aggregate principal amount of $1.3 billion in May 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA third tranche",
+   "values": [
+    "$1.4 billion"
+   ],
+   "unit": "$B",
+   "period": "November 2025",
+   "category": "commitments",
+   "quote": "third tranche of notes in an aggregate principal amount of $1.4 billion in November 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA interest rate",
+   "values": [
+    "8.0%"
+   ],
+   "unit": "%",
+   "period": "",
+   "category": "commitments",
+   "quote": "notes issued under Amazon 2023 NPA bear interest at a rate of 8.0% per annum compounded annually"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA maturity",
+   "values": [
+    "10 years"
+   ],
+   "unit": "years",
+   "period": "",
+   "category": "commitments",
+   "quote": "mature 10 years after the respective issuance date, unless earlier repaid or converted"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA first tranche interest rate",
+   "values": [
+    "8.5%"
+   ],
+   "unit": "%",
+   "period": "",
+   "category": "commitments",
+   "quote": "first tranche of notes issued under Amazon 2024 NPA bears interest at a rate of 8.5% per annum"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA first tranche maturity",
+   "values": [
+    "November 2034"
+   ],
+   "unit": "",
+   "period": "November 2034",
+   "category": "commitments",
+   "quote": "matures in November 2034, unless earlier repaid or converted"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA second tranche maturity",
+   "values": [
+    "May 2035"
+   ],
+   "unit": "",
+   "period": "May 2035",
+   "category": "commitments",
+   "quote": "mature in May 2035 and November 2035, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA third tranche maturity",
+   "values": [
+    "November 2035"
+   ],
+   "unit": "",
+   "period": "November 2035",
+   "category": "commitments",
+   "quote": "mature in May 2035 and November 2035, respectively"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA conversion price cap",
+   "values": [
+    "$20.9280 per share"
+   ],
+   "unit": "per-share",
+   "period": "",
+   "category": "stock_plan",
+   "quote": "(i) $20.9280 per share (in the case of notes issued under Amazon 2023 NPA)"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA conversion price cap",
+   "values": [
+    "$50.4779 per share"
+   ],
+   "unit": "per-share",
+   "period": "",
+   "category": "stock_plan",
+   "quote": "or $50.4779 per share (in the case of notes issued under Amazon 2024 NPA)"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon IPO conversion price - 2023 NPA",
+   "values": [
+    "$2.0928 per share"
+   ],
+   "unit": "per-share",
+   "period": "",
+   "category": "stock_plan",
+   "quote": "(i) $2.0928 per share, in the case of Amazon 2023 NPA"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon IPO conversion price - 2024 NPA",
+   "values": [
+    "$5.0478 per share"
+   ],
+   "unit": "per-share",
+   "period": "",
+   "category": "stock_plan",
+   "quote": "or $5.0478 per share, in the case of Amazon 2024 NPA"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon rollover note maturity",
+   "values": [
+    "10 years"
+   ],
+   "unit": "years",
+   "period": "",
+   "category": "commitments",
+   "quote": "with a maturity date that is 10 years from the issuance date of such rollover note"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon default repayment installment period",
+   "values": [
+    "four-year period"
+   ],
+   "unit": "years",
+   "period": "",
+   "category": "commitments",
+   "quote": "in equal installments over a four-year period"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA conversion to Series E-2",
+   "values": [
+    "95.3 million shares"
+   ],
+   "unit": "shares",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "converted into an aggregate of 95.3 million shares of Series E-2 non-voting redeemable convertible preferred stock at a conversion price of $20.9280 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA rollover note principal",
+   "values": [
+    "$3.1 billion"
+   ],
+   "unit": "$B",
+   "period": "2025",
+   "category": "commitments",
+   "quote": "re-issued as a non-interest bearing rollover note with an aggregate principal amount of $3.1 billion, maturing in March 2034"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA first tranche rollover note principal",
+   "values": [
+    "$1.3 billion"
+   ],
+   "unit": "$B",
+   "period": "2025",
+   "category": "commitments",
+   "quote": "re-issued as a non-interest bearing rollover note with an aggregate principal amount of $1.3 billion maturing in January 2035"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA rollover note conversion to Series F-2",
+   "values": [
+    "20.7 million shares"
+   ],
+   "unit": "shares",
+   "period": "2025",
+   "category": "stock_plan",
+   "quote": "converted into an aggregate of 20.7 million shares of Series F-2 non-voting redeemable convertible preferred stock at a conversion price of $20.9280 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA amended rollover note principal",
+   "values": [
+    "approximately $2.6 billion"
+   ],
+   "unit": "$B",
+   "period": "2025",
+   "category": "commitments",
+   "quote": "re-issued as a non-interest bearing amended and restated rollover note with a principal amount of approximately $2.6 billion, maturing in March 2034"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA amended rollover note outstanding",
+   "values": [
+    "$2.6 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "$2.6 billion aggregate principal amount of the amended and restated rollover note issued under Amazon 2023 NPA remains outstanding"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA aggregate outstanding",
+   "values": [
+    "$4.0 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "remain outstanding with an aggregate principal balance of $4.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA rollover note conversion to Series G-3",
+   "values": [
+    "20.6 million shares"
+   ],
+   "unit": "shares",
+   "period": "January-February 2026",
+   "category": "stock_plan",
+   "quote": "converted into an aggregate of 20.6 million shares of the Companys Series G-3 non-voting redeemable convertible preferred stock at a price of $20.9280 per share"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA second amended rollover note principal",
+   "values": [
+    "approximately $2.2 billion"
+   ],
+   "unit": "$B",
+   "period": "2026",
+   "category": "commitments",
+   "quote": "re-issued as a non-interest bearing amended and restated rollover note with a principal amount of approximately $2.2 billion, maturing in March 2034"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2023 NPA rollover note outstanding",
+   "values": [
+    "approximately $2.2 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "remained outstanding with an aggregate principal amount of approximately $2.2 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2024 NPA outstanding",
+   "values": [
+    "$4.0 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "all notes issued under Amazon 2024 NPA remained outstanding with an aggregate principal balance of $4.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA maximum issuance",
+   "values": [
+    "up to $20.0 billion"
+   ],
+   "unit": "$B",
+   "period": "April 2026",
+   "category": "commitments",
+   "quote": "up to $20.0 billion of non-voting common stock or convertible promissory notes"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA interest rate",
+   "values": [
+    "8.0%"
+   ],
+   "unit": "%",
+   "period": "",
+   "category": "commitments",
+   "quote": "the notes will bear interest at 8.0% per annum compounded annually and payable at maturity"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA maturity",
+   "values": [
+    "ten years"
+   ],
+   "unit": "years",
+   "period": "",
+   "category": "commitments",
+   "quote": "mature ten years after issuance, unless earlier repaid or converted"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon Series H investment",
+   "values": [
+    "$5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "May 2026",
+   "category": "commitments",
+   "quote": "Amazon invested $5.0 billion in the Companys Series H redeemable convertible preferred stock financing"
+  },
+  {
+   "kind": "inline",
+   "label": "Amazon 2026 NPA remaining availability",
+   "values": [
+    "$15.0 billion"
+   ],
+   "unit": "$B",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "reduced the amount available for issuance under the Amazon 2026 NPA to $15.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "2025 rent-financing NPA maximum",
+   "values": [
+    "up to $10.0 billion"
+   ],
+   "unit": "$B",
+   "period": "August 2025",
+   "category": "commitments",
+   "quote": "up to $10.0 billion of convertible promissory notes solely to finance rent obligations under a compute and infrastructure equipment lease agreement"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 rent-financing NPA maximum",
+   "values": [
+    "up to $42.0 billion"
+   ],
+   "unit": "$B",
+   "period": "March 2026",
+   "category": "commitments",
+   "quote": "up to $42.0 billion of convertible promissory notes solely to finance rent obligations under a compute and infrastructure agreement"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 rent-financing NPA interest rate",
+   "values": [
+    "9.0%"
+   ],
+   "unit": "%",
+   "period": "",
+   "category": "commitments",
+   "quote": "The notes will bear interest at 9.0% per annum, payable in kind"
+  },
+  {
+   "kind": "inline",
+   "label": "2026 rent-financing NPA term",
+   "values": [
+    "fifth anniversary"
+   ],
+   "unit": "",
+   "period": "",
+   "category": "commitments",
+   "quote": "end upon the fifth anniversary of the commencement of the draw period"
+  },
+  {
+   "kind": "inline",
+   "label": "SAFEs aggregate purchase amount",
+   "values": [
+    "$122 million"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "stock_plan",
+   "quote": "issued SAFEs with an aggregate purchase amount of $122 million"
+  },
+  {
+   "kind": "inline",
+   "label": "SAFEs converted to Series C-1",
+   "values": [
+    "$1 million"
+   ],
+   "unit": "$M",
+   "period": "FY2023",
+   "category": "stock_plan",
+   "quote": "$1 million converted into shares of Series C-1 convertible preferred stock during the year ended December 31, 2023"
+  },
+  {
+   "kind": "inline",
+   "label": "SAFEs converted to Series D-1 and D-2",
+   "values": [
+    "$121 million"
+   ],
+   "unit": "$M",
+   "period": "FY2024",
+   "category": "stock_plan",
+   "quote": "$121 million converted into shares of Series D-1 and D-2 convertible preferred stock during the year ended December 31, 2024"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement revolving facility",
+   "values": [
+    "$2.5 billion"
+   ],
+   "unit": "$B",
+   "period": "May 14, 2025",
+   "category": "commitments",
+   "quote": "senior secured revolving credit facility in an aggregate principal amount of $2.5 billion, with a $400 million letter of credit sublimit"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement letter of credit sublimit",
+   "values": [
+    "$400 million"
+   ],
+   "unit": "$M",
+   "period": "May 14, 2025",
+   "category": "commitments",
+   "quote": "with a $400 million letter of credit sublimit"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement maturity",
+   "values": [
+    "May 14, 2030"
+   ],
+   "unit": "",
+   "period": "May 14, 2030",
+   "category": "commitments",
+   "quote": "obligations under the Credit Agreement mature on May 14, 2030"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement springing maturity",
+   "values": [
+    "91 days"
+   ],
+   "unit": "",
+   "period": "",
+   "category": "commitments",
+   "quote": "on the date that is 91 days prior to the maturity of such notes"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement minimum liquidity covenant",
+   "values": [
+    "at least $500 million"
+   ],
+   "unit": "$M",
+   "period": "",
+   "category": "commitments",
+   "quote": "requires the Company to maintain liquidity of at least $500 million as of the last day of each fiscal quarter"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement first amendment increase",
+   "values": [
+    "$250 million to $2.8 billion"
+   ],
+   "unit": "$B",
+   "period": "September 2025",
+   "category": "commitments",
+   "quote": "increasing the aggregate principal amount of revolving credit commitments by $250 million to $2.8 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement second amendment incremental commitments",
+   "values": [
+    "$500 million"
+   ],
+   "unit": "$M",
+   "period": "November 2025",
+   "category": "commitments",
+   "quote": "providing incremental revolving commitments in an aggregate principal amount of $500 million"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement total after second amendment",
+   "values": [
+    "$3.3 billion"
+   ],
+   "unit": "$B",
+   "period": "November 2025",
+   "category": "commitments",
+   "quote": "aggregate principal amount of revolving commitments totals $3.3 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "Credit Agreement third amendment LC sublimit increase",
+   "values": [
+    "$600 million to $1.0 billion"
+   ],
+   "unit": "$B",
+   "period": "February 2026",
+   "category": "commitments",
+   "quote": "increasing the letter of credit sublimit by $600 million to $1.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Agreement LC sublimit",
+   "values": [
+    "$15.0 billion"
+   ],
+   "unit": "$B",
+   "period": "September 2026",
+   "category": "commitments",
+   "quote": "increasing the letter of credit sublimit to $15.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Agreement incremental revolving commitments",
+   "values": [
+    "$11.7 billion"
+   ],
+   "unit": "$B",
+   "period": "September 2026",
+   "category": "commitments",
+   "quote": "providing incremental revolving commitments of $11.7 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Agreement total revolving commitments",
+   "values": [
+    "$15.0 billion"
+   ],
+   "unit": "$B",
+   "period": "September 2026",
+   "category": "commitments",
+   "quote": "aggregate principal amount of revolving commitments totals $15.0 billion"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Agreement maturity",
+   "values": [
+    "September 2031"
+   ],
+   "unit": "",
+   "period": "September 2031",
+   "category": "commitments",
+   "quote": "extended the maturity to September 2031, subject to an earlier springing maturity date"
+  },
+  {
+   "kind": "inline",
+   "label": "AR Credit Agreement minimum liquidity",
+   "values": [
+    "$5.0 billion"
+   ],
+   "unit": "$B",
+   "period": "beginning fiscal quarter ending 2026-12-31",
+   "category": "commitments",
+   "quote": "increased the minimum liquidity required under the financial covenant to $5.0 billion, beginning with the fiscal quarter ending December 31, 2026"
+  },
+  {
+   "kind": "inline",
+   "label": "Standby letters of credit outstanding",
+   "values": [
+    "$4 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2025-12-31",
+   "category": "commitments",
+   "quote": "$4 million of standby letters of credit outstanding under the credit facility"
+  },
+  {
+   "kind": "inline",
+   "label": "Access fees recognized",
+   "values": [
+    "$5 million"
+   ],
+   "unit": "$M",
+   "period": "FY2025",
+   "category": "financials",
+   "quote": "The Company recognized $5 million in access fees during the year ended December 31, 2025"
+  },
+  {
+   "kind": "inline",
+   "label": "Standby letters of credit outstanding",
+   "values": [
+    "$205 million"
+   ],
+   "unit": "$M",
+   "period": "as of 2026-09-30",
+   "category": "commitments",
+   "quote": "$205 million of standby letters of credit were outstanding under the credit facility"
+  }
+ ]
+}
