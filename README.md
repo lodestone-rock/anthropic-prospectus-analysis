@@ -7,6 +7,7 @@ Every dollar figure, percentage, ratio, share count, commitment, and stock-plan 
 filing — and nothing else. All narrative, mission prose, and safety discussion stripped out.
 Values the company left blank are preserved and highlighted as `[BLANK]`.
 
+NOTE: not a financial advice, just me fooling around with LLMs so i don't have to read the entire prospectus ad nauseam 
 ## What's here
 
 | Path | What |
